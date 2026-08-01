@@ -1,0 +1,104 @@
+#category: prepared
+#source: USDA FoodData Central (SR Legacy)
+#verified: 0
+#servings: 1 serving (200 g)@200*;100 g@100
+# Composite home/deli dishes. Recipes vary enormously, so almost everything
+# here is verified:false by design — these are "log something reasonable now,
+# build a precise recipe later" entries. Prefer the recipe builder for accuracy.
+# id|name|aliases|kcal|protein|carbs|fat|fiber|sugar|satfat|sodium|servings|extra
+
+# --- pizza & italian -----------------------------------------------------
+pizza-cheese-slice|Pizza, cheese, regular crust||266|11.4|33.0|9.70|2.3|3.6|4.30|598|1 slice (107 g)@107*;2 slices (214 g)@214
+pizza-pepperoni-slice|Pizza, pepperoni, regular crust||296|12.8|32.0|12.9|2.2|3.6|5.20|684|1 slice (111 g)@111*;2 slices (222 g)@222
+pizza-supreme-slice|Pizza, supreme/deluxe||263|11.0|29.0|11.5|2.4|3.5|4.30|620|1 slice (127 g)@127*;100 g@100
+pizza-thin-crust-cheese|Pizza, thin crust, cheese||290|13.0|30.0|13.0|2.0|3.0|6.0|600|1 slice (85 g)@85*;100 g@100
+pizza-frozen-cheese|Pizza, frozen, cheese, baked||268|11.0|33.0|10.0|2.0|4.0|4.5|560|1/3 pizza (137 g)@137*;100 g@100
+lasagna-meat|Lasagna, with meat sauce||132|8.10|11.9|5.60|1.2|3.0|2.70|340|1 piece (250 g)@250*;100 g@100
+spaghetti-meat-sauce|Spaghetti with meat sauce||120|6.00|15.0|3.80|1.6|3.5|1.30|300|1 cup (250 g)@250*;2 cups (500 g)@500
+spaghetti-meatballs|Spaghetti and meatballs||135|7.00|15.5|5.00|1.6|3.5|1.80|350|1 plate (350 g)@350*;100 g@100
+mac-and-cheese-boxed|Macaroni and cheese, boxed, prepared||160|5.50|25.0|4.30|1.0|3.5|1.40|420|1 cup (198 g)@198*;100 g@100
+mac-and-cheese-baked|Macaroni and cheese, baked, homemade||215|9.00|22.0|10.0|1.0|4.0|4.50|450|1 cup (200 g)@200*;100 g@100
+chicken-parmesan|Chicken parmesan, with sauce||210|18.0|11.0|10.5|1.2|3.5|3.5|520|1 serving (250 g)@250*;100 g@100
+risotto-mushroom|Risotto, mushroom||140|4.0|20.0|4.5|1.0|1.0|2.0|420|1 cup (200 g)@200*;100 g@100
+gnocchi-with-sauce|Gnocchi with tomato sauce||140|4.0|24.0|3.5|2.0|3.0|1.0|450|1 cup (200 g)@200*;100 g@100
+
+# --- mexican -------------------------------------------------------------
+burrito-bean-cheese|Burrito, bean and cheese||210|8.50|28.0|7.00|3.5|1.5|3.00|560|1 burrito (200 g)@200*;100 g@100
+burrito-chicken|Burrito, chicken, rice and beans||190|11.0|22.0|6.00|2.5|1.5|2.20|480|1 burrito (330 g)@330*;100 g@100
+burrito-breakfast|Breakfast burrito, egg and cheese||215|10.0|20.0|11.0|1.5|1.5|4.00|530|1 burrito (170 g)@170*;100 g@100
+burrito-bowl-chicken|Burrito bowl, chicken, rice, beans, salsa||135|10.0|14.0|4.00|3.0|1.5|1.20|380|1 bowl (450 g)@450*;100 g@100
+taco-beef-hard-shell|Taco, ground beef, hard shell||220|10.0|17.0|12.5|2.5|1.0|4.50|400|1 taco (80 g)@80*;3 tacos (240 g)@240
+taco-chicken-soft|Taco, chicken, soft flour tortilla||195|12.0|20.0|7.50|1.8|1.2|2.50|420|1 taco (100 g)@100*;3 tacos (300 g)@300
+taco-fish|Taco, fish, soft||200|10.0|21.0|8.50|2.0|2.0|2.20|400|1 taco (110 g)@110*;100 g@100
+quesadilla-cheese|Quesadilla, cheese||300|13.0|26.0|16.0|1.8|1.5|7.50|620|1/2 quesadilla (120 g)@120*;100 g@100
+enchilada-chicken|Enchiladas, chicken, with sauce||170|9.50|15.0|8.00|2.0|2.5|3.00|480|2 enchiladas (250 g)@250*;100 g@100
+nachos-cheese-loaded|Nachos, loaded with cheese and beef||280|11.0|24.0|16.0|3.0|2.0|6.00|520|1 plate (300 g)@300*;100 g@100
+tamale-pork|Tamale, pork||220|7.00|22.0|11.5|3.0|1.0|4.00|450|1 tamale (100 g)@100*;2 tamales (200 g)@200
+elote-street-corn|Elote, Mexican street corn||180|5.0|22.0|9.0|2.5|6.0|2.5|400|1 ear (150 g)@150*;100 g@100
+
+# --- asian ---------------------------------------------------------------
+fried-rice-chicken|Fried rice, chicken||165|7.00|22.0|5.00|1.0|1.5|1.10|450|1 cup (198 g)@198*;2 cups (396 g)@396
+fried-rice-vegetable|Fried rice, vegetable||150|3.50|24.0|4.50|1.5|1.5|0.80|420|1 cup (198 g)@198*;100 g@100
+pad-thai-chicken|Pad Thai, chicken||195|9.00|24.0|7.00|1.5|8.0|1.30|600|1 plate (350 g)@350*;100 g@100
+lo-mein-chicken|Lo mein, chicken||160|8.00|20.0|5.00|1.5|2.0|1.00|500|1 cup (200 g)@200*;100 g@100
+stir-fry-chicken-vegetable|Chicken and vegetable stir fry, no rice||120|13.0|7.00|4.50|1.8|3.0|0.90|450|1 cup (200 g)@200*;100 g@100
+orange-chicken|Orange chicken, breaded||280|12.5|28.0|13.0|1.0|15.0|2.80|500|1 cup (170 g)@170*;100 g@100
+general-tso-chicken|General Tso's chicken||290|13.0|30.0|13.5|1.2|16.0|2.80|620|1 cup (170 g)@170*;100 g@100
+beef-broccoli|Beef and broccoli||130|11.0|7.00|6.50|1.5|3.0|2.00|560|1 cup (200 g)@200*;100 g@100
+sushi-california-roll|Sushi, California roll||140|4.50|25.0|2.50|1.5|4.0|0.50|380|1 roll, 6 pieces (170 g)@170*;1 piece (28 g)@28
+sushi-spicy-tuna-roll|Sushi, spicy tuna roll||175|8.00|24.0|5.50|1.2|3.5|1.00|420|1 roll, 6 pieces (170 g)@170*;1 piece (28 g)@28
+sushi-salmon-nigiri|Sushi, salmon nigiri||145|7.50|20.0|3.50|0.5|3.0|0.70|180|2 pieces (70 g)@70*;1 piece (35 g)@35
+poke-bowl-tuna|Poke bowl, tuna, rice and vegetables||135|9.00|18.0|3.00|1.5|3.0|0.60|450|1 bowl (450 g)@450*;100 g@100
+ramen-bowl-tonkotsu|Ramen bowl, tonkotsu, with pork||95|5.50|9.00|4.00|0.8|1.0|1.40|550|1 bowl (600 g)@600*;100 g@100
+pho-beef|Pho, beef noodle soup||55|4.00|7.00|1.00|0.4|0.5|0.35|420|1 large bowl (700 g)@700*;100 g@100
+dumplings-pork-steamed|Dumplings, pork, steamed||210|9.00|24.0|8.50|1.2|1.5|2.80|450|4 dumplings (100 g)@100*;6 dumplings (150 g)@150
+potstickers-chicken|Potstickers, chicken, pan fried||200|9.50|24.0|7.50|1.5|2.0|1.80|520|5 potstickers (120 g)@120*;100 g@100
+spring-roll-vegetable-fried|Spring roll, vegetable, fried||230|4.50|26.0|12.0|2.0|3.0|2.20|420|1 roll (60 g)@60*;2 rolls (120 g)@120
+summer-roll-fresh|Summer roll, fresh, shrimp||110|5.00|18.0|1.50|1.2|3.0|0.30|280|1 roll (70 g)@70*;2 rolls (140 g)@140
+egg-roll-pork|Egg roll, pork, fried||230|7.50|25.0|11.0|2.0|3.0|2.20|480|1 roll (89 g)@89*;100 g@100
+curry-chicken-tikka-masala|Chicken tikka masala||155|11.0|7.00|9.50|1.2|3.5|4.00|420|1 cup (240 g)@240*;100 g@100
+curry-butter-chicken|Butter chicken||170|11.0|7.00|11.5|1.0|4.0|5.50|400|1 cup (240 g)@240*;100 g@100
+curry-thai-green-chicken|Thai green curry, chicken||135|9.50|7.00|8.00|1.2|3.5|5.00|500|1 cup (240 g)@240*;100 g@100
+biryani-chicken|Chicken biryani||170|9.00|22.0|5.50|1.5|1.5|1.60|450|1 cup (200 g)@200*;100 g@100
+bibimbap|Bibimbap, beef||130|7.50|17.0|3.80|2.0|2.5|1.10|420|1 bowl (450 g)@450*;100 g@100
+
+# --- sandwiches & salads -------------------------------------------------
+sandwich-turkey-deli|Sandwich, turkey and cheese on wheat||210|13.0|26.0|6.00|3.0|4.0|2.20|750|1 sandwich (230 g)@230*;100 g@100
+sandwich-blt|BLT sandwich||245|10.0|24.0|12.5|2.0|3.5|3.50|650|1 sandwich (200 g)@200*;100 g@100
+sandwich-club|Club sandwich, triple decker||230|14.0|22.0|9.50|2.0|3.5|3.00|780|1 sandwich (350 g)@350*;100 g@100
+sandwich-grilled-cheese|Grilled cheese sandwich||350|13.0|30.0|20.0|1.8|4.0|9.50|780|1 sandwich (120 g)@120*;100 g@100
+sandwich-pbj|Peanut butter and jelly sandwich||330|10.5|43.0|13.5|3.0|17.0|2.60|420|1 sandwich (100 g)@100*;100 g@100
+sandwich-tuna-salad|Tuna salad sandwich||255|12.0|24.0|12.5|1.8|4.0|2.20|560|1 sandwich (200 g)@200*;100 g@100
+sandwich-chicken-salad|Chicken salad sandwich||265|13.0|23.0|13.5|1.6|3.5|2.40|540|1 sandwich (200 g)@200*;100 g@100
+sandwich-egg-cheese-english-muffin|Breakfast sandwich, egg and cheese||220|11.5|22.0|9.50|1.5|3.0|4.00|620|1 sandwich (150 g)@150*;100 g@100
+sandwich-gyro|Gyro, lamb, with tzatziki||195|11.0|17.0|9.00|1.5|2.5|3.20|560|1 gyro (300 g)@300*;100 g@100
+sandwich-shawarma-wrap|Chicken shawarma wrap||205|13.0|19.0|8.50|2.0|2.0|2.40|580|1 wrap (300 g)@300*;100 g@100
+sandwich-falafel-wrap|Falafel wrap, with tahini||225|8.00|28.0|9.50|5.0|3.0|1.50|520|1 wrap (280 g)@280*;100 g@100
+sandwich-philly-cheesesteak|Philly cheesesteak||230|14.0|18.0|11.5|1.2|2.5|4.50|620|1 sandwich (300 g)@300*;100 g@100
+sandwich-pulled-pork|Pulled pork sandwich, with BBQ sauce||245|13.5|27.0|9.50|1.2|11.0|3.20|720|1 sandwich (220 g)@220*;100 g@100
+sandwich-italian-sub|Italian sub, cold cuts||250|11.0|24.0|12.5|1.5|3.5|4.20|900|6 inch sub (250 g)@250*;100 g@100
+avocado-toast|Avocado toast, on whole grain||200|6.00|22.0|10.5|5.0|2.5|1.80|350|1 slice (120 g)@120*;2 slices (240 g)@240
+salad-caesar-with-chicken|Caesar salad with grilled chicken||135|10.0|5.00|8.50|1.5|1.5|2.00|420|1 entree salad (350 g)@350*;100 g@100
+salad-cobb|Cobb salad, with dressing||160|11.0|4.50|11.5|1.5|2.0|3.50|480|1 entree salad (350 g)@350*;100 g@100
+salad-greek|Greek salad, with feta and dressing||120|3.50|6.00|9.50|2.0|4.0|2.80|450|1 side salad (200 g)@200*;1 entree (350 g)@350
+salad-garden-no-dressing|Garden salad, no dressing||25|1.50|5.00|0.30|2.0|2.5|0.05|30|1 side salad (100 g)@100*;1 entree (250 g)@250
+salad-chicken-salad-scoop|Chicken salad, deli scoop||230|13.0|4.50|18.0|0.6|2.0|3.00|480|1/2 cup (110 g)@110*;100 g@100
+salad-tuna-scoop|Tuna salad, deli scoop||187|16.0|9.40|9.30|0|0|1.55|402|1/2 cup (102 g)@102*;100 g@100|v=1
+
+# --- comfort & other -----------------------------------------------------
+burger-cheeseburger-homemade|Cheeseburger, homemade, with bun||255|14.0|19.0|13.5|1.2|4.0|5.50|520|1 burger (200 g)@200*;100 g@100
+hot-dog-with-bun|Hot dog with bun, plain||280|10.5|24.0|16.0|1.0|5.0|5.50|810|1 hot dog (98 g)@98*;2 hot dogs (196 g)@196
+chicken-pot-pie|Chicken pot pie||210|7.50|19.0|11.5|1.2|2.5|4.20|450|1 pie (250 g)@250*;100 g@100
+shepherds-pie|Shepherd's pie||130|7.50|12.0|5.50|1.5|2.5|2.20|400|1 cup (250 g)@250*;100 g@100
+beef-stroganoff|Beef stroganoff, with noodles||150|9.50|14.0|6.00|0.8|2.0|2.50|420|1 cup (220 g)@220*;100 g@100
+jambalaya|Jambalaya, chicken and sausage||140|8.50|16.0|4.50|1.0|1.5|1.50|500|1 cup (240 g)@240*;100 g@100
+casserole-tuna-noodle|Tuna noodle casserole||145|8.50|15.0|5.50|1.0|2.0|2.20|420|1 cup (220 g)@220*;100 g@100
+stuffed-peppers-beef|Stuffed peppers, beef and rice||115|7.50|10.0|5.00|1.8|3.5|1.90|380|1 pepper (250 g)@250*;100 g@100
+empanada-beef|Empanada, beef, baked||275|9.00|26.0|14.5|1.5|1.5|4.50|450|1 empanada (100 g)@100*;100 g@100
+samosa-vegetable|Samosa, vegetable, fried||300|5.50|32.0|17.0|2.5|2.0|5.00|450|1 samosa (65 g)@65*;2 samosas (130 g)@130
+arepa-cheese|Arepa, with cheese||250|8.00|33.0|9.50|2.5|1.5|4.00|420|1 arepa (130 g)@130*;100 g@100
+chia-pudding|Chia pudding, with almond milk||110|3.50|10.0|6.50|7.5|3.0|0.60|55|1 cup (200 g)@200*;100 g@100
+smoothie-bowl-acai|Açaí smoothie bowl, with granola||120|3.00|20.0|4.00|3.5|13.0|1.40|45|1 bowl (350 g)@350*;100 g@100
+yogurt-parfait-granola|Yogurt parfait, with granola and berries||120|6.00|18.0|2.50|1.5|12.0|0.90|55|1 parfait (250 g)@250*;100 g@100
+oatmeal-bowl-banana-pb|Oatmeal bowl, banana and peanut butter||140|5.50|18.0|5.50|2.5|6.0|1.10|60|1 bowl (350 g)@350*;100 g@100
+protein-oats-prepared|Protein oats, oats with whey, prepared||125|9.00|15.0|3.00|2.0|3.0|0.80|75|1 bowl (300 g)@300*;100 g@100

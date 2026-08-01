@@ -1,0 +1,3749 @@
+[
+ {
+  "id": "beef-ground-70-30-raw",
+  "name": "Ground beef, 70% lean, raw",
+  "brand": null,
+  "aliases": [
+   "hamburger meat",
+   "mince"
+  ],
+  "category": "meat",
+  "per100g": {
+   "kcal": 332,
+   "protein_g": 14.4,
+   "carbs_g": 0,
+   "fat_g": 30,
+   "fiber_g": 0,
+   "sugar_g": 0,
+   "satfat_g": 11.5,
+   "sodium_mg": 67
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "4 oz (113 g)",
+    "grams": 113,
+    "isDefault": true
+   },
+   {
+    "label": "6 oz (170 g)",
+    "grams": 170
+   },
+   {
+    "label": "3 oz (85 g)",
+    "grams": 85
+   },
+   {
+    "label": "1 oz (28 g)",
+    "grams": 28
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": true,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "beef-ground-80-20-raw",
+  "name": "Ground beef, 80% lean, raw",
+  "brand": null,
+  "aliases": [
+   "hamburger meat",
+   "mince",
+   "ground chuck"
+  ],
+  "category": "meat",
+  "per100g": {
+   "kcal": 254,
+   "protein_g": 17.2,
+   "carbs_g": 0,
+   "fat_g": 20,
+   "fiber_g": 0,
+   "sugar_g": 0,
+   "satfat_g": 7.7,
+   "sodium_mg": 66
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "4 oz (113 g)",
+    "grams": 113,
+    "isDefault": true
+   },
+   {
+    "label": "6 oz (170 g)",
+    "grams": 170
+   },
+   {
+    "label": "3 oz (85 g)",
+    "grams": 85
+   },
+   {
+    "label": "1 oz (28 g)",
+    "grams": 28
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": true,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "beef-ground-80-20-cooked",
+  "name": "Ground beef, 80% lean, pan-browned",
+  "brand": null,
+  "aliases": [
+   "browned ground beef"
+  ],
+  "category": "meat",
+  "per100g": {
+   "kcal": 254,
+   "protein_g": 25.8,
+   "carbs_g": 0,
+   "fat_g": 16,
+   "fiber_g": 0,
+   "sugar_g": 0,
+   "satfat_g": 6.2,
+   "sodium_mg": 76
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "3 oz (85 g)",
+    "grams": 85,
+    "isDefault": true
+   },
+   {
+    "label": "4 oz (113 g)",
+    "grams": 113
+   },
+   {
+    "label": "1 cup crumbles",
+    "grams": 110
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": true,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "beef-ground-85-15-raw",
+  "name": "Ground beef, 85% lean, raw",
+  "brand": null,
+  "aliases": [
+   "ground sirloin"
+  ],
+  "category": "meat",
+  "per100g": {
+   "kcal": 215,
+   "protein_g": 18.6,
+   "carbs_g": 0,
+   "fat_g": 15,
+   "fiber_g": 0,
+   "sugar_g": 0,
+   "satfat_g": 5.9,
+   "sodium_mg": 66
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "4 oz (113 g)",
+    "grams": 113,
+    "isDefault": true
+   },
+   {
+    "label": "6 oz (170 g)",
+    "grams": 170
+   },
+   {
+    "label": "3 oz (85 g)",
+    "grams": 85
+   },
+   {
+    "label": "1 oz (28 g)",
+    "grams": 28
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": true,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "beef-ground-85-15-cooked",
+  "name": "Ground beef, 85% lean, pan-browned",
+  "brand": null,
+  "aliases": [],
+  "category": "meat",
+  "per100g": {
+   "kcal": 231,
+   "protein_g": 25.9,
+   "carbs_g": 0,
+   "fat_g": 13.4,
+   "fiber_g": 0,
+   "sugar_g": 0,
+   "satfat_g": 5.2,
+   "sodium_mg": 78
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "3 oz (85 g)",
+    "grams": 85,
+    "isDefault": true
+   },
+   {
+    "label": "4 oz (113 g)",
+    "grams": 113
+   },
+   {
+    "label": "1 cup crumbles",
+    "grams": 110
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": true,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "beef-ground-90-10-raw",
+  "name": "Ground beef, 90% lean, raw",
+  "brand": null,
+  "aliases": [],
+  "category": "meat",
+  "per100g": {
+   "kcal": 176,
+   "protein_g": 20,
+   "carbs_g": 0,
+   "fat_g": 10,
+   "fiber_g": 0,
+   "sugar_g": 0,
+   "satfat_g": 4,
+   "sodium_mg": 66
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "4 oz (113 g)",
+    "grams": 113,
+    "isDefault": true
+   },
+   {
+    "label": "6 oz (170 g)",
+    "grams": 170
+   },
+   {
+    "label": "3 oz (85 g)",
+    "grams": 85
+   },
+   {
+    "label": "1 oz (28 g)",
+    "grams": 28
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": true,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "beef-ground-90-10-cooked",
+  "name": "Ground beef, 90% lean, pan-browned",
+  "brand": null,
+  "aliases": [],
+  "category": "meat",
+  "per100g": {
+   "kcal": 217,
+   "protein_g": 26.1,
+   "carbs_g": 0,
+   "fat_g": 11.6,
+   "fiber_g": 0,
+   "sugar_g": 0,
+   "satfat_g": 4.5,
+   "sodium_mg": 78
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "3 oz (85 g)",
+    "grams": 85,
+    "isDefault": true
+   },
+   {
+    "label": "4 oz (113 g)",
+    "grams": 113
+   },
+   {
+    "label": "1 cup crumbles",
+    "grams": 110
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": true,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "beef-ground-93-7-raw",
+  "name": "Ground beef, 93% lean, raw",
+  "brand": null,
+  "aliases": [],
+  "category": "meat",
+  "per100g": {
+   "kcal": 152,
+   "protein_g": 21.4,
+   "carbs_g": 0,
+   "fat_g": 7,
+   "fiber_g": 0,
+   "sugar_g": 0,
+   "satfat_g": 2.9,
+   "sodium_mg": 66
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "4 oz (113 g)",
+    "grams": 113,
+    "isDefault": true
+   },
+   {
+    "label": "6 oz (170 g)",
+    "grams": 170
+   },
+   {
+    "label": "3 oz (85 g)",
+    "grams": 85
+   },
+   {
+    "label": "1 oz (28 g)",
+    "grams": 28
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": true,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "beef-ground-93-7-cooked",
+  "name": "Ground beef, 93% lean, pan-browned",
+  "brand": null,
+  "aliases": [],
+  "category": "meat",
+  "per100g": {
+   "kcal": 182,
+   "protein_g": 25.7,
+   "carbs_g": 0,
+   "fat_g": 8.2,
+   "fiber_g": 0,
+   "sugar_g": 0,
+   "satfat_g": 3.3,
+   "sodium_mg": 78
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "3 oz (85 g)",
+    "grams": 85,
+    "isDefault": true
+   },
+   {
+    "label": "4 oz (113 g)",
+    "grams": 113
+   },
+   {
+    "label": "1 cup crumbles",
+    "grams": 110
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": true,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "beef-ground-96-4-raw",
+  "name": "Ground beef, 96% lean, raw",
+  "brand": null,
+  "aliases": [
+   "extra lean ground beef"
+  ],
+  "category": "meat",
+  "per100g": {
+   "kcal": 130,
+   "protein_g": 21.6,
+   "carbs_g": 0,
+   "fat_g": 4,
+   "fiber_g": 0,
+   "sugar_g": 0,
+   "satfat_g": 1.8,
+   "sodium_mg": 66
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "4 oz (113 g)",
+    "grams": 113,
+    "isDefault": true
+   },
+   {
+    "label": "6 oz (170 g)",
+    "grams": 170
+   },
+   {
+    "label": "3 oz (85 g)",
+    "grams": 85
+   },
+   {
+    "label": "1 oz (28 g)",
+    "grams": 28
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": true,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "beef-ground-96-4-cooked",
+  "name": "Ground beef, 96% lean, pan-browned",
+  "brand": null,
+  "aliases": [],
+  "category": "meat",
+  "per100g": {
+   "kcal": 153,
+   "protein_g": 26.5,
+   "carbs_g": 0,
+   "fat_g": 4.6,
+   "fiber_g": 0,
+   "sugar_g": 0,
+   "satfat_g": 2,
+   "sodium_mg": 78
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "3 oz (85 g)",
+    "grams": 85,
+    "isDefault": true
+   },
+   {
+    "label": "4 oz (113 g)",
+    "grams": 113
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": true,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "beef-patty-quarter-cooked",
+  "name": "Beef burger patty, 1/4 lb, grilled",
+  "brand": null,
+  "aliases": [
+   "hamburger patty"
+  ],
+  "category": "meat",
+  "per100g": {
+   "kcal": 248,
+   "protein_g": 25.6,
+   "carbs_g": 0,
+   "fat_g": 15.6,
+   "fiber_g": 0,
+   "sugar_g": 0,
+   "satfat_g": 6.1,
+   "sodium_mg": 75
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 patty (85 g)",
+    "grams": 85,
+    "isDefault": true
+   },
+   {
+    "label": "1 patty, 1/3 lb (113 g)",
+    "grams": 113
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": true,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "beef-sirloin-raw",
+  "name": "Beef top sirloin steak, trimmed, raw",
+  "brand": null,
+  "aliases": [],
+  "category": "meat",
+  "per100g": {
+   "kcal": 130,
+   "protein_g": 22.5,
+   "carbs_g": 0,
+   "fat_g": 3.9,
+   "fiber_g": 0,
+   "sugar_g": 0,
+   "satfat_g": 1.5,
+   "sodium_mg": 55
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "4 oz (113 g)",
+    "grams": 113,
+    "isDefault": true
+   },
+   {
+    "label": "6 oz (170 g)",
+    "grams": 170
+   },
+   {
+    "label": "3 oz (85 g)",
+    "grams": 85
+   },
+   {
+    "label": "1 oz (28 g)",
+    "grams": 28
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": true,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "beef-sirloin-cooked",
+  "name": "Beef top sirloin steak, trimmed, broiled",
+  "brand": null,
+  "aliases": [
+   "sirloin steak"
+  ],
+  "category": "meat",
+  "per100g": {
+   "kcal": 201,
+   "protein_g": 29.5,
+   "carbs_g": 0,
+   "fat_g": 8.4,
+   "fiber_g": 0,
+   "sugar_g": 0,
+   "satfat_g": 3.3,
+   "sodium_mg": 55
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "4 oz (113 g)",
+    "grams": 113,
+    "isDefault": true
+   },
+   {
+    "label": "6 oz (170 g)",
+    "grams": 170
+   },
+   {
+    "label": "3 oz (85 g)",
+    "grams": 85
+   },
+   {
+    "label": "1 oz (28 g)",
+    "grams": 28
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": true,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "beef-tenderloin-cooked",
+  "name": "Beef tenderloin, trimmed, broiled",
+  "brand": null,
+  "aliases": [
+   "filet mignon"
+  ],
+  "category": "meat",
+  "per100g": {
+   "kcal": 208,
+   "protein_g": 28.9,
+   "carbs_g": 0,
+   "fat_g": 9.4,
+   "fiber_g": 0,
+   "sugar_g": 0,
+   "satfat_g": 3.6,
+   "sodium_mg": 54
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "4 oz (113 g)",
+    "grams": 113,
+    "isDefault": true
+   },
+   {
+    "label": "6 oz (170 g)",
+    "grams": 170
+   },
+   {
+    "label": "3 oz (85 g)",
+    "grams": 85
+   },
+   {
+    "label": "1 oz (28 g)",
+    "grams": 28
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": true,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "beef-strip-steak-cooked",
+  "name": "Beef strip steak, trimmed, broiled",
+  "brand": null,
+  "aliases": [
+   "new york strip",
+   "ny strip"
+  ],
+  "category": "meat",
+  "per100g": {
+   "kcal": 205,
+   "protein_g": 28.6,
+   "carbs_g": 0,
+   "fat_g": 9.2,
+   "fiber_g": 0,
+   "sugar_g": 0,
+   "satfat_g": 3.6,
+   "sodium_mg": 56
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "4 oz (113 g)",
+    "grams": 113,
+    "isDefault": true
+   },
+   {
+    "label": "6 oz (170 g)",
+    "grams": 170
+   },
+   {
+    "label": "3 oz (85 g)",
+    "grams": 85
+   },
+   {
+    "label": "1 oz (28 g)",
+    "grams": 28
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": true,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "beef-ribeye-raw",
+  "name": "Beef ribeye steak, raw",
+  "brand": null,
+  "aliases": [
+   "rib eye"
+  ],
+  "category": "meat",
+  "per100g": {
+   "kcal": 214,
+   "protein_g": 20,
+   "carbs_g": 0,
+   "fat_g": 14.4,
+   "fiber_g": 0,
+   "sugar_g": 0,
+   "satfat_g": 5.9,
+   "sodium_mg": 54
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "4 oz (113 g)",
+    "grams": 113,
+    "isDefault": true
+   },
+   {
+    "label": "6 oz (170 g)",
+    "grams": 170
+   },
+   {
+    "label": "3 oz (85 g)",
+    "grams": 85
+   },
+   {
+    "label": "1 oz (28 g)",
+    "grams": 28
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": true,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "beef-ribeye-cooked",
+  "name": "Beef ribeye steak, broiled",
+  "brand": null,
+  "aliases": [
+   "rib eye"
+  ],
+  "category": "meat",
+  "per100g": {
+   "kcal": 271,
+   "protein_g": 24.8,
+   "carbs_g": 0,
+   "fat_g": 18.6,
+   "fiber_g": 0,
+   "sugar_g": 0,
+   "satfat_g": 7.6,
+   "sodium_mg": 58
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "4 oz (113 g)",
+    "grams": 113,
+    "isDefault": true
+   },
+   {
+    "label": "6 oz (170 g)",
+    "grams": 170
+   },
+   {
+    "label": "3 oz (85 g)",
+    "grams": 85
+   },
+   {
+    "label": "1 oz (28 g)",
+    "grams": 28
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": true,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "beef-flank-cooked",
+  "name": "Beef flank steak, broiled",
+  "brand": null,
+  "aliases": [],
+  "category": "meat",
+  "per100g": {
+   "kcal": 201,
+   "protein_g": 27.9,
+   "carbs_g": 0,
+   "fat_g": 9,
+   "fiber_g": 0,
+   "sugar_g": 0,
+   "satfat_g": 3.7,
+   "sodium_mg": 58
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "4 oz (113 g)",
+    "grams": 113,
+    "isDefault": true
+   },
+   {
+    "label": "6 oz (170 g)",
+    "grams": 170
+   },
+   {
+    "label": "3 oz (85 g)",
+    "grams": 85
+   },
+   {
+    "label": "1 oz (28 g)",
+    "grams": 28
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": true,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "beef-skirt-cooked",
+  "name": "Beef skirt steak, broiled",
+  "brand": null,
+  "aliases": [
+   "fajita meat"
+  ],
+  "category": "meat",
+  "per100g": {
+   "kcal": 207,
+   "protein_g": 27,
+   "carbs_g": 0,
+   "fat_g": 10.4,
+   "fiber_g": 0,
+   "sugar_g": 0,
+   "satfat_g": 4.2,
+   "sodium_mg": 65
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "4 oz (113 g)",
+    "grams": 113,
+    "isDefault": true
+   },
+   {
+    "label": "6 oz (170 g)",
+    "grams": 170
+   },
+   {
+    "label": "3 oz (85 g)",
+    "grams": 85
+   },
+   {
+    "label": "1 oz (28 g)",
+    "grams": 28
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": true,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "beef-flat-iron-cooked",
+  "name": "Beef flat iron steak, broiled",
+  "brand": null,
+  "aliases": [
+   "top blade steak"
+  ],
+  "category": "meat",
+  "per100g": {
+   "kcal": 213,
+   "protein_g": 27,
+   "carbs_g": 0,
+   "fat_g": 11,
+   "fiber_g": 0,
+   "sugar_g": 0,
+   "satfat_g": 4.4,
+   "sodium_mg": 60
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "4 oz (113 g)",
+    "grams": 113,
+    "isDefault": true
+   },
+   {
+    "label": "6 oz (170 g)",
+    "grams": 170
+   },
+   {
+    "label": "3 oz (85 g)",
+    "grams": 85
+   },
+   {
+    "label": "1 oz (28 g)",
+    "grams": 28
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": true,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "beef-t-bone-cooked",
+  "name": "Beef T-bone steak, trimmed, broiled",
+  "brand": null,
+  "aliases": [],
+  "category": "meat",
+  "per100g": {
+   "kcal": 247,
+   "protein_g": 24.5,
+   "carbs_g": 0,
+   "fat_g": 15.8,
+   "fiber_g": 0,
+   "sugar_g": 0,
+   "satfat_g": 6.2,
+   "sodium_mg": 59
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "4 oz (113 g)",
+    "grams": 113,
+    "isDefault": true
+   },
+   {
+    "label": "6 oz (170 g)",
+    "grams": 170
+   },
+   {
+    "label": "3 oz (85 g)",
+    "grams": 85
+   },
+   {
+    "label": "1 oz (28 g)",
+    "grams": 28
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": true,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "beef-chuck-roast-cooked",
+  "name": "Beef chuck roast, braised",
+  "brand": null,
+  "aliases": [],
+  "category": "meat",
+  "per100g": {
+   "kcal": 250,
+   "protein_g": 30,
+   "carbs_g": 0,
+   "fat_g": 13.5,
+   "fiber_g": 0,
+   "sugar_g": 0,
+   "satfat_g": 5.3,
+   "sodium_mg": 56
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "4 oz (113 g)",
+    "grams": 113,
+    "isDefault": true
+   },
+   {
+    "label": "6 oz (170 g)",
+    "grams": 170
+   },
+   {
+    "label": "3 oz (85 g)",
+    "grams": 85
+   },
+   {
+    "label": "1 oz (28 g)",
+    "grams": 28
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": true,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "beef-brisket-cooked",
+  "name": "Beef brisket, flat half, trimmed, braised",
+  "brand": null,
+  "aliases": [],
+  "category": "meat",
+  "per100g": {
+   "kcal": 208,
+   "protein_g": 28.7,
+   "carbs_g": 0,
+   "fat_g": 9.4,
+   "fiber_g": 0,
+   "sugar_g": 0,
+   "satfat_g": 3.4,
+   "sodium_mg": 61
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "4 oz (113 g)",
+    "grams": 113,
+    "isDefault": true
+   },
+   {
+    "label": "6 oz (170 g)",
+    "grams": 170
+   },
+   {
+    "label": "3 oz (85 g)",
+    "grams": 85
+   },
+   {
+    "label": "1 oz (28 g)",
+    "grams": 28
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": true,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "beef-brisket-smoked",
+  "name": "Beef brisket, smoked, fatty",
+  "brand": null,
+  "aliases": [
+   "bbq brisket"
+  ],
+  "category": "meat",
+  "per100g": {
+   "kcal": 290,
+   "protein_g": 26,
+   "carbs_g": 0,
+   "fat_g": 20.5,
+   "fiber_g": 0,
+   "sugar_g": 0,
+   "satfat_g": 8,
+   "sodium_mg": 420
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "4 oz (113 g)",
+    "grams": 113,
+    "isDefault": true
+   },
+   {
+    "label": "6 oz (170 g)",
+    "grams": 170
+   },
+   {
+    "label": "3 oz (85 g)",
+    "grams": 85
+   },
+   {
+    "label": "1 oz (28 g)",
+    "grams": 28
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": false,
+  "source": "author estimate from typical BBQ brisket"
+ },
+ {
+  "id": "beef-short-ribs-cooked",
+  "name": "Beef short ribs, braised, trimmed",
+  "brand": null,
+  "aliases": [],
+  "category": "meat",
+  "per100g": {
+   "kcal": 295,
+   "protein_g": 31,
+   "carbs_g": 0,
+   "fat_g": 18,
+   "fiber_g": 0,
+   "sugar_g": 0,
+   "satfat_g": 7.7,
+   "sodium_mg": 60
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "4 oz (113 g)",
+    "grams": 113,
+    "isDefault": true
+   },
+   {
+    "label": "6 oz (170 g)",
+    "grams": 170
+   },
+   {
+    "label": "3 oz (85 g)",
+    "grams": 85
+   },
+   {
+    "label": "1 oz (28 g)",
+    "grams": 28
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": true,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "beef-round-eye-cooked",
+  "name": "Beef eye of round, trimmed, roasted",
+  "brand": null,
+  "aliases": [],
+  "category": "meat",
+  "per100g": {
+   "kcal": 150,
+   "protein_g": 26.8,
+   "carbs_g": 0,
+   "fat_g": 4,
+   "fiber_g": 0,
+   "sugar_g": 0,
+   "satfat_g": 1.4,
+   "sodium_mg": 53
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "4 oz (113 g)",
+    "grams": 113,
+    "isDefault": true
+   },
+   {
+    "label": "6 oz (170 g)",
+    "grams": 170
+   },
+   {
+    "label": "3 oz (85 g)",
+    "grams": 85
+   },
+   {
+    "label": "1 oz (28 g)",
+    "grams": 28
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": true,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "beef-round-top-cooked",
+  "name": "Beef top round, trimmed, roasted",
+  "brand": null,
+  "aliases": [
+   "london broil"
+  ],
+  "category": "meat",
+  "per100g": {
+   "kcal": 166,
+   "protein_g": 30,
+   "carbs_g": 0,
+   "fat_g": 4.3,
+   "fiber_g": 0,
+   "sugar_g": 0,
+   "satfat_g": 1.5,
+   "sodium_mg": 41
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "4 oz (113 g)",
+    "grams": 113,
+    "isDefault": true
+   },
+   {
+    "label": "6 oz (170 g)",
+    "grams": 170
+   },
+   {
+    "label": "3 oz (85 g)",
+    "grams": 85
+   },
+   {
+    "label": "1 oz (28 g)",
+    "grams": 28
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": true,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "beef-stew-meat-cooked",
+  "name": "Beef stew meat, braised",
+  "brand": null,
+  "aliases": [],
+  "category": "meat",
+  "per100g": {
+   "kcal": 231,
+   "protein_g": 31,
+   "carbs_g": 0,
+   "fat_g": 11,
+   "fiber_g": 0,
+   "sugar_g": 0,
+   "satfat_g": 4.3,
+   "sodium_mg": 60
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "4 oz (113 g)",
+    "grams": 113,
+    "isDefault": true
+   },
+   {
+    "label": "6 oz (170 g)",
+    "grams": 170
+   },
+   {
+    "label": "3 oz (85 g)",
+    "grams": 85
+   },
+   {
+    "label": "1 oz (28 g)",
+    "grams": 28
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": true,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "beef-prime-rib-cooked",
+  "name": "Beef prime rib, roasted",
+  "brand": null,
+  "aliases": [
+   "standing rib roast"
+  ],
+  "category": "meat",
+  "per100g": {
+   "kcal": 338,
+   "protein_g": 22,
+   "carbs_g": 0,
+   "fat_g": 27,
+   "fiber_g": 0,
+   "sugar_g": 0,
+   "satfat_g": 11.3,
+   "sodium_mg": 57
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "4 oz (113 g)",
+    "grams": 113,
+    "isDefault": true
+   },
+   {
+    "label": "6 oz (170 g)",
+    "grams": 170
+   },
+   {
+    "label": "3 oz (85 g)",
+    "grams": 85
+   },
+   {
+    "label": "1 oz (28 g)",
+    "grams": 28
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": true,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "beef-liver-cooked",
+  "name": "Beef liver, pan-fried",
+  "brand": null,
+  "aliases": [],
+  "category": "meat",
+  "per100g": {
+   "kcal": 191,
+   "protein_g": 29.1,
+   "carbs_g": 5.2,
+   "fat_g": 5.3,
+   "fiber_g": 0,
+   "sugar_g": 0,
+   "satfat_g": 1.7,
+   "sodium_mg": 90
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": 9442,
+   "vitamin_a_carotenoid_mcg_rae": 0,
+   "folate_food_mcg": 253,
+   "folic_acid_mcg": 0,
+   "folate_dfe_mcg": 253
+  },
+  "servings": [
+   {
+    "label": "3 oz (85 g)",
+    "grams": 85,
+    "isDefault": true
+   },
+   {
+    "label": "100 g",
+    "grams": 100
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": true,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "beef-tongue-cooked",
+  "name": "Beef tongue, simmered",
+  "brand": null,
+  "aliases": [],
+  "category": "meat",
+  "per100g": {
+   "kcal": 284,
+   "protein_g": 22,
+   "carbs_g": 0,
+   "fat_g": 21,
+   "fiber_g": 0,
+   "sugar_g": 0,
+   "satfat_g": 7.6,
+   "sodium_mg": 71
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": 0,
+   "vitamin_a_carotenoid_mcg_rae": 0,
+   "folate_food_mcg": 5,
+   "folic_acid_mcg": 0,
+   "folate_dfe_mcg": 5
+  },
+  "servings": [
+   {
+    "label": "4 oz (113 g)",
+    "grams": 113,
+    "isDefault": true
+   },
+   {
+    "label": "6 oz (170 g)",
+    "grams": 170
+   },
+   {
+    "label": "3 oz (85 g)",
+    "grams": 85
+   },
+   {
+    "label": "1 oz (28 g)",
+    "grams": 28
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": true,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "beef-oxtail-cooked",
+  "name": "Oxtail, braised",
+  "brand": null,
+  "aliases": [],
+  "category": "meat",
+  "per100g": {
+   "kcal": 262,
+   "protein_g": 30.9,
+   "carbs_g": 0,
+   "fat_g": 14.4,
+   "fiber_g": 0,
+   "sugar_g": 0,
+   "satfat_g": 5.7,
+   "sodium_mg": 59
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "4 oz (113 g)",
+    "grams": 113,
+    "isDefault": true
+   },
+   {
+    "label": "6 oz (170 g)",
+    "grams": 170
+   },
+   {
+    "label": "3 oz (85 g)",
+    "grams": 85
+   },
+   {
+    "label": "1 oz (28 g)",
+    "grams": 28
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": false,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "beef-corned-cooked",
+  "name": "Corned beef brisket, cooked",
+  "brand": null,
+  "aliases": [],
+  "category": "meat",
+  "per100g": {
+   "kcal": 251,
+   "protein_g": 18.2,
+   "carbs_g": 0.5,
+   "fat_g": 19,
+   "fiber_g": 0,
+   "sugar_g": 0,
+   "satfat_g": 6.3,
+   "sodium_mg": 973
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "3 oz (85 g)",
+    "grams": 85,
+    "isDefault": true
+   },
+   {
+    "label": "100 g",
+    "grams": 100
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": true,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "beef-jerky",
+  "name": "Beef jerky, traditional",
+  "brand": null,
+  "aliases": [],
+  "category": "meat",
+  "per100g": {
+   "kcal": 410,
+   "protein_g": 33.2,
+   "carbs_g": 11,
+   "fat_g": 25.6,
+   "fiber_g": 0.5,
+   "sugar_g": 9,
+   "satfat_g": 10.8,
+   "sodium_mg": 2081
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 oz (28 g)",
+    "grams": 28,
+    "isDefault": true
+   },
+   {
+    "label": "100 g",
+    "grams": 100
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": true,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "beef-jerky-lean",
+  "name": "Beef jerky, lean brand style",
+  "brand": null,
+  "aliases": [],
+  "category": "meat",
+  "per100g": {
+   "kcal": 285,
+   "protein_g": 39,
+   "carbs_g": 21,
+   "fat_g": 4,
+   "fiber_g": 0.5,
+   "sugar_g": 18,
+   "satfat_g": 1.8,
+   "sodium_mg": 1750
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 oz (28 g)",
+    "grams": 28,
+    "isDefault": true
+   },
+   {
+    "label": "100 g",
+    "grams": 100
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": false,
+  "source": "typical US brand label"
+ },
+ {
+  "id": "beef-roast-deli",
+  "name": "Roast beef, deli sliced",
+  "brand": null,
+  "aliases": [],
+  "category": "meat",
+  "per100g": {
+   "kcal": 111,
+   "protein_g": 18.5,
+   "carbs_g": 2,
+   "fat_g": 2.7,
+   "fiber_g": 0,
+   "sugar_g": 1,
+   "satfat_g": 1,
+   "sodium_mg": 850
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "2 oz (57 g)",
+    "grams": 57,
+    "isDefault": true
+   },
+   {
+    "label": "1 slice (28 g)",
+    "grams": 28
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": false,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "veal-cutlet-cooked",
+  "name": "Veal cutlet, braised",
+  "brand": null,
+  "aliases": [],
+  "category": "meat",
+  "per100g": {
+   "kcal": 172,
+   "protein_g": 31,
+   "carbs_g": 0,
+   "fat_g": 4.5,
+   "fiber_g": 0,
+   "sugar_g": 0,
+   "satfat_g": 1.3,
+   "sodium_mg": 68
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "4 oz (113 g)",
+    "grams": 113,
+    "isDefault": true
+   },
+   {
+    "label": "6 oz (170 g)",
+    "grams": 170
+   },
+   {
+    "label": "3 oz (85 g)",
+    "grams": 85
+   },
+   {
+    "label": "1 oz (28 g)",
+    "grams": 28
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": true,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "veal-ground-cooked",
+  "name": "Ground veal, cooked",
+  "brand": null,
+  "aliases": [],
+  "category": "meat",
+  "per100g": {
+   "kcal": 172,
+   "protein_g": 24.4,
+   "carbs_g": 0,
+   "fat_g": 7.6,
+   "fiber_g": 0,
+   "sugar_g": 0,
+   "satfat_g": 3,
+   "sodium_mg": 83
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "4 oz (113 g)",
+    "grams": 113,
+    "isDefault": true
+   },
+   {
+    "label": "6 oz (170 g)",
+    "grams": 170
+   },
+   {
+    "label": "3 oz (85 g)",
+    "grams": 85
+   },
+   {
+    "label": "1 oz (28 g)",
+    "grams": 28
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": true,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "lamb-loin-chop-cooked",
+  "name": "Lamb loin chop, trimmed, broiled",
+  "brand": null,
+  "aliases": [],
+  "category": "meat",
+  "per100g": {
+   "kcal": 202,
+   "protein_g": 29.2,
+   "carbs_g": 0,
+   "fat_g": 8.8,
+   "fiber_g": 0,
+   "sugar_g": 0,
+   "satfat_g": 3.2,
+   "sodium_mg": 72
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 chop (85 g)",
+    "grams": 85,
+    "isDefault": true
+   },
+   {
+    "label": "4 oz (113 g)",
+    "grams": 113
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": true,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "lamb-leg-cooked",
+  "name": "Lamb leg, trimmed, roasted",
+  "brand": null,
+  "aliases": [],
+  "category": "meat",
+  "per100g": {
+   "kcal": 191,
+   "protein_g": 28.3,
+   "carbs_g": 0,
+   "fat_g": 7.7,
+   "fiber_g": 0,
+   "sugar_g": 0,
+   "satfat_g": 2.7,
+   "sodium_mg": 62
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "4 oz (113 g)",
+    "grams": 113,
+    "isDefault": true
+   },
+   {
+    "label": "6 oz (170 g)",
+    "grams": 170
+   },
+   {
+    "label": "3 oz (85 g)",
+    "grams": 85
+   },
+   {
+    "label": "1 oz (28 g)",
+    "grams": 28
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": true,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "lamb-ground-cooked",
+  "name": "Ground lamb, cooked",
+  "brand": null,
+  "aliases": [],
+  "category": "meat",
+  "per100g": {
+   "kcal": 283,
+   "protein_g": 25,
+   "carbs_g": 0,
+   "fat_g": 19.6,
+   "fiber_g": 0,
+   "sugar_g": 0,
+   "satfat_g": 8.1,
+   "sodium_mg": 81
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "4 oz (113 g)",
+    "grams": 113,
+    "isDefault": true
+   },
+   {
+    "label": "6 oz (170 g)",
+    "grams": 170
+   },
+   {
+    "label": "3 oz (85 g)",
+    "grams": 85
+   },
+   {
+    "label": "1 oz (28 g)",
+    "grams": 28
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": true,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "lamb-shank-cooked",
+  "name": "Lamb shank, braised",
+  "brand": null,
+  "aliases": [],
+  "category": "meat",
+  "per100g": {
+   "kcal": 201,
+   "protein_g": 28.5,
+   "carbs_g": 0,
+   "fat_g": 8.8,
+   "fiber_g": 0,
+   "sugar_g": 0,
+   "satfat_g": 3.1,
+   "sodium_mg": 64
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "4 oz (113 g)",
+    "grams": 113,
+    "isDefault": true
+   },
+   {
+    "label": "6 oz (170 g)",
+    "grams": 170
+   },
+   {
+    "label": "3 oz (85 g)",
+    "grams": 85
+   },
+   {
+    "label": "1 oz (28 g)",
+    "grams": 28
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": false,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "lamb-rack-cooked",
+  "name": "Rack of lamb, roasted, trimmed",
+  "brand": null,
+  "aliases": [],
+  "category": "meat",
+  "per100g": {
+   "kcal": 267,
+   "protein_g": 25,
+   "carbs_g": 0,
+   "fat_g": 18,
+   "fiber_g": 0,
+   "sugar_g": 0,
+   "satfat_g": 7.6,
+   "sodium_mg": 72
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "4 oz (113 g)",
+    "grams": 113,
+    "isDefault": true
+   },
+   {
+    "label": "6 oz (170 g)",
+    "grams": 170
+   },
+   {
+    "label": "3 oz (85 g)",
+    "grams": 85
+   },
+   {
+    "label": "1 oz (28 g)",
+    "grams": 28
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": false,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "venison-cooked",
+  "name": "Venison, roasted",
+  "brand": null,
+  "aliases": [
+   "deer meat"
+  ],
+  "category": "meat",
+  "per100g": {
+   "kcal": 158,
+   "protein_g": 30.2,
+   "carbs_g": 0,
+   "fat_g": 3.2,
+   "fiber_g": 0,
+   "sugar_g": 0,
+   "satfat_g": 1.3,
+   "sodium_mg": 54
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "4 oz (113 g)",
+    "grams": 113,
+    "isDefault": true
+   },
+   {
+    "label": "6 oz (170 g)",
+    "grams": 170
+   },
+   {
+    "label": "3 oz (85 g)",
+    "grams": 85
+   },
+   {
+    "label": "1 oz (28 g)",
+    "grams": 28
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": true,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "elk-cooked",
+  "name": "Elk, roasted",
+  "brand": null,
+  "aliases": [],
+  "category": "meat",
+  "per100g": {
+   "kcal": 146,
+   "protein_g": 30.2,
+   "carbs_g": 0,
+   "fat_g": 1.9,
+   "fiber_g": 0,
+   "sugar_g": 0,
+   "satfat_g": 0.7,
+   "sodium_mg": 61
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "4 oz (113 g)",
+    "grams": 113,
+    "isDefault": true
+   },
+   {
+    "label": "6 oz (170 g)",
+    "grams": 170
+   },
+   {
+    "label": "3 oz (85 g)",
+    "grams": 85
+   },
+   {
+    "label": "1 oz (28 g)",
+    "grams": 28
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": true,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "bison-ground-cooked",
+  "name": "Ground bison, cooked",
+  "brand": null,
+  "aliases": [
+   "buffalo"
+  ],
+  "category": "meat",
+  "per100g": {
+   "kcal": 179,
+   "protein_g": 25.5,
+   "carbs_g": 0,
+   "fat_g": 7.9,
+   "fiber_g": 0,
+   "sugar_g": 0,
+   "satfat_g": 3.4,
+   "sodium_mg": 60
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "4 oz (113 g)",
+    "grams": 113,
+    "isDefault": true
+   },
+   {
+    "label": "6 oz (170 g)",
+    "grams": 170
+   },
+   {
+    "label": "3 oz (85 g)",
+    "grams": 85
+   },
+   {
+    "label": "1 oz (28 g)",
+    "grams": 28
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": true,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "bison-sirloin-cooked",
+  "name": "Bison top sirloin, broiled",
+  "brand": null,
+  "aliases": [],
+  "category": "meat",
+  "per100g": {
+   "kcal": 150,
+   "protein_g": 28.5,
+   "carbs_g": 0,
+   "fat_g": 3.2,
+   "fiber_g": 0,
+   "sugar_g": 0,
+   "satfat_g": 1.2,
+   "sodium_mg": 48
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "4 oz (113 g)",
+    "grams": 113,
+    "isDefault": true
+   },
+   {
+    "label": "6 oz (170 g)",
+    "grams": 170
+   },
+   {
+    "label": "3 oz (85 g)",
+    "grams": 85
+   },
+   {
+    "label": "1 oz (28 g)",
+    "grams": 28
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": true,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "rabbit-cooked",
+  "name": "Rabbit, roasted",
+  "brand": null,
+  "aliases": [],
+  "category": "meat",
+  "per100g": {
+   "kcal": 197,
+   "protein_g": 29.1,
+   "carbs_g": 0,
+   "fat_g": 8.1,
+   "fiber_g": 0,
+   "sugar_g": 0,
+   "satfat_g": 2.4,
+   "sodium_mg": 41
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "4 oz (113 g)",
+    "grams": 113,
+    "isDefault": true
+   },
+   {
+    "label": "6 oz (170 g)",
+    "grams": 170
+   },
+   {
+    "label": "3 oz (85 g)",
+    "grams": 85
+   },
+   {
+    "label": "1 oz (28 g)",
+    "grams": 28
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": false,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "goat-cooked",
+  "name": "Goat, roasted",
+  "brand": null,
+  "aliases": [
+   "chevon",
+   "mutton"
+  ],
+  "category": "meat",
+  "per100g": {
+   "kcal": 143,
+   "protein_g": 27.1,
+   "carbs_g": 0,
+   "fat_g": 3,
+   "fiber_g": 0,
+   "sugar_g": 0,
+   "satfat_g": 0.9,
+   "sodium_mg": 86
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "4 oz (113 g)",
+    "grams": 113,
+    "isDefault": true
+   },
+   {
+    "label": "6 oz (170 g)",
+    "grams": 170
+   },
+   {
+    "label": "3 oz (85 g)",
+    "grams": 85
+   },
+   {
+    "label": "1 oz (28 g)",
+    "grams": 28
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": true,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "pork-tenderloin-raw",
+  "name": "Pork tenderloin, raw",
+  "brand": null,
+  "aliases": [],
+  "category": "meat",
+  "per100g": {
+   "kcal": 120,
+   "protein_g": 20.9,
+   "carbs_g": 0,
+   "fat_g": 3.5,
+   "fiber_g": 0,
+   "sugar_g": 0,
+   "satfat_g": 1.2,
+   "sodium_mg": 52
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "4 oz (113 g)",
+    "grams": 113,
+    "isDefault": true
+   },
+   {
+    "label": "6 oz (170 g)",
+    "grams": 170
+   },
+   {
+    "label": "3 oz (85 g)",
+    "grams": 85
+   },
+   {
+    "label": "1 oz (28 g)",
+    "grams": 28
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": true,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "pork-tenderloin-cooked",
+  "name": "Pork tenderloin, roasted",
+  "brand": null,
+  "aliases": [],
+  "category": "meat",
+  "per100g": {
+   "kcal": 143,
+   "protein_g": 26,
+   "carbs_g": 0,
+   "fat_g": 3.5,
+   "fiber_g": 0,
+   "sugar_g": 0,
+   "satfat_g": 1.2,
+   "sodium_mg": 57
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "4 oz (113 g)",
+    "grams": 113,
+    "isDefault": true
+   },
+   {
+    "label": "6 oz (170 g)",
+    "grams": 170
+   },
+   {
+    "label": "3 oz (85 g)",
+    "grams": 85
+   },
+   {
+    "label": "1 oz (28 g)",
+    "grams": 28
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": true,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "pork-loin-chop-raw",
+  "name": "Pork loin chop, boneless, raw",
+  "brand": null,
+  "aliases": [],
+  "category": "meat",
+  "per100g": {
+   "kcal": 143,
+   "protein_g": 21.5,
+   "carbs_g": 0,
+   "fat_g": 5.7,
+   "fiber_g": 0,
+   "sugar_g": 0,
+   "satfat_g": 2,
+   "sodium_mg": 54
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "4 oz (113 g)",
+    "grams": 113,
+    "isDefault": true
+   },
+   {
+    "label": "6 oz (170 g)",
+    "grams": 170
+   },
+   {
+    "label": "3 oz (85 g)",
+    "grams": 85
+   },
+   {
+    "label": "1 oz (28 g)",
+    "grams": 28
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": true,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "pork-loin-chop-cooked",
+  "name": "Pork loin chop, boneless, broiled",
+  "brand": null,
+  "aliases": [
+   "pork chop"
+  ],
+  "category": "meat",
+  "per100g": {
+   "kcal": 209,
+   "protein_g": 29,
+   "carbs_g": 0,
+   "fat_g": 9.4,
+   "fiber_g": 0,
+   "sugar_g": 0,
+   "satfat_g": 3.4,
+   "sodium_mg": 61
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 chop (113 g)",
+    "grams": 113,
+    "isDefault": true
+   },
+   {
+    "label": "3 oz (85 g)",
+    "grams": 85
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": true,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "pork-shoulder-cooked",
+  "name": "Pork shoulder, roasted",
+  "brand": null,
+  "aliases": [
+   "boston butt"
+  ],
+  "category": "meat",
+  "per100g": {
+   "kcal": 269,
+   "protein_g": 24,
+   "carbs_g": 0,
+   "fat_g": 18.5,
+   "fiber_g": 0,
+   "sugar_g": 0,
+   "satfat_g": 6.8,
+   "sodium_mg": 63
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "4 oz (113 g)",
+    "grams": 113,
+    "isDefault": true
+   },
+   {
+    "label": "6 oz (170 g)",
+    "grams": 170
+   },
+   {
+    "label": "3 oz (85 g)",
+    "grams": 85
+   },
+   {
+    "label": "1 oz (28 g)",
+    "grams": 28
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": true,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "pork-pulled",
+  "name": "Pulled pork, cooked, no sauce",
+  "brand": null,
+  "aliases": [],
+  "category": "meat",
+  "per100g": {
+   "kcal": 250,
+   "protein_g": 25,
+   "carbs_g": 0,
+   "fat_g": 16,
+   "fiber_g": 0,
+   "sugar_g": 0,
+   "satfat_g": 5.9,
+   "sodium_mg": 360
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 cup (140 g)",
+    "grams": 140,
+    "isDefault": true
+   },
+   {
+    "label": "3 oz (85 g)",
+    "grams": 85
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": false,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "pork-belly-cooked",
+  "name": "Pork belly, roasted",
+  "brand": null,
+  "aliases": [],
+  "category": "meat",
+  "per100g": {
+   "kcal": 518,
+   "protein_g": 9.3,
+   "carbs_g": 0,
+   "fat_g": 53,
+   "fiber_g": 0,
+   "sugar_g": 0,
+   "satfat_g": 19.3,
+   "sodium_mg": 32
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "2 oz (57 g)",
+    "grams": 57,
+    "isDefault": true
+   },
+   {
+    "label": "100 g",
+    "grams": 100
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": true,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "pork-ribs-cooked",
+  "name": "Pork spareribs, braised",
+  "brand": null,
+  "aliases": [],
+  "category": "meat",
+  "per100g": {
+   "kcal": 397,
+   "protein_g": 29.1,
+   "carbs_g": 0,
+   "fat_g": 30.3,
+   "fiber_g": 0,
+   "sugar_g": 0,
+   "satfat_g": 11.2,
+   "sodium_mg": 93
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "4 oz (113 g)",
+    "grams": 113,
+    "isDefault": true
+   },
+   {
+    "label": "6 oz (170 g)",
+    "grams": 170
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": true,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "pork-baby-back-bbq",
+  "name": "Pork baby back ribs, BBQ with sauce",
+  "brand": null,
+  "aliases": [],
+  "category": "meat",
+  "per100g": {
+   "kcal": 310,
+   "protein_g": 21,
+   "carbs_g": 10,
+   "fat_g": 20,
+   "fiber_g": 0.3,
+   "sugar_g": 8,
+   "satfat_g": 7.2,
+   "sodium_mg": 560
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1/4 rack (150 g)",
+    "grams": 150,
+    "isDefault": true
+   },
+   {
+    "label": "100 g",
+    "grams": 100
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": false,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "pork-ground-cooked",
+  "name": "Ground pork, cooked",
+  "brand": null,
+  "aliases": [],
+  "category": "meat",
+  "per100g": {
+   "kcal": 297,
+   "protein_g": 25.7,
+   "carbs_g": 0,
+   "fat_g": 20.8,
+   "fiber_g": 0,
+   "sugar_g": 0,
+   "satfat_g": 7.7,
+   "sodium_mg": 76
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "4 oz (113 g)",
+    "grams": 113,
+    "isDefault": true
+   },
+   {
+    "label": "6 oz (170 g)",
+    "grams": 170
+   },
+   {
+    "label": "3 oz (85 g)",
+    "grams": 85
+   },
+   {
+    "label": "1 oz (28 g)",
+    "grams": 28
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": true,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "pork-ham-roasted",
+  "name": "Ham, roasted, lean",
+  "brand": null,
+  "aliases": [],
+  "category": "meat",
+  "per100g": {
+   "kcal": 145,
+   "protein_g": 21.4,
+   "carbs_g": 1.5,
+   "fat_g": 5.5,
+   "fiber_g": 0,
+   "sugar_g": 1.5,
+   "satfat_g": 1.8,
+   "sodium_mg": 1200
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "3 oz (85 g)",
+    "grams": 85,
+    "isDefault": true
+   },
+   {
+    "label": "4 oz (113 g)",
+    "grams": 113
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": true,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "pork-ham-deli",
+  "name": "Ham, deli sliced",
+  "brand": null,
+  "aliases": [
+   "lunch meat ham"
+  ],
+  "category": "meat",
+  "per100g": {
+   "kcal": 107,
+   "protein_g": 16.5,
+   "carbs_g": 2.4,
+   "fat_g": 3.2,
+   "fiber_g": 0,
+   "sugar_g": 2,
+   "satfat_g": 1,
+   "sodium_mg": 1200
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "2 oz (57 g)",
+    "grams": 57,
+    "isDefault": true
+   },
+   {
+    "label": "1 slice (28 g)",
+    "grams": 28
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": true,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "pork-prosciutto",
+  "name": "Prosciutto",
+  "brand": null,
+  "aliases": [],
+  "category": "meat",
+  "per100g": {
+   "kcal": 195,
+   "protein_g": 26,
+   "carbs_g": 0.5,
+   "fat_g": 9.5,
+   "fiber_g": 0,
+   "sugar_g": 0,
+   "satfat_g": 3.4,
+   "sodium_mg": 2140
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 oz (28 g)",
+    "grams": 28,
+    "isDefault": true
+   },
+   {
+    "label": "1 slice (14 g)",
+    "grams": 14
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": false,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "pork-canadian-bacon",
+  "name": "Canadian bacon",
+  "brand": null,
+  "aliases": [
+   "back bacon",
+   "peameal bacon"
+  ],
+  "category": "meat",
+  "per100g": {
+   "kcal": 145,
+   "protein_g": 21,
+   "carbs_g": 1.4,
+   "fat_g": 6,
+   "fiber_g": 0,
+   "sugar_g": 1,
+   "satfat_g": 2,
+   "sodium_mg": 1360
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "2 slices (47 g)",
+    "grams": 47,
+    "isDefault": true
+   },
+   {
+    "label": "100 g",
+    "grams": 100
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": true,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "pork-bacon-raw",
+  "name": "Bacon, raw",
+  "brand": null,
+  "aliases": [],
+  "category": "meat",
+  "per100g": {
+   "kcal": 458,
+   "protein_g": 12,
+   "carbs_g": 1.3,
+   "fat_g": 45,
+   "fiber_g": 0,
+   "sugar_g": 0,
+   "satfat_g": 15,
+   "sodium_mg": 750
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "4 oz (113 g)",
+    "grams": 113,
+    "isDefault": true
+   },
+   {
+    "label": "6 oz (170 g)",
+    "grams": 170
+   },
+   {
+    "label": "3 oz (85 g)",
+    "grams": 85
+   },
+   {
+    "label": "1 oz (28 g)",
+    "grams": 28
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": true,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "pork-bacon-cooked",
+  "name": "Bacon, pan-fried",
+  "brand": null,
+  "aliases": [],
+  "category": "meat",
+  "per100g": {
+   "kcal": 541,
+   "protein_g": 37,
+   "carbs_g": 1.4,
+   "fat_g": 41.8,
+   "fiber_g": 0,
+   "sugar_g": 0,
+   "satfat_g": 13.9,
+   "sodium_mg": 1717
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 slice (8 g)",
+    "grams": 8,
+    "isDefault": true
+   },
+   {
+    "label": "3 slices (24 g)",
+    "grams": 24
+   },
+   {
+    "label": "100 g",
+    "grams": 100
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": true,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "pork-bacon-center-cut",
+  "name": "Bacon, center-cut, pan-fried",
+  "brand": null,
+  "aliases": [],
+  "category": "meat",
+  "per100g": {
+   "kcal": 500,
+   "protein_g": 38,
+   "carbs_g": 1,
+   "fat_g": 37,
+   "fiber_g": 0,
+   "sugar_g": 0,
+   "satfat_g": 12.5,
+   "sodium_mg": 1650
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 slice (7 g)",
+    "grams": 7,
+    "isDefault": true
+   },
+   {
+    "label": "3 slices (21 g)",
+    "grams": 21
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": false,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "pork-sausage-link-cooked",
+  "name": "Pork breakfast sausage, cooked",
+  "brand": null,
+  "aliases": [
+   "breakfast links"
+  ],
+  "category": "meat",
+  "per100g": {
+   "kcal": 339,
+   "protein_g": 19.6,
+   "carbs_g": 1.4,
+   "fat_g": 28.4,
+   "fiber_g": 0,
+   "sugar_g": 0,
+   "satfat_g": 9.5,
+   "sodium_mg": 749
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 link (26 g)",
+    "grams": 26,
+    "isDefault": true
+   },
+   {
+    "label": "2 links (52 g)",
+    "grams": 52
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": true,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "pork-sausage-patty-cooked",
+  "name": "Pork sausage patty, cooked",
+  "brand": null,
+  "aliases": [],
+  "category": "meat",
+  "per100g": {
+   "kcal": 332,
+   "protein_g": 18.5,
+   "carbs_g": 1.5,
+   "fat_g": 27.7,
+   "fiber_g": 0,
+   "sugar_g": 0,
+   "satfat_g": 9.3,
+   "sodium_mg": 780
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 patty (38 g)",
+    "grams": 38,
+    "isDefault": true
+   },
+   {
+    "label": "2 patties (76 g)",
+    "grams": 76
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": true,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "pork-italian-sausage-cooked",
+  "name": "Italian sausage, cooked",
+  "brand": null,
+  "aliases": [],
+  "category": "meat",
+  "per100g": {
+   "kcal": 344,
+   "protein_g": 19.1,
+   "carbs_g": 4.3,
+   "fat_g": 27.3,
+   "fiber_g": 0,
+   "sugar_g": 1.5,
+   "satfat_g": 9.6,
+   "sodium_mg": 850
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 link (83 g)",
+    "grams": 83,
+    "isDefault": true
+   },
+   {
+    "label": "100 g",
+    "grams": 100
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": true,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "pork-bratwurst-cooked",
+  "name": "Bratwurst, cooked",
+  "brand": null,
+  "aliases": [],
+  "category": "meat",
+  "per100g": {
+   "kcal": 333,
+   "protein_g": 13.7,
+   "carbs_g": 3.1,
+   "fat_g": 29.2,
+   "fiber_g": 0,
+   "sugar_g": 0,
+   "satfat_g": 10.1,
+   "sodium_mg": 848
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 link (85 g)",
+    "grams": 85,
+    "isDefault": true
+   },
+   {
+    "label": "100 g",
+    "grams": 100
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": true,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "pork-chorizo",
+  "name": "Chorizo, pork",
+  "brand": null,
+  "aliases": [],
+  "category": "meat",
+  "per100g": {
+   "kcal": 455,
+   "protein_g": 24.1,
+   "carbs_g": 1.9,
+   "fat_g": 38.3,
+   "fiber_g": 0,
+   "sugar_g": 0,
+   "satfat_g": 14.4,
+   "sodium_mg": 1235
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "2 oz (57 g)",
+    "grams": 57,
+    "isDefault": true
+   },
+   {
+    "label": "100 g",
+    "grams": 100
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": true,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "pork-kielbasa",
+  "name": "Kielbasa, pork",
+  "brand": null,
+  "aliases": [],
+  "category": "meat",
+  "per100g": {
+   "kcal": 309,
+   "protein_g": 13.5,
+   "carbs_g": 3.5,
+   "fat_g": 26.6,
+   "fiber_g": 0,
+   "sugar_g": 1.5,
+   "satfat_g": 9.3,
+   "sodium_mg": 1080
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "2 oz (57 g)",
+    "grams": 57,
+    "isDefault": true
+   },
+   {
+    "label": "100 g",
+    "grams": 100
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": true,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "pork-andouille",
+  "name": "Andouille sausage",
+  "brand": null,
+  "aliases": [],
+  "category": "meat",
+  "per100g": {
+   "kcal": 276,
+   "protein_g": 17,
+   "carbs_g": 2,
+   "fat_g": 22,
+   "fiber_g": 0,
+   "sugar_g": 0,
+   "satfat_g": 7.5,
+   "sodium_mg": 1120
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 link (85 g)",
+    "grams": 85,
+    "isDefault": true
+   },
+   {
+    "label": "100 g",
+    "grams": 100
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": false,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "pork-salami-hard",
+  "name": "Salami, hard",
+  "brand": null,
+  "aliases": [
+   "genoa salami"
+  ],
+  "category": "meat",
+  "per100g": {
+   "kcal": 407,
+   "protein_g": 22.6,
+   "carbs_g": 2.4,
+   "fat_g": 33.7,
+   "fiber_g": 0,
+   "sugar_g": 0,
+   "satfat_g": 11.9,
+   "sodium_mg": 1740
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 oz (28 g)",
+    "grams": 28,
+    "isDefault": true
+   },
+   {
+    "label": "3 slices (30 g)",
+    "grams": 30
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": true,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "pork-pepperoni",
+  "name": "Pepperoni",
+  "brand": null,
+  "aliases": [],
+  "category": "meat",
+  "per100g": {
+   "kcal": 504,
+   "protein_g": 19.5,
+   "carbs_g": 4.8,
+   "fat_g": 45,
+   "fiber_g": 0,
+   "sugar_g": 0,
+   "satfat_g": 16.2,
+   "sodium_mg": 1580
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 oz (28 g)",
+    "grams": 28,
+    "isDefault": true
+   },
+   {
+    "label": "15 slices (30 g)",
+    "grams": 30
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": true,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "pork-mortadella",
+  "name": "Mortadella",
+  "brand": null,
+  "aliases": [],
+  "category": "meat",
+  "per100g": {
+   "kcal": 311,
+   "protein_g": 16.4,
+   "carbs_g": 3,
+   "fat_g": 25.4,
+   "fiber_g": 0,
+   "sugar_g": 0,
+   "satfat_g": 9.5,
+   "sodium_mg": 1246
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "2 oz (57 g)",
+    "grams": 57,
+    "isDefault": true
+   },
+   {
+    "label": "100 g",
+    "grams": 100
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": false,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "pork-bologna",
+  "name": "Bologna",
+  "brand": null,
+  "aliases": [],
+  "category": "meat",
+  "per100g": {
+   "kcal": 308,
+   "protein_g": 11.7,
+   "carbs_g": 4.3,
+   "fat_g": 27.5,
+   "fiber_g": 0,
+   "sugar_g": 2.7,
+   "satfat_g": 10.6,
+   "sodium_mg": 1058
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 slice (28 g)",
+    "grams": 28,
+    "isDefault": true
+   },
+   {
+    "label": "2 slices (56 g)",
+    "grams": 56
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": true,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "pork-hot-dog",
+  "name": "Hot dog, pork and beef",
+  "brand": null,
+  "aliases": [
+   "frankfurter",
+   "wiener"
+  ],
+  "category": "meat",
+  "per100g": {
+   "kcal": 322,
+   "protein_g": 11.6,
+   "carbs_g": 2.6,
+   "fat_g": 29,
+   "fiber_g": 0,
+   "sugar_g": 1.2,
+   "satfat_g": 11,
+   "sodium_mg": 1090
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 hot dog (50 g)",
+    "grams": 50,
+    "isDefault": true
+   },
+   {
+    "label": "100 g",
+    "grams": 100
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": true,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "pork-hot-dog-beef",
+  "name": "Hot dog, all beef",
+  "brand": null,
+  "aliases": [
+   "frankfurter",
+   "wiener"
+  ],
+  "category": "meat",
+  "per100g": {
+   "kcal": 330,
+   "protein_g": 11.3,
+   "carbs_g": 3.6,
+   "fat_g": 29.9,
+   "fiber_g": 0,
+   "sugar_g": 2,
+   "satfat_g": 12.2,
+   "sodium_mg": 1050
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 hot dog (50 g)",
+    "grams": 50,
+    "isDefault": true
+   },
+   {
+    "label": "100 g",
+    "grams": 100
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": true,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "pork-spam",
+  "name": "Spam, luncheon meat",
+  "brand": "Spam",
+  "aliases": [
+   "luncheon meat"
+  ],
+  "category": "meat",
+  "per100g": {
+   "kcal": 315,
+   "protein_g": 13.4,
+   "carbs_g": 4.6,
+   "fat_g": 26.6,
+   "fiber_g": 0,
+   "sugar_g": 0,
+   "satfat_g": 9.9,
+   "sodium_mg": 1411
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "2 oz (56 g)",
+    "grams": 56,
+    "isDefault": true
+   },
+   {
+    "label": "100 g",
+    "grams": 100
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": true,
+  "source": "manufacturer label"
+ },
+ {
+  "id": "pork-lard",
+  "name": "Lard, rendered pork fat",
+  "brand": null,
+  "aliases": [],
+  "category": "meat",
+  "per100g": {
+   "kcal": 902,
+   "protein_g": 0,
+   "carbs_g": 0,
+   "fat_g": 100,
+   "fiber_g": 0,
+   "sugar_g": 0,
+   "satfat_g": 39.2,
+   "sodium_mg": 0
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 tbsp (13 g)",
+    "grams": 13,
+    "isDefault": true
+   },
+   {
+    "label": "1 cup (205 g)",
+    "grams": 205
+   }
+  ],
+  "density_g_per_ml": 0.92,
+  "verified": true,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "pork-scrapple",
+  "name": "Scrapple",
+  "brand": null,
+  "aliases": [],
+  "category": "meat",
+  "per100g": {
+   "kcal": 213,
+   "protein_g": 8.5,
+   "carbs_g": 14.3,
+   "fat_g": 13.6,
+   "fiber_g": 0.9,
+   "sugar_g": 0,
+   "satfat_g": 4.7,
+   "sodium_mg": 763
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 slice (57 g)",
+    "grams": 57,
+    "isDefault": true
+   },
+   {
+    "label": "100 g",
+    "grams": 100
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": false,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "pork-rinds",
+  "name": "Pork rinds",
+  "brand": null,
+  "aliases": [
+   "chicharrones",
+   "cracklings"
+  ],
+  "category": "meat",
+  "per100g": {
+   "kcal": 544,
+   "protein_g": 61.3,
+   "carbs_g": 0,
+   "fat_g": 31.3,
+   "fiber_g": 0,
+   "sugar_g": 0,
+   "satfat_g": 11.4,
+   "sodium_mg": 1698
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 oz (28 g)",
+    "grams": 28,
+    "isDefault": true
+   },
+   {
+    "label": "100 g",
+    "grams": 100
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": true,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "pork-liverwurst",
+  "name": "Liverwurst",
+  "brand": null,
+  "aliases": [
+   "braunschweiger"
+  ],
+  "category": "meat",
+  "per100g": {
+   "kcal": 327,
+   "protein_g": 14.5,
+   "carbs_g": 2.2,
+   "fat_g": 28.5,
+   "fiber_g": 0,
+   "sugar_g": 0,
+   "satfat_g": 10.6,
+   "sodium_mg": 860
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": 2530,
+   "vitamin_a_carotenoid_mcg_rae": 0,
+   "folate_food_mcg": 41,
+   "folic_acid_mcg": 0,
+   "folate_dfe_mcg": 41
+  },
+  "servings": [
+   {
+    "label": "1 oz (28 g)",
+    "grams": 28,
+    "isDefault": true
+   },
+   {
+    "label": "100 g",
+    "grams": 100
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": false,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "meatball-beef-cooked",
+  "name": "Meatballs, beef, cooked",
+  "brand": null,
+  "aliases": [],
+  "category": "meat",
+  "per100g": {
+   "kcal": 286,
+   "protein_g": 18,
+   "carbs_g": 8,
+   "fat_g": 20,
+   "fiber_g": 0.7,
+   "sugar_g": 1.5,
+   "satfat_g": 7.5,
+   "sodium_mg": 560
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "3 meatballs (85 g)",
+    "grams": 85,
+    "isDefault": true
+   },
+   {
+    "label": "100 g",
+    "grams": 100
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": false,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "meatloaf-beef",
+  "name": "Meatloaf, beef, homestyle",
+  "brand": null,
+  "aliases": [],
+  "category": "meat",
+  "per100g": {
+   "kcal": 217,
+   "protein_g": 15,
+   "carbs_g": 9,
+   "fat_g": 13,
+   "fiber_g": 0.7,
+   "sugar_g": 3,
+   "satfat_g": 4.9,
+   "sodium_mg": 480
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 slice (100 g)",
+    "grams": 100,
+    "isDefault": true
+   },
+   {
+    "label": "100 g",
+    "grams": 100
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": false,
+  "source": "USDA FoodData Central (SR Legacy)"
+ }
+]

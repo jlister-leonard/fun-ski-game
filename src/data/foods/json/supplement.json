@@ -1,0 +1,2030 @@
+[
+ {
+  "id": "whey-isolate-unflavored",
+  "name": "Whey protein isolate, unflavored",
+  "brand": null,
+  "aliases": [],
+  "category": "supplement",
+  "per100g": {
+   "kcal": 373,
+   "protein_g": 87,
+   "carbs_g": 3.3,
+   "fat_g": 1,
+   "fiber_g": 0,
+   "sugar_g": 1.7,
+   "satfat_g": 0.7,
+   "sodium_mg": 267
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 scoop (30 g)",
+    "grams": 30,
+    "isDefault": true
+   },
+   {
+    "label": "2 scoops (60 g)",
+    "grams": 60
+   },
+   {
+    "label": "1 tbsp (10 g)",
+    "grams": 10
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": false,
+  "source": "manufacturer label (typical US product)"
+ },
+ {
+  "id": "whey-isolate-vanilla",
+  "name": "Whey protein isolate, vanilla",
+  "brand": null,
+  "aliases": [],
+  "category": "supplement",
+  "per100g": {
+   "kcal": 379,
+   "protein_g": 79,
+   "carbs_g": 10,
+   "fat_g": 1.7,
+   "fiber_g": 1,
+   "sugar_g": 3.4,
+   "satfat_g": 1,
+   "sodium_mg": 400
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 scoop (31 g)",
+    "grams": 31,
+    "isDefault": true
+   },
+   {
+    "label": "2 scoops (62 g)",
+    "grams": 62
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": false,
+  "source": "manufacturer label (typical US product)"
+ },
+ {
+  "id": "whey-concentrate-chocolate",
+  "name": "Whey protein concentrate, chocolate",
+  "brand": null,
+  "aliases": [],
+  "category": "supplement",
+  "per100g": {
+   "kcal": 400,
+   "protein_g": 71,
+   "carbs_g": 13,
+   "fat_g": 6.5,
+   "fiber_g": 2.5,
+   "sugar_g": 5,
+   "satfat_g": 3.5,
+   "sodium_mg": 350
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 scoop (31 g)",
+    "grams": 31,
+    "isDefault": true
+   },
+   {
+    "label": "2 scoops (62 g)",
+    "grams": 62
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": false,
+  "source": "manufacturer label (typical US product)"
+ },
+ {
+  "id": "whey-blend-gold-standard",
+  "name": "Whey protein blend, chocolate",
+  "brand": "Optimum Nutrition",
+  "aliases": [
+   "optimum nutrition gold standard"
+  ],
+  "category": "supplement",
+  "per100g": {
+   "kcal": 387,
+   "protein_g": 77.4,
+   "carbs_g": 9.7,
+   "fat_g": 3.2,
+   "fiber_g": 3.2,
+   "sugar_g": 3.2,
+   "satfat_g": 1.6,
+   "sodium_mg": 420
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 scoop (31 g)",
+    "grams": 31,
+    "isDefault": true
+   },
+   {
+    "label": "2 scoops (62 g)",
+    "grams": 62
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": false,
+  "source": "manufacturer label (typical US product)"
+ },
+ {
+  "id": "casein-micellar-vanilla",
+  "name": "Micellar casein protein, vanilla",
+  "brand": null,
+  "aliases": [],
+  "category": "supplement",
+  "per100g": {
+   "kcal": 355,
+   "protein_g": 77,
+   "carbs_g": 10,
+   "fat_g": 1.5,
+   "fiber_g": 1.5,
+   "sugar_g": 3,
+   "satfat_g": 0.8,
+   "sodium_mg": 550
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 scoop (33 g)",
+    "grams": 33,
+    "isDefault": true
+   },
+   {
+    "label": "100 g",
+    "grams": 100
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": false,
+  "source": "manufacturer label (typical US product)"
+ },
+ {
+  "id": "protein-plant-pea-rice",
+  "name": "Plant protein powder, pea and rice",
+  "brand": null,
+  "aliases": [],
+  "category": "supplement",
+  "per100g": {
+   "kcal": 375,
+   "protein_g": 71,
+   "carbs_g": 13,
+   "fat_g": 6,
+   "fiber_g": 5,
+   "sugar_g": 2,
+   "satfat_g": 1,
+   "sodium_mg": 500
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 scoop (35 g)",
+    "grams": 35,
+    "isDefault": true
+   },
+   {
+    "label": "100 g",
+    "grams": 100
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": false,
+  "source": "manufacturer label (typical US product)"
+ },
+ {
+  "id": "protein-collagen-peptides",
+  "name": "Collagen peptides, unflavored",
+  "brand": null,
+  "aliases": [],
+  "category": "supplement",
+  "per100g": {
+   "kcal": 360,
+   "protein_g": 90,
+   "carbs_g": 0,
+   "fat_g": 0,
+   "fiber_g": 0,
+   "sugar_g": 0,
+   "satfat_g": 0,
+   "sodium_mg": 130
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 scoop (11 g)",
+    "grams": 11,
+    "isDefault": true
+   },
+   {
+    "label": "2 scoops (22 g)",
+    "grams": 22
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": false,
+  "source": "manufacturer label (typical US product)"
+ },
+ {
+  "id": "protein-egg-white-powder",
+  "name": "Egg white protein powder",
+  "brand": null,
+  "aliases": [],
+  "category": "supplement",
+  "per100g": {
+   "kcal": 382,
+   "protein_g": 81,
+   "carbs_g": 7.8,
+   "fat_g": 0.1,
+   "fiber_g": 0,
+   "sugar_g": 5.5,
+   "satfat_g": 0,
+   "sodium_mg": 1280
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 scoop (30 g)",
+    "grams": 30,
+    "isDefault": true
+   },
+   {
+    "label": "100 g",
+    "grams": 100
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": false,
+  "source": "manufacturer label (typical US product)"
+ },
+ {
+  "id": "protein-beef-isolate",
+  "name": "Beef protein isolate",
+  "brand": null,
+  "aliases": [],
+  "category": "supplement",
+  "per100g": {
+   "kcal": 360,
+   "protein_g": 85,
+   "carbs_g": 5,
+   "fat_g": 1,
+   "fiber_g": 0,
+   "sugar_g": 1,
+   "satfat_g": 0.5,
+   "sodium_mg": 600
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 scoop (30 g)",
+    "grams": 30,
+    "isDefault": true
+   },
+   {
+    "label": "100 g",
+    "grams": 100
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": false,
+  "source": "manufacturer label (typical US product)"
+ },
+ {
+  "id": "protein-mass-gainer",
+  "name": "Mass gainer powder, chocolate",
+  "brand": null,
+  "aliases": [],
+  "category": "supplement",
+  "per100g": {
+   "kcal": 380,
+   "protein_g": 20,
+   "carbs_g": 68,
+   "fat_g": 3.5,
+   "fiber_g": 3,
+   "sugar_g": 18,
+   "satfat_g": 1.5,
+   "sodium_mg": 300
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "2 scoops (165 g)",
+    "grams": 165,
+    "isDefault": true
+   },
+   {
+    "label": "100 g",
+    "grams": 100
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": false,
+  "source": "manufacturer label (typical US product)"
+ },
+ {
+  "id": "meal-replacement-huel",
+  "name": "Meal replacement powder, vanilla",
+  "brand": null,
+  "aliases": [
+   "huel"
+  ],
+  "category": "supplement",
+  "per100g": {
+   "kcal": 400,
+   "protein_g": 29,
+   "carbs_g": 37,
+   "fat_g": 13,
+   "fiber_g": 7,
+   "sugar_g": 4,
+   "satfat_g": 2,
+   "sodium_mg": 400
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "2 scoops (100 g)",
+    "grams": 100,
+    "isDefault": true
+   },
+   {
+    "label": "100 g",
+    "grams": 100
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": false,
+  "source": "manufacturer label (typical US product)"
+ },
+ {
+  "id": "shake-fairlife-core-power",
+  "name": "Fairlife Core Power, chocolate, 26 g",
+  "brand": "Fairlife",
+  "aliases": [],
+  "category": "supplement",
+  "per100g": {
+   "kcal": 55,
+   "protein_g": 8.7,
+   "carbs_g": 3.3,
+   "fat_g": 1,
+   "fiber_g": 0,
+   "sugar_g": 3.3,
+   "satfat_g": 0.7,
+   "sodium_mg": 60
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 bottle (414 ml)",
+    "grams": 426,
+    "isDefault": true
+   },
+   {
+    "label": "100 g",
+    "grams": 100
+   }
+  ],
+  "density_g_per_ml": 1.03,
+  "verified": false,
+  "source": "manufacturer label (typical US product)"
+ },
+ {
+  "id": "shake-fairlife-core-power-elite",
+  "name": "Fairlife Core Power Elite, 42 g protein",
+  "brand": "Fairlife",
+  "aliases": [],
+  "category": "supplement",
+  "per100g": {
+   "kcal": 69,
+   "protein_g": 13.1,
+   "carbs_g": 3.4,
+   "fat_g": 0.5,
+   "fiber_g": 0,
+   "sugar_g": 2.8,
+   "satfat_g": 0.3,
+   "sodium_mg": 65
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 bottle (414 ml)",
+    "grams": 426,
+    "isDefault": true
+   },
+   {
+    "label": "100 g",
+    "grams": 100
+   }
+  ],
+  "density_g_per_ml": 1.03,
+  "verified": false,
+  "source": "manufacturer label (typical US product)"
+ },
+ {
+  "id": "shake-premier-protein",
+  "name": "Premier Protein shake, chocolate",
+  "brand": "Premier Protein",
+  "aliases": [],
+  "category": "supplement",
+  "per100g": {
+   "kcal": 45,
+   "protein_g": 9.1,
+   "carbs_g": 1.5,
+   "fat_g": 0.9,
+   "fiber_g": 0.6,
+   "sugar_g": 0.3,
+   "satfat_g": 0.3,
+   "sodium_mg": 58
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 bottle (325 ml)",
+    "grams": 331,
+    "isDefault": true
+   },
+   {
+    "label": "100 g",
+    "grams": 100
+   }
+  ],
+  "density_g_per_ml": 1.02,
+  "verified": false,
+  "source": "manufacturer label (typical US product)"
+ },
+ {
+  "id": "shake-muscle-milk",
+  "name": "Muscle Milk Genuine shake",
+  "brand": "Muscle Milk",
+  "aliases": [],
+  "category": "supplement",
+  "per100g": {
+   "kcal": 63,
+   "protein_g": 8,
+   "carbs_g": 4.5,
+   "fat_g": 2,
+   "fiber_g": 1,
+   "sugar_g": 0.6,
+   "satfat_g": 0.6,
+   "sodium_mg": 100
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 bottle (330 ml)",
+    "grams": 340,
+    "isDefault": true
+   },
+   {
+    "label": "100 g",
+    "grams": 100
+   }
+  ],
+  "density_g_per_ml": 1.03,
+  "verified": false,
+  "source": "manufacturer label (typical US product)"
+ },
+ {
+  "id": "shake-orgain-plant",
+  "name": "Orgain plant protein shake, vanilla",
+  "brand": "Orgain",
+  "aliases": [],
+  "category": "supplement",
+  "per100g": {
+   "kcal": 44,
+   "protein_g": 5.9,
+   "carbs_g": 4.4,
+   "fat_g": 1.2,
+   "fiber_g": 0.6,
+   "sugar_g": 0.3,
+   "satfat_g": 0.2,
+   "sodium_mg": 85
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 carton (330 ml)",
+    "grams": 340,
+    "isDefault": true
+   },
+   {
+    "label": "100 g",
+    "grams": 100
+   }
+  ],
+  "density_g_per_ml": 1.03,
+  "verified": false,
+  "source": "manufacturer label (typical US product)"
+ },
+ {
+  "id": "shake-ensure-original",
+  "name": "Ensure Original nutrition shake",
+  "brand": "Ensure",
+  "aliases": [],
+  "category": "supplement",
+  "per100g": {
+   "kcal": 93,
+   "protein_g": 3.8,
+   "carbs_g": 16.1,
+   "fat_g": 2.5,
+   "fiber_g": 0.4,
+   "sugar_g": 6.3,
+   "satfat_g": 0.4,
+   "sodium_mg": 85
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 bottle (237 ml)",
+    "grams": 247,
+    "isDefault": true
+   },
+   {
+    "label": "100 g",
+    "grams": 100
+   }
+  ],
+  "density_g_per_ml": 1.04,
+  "verified": false,
+  "source": "manufacturer label (typical US product)"
+ },
+ {
+  "id": "bar-quest-chocolate-chip",
+  "name": "Quest Bar, chocolate chip cookie dough",
+  "brand": "Quest",
+  "aliases": [],
+  "category": "supplement",
+  "per100g": {
+   "kcal": 317,
+   "protein_g": 35,
+   "carbs_g": 41.7,
+   "fat_g": 13.3,
+   "fiber_g": 23.3,
+   "sugar_g": 1.7,
+   "satfat_g": 5,
+   "sodium_mg": 400
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 bar (60 g)",
+    "grams": 60,
+    "isDefault": true
+   },
+   {
+    "label": "100 g",
+    "grams": 100
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": false,
+  "source": "manufacturer label (typical US product)"
+ },
+ {
+  "id": "bar-rxbar-chocolate-sea-salt",
+  "name": "RXBAR, chocolate sea salt",
+  "brand": "RXBAR",
+  "aliases": [],
+  "category": "supplement",
+  "per100g": {
+   "kcal": 400,
+   "protein_g": 22,
+   "carbs_g": 46,
+   "fat_g": 18,
+   "fiber_g": 10,
+   "sugar_g": 26,
+   "satfat_g": 4,
+   "sodium_mg": 500
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 bar (52 g)",
+    "grams": 52,
+    "isDefault": true
+   },
+   {
+    "label": "100 g",
+    "grams": 100
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": false,
+  "source": "manufacturer label (typical US product)"
+ },
+ {
+  "id": "bar-clif-chocolate-chip",
+  "name": "Clif Bar, chocolate chip",
+  "brand": "Clif",
+  "aliases": [],
+  "category": "supplement",
+  "per100g": {
+   "kcal": 382,
+   "protein_g": 13.2,
+   "carbs_g": 66.2,
+   "fat_g": 8.1,
+   "fiber_g": 6.6,
+   "sugar_g": 30.9,
+   "satfat_g": 2.9,
+   "sodium_mg": 294
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 bar (68 g)",
+    "grams": 68,
+    "isDefault": true
+   },
+   {
+    "label": "100 g",
+    "grams": 100
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": false,
+  "source": "manufacturer label (typical US product)"
+ },
+ {
+  "id": "bar-kind-dark-chocolate-nuts",
+  "name": "KIND Bar, dark chocolate nuts and sea salt",
+  "brand": "KIND",
+  "aliases": [],
+  "category": "supplement",
+  "per100g": {
+   "kcal": 475,
+   "protein_g": 15,
+   "carbs_g": 42.5,
+   "fat_g": 32.5,
+   "fiber_g": 17.5,
+   "sugar_g": 12.5,
+   "satfat_g": 7.5,
+   "sodium_mg": 350
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 bar (40 g)",
+    "grams": 40,
+    "isDefault": true
+   },
+   {
+    "label": "100 g",
+    "grams": 100
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": false,
+  "source": "manufacturer label (typical US product)"
+ },
+ {
+  "id": "bar-built-protein",
+  "name": "Built Bar, protein puff",
+  "brand": "Built",
+  "aliases": [],
+  "category": "supplement",
+  "per100g": {
+   "kcal": 330,
+   "protein_g": 29,
+   "carbs_g": 48,
+   "fat_g": 5,
+   "fiber_g": 10,
+   "sugar_g": 3,
+   "satfat_g": 2.5,
+   "sodium_mg": 280
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 bar (55 g)",
+    "grams": 55,
+    "isDefault": true
+   },
+   {
+    "label": "100 g",
+    "grams": 100
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": false,
+  "source": "manufacturer label (typical US product)"
+ },
+ {
+  "id": "bar-barebells",
+  "name": "Barebells protein bar, cookies and cream",
+  "brand": "Barebells",
+  "aliases": [],
+  "category": "supplement",
+  "per100g": {
+   "kcal": 364,
+   "protein_g": 36.4,
+   "carbs_g": 32.7,
+   "fat_g": 14.5,
+   "fiber_g": 3.6,
+   "sugar_g": 1.8,
+   "satfat_g": 8.2,
+   "sodium_mg": 400
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 bar (55 g)",
+    "grams": 55,
+    "isDefault": true
+   },
+   {
+    "label": "100 g",
+    "grams": 100
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": false,
+  "source": "manufacturer label (typical US product)"
+ },
+ {
+  "id": "bar-one-protein",
+  "name": "ONE Protein Bar, birthday cake",
+  "brand": "ONE",
+  "aliases": [],
+  "category": "supplement",
+  "per100g": {
+   "kcal": 377,
+   "protein_g": 35.4,
+   "carbs_g": 39.6,
+   "fat_g": 13.5,
+   "fiber_g": 16.7,
+   "sugar_g": 1,
+   "satfat_g": 5.2,
+   "sodium_mg": 350
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 bar (60 g)",
+    "grams": 60,
+    "isDefault": true
+   },
+   {
+    "label": "100 g",
+    "grams": 100
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": false,
+  "source": "manufacturer label (typical US product)"
+ },
+ {
+  "id": "bar-pure-protein",
+  "name": "Pure Protein Bar, chocolate peanut butter",
+  "brand": "Pure Protein",
+  "aliases": [],
+  "category": "supplement",
+  "per100g": {
+   "kcal": 373,
+   "protein_g": 39.2,
+   "carbs_g": 33.3,
+   "fat_g": 11.8,
+   "fiber_g": 2,
+   "sugar_g": 5.9,
+   "satfat_g": 5.9,
+   "sodium_mg": 380
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 bar (50 g)",
+    "grams": 50,
+    "isDefault": true
+   },
+   {
+    "label": "100 g",
+    "grams": 100
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": false,
+  "source": "manufacturer label (typical US product)"
+ },
+ {
+  "id": "bar-perfect-bar-peanut-butter",
+  "name": "Perfect Bar, peanut butter",
+  "brand": "Perfect Bar",
+  "aliases": [],
+  "category": "supplement",
+  "per100g": {
+   "kcal": 446,
+   "protein_g": 20.4,
+   "carbs_g": 38.9,
+   "fat_g": 24.1,
+   "fiber_g": 5.6,
+   "sugar_g": 24.1,
+   "satfat_g": 5.6,
+   "sodium_mg": 280
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 bar (65 g)",
+    "grams": 65,
+    "isDefault": true
+   },
+   {
+    "label": "100 g",
+    "grams": 100
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": false,
+  "source": "manufacturer label (typical US product)"
+ },
+ {
+  "id": "bar-gomacro-peanut-butter",
+  "name": "GoMacro bar, peanut butter",
+  "brand": "GoMacro",
+  "aliases": [],
+  "category": "supplement",
+  "per100g": {
+   "kcal": 420,
+   "protein_g": 17.5,
+   "carbs_g": 55,
+   "fat_g": 15,
+   "fiber_g": 7.5,
+   "sugar_g": 30,
+   "satfat_g": 2.5,
+   "sodium_mg": 180
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 bar (60 g)",
+    "grams": 60,
+    "isDefault": true
+   },
+   {
+    "label": "100 g",
+    "grams": 100
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": false,
+  "source": "manufacturer label (typical US product)"
+ },
+ {
+  "id": "bar-nature-valley-granola",
+  "name": "Nature Valley Crunchy granola bar, oats and honey",
+  "brand": "Nature Valley",
+  "aliases": [],
+  "category": "supplement",
+  "per100g": {
+   "kcal": 452,
+   "protein_g": 7.1,
+   "carbs_g": 66.7,
+   "fat_g": 17.9,
+   "fiber_g": 4.8,
+   "sugar_g": 26.2,
+   "satfat_g": 2.4,
+   "sodium_mg": 380
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 pouch, 2 bars (42 g)",
+    "grams": 42,
+    "isDefault": true
+   },
+   {
+    "label": "100 g",
+    "grams": 100
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": false,
+  "source": "manufacturer label (typical US product)"
+ },
+ {
+  "id": "bar-larabar-cashew-cookie",
+  "name": "Larabar, cashew cookie",
+  "brand": "Larabar",
+  "aliases": [],
+  "category": "supplement",
+  "per100g": {
+   "kcal": 455,
+   "protein_g": 11.4,
+   "carbs_g": 50,
+   "fat_g": 25,
+   "fiber_g": 9.1,
+   "sugar_g": 29.5,
+   "satfat_g": 4.5,
+   "sodium_mg": 0
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 bar (45 g)",
+    "grams": 45,
+    "isDefault": true
+   },
+   {
+    "label": "100 g",
+    "grams": 100
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": false,
+  "source": "manufacturer label (typical US product)"
+ },
+ {
+  "id": "gel-gu-energy",
+  "name": "GU Energy Gel, vanilla",
+  "brand": "GU",
+  "aliases": [],
+  "category": "supplement",
+  "per100g": {
+   "kcal": 313,
+   "protein_g": 0,
+   "carbs_g": 72.7,
+   "fat_g": 0,
+   "fiber_g": 0,
+   "sugar_g": 18.2,
+   "satfat_g": 0,
+   "sodium_mg": 188
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 gel (32 g)",
+    "grams": 32,
+    "isDefault": true
+   },
+   {
+    "label": "100 g",
+    "grams": 100
+   }
+  ],
+  "density_g_per_ml": 1.3,
+  "verified": false,
+  "source": "manufacturer label (typical US product)"
+ },
+ {
+  "id": "gel-maurten-100",
+  "name": "Maurten Gel 100",
+  "brand": "Maurten",
+  "aliases": [],
+  "category": "supplement",
+  "per100g": {
+   "kcal": 248,
+   "protein_g": 0,
+   "carbs_g": 62,
+   "fat_g": 0,
+   "fiber_g": 0,
+   "sugar_g": 11,
+   "satfat_g": 0,
+   "sodium_mg": 30
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 gel (40 g)",
+    "grams": 40,
+    "isDefault": true
+   },
+   {
+    "label": "100 g",
+    "grams": 100
+   }
+  ],
+  "density_g_per_ml": 1.3,
+  "verified": false,
+  "source": "manufacturer label (typical US product)"
+ },
+ {
+  "id": "chews-clif-bloks",
+  "name": "Clif Bloks energy chews",
+  "brand": "Clif",
+  "aliases": [],
+  "category": "supplement",
+  "per100g": {
+   "kcal": 330,
+   "protein_g": 0,
+   "carbs_g": 82.5,
+   "fat_g": 0,
+   "fiber_g": 0,
+   "sugar_g": 40,
+   "satfat_g": 0,
+   "sodium_mg": 117
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 packet (60 g)",
+    "grams": 60,
+    "isDefault": true
+   },
+   {
+    "label": "3 bloks (30 g)",
+    "grams": 30
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": false,
+  "source": "manufacturer label (typical US product)"
+ },
+ {
+  "id": "drink-mix-tailwind",
+  "name": "Endurance fuel drink mix",
+  "brand": "Tailwind",
+  "aliases": [],
+  "category": "supplement",
+  "per100g": {
+   "kcal": 388,
+   "protein_g": 0,
+   "carbs_g": 97,
+   "fat_g": 0,
+   "fiber_g": 0,
+   "sugar_g": 97,
+   "satfat_g": 0,
+   "sodium_mg": 1400
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 scoop (27 g)",
+    "grams": 27,
+    "isDefault": true
+   },
+   {
+    "label": "100 g",
+    "grams": 100
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": false,
+  "source": "manufacturer label (typical US product)"
+ },
+ {
+  "id": "drink-mix-maurten-320",
+  "name": "Maurten Drink Mix 320",
+  "brand": "Maurten",
+  "aliases": [],
+  "category": "supplement",
+  "per100g": {
+   "kcal": 384,
+   "protein_g": 0,
+   "carbs_g": 96,
+   "fat_g": 0,
+   "fiber_g": 0,
+   "sugar_g": 18,
+   "satfat_g": 0,
+   "sodium_mg": 240
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 sachet (83 g)",
+    "grams": 83,
+    "isDefault": true
+   },
+   {
+    "label": "100 g",
+    "grams": 100
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": false,
+  "source": "manufacturer label (typical US product)"
+ },
+ {
+  "id": "creatine-monohydrate",
+  "name": "Creatine monohydrate powder",
+  "brand": null,
+  "aliases": [
+   "creatine"
+  ],
+  "category": "supplement",
+  "per100g": {
+   "kcal": 0,
+   "protein_g": 0,
+   "carbs_g": 0,
+   "fat_g": 0,
+   "fiber_g": 0,
+   "sugar_g": 0,
+   "satfat_g": 0,
+   "sodium_mg": 0
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 scoop, 5 g (5 g)",
+    "grams": 5,
+    "isDefault": true
+   },
+   {
+    "label": "1 tsp (5 g)",
+    "grams": 5
+   },
+   {
+    "label": "10 g (10 g)",
+    "grams": 10
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": false,
+  "source": "manufacturer label (typical US product)"
+ },
+ {
+  "id": "creatine-hcl",
+  "name": "Creatine HCl powder",
+  "brand": null,
+  "aliases": [],
+  "category": "supplement",
+  "per100g": {
+   "kcal": 0,
+   "protein_g": 0,
+   "carbs_g": 0,
+   "fat_g": 0,
+   "fiber_g": 0,
+   "sugar_g": 0,
+   "satfat_g": 0,
+   "sodium_mg": 0
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 scoop (3 g)",
+    "grams": 3,
+    "isDefault": true
+   },
+   {
+    "label": "100 g",
+    "grams": 100
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": false,
+  "source": "manufacturer label (typical US product)"
+ },
+ {
+  "id": "electrolyte-lmnt",
+  "name": "LMNT electrolyte drink mix, citrus salt",
+  "brand": "LMNT",
+  "aliases": [],
+  "category": "supplement",
+  "per100g": {
+   "kcal": 0,
+   "protein_g": 0,
+   "carbs_g": 0,
+   "fat_g": 0,
+   "fiber_g": 0,
+   "sugar_g": 0,
+   "satfat_g": 0,
+   "sodium_mg": 16667
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 stick (6 g)",
+    "grams": 6,
+    "isDefault": true
+   },
+   {
+    "label": "100 g",
+    "grams": 100
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": false,
+  "source": "manufacturer label (typical US product)"
+ },
+ {
+  "id": "electrolyte-liquid-iv",
+  "name": "Liquid I.V. Hydration Multiplier",
+  "brand": "Liquid I.V.",
+  "aliases": [],
+  "category": "supplement",
+  "per100g": {
+   "kcal": 288,
+   "protein_g": 0,
+   "carbs_g": 75,
+   "fat_g": 0,
+   "fiber_g": 0,
+   "sugar_g": 68.8,
+   "satfat_g": 0,
+   "sodium_mg": 3125
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 stick (16 g)",
+    "grams": 16,
+    "isDefault": true
+   },
+   {
+    "label": "100 g",
+    "grams": 100
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": false,
+  "source": "manufacturer label (typical US product)"
+ },
+ {
+  "id": "electrolyte-nuun-sport",
+  "name": "Nuun Sport electrolyte tablet",
+  "brand": "Nuun",
+  "aliases": [],
+  "category": "supplement",
+  "per100g": {
+   "kcal": 300,
+   "protein_g": 0,
+   "carbs_g": 80,
+   "fat_g": 0,
+   "fiber_g": 0,
+   "sugar_g": 20,
+   "satfat_g": 0,
+   "sodium_mg": 30000
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 tablet (5 g)",
+    "grams": 5,
+    "isDefault": true
+   },
+   {
+    "label": "100 g",
+    "grams": 100
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": false,
+  "source": "manufacturer label (typical US product)"
+ },
+ {
+  "id": "electrolyte-element-zero",
+  "name": "Electrolyte drink mix, zero calorie",
+  "brand": null,
+  "aliases": [],
+  "category": "supplement",
+  "per100g": {
+   "kcal": 0,
+   "protein_g": 0,
+   "carbs_g": 0,
+   "fat_g": 0,
+   "fiber_g": 0,
+   "sugar_g": 0,
+   "satfat_g": 0,
+   "sodium_mg": 15000
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 stick (5 g)",
+    "grams": 5,
+    "isDefault": true
+   },
+   {
+    "label": "100 g",
+    "grams": 100
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": false,
+  "source": "manufacturer label (typical US product)"
+ },
+ {
+  "id": "pre-workout-generic",
+  "name": "Pre-workout powder, typical",
+  "brand": null,
+  "aliases": [],
+  "category": "supplement",
+  "per100g": {
+   "kcal": 30,
+   "protein_g": 0,
+   "carbs_g": 7.5,
+   "fat_g": 0,
+   "fiber_g": 0,
+   "sugar_g": 0,
+   "satfat_g": 0,
+   "sodium_mg": 400
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 scoop (10 g)",
+    "grams": 10,
+    "isDefault": true
+   },
+   {
+    "label": "100 g",
+    "grams": 100
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": false,
+  "source": "manufacturer label (typical US product)"
+ },
+ {
+  "id": "bcaa-powder",
+  "name": "BCAA powder, unflavored",
+  "brand": null,
+  "aliases": [],
+  "category": "supplement",
+  "per100g": {
+   "kcal": 0,
+   "protein_g": 0,
+   "carbs_g": 0,
+   "fat_g": 0,
+   "fiber_g": 0,
+   "sugar_g": 0,
+   "satfat_g": 0,
+   "sodium_mg": 0
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 scoop (7 g)",
+    "grams": 7,
+    "isDefault": true
+   },
+   {
+    "label": "100 g",
+    "grams": 100
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": false,
+  "source": "manufacturer label (typical US product)"
+ },
+ {
+  "id": "eaa-powder",
+  "name": "EAA powder, flavored",
+  "brand": null,
+  "aliases": [],
+  "category": "supplement",
+  "per100g": {
+   "kcal": 300,
+   "protein_g": 75,
+   "carbs_g": 0,
+   "fat_g": 0,
+   "fiber_g": 0,
+   "sugar_g": 0,
+   "satfat_g": 0,
+   "sodium_mg": 500
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 scoop (12 g)",
+    "grams": 12,
+    "isDefault": true
+   },
+   {
+    "label": "100 g",
+    "grams": 100
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": false,
+  "source": "manufacturer label (typical US product)"
+ },
+ {
+  "id": "beta-alanine",
+  "name": "Beta-alanine powder",
+  "brand": null,
+  "aliases": [],
+  "category": "supplement",
+  "per100g": {
+   "kcal": 0,
+   "protein_g": 0,
+   "carbs_g": 0,
+   "fat_g": 0,
+   "fiber_g": 0,
+   "sugar_g": 0,
+   "satfat_g": 0,
+   "sodium_mg": 0
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 scoop (3.2 g)",
+    "grams": 3.2,
+    "isDefault": true
+   },
+   {
+    "label": "100 g",
+    "grams": 100
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": false,
+  "source": "manufacturer label (typical US product)"
+ },
+ {
+  "id": "glutamine-powder",
+  "name": "L-glutamine powder",
+  "brand": null,
+  "aliases": [],
+  "category": "supplement",
+  "per100g": {
+   "kcal": 0,
+   "protein_g": 0,
+   "carbs_g": 0,
+   "fat_g": 0,
+   "fiber_g": 0,
+   "sugar_g": 0,
+   "satfat_g": 0,
+   "sodium_mg": 0
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 scoop (5 g)",
+    "grams": 5,
+    "isDefault": true
+   },
+   {
+    "label": "100 g",
+    "grams": 100
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": false,
+  "source": "manufacturer label (typical US product)"
+ },
+ {
+  "id": "greens-powder",
+  "name": "Greens powder, superfood blend",
+  "brand": null,
+  "aliases": [],
+  "category": "supplement",
+  "per100g": {
+   "kcal": 300,
+   "protein_g": 20,
+   "carbs_g": 50,
+   "fat_g": 3,
+   "fiber_g": 20,
+   "sugar_g": 2,
+   "satfat_g": 0.5,
+   "sodium_mg": 400
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 scoop (12 g)",
+    "grams": 12,
+    "isDefault": true
+   },
+   {
+    "label": "100 g",
+    "grams": 100
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": false,
+  "source": "manufacturer label (typical US product)"
+ },
+ {
+  "id": "fiber-supplement-psyllium",
+  "name": "Fiber supplement, psyllium powder",
+  "brand": null,
+  "aliases": [],
+  "category": "supplement",
+  "per100g": {
+   "kcal": 200,
+   "protein_g": 1.6,
+   "carbs_g": 88,
+   "fat_g": 0.5,
+   "fiber_g": 80,
+   "sugar_g": 0,
+   "satfat_g": 0.1,
+   "sodium_mg": 30
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 tbsp (9 g)",
+    "grams": 9,
+    "isDefault": true
+   },
+   {
+    "label": "100 g",
+    "grams": 100
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": false,
+  "source": "manufacturer label (typical US product)"
+ },
+ {
+  "id": "fish-oil-capsule",
+  "name": "Fish oil capsule, 1000 mg",
+  "brand": null,
+  "aliases": [],
+  "category": "supplement",
+  "per100g": {
+   "kcal": 902,
+   "protein_g": 0,
+   "carbs_g": 0,
+   "fat_g": 100,
+   "fiber_g": 0,
+   "sugar_g": 0,
+   "satfat_g": 21.1,
+   "sodium_mg": 0
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 capsule (1 g)",
+    "grams": 1,
+    "isDefault": true
+   },
+   {
+    "label": "2 capsules (2 g)",
+    "grams": 2
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": false,
+  "source": "manufacturer label (typical US product)"
+ },
+ {
+  "id": "multivitamin-tablet",
+  "name": "Multivitamin tablet",
+  "brand": null,
+  "aliases": [],
+  "category": "supplement",
+  "per100g": {
+   "kcal": 0,
+   "protein_g": 0,
+   "carbs_g": 0,
+   "fat_g": 0,
+   "fiber_g": 0,
+   "sugar_g": 0,
+   "satfat_g": 0,
+   "sodium_mg": 0
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 tablet (1.5 g)",
+    "grams": 1.5,
+    "isDefault": true
+   },
+   {
+    "label": "100 g",
+    "grams": 100
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": false,
+  "source": "manufacturer label (typical US product)"
+ },
+ {
+  "id": "vitamin-d3-capsule",
+  "name": "Vitamin D3 capsule",
+  "brand": null,
+  "aliases": [],
+  "category": "supplement",
+  "per100g": {
+   "kcal": 0,
+   "protein_g": 0,
+   "carbs_g": 0,
+   "fat_g": 0,
+   "fiber_g": 0,
+   "sugar_g": 0,
+   "satfat_g": 0,
+   "sodium_mg": 0
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 capsule (0.5 g)",
+    "grams": 0.5,
+    "isDefault": true
+   },
+   {
+    "label": "100 g",
+    "grams": 100
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": false,
+  "source": "manufacturer label (typical US product)"
+ },
+ {
+  "id": "magnesium-glycinate",
+  "name": "Magnesium glycinate capsule",
+  "brand": null,
+  "aliases": [],
+  "category": "supplement",
+  "per100g": {
+   "kcal": 0,
+   "protein_g": 0,
+   "carbs_g": 0,
+   "fat_g": 0,
+   "fiber_g": 0,
+   "sugar_g": 0,
+   "satfat_g": 0,
+   "sodium_mg": 0
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 capsule (1 g)",
+    "grams": 1,
+    "isDefault": true
+   },
+   {
+    "label": "2 capsules (2 g)",
+    "grams": 2
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": false,
+  "source": "manufacturer label (typical US product)"
+ },
+ {
+  "id": "caffeine-tablet",
+  "name": "Caffeine tablet, 200 mg",
+  "brand": null,
+  "aliases": [],
+  "category": "supplement",
+  "per100g": {
+   "kcal": 0,
+   "protein_g": 0,
+   "carbs_g": 0,
+   "fat_g": 0,
+   "fiber_g": 0,
+   "sugar_g": 0,
+   "satfat_g": 0,
+   "sodium_mg": 0
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 tablet (0.4 g)",
+    "grams": 0.4,
+    "isDefault": true
+   },
+   {
+    "label": "100 g",
+    "grams": 100
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": false,
+  "source": "manufacturer label (typical US product)"
+ },
+ {
+  "id": "apple-cider-vinegar-gummy",
+  "name": "Apple cider vinegar gummies",
+  "brand": null,
+  "aliases": [],
+  "category": "supplement",
+  "per100g": {
+   "kcal": 300,
+   "protein_g": 0,
+   "carbs_g": 75,
+   "fat_g": 0,
+   "fiber_g": 0,
+   "sugar_g": 50,
+   "satfat_g": 0,
+   "sodium_mg": 30
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "2 gummies (8 g)",
+    "grams": 8,
+    "isDefault": true
+   },
+   {
+    "label": "100 g",
+    "grams": 100
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": false,
+  "source": "manufacturer label (typical US product)"
+ }
+]

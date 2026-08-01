@@ -1,0 +1,1365 @@
+[
+ {
+  "id": "pasta-spaghetti-dry",
+  "name": "Spaghetti, dry, enriched",
+  "brand": null,
+  "aliases": [
+   "dry pasta",
+   "uncooked pasta"
+  ],
+  "category": "pasta",
+  "per100g": {
+   "kcal": 371,
+   "protein_g": 13,
+   "carbs_g": 74.7,
+   "fat_g": 1.51,
+   "fiber_g": 3.2,
+   "sugar_g": 2.67,
+   "satfat_g": 0.28,
+   "sodium_mg": 6
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": 0,
+   "vitamin_a_carotenoid_mcg_rae": 0,
+   "folate_food_mcg": 15,
+   "folic_acid_mcg": 130,
+   "folate_dfe_mcg": 236
+  },
+  "servings": [
+   {
+    "label": "2 oz dry (56 g)",
+    "grams": 56,
+    "isDefault": true
+   },
+   {
+    "label": "100 g dry (100 g)",
+    "grams": 100
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": true,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "pasta-spaghetti-cooked",
+  "name": "Spaghetti, cooked, enriched",
+  "brand": null,
+  "aliases": [
+   "cooked pasta",
+   "noodles"
+  ],
+  "category": "pasta",
+  "per100g": {
+   "kcal": 158,
+   "protein_g": 5.8,
+   "carbs_g": 30.9,
+   "fat_g": 0.93,
+   "fiber_g": 1.8,
+   "sugar_g": 0.56,
+   "satfat_g": 0.18,
+   "sodium_mg": 1
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": 0,
+   "vitamin_a_carotenoid_mcg_rae": 0,
+   "folate_food_mcg": 5,
+   "folic_acid_mcg": 46,
+   "folate_dfe_mcg": 83
+  },
+  "servings": [
+   {
+    "label": "1 cup cooked (140 g)",
+    "grams": 140,
+    "isDefault": true
+   },
+   {
+    "label": "1/2 cup (70 g)",
+    "grams": 70
+   },
+   {
+    "label": "2 cups (280 g)",
+    "grams": 280
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": true,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "pasta-penne-cooked",
+  "name": "Penne, cooked",
+  "brand": null,
+  "aliases": [],
+  "category": "pasta",
+  "per100g": {
+   "kcal": 158,
+   "protein_g": 5.8,
+   "carbs_g": 30.9,
+   "fat_g": 0.93,
+   "fiber_g": 1.8,
+   "sugar_g": 0.56,
+   "satfat_g": 0.18,
+   "sodium_mg": 1
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 cup cooked (107 g)",
+    "grams": 107,
+    "isDefault": true
+   },
+   {
+    "label": "100 g",
+    "grams": 100
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": true,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "pasta-rotini-cooked",
+  "name": "Rotini, cooked",
+  "brand": null,
+  "aliases": [
+   "fusilli"
+  ],
+  "category": "pasta",
+  "per100g": {
+   "kcal": 158,
+   "protein_g": 5.8,
+   "carbs_g": 30.9,
+   "fat_g": 0.93,
+   "fiber_g": 1.8,
+   "sugar_g": 0.56,
+   "satfat_g": 0.18,
+   "sodium_mg": 1
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 cup cooked (105 g)",
+    "grams": 105,
+    "isDefault": true
+   },
+   {
+    "label": "100 g",
+    "grams": 100
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": true,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "pasta-macaroni-cooked",
+  "name": "Elbow macaroni, cooked",
+  "brand": null,
+  "aliases": [],
+  "category": "pasta",
+  "per100g": {
+   "kcal": 158,
+   "protein_g": 5.8,
+   "carbs_g": 30.9,
+   "fat_g": 0.93,
+   "fiber_g": 1.8,
+   "sugar_g": 0.56,
+   "satfat_g": 0.18,
+   "sodium_mg": 1
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 cup cooked (140 g)",
+    "grams": 140,
+    "isDefault": true
+   },
+   {
+    "label": "100 g",
+    "grams": 100
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": true,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "pasta-farfalle-cooked",
+  "name": "Farfalle, cooked",
+  "brand": null,
+  "aliases": [
+   "bow tie pasta"
+  ],
+  "category": "pasta",
+  "per100g": {
+   "kcal": 158,
+   "protein_g": 5.8,
+   "carbs_g": 30.9,
+   "fat_g": 0.93,
+   "fiber_g": 1.8,
+   "sugar_g": 0.56,
+   "satfat_g": 0.18,
+   "sodium_mg": 1
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 cup cooked (107 g)",
+    "grams": 107,
+    "isDefault": true
+   },
+   {
+    "label": "100 g",
+    "grams": 100
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": true,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "pasta-linguine-cooked",
+  "name": "Linguine, cooked",
+  "brand": null,
+  "aliases": [],
+  "category": "pasta",
+  "per100g": {
+   "kcal": 158,
+   "protein_g": 5.8,
+   "carbs_g": 30.9,
+   "fat_g": 0.93,
+   "fiber_g": 1.8,
+   "sugar_g": 0.56,
+   "satfat_g": 0.18,
+   "sodium_mg": 1
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 cup cooked (140 g)",
+    "grams": 140,
+    "isDefault": true
+   },
+   {
+    "label": "100 g",
+    "grams": 100
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": true,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "pasta-rigatoni-cooked",
+  "name": "Rigatoni, cooked",
+  "brand": null,
+  "aliases": [],
+  "category": "pasta",
+  "per100g": {
+   "kcal": 158,
+   "protein_g": 5.8,
+   "carbs_g": 30.9,
+   "fat_g": 0.93,
+   "fiber_g": 1.8,
+   "sugar_g": 0.56,
+   "satfat_g": 0.18,
+   "sodium_mg": 1
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 cup cooked (110 g)",
+    "grams": 110,
+    "isDefault": true
+   },
+   {
+    "label": "100 g",
+    "grams": 100
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": true,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "pasta-shells-cooked",
+  "name": "Pasta shells, cooked",
+  "brand": null,
+  "aliases": [],
+  "category": "pasta",
+  "per100g": {
+   "kcal": 158,
+   "protein_g": 5.8,
+   "carbs_g": 30.9,
+   "fat_g": 0.93,
+   "fiber_g": 1.8,
+   "sugar_g": 0.56,
+   "satfat_g": 0.18,
+   "sodium_mg": 1
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 cup cooked (110 g)",
+    "grams": 110,
+    "isDefault": true
+   },
+   {
+    "label": "100 g",
+    "grams": 100
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": true,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "pasta-orzo-cooked",
+  "name": "Orzo, cooked",
+  "brand": null,
+  "aliases": [],
+  "category": "pasta",
+  "per100g": {
+   "kcal": 158,
+   "protein_g": 5.8,
+   "carbs_g": 30.9,
+   "fat_g": 0.93,
+   "fiber_g": 1.8,
+   "sugar_g": 0.56,
+   "satfat_g": 0.18,
+   "sodium_mg": 1
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 cup cooked (140 g)",
+    "grams": 140,
+    "isDefault": true
+   },
+   {
+    "label": "100 g",
+    "grams": 100
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": false,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "pasta-angel-hair-cooked",
+  "name": "Angel hair pasta, cooked",
+  "brand": null,
+  "aliases": [
+   "capellini"
+  ],
+  "category": "pasta",
+  "per100g": {
+   "kcal": 158,
+   "protein_g": 5.8,
+   "carbs_g": 30.9,
+   "fat_g": 0.93,
+   "fiber_g": 1.8,
+   "sugar_g": 0.56,
+   "satfat_g": 0.18,
+   "sodium_mg": 1
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 cup cooked (140 g)",
+    "grams": 140,
+    "isDefault": true
+   },
+   {
+    "label": "100 g",
+    "grams": 100
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": false,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "pasta-lasagna-noodle-cooked",
+  "name": "Lasagna noodles, cooked",
+  "brand": null,
+  "aliases": [],
+  "category": "pasta",
+  "per100g": {
+   "kcal": 158,
+   "protein_g": 5.8,
+   "carbs_g": 30.9,
+   "fat_g": 0.93,
+   "fiber_g": 1.8,
+   "sugar_g": 0.56,
+   "satfat_g": 0.18,
+   "sodium_mg": 1
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 noodle (50 g)",
+    "grams": 50,
+    "isDefault": true
+   },
+   {
+    "label": "100 g",
+    "grams": 100
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": false,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "pasta-whole-wheat-dry",
+  "name": "Whole wheat pasta, dry",
+  "brand": null,
+  "aliases": [],
+  "category": "pasta",
+  "per100g": {
+   "kcal": 348,
+   "protein_g": 14.6,
+   "carbs_g": 75,
+   "fat_g": 1.4,
+   "fiber_g": 9,
+   "sugar_g": 2.8,
+   "satfat_g": 0.26,
+   "sodium_mg": 8
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": 0,
+   "vitamin_a_carotenoid_mcg_rae": 0,
+   "folate_food_mcg": 44,
+   "folic_acid_mcg": 0,
+   "folate_dfe_mcg": 44
+  },
+  "servings": [
+   {
+    "label": "2 oz dry (56 g)",
+    "grams": 56,
+    "isDefault": true
+   },
+   {
+    "label": "100 g",
+    "grams": 100
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": true,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "pasta-whole-wheat-cooked",
+  "name": "Whole wheat pasta, cooked",
+  "brand": null,
+  "aliases": [],
+  "category": "pasta",
+  "per100g": {
+   "kcal": 124,
+   "protein_g": 5.33,
+   "carbs_g": 26.5,
+   "fat_g": 0.54,
+   "fiber_g": 3.9,
+   "sugar_g": 1.1,
+   "satfat_g": 0.1,
+   "sodium_mg": 3
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": 0,
+   "vitamin_a_carotenoid_mcg_rae": 0,
+   "folate_food_mcg": 16,
+   "folic_acid_mcg": 0,
+   "folate_dfe_mcg": 16
+  },
+  "servings": [
+   {
+    "label": "1 cup cooked (140 g)",
+    "grams": 140,
+    "isDefault": true
+   },
+   {
+    "label": "1/2 cup (70 g)",
+    "grams": 70
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": true,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "pasta-gluten-free-cooked",
+  "name": "Gluten-free pasta, corn and rice, cooked",
+  "brand": null,
+  "aliases": [],
+  "category": "pasta",
+  "per100g": {
+   "kcal": 145,
+   "protein_g": 2.8,
+   "carbs_g": 31.5,
+   "fat_g": 0.9,
+   "fiber_g": 2.6,
+   "sugar_g": 0.5,
+   "satfat_g": 0.15,
+   "sodium_mg": 3
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 cup cooked (140 g)",
+    "grams": 140,
+    "isDefault": true
+   },
+   {
+    "label": "100 g",
+    "grams": 100
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": false,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "pasta-chickpea-dry",
+  "name": "Chickpea pasta, dry",
+  "brand": "Banza",
+  "aliases": [
+   "banza"
+  ],
+  "category": "pasta",
+  "per100g": {
+   "kcal": 340,
+   "protein_g": 24,
+   "carbs_g": 60,
+   "fat_g": 5,
+   "fiber_g": 16,
+   "sugar_g": 4,
+   "satfat_g": 0.5,
+   "sodium_mg": 60
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "2 oz dry (56 g)",
+    "grams": 56,
+    "isDefault": true
+   },
+   {
+    "label": "100 g",
+    "grams": 100
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": true,
+  "source": "manufacturer label"
+ },
+ {
+  "id": "pasta-chickpea-cooked",
+  "name": "Chickpea pasta, cooked",
+  "brand": null,
+  "aliases": [],
+  "category": "pasta",
+  "per100g": {
+   "kcal": 160,
+   "protein_g": 11,
+   "carbs_g": 28,
+   "fat_g": 2.3,
+   "fiber_g": 7.5,
+   "sugar_g": 1.9,
+   "satfat_g": 0.25,
+   "sodium_mg": 28
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 cup cooked (140 g)",
+    "grams": 140,
+    "isDefault": true
+   },
+   {
+    "label": "100 g",
+    "grams": 100
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": false,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "pasta-lentil-dry",
+  "name": "Red lentil pasta, dry",
+  "brand": null,
+  "aliases": [],
+  "category": "pasta",
+  "per100g": {
+   "kcal": 340,
+   "protein_g": 25,
+   "carbs_g": 58,
+   "fat_g": 1.5,
+   "fiber_g": 9,
+   "sugar_g": 2,
+   "satfat_g": 0.3,
+   "sodium_mg": 20
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "2 oz dry (56 g)",
+    "grams": 56,
+    "isDefault": true
+   },
+   {
+    "label": "100 g",
+    "grams": 100
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": false,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "pasta-lentil-cooked",
+  "name": "Red lentil pasta, cooked",
+  "brand": null,
+  "aliases": [],
+  "category": "pasta",
+  "per100g": {
+   "kcal": 150,
+   "protein_g": 11,
+   "carbs_g": 26,
+   "fat_g": 0.7,
+   "fiber_g": 4,
+   "sugar_g": 0.9,
+   "satfat_g": 0.15,
+   "sodium_mg": 9
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 cup cooked (140 g)",
+    "grams": 140,
+    "isDefault": true
+   },
+   {
+    "label": "100 g",
+    "grams": 100
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": false,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "pasta-protein-plus-dry",
+  "name": "Protein plus pasta, dry",
+  "brand": "Barilla",
+  "aliases": [],
+  "category": "pasta",
+  "per100g": {
+   "kcal": 360,
+   "protein_g": 17,
+   "carbs_g": 66,
+   "fat_g": 3,
+   "fiber_g": 5,
+   "sugar_g": 2.5,
+   "satfat_g": 0.5,
+   "sodium_mg": 10
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "2 oz dry (56 g)",
+    "grams": 56,
+    "isDefault": true
+   },
+   {
+    "label": "100 g",
+    "grams": 100
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": false,
+  "source": "manufacturer label"
+ },
+ {
+  "id": "pasta-egg-noodles-cooked",
+  "name": "Egg noodles, cooked",
+  "brand": null,
+  "aliases": [],
+  "category": "pasta",
+  "per100g": {
+   "kcal": 138,
+   "protein_g": 4.54,
+   "carbs_g": 25.2,
+   "fat_g": 2.07,
+   "fiber_g": 1.2,
+   "sugar_g": 0.4,
+   "satfat_g": 0.42,
+   "sodium_mg": 5
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 cup cooked (160 g)",
+    "grams": 160,
+    "isDefault": true
+   },
+   {
+    "label": "100 g",
+    "grams": 100
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": true,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "pasta-gnocchi",
+  "name": "Gnocchi, potato, cooked",
+  "brand": null,
+  "aliases": [],
+  "category": "pasta",
+  "per100g": {
+   "kcal": 175,
+   "protein_g": 4,
+   "carbs_g": 35,
+   "fat_g": 1.5,
+   "fiber_g": 2,
+   "sugar_g": 1,
+   "satfat_g": 0.3,
+   "sodium_mg": 400
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 cup (160 g)",
+    "grams": 160,
+    "isDefault": true
+   },
+   {
+    "label": "100 g",
+    "grams": 100
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": false,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "pasta-ravioli-cheese",
+  "name": "Ravioli, cheese, cooked",
+  "brand": null,
+  "aliases": [],
+  "category": "pasta",
+  "per100g": {
+   "kcal": 180,
+   "protein_g": 8,
+   "carbs_g": 26,
+   "fat_g": 4.5,
+   "fiber_g": 2,
+   "sugar_g": 2,
+   "satfat_g": 2.2,
+   "sodium_mg": 420
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 cup (140 g)",
+    "grams": 140,
+    "isDefault": true
+   },
+   {
+    "label": "100 g",
+    "grams": 100
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": false,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "pasta-tortellini-cheese",
+  "name": "Tortellini, cheese, cooked",
+  "brand": null,
+  "aliases": [],
+  "category": "pasta",
+  "per100g": {
+   "kcal": 250,
+   "protein_g": 11,
+   "carbs_g": 38,
+   "fat_g": 6,
+   "fiber_g": 2,
+   "sugar_g": 2,
+   "satfat_g": 3,
+   "sodium_mg": 500
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 cup (150 g)",
+    "grams": 150,
+    "isDefault": true
+   },
+   {
+    "label": "100 g",
+    "grams": 100
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": false,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "pasta-couscous-israeli",
+  "name": "Israeli couscous, cooked",
+  "brand": null,
+  "aliases": [],
+  "category": "pasta",
+  "per100g": {
+   "kcal": 130,
+   "protein_g": 4.5,
+   "carbs_g": 26,
+   "fat_g": 0.3,
+   "fiber_g": 1.5,
+   "sugar_g": 0.1,
+   "satfat_g": 0.05,
+   "sodium_mg": 5
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 cup (157 g)",
+    "grams": 157,
+    "isDefault": true
+   },
+   {
+    "label": "100 g",
+    "grams": 100
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": false,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "noodle-rice-cooked",
+  "name": "Rice noodles, cooked",
+  "brand": null,
+  "aliases": [
+   "pad thai noodles",
+   "rice stick"
+  ],
+  "category": "pasta",
+  "per100g": {
+   "kcal": 108,
+   "protein_g": 0.91,
+   "carbs_g": 24.9,
+   "fat_g": 0.2,
+   "fiber_g": 1,
+   "sugar_g": 0.1,
+   "satfat_g": 0.05,
+   "sodium_mg": 19
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 cup cooked (176 g)",
+    "grams": 176,
+    "isDefault": true
+   },
+   {
+    "label": "100 g",
+    "grams": 100
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": true,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "noodle-rice-vermicelli-cooked",
+  "name": "Rice vermicelli, cooked",
+  "brand": null,
+  "aliases": [],
+  "category": "pasta",
+  "per100g": {
+   "kcal": 109,
+   "protein_g": 1,
+   "carbs_g": 25,
+   "fat_g": 0.2,
+   "fiber_g": 1,
+   "sugar_g": 0.1,
+   "satfat_g": 0.05,
+   "sodium_mg": 20
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 cup cooked (176 g)",
+    "grams": 176,
+    "isDefault": true
+   },
+   {
+    "label": "100 g",
+    "grams": 100
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": false,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "noodle-soba-cooked",
+  "name": "Soba noodles, cooked",
+  "brand": null,
+  "aliases": [
+   "buckwheat noodles"
+  ],
+  "category": "pasta",
+  "per100g": {
+   "kcal": 99,
+   "protein_g": 5.06,
+   "carbs_g": 21.4,
+   "fat_g": 0.1,
+   "fiber_g": 0,
+   "sugar_g": 0,
+   "satfat_g": 0.02,
+   "sodium_mg": 60
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 cup cooked (114 g)",
+    "grams": 114,
+    "isDefault": true
+   },
+   {
+    "label": "100 g",
+    "grams": 100
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": true,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "noodle-udon-cooked",
+  "name": "Udon noodles, cooked",
+  "brand": null,
+  "aliases": [],
+  "category": "pasta",
+  "per100g": {
+   "kcal": 127,
+   "protein_g": 3.5,
+   "carbs_g": 27,
+   "fat_g": 0.3,
+   "fiber_g": 1.5,
+   "sugar_g": 0.5,
+   "satfat_g": 0.05,
+   "sodium_mg": 180
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 cup cooked (200 g)",
+    "grams": 200,
+    "isDefault": true
+   },
+   {
+    "label": "100 g",
+    "grams": 100
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": false,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "noodle-ramen-instant",
+  "name": "Instant ramen noodles with seasoning",
+  "brand": null,
+  "aliases": [
+   "cup noodles"
+  ],
+  "category": "pasta",
+  "per100g": {
+   "kcal": 448,
+   "protein_g": 10,
+   "carbs_g": 65,
+   "fat_g": 17,
+   "fiber_g": 3,
+   "sugar_g": 2,
+   "satfat_g": 8,
+   "sodium_mg": 1800
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 package (85 g)",
+    "grams": 85,
+    "isDefault": true
+   },
+   {
+    "label": "1/2 package (43 g)",
+    "grams": 43
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": false,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "noodle-ramen-fresh-cooked",
+  "name": "Fresh ramen noodles, cooked",
+  "brand": null,
+  "aliases": [],
+  "category": "pasta",
+  "per100g": {
+   "kcal": 130,
+   "protein_g": 4.5,
+   "carbs_g": 26,
+   "fat_g": 0.8,
+   "fiber_g": 1.5,
+   "sugar_g": 0.5,
+   "satfat_g": 0.15,
+   "sodium_mg": 280
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 serving (150 g)",
+    "grams": 150,
+    "isDefault": true
+   },
+   {
+    "label": "100 g",
+    "grams": 100
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": false,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "noodle-glass-cooked",
+  "name": "Glass noodles, cooked",
+  "brand": null,
+  "aliases": [
+   "cellophane noodles",
+   "mung bean noodles"
+  ],
+  "category": "pasta",
+  "per100g": {
+   "kcal": 82,
+   "protein_g": 0.1,
+   "carbs_g": 20,
+   "fat_g": 0.02,
+   "fiber_g": 0.3,
+   "sugar_g": 0,
+   "satfat_g": 0,
+   "sodium_mg": 4
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 cup cooked (190 g)",
+    "grams": 190,
+    "isDefault": true
+   },
+   {
+    "label": "100 g",
+    "grams": 100
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": false,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "noodle-shirataki",
+  "name": "Shirataki noodles",
+  "brand": null,
+  "aliases": [
+   "konjac noodles",
+   "miracle noodles"
+  ],
+  "category": "pasta",
+  "per100g": {
+   "kcal": 9,
+   "protein_g": 0,
+   "carbs_g": 3,
+   "fat_g": 0,
+   "fiber_g": 3,
+   "sugar_g": 0,
+   "satfat_g": 0,
+   "sodium_mg": 10
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 package (200 g)",
+    "grams": 200,
+    "isDefault": true
+   },
+   {
+    "label": "100 g",
+    "grams": 100
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": false,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "noodle-egg-lo-mein",
+  "name": "Lo mein noodles, cooked",
+  "brand": null,
+  "aliases": [],
+  "category": "pasta",
+  "per100g": {
+   "kcal": 140,
+   "protein_g": 5,
+   "carbs_g": 27,
+   "fat_g": 1.5,
+   "fiber_g": 1.5,
+   "sugar_g": 0.5,
+   "satfat_g": 0.3,
+   "sodium_mg": 180
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 cup (160 g)",
+    "grams": 160,
+    "isDefault": true
+   },
+   {
+    "label": "100 g",
+    "grams": 100
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": false,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "noodle-zucchini",
+  "name": "Zucchini noodles, raw",
+  "brand": null,
+  "aliases": [
+   "zoodles"
+  ],
+  "category": "pasta",
+  "per100g": {
+   "kcal": 17,
+   "protein_g": 1.2,
+   "carbs_g": 3.1,
+   "fat_g": 0.3,
+   "fiber_g": 1,
+   "sugar_g": 2.5,
+   "satfat_g": 0.1,
+   "sodium_mg": 8
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 cup (124 g)",
+    "grams": 124,
+    "isDefault": true
+   },
+   {
+    "label": "100 g",
+    "grams": 100
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": true,
+  "source": "USDA FoodData Central (SR Legacy)"
+ }
+]

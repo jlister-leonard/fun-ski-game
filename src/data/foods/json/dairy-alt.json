@@ -1,0 +1,1238 @@
+[
+ {
+  "id": "almond-milk-unsweetened",
+  "name": "Almond milk, unsweetened",
+  "brand": null,
+  "aliases": [
+   "unsweetened almond milk"
+  ],
+  "category": "dairy-alt",
+  "per100g": {
+   "kcal": 15,
+   "protein_g": 0.6,
+   "carbs_g": 0.6,
+   "fat_g": 1.25,
+   "fiber_g": 0.4,
+   "sugar_g": 0,
+   "satfat_g": 0,
+   "sodium_mg": 72
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 cup (240 ml)",
+    "grams": 242,
+    "isDefault": true
+   },
+   {
+    "label": "1/2 cup (120 ml)",
+    "grams": 121
+   },
+   {
+    "label": "1 tbsp (15 ml)",
+    "grams": 15
+   }
+  ],
+  "density_g_per_ml": 1.01,
+  "verified": false,
+  "source": "manufacturer label (typical US product)"
+ },
+ {
+  "id": "almond-milk-sweetened-vanilla",
+  "name": "Almond milk, sweetened vanilla",
+  "brand": null,
+  "aliases": [],
+  "category": "dairy-alt",
+  "per100g": {
+   "kcal": 38,
+   "protein_g": 0.4,
+   "carbs_g": 6.5,
+   "fat_g": 1,
+   "fiber_g": 0.4,
+   "sugar_g": 5.8,
+   "satfat_g": 0,
+   "sodium_mg": 65
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 cup (240 ml)",
+    "grams": 242,
+    "isDefault": true
+   },
+   {
+    "label": "1/2 cup (120 ml)",
+    "grams": 121
+   }
+  ],
+  "density_g_per_ml": 1.01,
+  "verified": false,
+  "source": "manufacturer label (typical US product)"
+ },
+ {
+  "id": "almond-milk-original",
+  "name": "Almond milk, original sweetened",
+  "brand": null,
+  "aliases": [],
+  "category": "dairy-alt",
+  "per100g": {
+   "kcal": 24,
+   "protein_g": 0.4,
+   "carbs_g": 3.3,
+   "fat_g": 1,
+   "fiber_g": 0.4,
+   "sugar_g": 2.9,
+   "satfat_g": 0,
+   "sodium_mg": 65
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 cup (240 ml)",
+    "grams": 242,
+    "isDefault": true
+   },
+   {
+    "label": "100 g",
+    "grams": 100
+   }
+  ],
+  "density_g_per_ml": 1.01,
+  "verified": false,
+  "source": "manufacturer label (typical US product)"
+ },
+ {
+  "id": "soy-milk-unsweetened",
+  "name": "Soy milk, unsweetened",
+  "brand": null,
+  "aliases": [],
+  "category": "dairy-alt",
+  "per100g": {
+   "kcal": 33,
+   "protein_g": 2.9,
+   "carbs_g": 1.7,
+   "fat_g": 1.6,
+   "fiber_g": 0.4,
+   "sugar_g": 0.5,
+   "satfat_g": 0.2,
+   "sodium_mg": 38
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 cup (240 ml)",
+    "grams": 243,
+    "isDefault": true
+   },
+   {
+    "label": "1/2 cup (120 ml)",
+    "grams": 122
+   }
+  ],
+  "density_g_per_ml": 1.01,
+  "verified": true,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "soy-milk-original",
+  "name": "Soy milk, original sweetened",
+  "brand": null,
+  "aliases": [],
+  "category": "dairy-alt",
+  "per100g": {
+   "kcal": 43,
+   "protein_g": 2.8,
+   "carbs_g": 4.2,
+   "fat_g": 1.8,
+   "fiber_g": 0.4,
+   "sugar_g": 3.5,
+   "satfat_g": 0.2,
+   "sodium_mg": 46
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 cup (240 ml)",
+    "grams": 243,
+    "isDefault": true
+   },
+   {
+    "label": "100 g",
+    "grams": 100
+   }
+  ],
+  "density_g_per_ml": 1.01,
+  "verified": false,
+  "source": "manufacturer label (typical US product)"
+ },
+ {
+  "id": "soy-milk-vanilla",
+  "name": "Soy milk, vanilla",
+  "brand": null,
+  "aliases": [],
+  "category": "dairy-alt",
+  "per100g": {
+   "kcal": 44,
+   "protein_g": 2.6,
+   "carbs_g": 5,
+   "fat_g": 1.7,
+   "fiber_g": 0.2,
+   "sugar_g": 4.2,
+   "satfat_g": 0.2,
+   "sodium_mg": 40
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 cup (240 ml)",
+    "grams": 243,
+    "isDefault": true
+   },
+   {
+    "label": "100 g",
+    "grams": 100
+   }
+  ],
+  "density_g_per_ml": 1.01,
+  "verified": false,
+  "source": "manufacturer label (typical US product)"
+ },
+ {
+  "id": "oat-milk-original",
+  "name": "Oat milk, original",
+  "brand": null,
+  "aliases": [
+   "oatly"
+  ],
+  "category": "dairy-alt",
+  "per100g": {
+   "kcal": 50,
+   "protein_g": 1.25,
+   "carbs_g": 6.7,
+   "fat_g": 2.1,
+   "fiber_g": 0.8,
+   "sugar_g": 3.1,
+   "satfat_g": 0.2,
+   "sodium_mg": 42
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 cup (240 ml)",
+    "grams": 242,
+    "isDefault": true
+   },
+   {
+    "label": "1/2 cup (120 ml)",
+    "grams": 121
+   }
+  ],
+  "density_g_per_ml": 1.01,
+  "verified": false,
+  "source": "manufacturer label (typical US product)"
+ },
+ {
+  "id": "oat-milk-barista",
+  "name": "Oat milk, barista edition",
+  "brand": null,
+  "aliases": [],
+  "category": "dairy-alt",
+  "per100g": {
+   "kcal": 59,
+   "protein_g": 1.25,
+   "carbs_g": 6.7,
+   "fat_g": 3.1,
+   "fiber_g": 0.8,
+   "sugar_g": 3.1,
+   "satfat_g": 0.3,
+   "sodium_mg": 42
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 cup (240 ml)",
+    "grams": 242,
+    "isDefault": true
+   },
+   {
+    "label": "2 oz (60 ml)",
+    "grams": 61
+   }
+  ],
+  "density_g_per_ml": 1.01,
+  "verified": false,
+  "source": "manufacturer label (typical US product)"
+ },
+ {
+  "id": "oat-milk-unsweetened",
+  "name": "Oat milk, unsweetened",
+  "brand": null,
+  "aliases": [],
+  "category": "dairy-alt",
+  "per100g": {
+   "kcal": 40,
+   "protein_g": 1.25,
+   "carbs_g": 6.7,
+   "fat_g": 1.5,
+   "fiber_g": 0.8,
+   "sugar_g": 1.7,
+   "satfat_g": 0.2,
+   "sodium_mg": 42
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 cup (240 ml)",
+    "grams": 242,
+    "isDefault": true
+   },
+   {
+    "label": "100 g",
+    "grams": 100
+   }
+  ],
+  "density_g_per_ml": 1.01,
+  "verified": false,
+  "source": "manufacturer label (typical US product)"
+ },
+ {
+  "id": "coconut-milk-beverage",
+  "name": "Coconut milk beverage, unsweetened",
+  "brand": null,
+  "aliases": [
+   "coconut milk carton"
+  ],
+  "category": "dairy-alt",
+  "per100g": {
+   "kcal": 20,
+   "protein_g": 0.2,
+   "carbs_g": 1,
+   "fat_g": 1.9,
+   "fiber_g": 0,
+   "sugar_g": 0,
+   "satfat_g": 1.7,
+   "sodium_mg": 18
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 cup (240 ml)",
+    "grams": 240,
+    "isDefault": true
+   },
+   {
+    "label": "100 g",
+    "grams": 100
+   }
+  ],
+  "density_g_per_ml": 1.01,
+  "verified": false,
+  "source": "manufacturer label (typical US product)"
+ },
+ {
+  "id": "coconut-milk-canned",
+  "name": "Coconut milk, canned, full fat",
+  "brand": null,
+  "aliases": [],
+  "category": "dairy-alt",
+  "per100g": {
+   "kcal": 197,
+   "protein_g": 2,
+   "carbs_g": 2.8,
+   "fat_g": 21.3,
+   "fiber_g": 0,
+   "sugar_g": 1.6,
+   "satfat_g": 18.9,
+   "sodium_mg": 13
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1/2 cup (120 ml)",
+    "grams": 120,
+    "isDefault": true
+   },
+   {
+    "label": "1 can (400 ml)",
+    "grams": 403
+   },
+   {
+    "label": "1 tbsp (15 ml)",
+    "grams": 15
+   }
+  ],
+  "density_g_per_ml": 1.01,
+  "verified": true,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "coconut-milk-light",
+  "name": "Coconut milk, canned, light",
+  "brand": null,
+  "aliases": [],
+  "category": "dairy-alt",
+  "per100g": {
+   "kcal": 73,
+   "protein_g": 0.8,
+   "carbs_g": 2,
+   "fat_g": 7,
+   "fiber_g": 0,
+   "sugar_g": 1.5,
+   "satfat_g": 6.2,
+   "sodium_mg": 13
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1/2 cup (120 ml)",
+    "grams": 121,
+    "isDefault": true
+   },
+   {
+    "label": "1 can (400 ml)",
+    "grams": 403
+   }
+  ],
+  "density_g_per_ml": 1.01,
+  "verified": false,
+  "source": "manufacturer label (typical US product)"
+ },
+ {
+  "id": "coconut-cream",
+  "name": "Coconut cream, canned",
+  "brand": null,
+  "aliases": [],
+  "category": "dairy-alt",
+  "per100g": {
+   "kcal": 330,
+   "protein_g": 3.6,
+   "carbs_g": 6.7,
+   "fat_g": 34.7,
+   "fiber_g": 2.2,
+   "sugar_g": 4.9,
+   "satfat_g": 30.7,
+   "sodium_mg": 4
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "2 tbsp (30 ml)",
+    "grams": 30,
+    "isDefault": true
+   },
+   {
+    "label": "1/2 cup (120 ml)",
+    "grams": 121
+   }
+  ],
+  "density_g_per_ml": 1.01,
+  "verified": false,
+  "source": "manufacturer label (typical US product)"
+ },
+ {
+  "id": "cashew-milk-unsweetened",
+  "name": "Cashew milk, unsweetened",
+  "brand": null,
+  "aliases": [],
+  "category": "dairy-alt",
+  "per100g": {
+   "kcal": 10,
+   "protein_g": 0.4,
+   "carbs_g": 0.4,
+   "fat_g": 0.8,
+   "fiber_g": 0,
+   "sugar_g": 0,
+   "satfat_g": 0.2,
+   "sodium_mg": 68
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 cup (240 ml)",
+    "grams": 240,
+    "isDefault": true
+   },
+   {
+    "label": "100 g",
+    "grams": 100
+   }
+  ],
+  "density_g_per_ml": 1.01,
+  "verified": false,
+  "source": "manufacturer label (typical US product)"
+ },
+ {
+  "id": "rice-milk",
+  "name": "Rice milk, original",
+  "brand": null,
+  "aliases": [],
+  "category": "dairy-alt",
+  "per100g": {
+   "kcal": 47,
+   "protein_g": 0.3,
+   "carbs_g": 9.2,
+   "fat_g": 1,
+   "fiber_g": 0.3,
+   "sugar_g": 5.3,
+   "satfat_g": 0,
+   "sodium_mg": 39
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 cup (240 ml)",
+    "grams": 240,
+    "isDefault": true
+   },
+   {
+    "label": "100 g",
+    "grams": 100
+   }
+  ],
+  "density_g_per_ml": 1.01,
+  "verified": false,
+  "source": "manufacturer label (typical US product)"
+ },
+ {
+  "id": "pea-milk-unsweetened",
+  "name": "Pea protein milk, unsweetened",
+  "brand": null,
+  "aliases": [
+   "ripple"
+  ],
+  "category": "dairy-alt",
+  "per100g": {
+   "kcal": 30,
+   "protein_g": 3.3,
+   "carbs_g": 0,
+   "fat_g": 1.9,
+   "fiber_g": 0,
+   "sugar_g": 0,
+   "satfat_g": 0.2,
+   "sodium_mg": 50
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 cup (240 ml)",
+    "grams": 240,
+    "isDefault": true
+   },
+   {
+    "label": "100 g",
+    "grams": 100
+   }
+  ],
+  "density_g_per_ml": 1.01,
+  "verified": false,
+  "source": "manufacturer label (typical US product)"
+ },
+ {
+  "id": "hemp-milk-unsweetened",
+  "name": "Hemp milk, unsweetened",
+  "brand": null,
+  "aliases": [],
+  "category": "dairy-alt",
+  "per100g": {
+   "kcal": 25,
+   "protein_g": 1.3,
+   "carbs_g": 0.5,
+   "fat_g": 2.1,
+   "fiber_g": 0,
+   "sugar_g": 0,
+   "satfat_g": 0.2,
+   "sodium_mg": 46
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 cup (240 ml)",
+    "grams": 240,
+    "isDefault": true
+   },
+   {
+    "label": "100 g",
+    "grams": 100
+   }
+  ],
+  "density_g_per_ml": 1.01,
+  "verified": false,
+  "source": "manufacturer label (typical US product)"
+ },
+ {
+  "id": "macadamia-milk-unsweetened",
+  "name": "Macadamia milk, unsweetened",
+  "brand": null,
+  "aliases": [],
+  "category": "dairy-alt",
+  "per100g": {
+   "kcal": 21,
+   "protein_g": 0.4,
+   "carbs_g": 0.4,
+   "fat_g": 2.1,
+   "fiber_g": 0,
+   "sugar_g": 0,
+   "satfat_g": 0.4,
+   "sodium_mg": 58
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 cup (240 ml)",
+    "grams": 240,
+    "isDefault": true
+   },
+   {
+    "label": "100 g",
+    "grams": 100
+   }
+  ],
+  "density_g_per_ml": 1.01,
+  "verified": false,
+  "source": "manufacturer label (typical US product)"
+ },
+ {
+  "id": "flax-milk-unsweetened",
+  "name": "Flax milk, unsweetened",
+  "brand": null,
+  "aliases": [],
+  "category": "dairy-alt",
+  "per100g": {
+   "kcal": 10,
+   "protein_g": 0,
+   "carbs_g": 0,
+   "fat_g": 1.7,
+   "fiber_g": 0,
+   "sugar_g": 0,
+   "satfat_g": 0,
+   "sodium_mg": 33
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 cup (240 ml)",
+    "grams": 240,
+    "isDefault": true
+   },
+   {
+    "label": "100 g",
+    "grams": 100
+   }
+  ],
+  "density_g_per_ml": 1.01,
+  "verified": false,
+  "source": "manufacturer label (typical US product)"
+ },
+ {
+  "id": "creamer-nondairy-liquid",
+  "name": "Coffee creamer, non-dairy, liquid",
+  "brand": null,
+  "aliases": [],
+  "category": "dairy-alt",
+  "per100g": {
+   "kcal": 195,
+   "protein_g": 0,
+   "carbs_g": 20,
+   "fat_g": 12,
+   "fiber_g": 0,
+   "sugar_g": 20,
+   "satfat_g": 3,
+   "sodium_mg": 65
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 tbsp (15 ml)",
+    "grams": 15,
+    "isDefault": true
+   },
+   {
+    "label": "2 tbsp (30 ml)",
+    "grams": 30
+   }
+  ],
+  "density_g_per_ml": 1.03,
+  "verified": false,
+  "source": "manufacturer label (typical US product)"
+ },
+ {
+  "id": "creamer-nondairy-powder",
+  "name": "Coffee creamer, non-dairy, powdered",
+  "brand": null,
+  "aliases": [],
+  "category": "dairy-alt",
+  "per100g": {
+   "kcal": 545,
+   "protein_g": 4.8,
+   "carbs_g": 58,
+   "fat_g": 35.5,
+   "fiber_g": 0,
+   "sugar_g": 58,
+   "satfat_g": 32,
+   "sodium_mg": 181
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 tsp (2 g)",
+    "grams": 2,
+    "isDefault": true
+   },
+   {
+    "label": "1 tbsp (6 g)",
+    "grams": 6
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": false,
+  "source": "manufacturer label (typical US product)"
+ },
+ {
+  "id": "creamer-oat",
+  "name": "Coffee creamer, oat-based",
+  "brand": null,
+  "aliases": [],
+  "category": "dairy-alt",
+  "per100g": {
+   "kcal": 125,
+   "protein_g": 0.5,
+   "carbs_g": 17.5,
+   "fat_g": 6,
+   "fiber_g": 0,
+   "sugar_g": 10,
+   "satfat_g": 0.5,
+   "sodium_mg": 50
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 tbsp (15 ml)",
+    "grams": 15,
+    "isDefault": true
+   },
+   {
+    "label": "2 tbsp (30 ml)",
+    "grams": 30
+   }
+  ],
+  "density_g_per_ml": 1.03,
+  "verified": false,
+  "source": "manufacturer label (typical US product)"
+ },
+ {
+  "id": "creamer-almond",
+  "name": "Coffee creamer, almond-based",
+  "brand": null,
+  "aliases": [],
+  "category": "dairy-alt",
+  "per100g": {
+   "kcal": 100,
+   "protein_g": 0.5,
+   "carbs_g": 13,
+   "fat_g": 5,
+   "fiber_g": 0,
+   "sugar_g": 10,
+   "satfat_g": 0.5,
+   "sodium_mg": 60
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 tbsp (15 ml)",
+    "grams": 15,
+    "isDefault": true
+   },
+   {
+    "label": "2 tbsp (30 ml)",
+    "grams": 30
+   }
+  ],
+  "density_g_per_ml": 1.03,
+  "verified": false,
+  "source": "manufacturer label (typical US product)"
+ },
+ {
+  "id": "yogurt-soy-plain",
+  "name": "Soy yogurt, plain",
+  "brand": null,
+  "aliases": [],
+  "category": "dairy-alt",
+  "per100g": {
+   "kcal": 60,
+   "protein_g": 3,
+   "carbs_g": 8,
+   "fat_g": 1.8,
+   "fiber_g": 0.5,
+   "sugar_g": 4,
+   "satfat_g": 0.3,
+   "sodium_mg": 30
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 container (150 g)",
+    "grams": 150,
+    "isDefault": true
+   },
+   {
+    "label": "100 g",
+    "grams": 100
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": false,
+  "source": "manufacturer label (typical US product)"
+ },
+ {
+  "id": "yogurt-coconut-plain",
+  "name": "Coconut yogurt, plain",
+  "brand": null,
+  "aliases": [],
+  "category": "dairy-alt",
+  "per100g": {
+   "kcal": 120,
+   "protein_g": 1,
+   "carbs_g": 10,
+   "fat_g": 8,
+   "fiber_g": 1,
+   "sugar_g": 6,
+   "satfat_g": 7,
+   "sodium_mg": 25
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 container (150 g)",
+    "grams": 150,
+    "isDefault": true
+   },
+   {
+    "label": "100 g",
+    "grams": 100
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": false,
+  "source": "manufacturer label (typical US product)"
+ },
+ {
+  "id": "yogurt-almond-vanilla",
+  "name": "Almond milk yogurt, vanilla",
+  "brand": null,
+  "aliases": [],
+  "category": "dairy-alt",
+  "per100g": {
+   "kcal": 90,
+   "protein_g": 2,
+   "carbs_g": 13,
+   "fat_g": 3.5,
+   "fiber_g": 1.5,
+   "sugar_g": 9,
+   "satfat_g": 0.3,
+   "sodium_mg": 30
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 container (150 g)",
+    "grams": 150,
+    "isDefault": true
+   },
+   {
+    "label": "100 g",
+    "grams": 100
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": false,
+  "source": "manufacturer label (typical US product)"
+ },
+ {
+  "id": "cheese-vegan-shreds",
+  "name": "Vegan cheese shreds, cheddar style",
+  "brand": null,
+  "aliases": [],
+  "category": "dairy-alt",
+  "per100g": {
+   "kcal": 285,
+   "protein_g": 0,
+   "carbs_g": 24,
+   "fat_g": 20,
+   "fiber_g": 0,
+   "sugar_g": 0,
+   "satfat_g": 18,
+   "sodium_mg": 750
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1/4 cup (28 g)",
+    "grams": 28,
+    "isDefault": true
+   },
+   {
+    "label": "1 cup (113 g)",
+    "grams": 113
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": false,
+  "source": "manufacturer label (typical US product)"
+ },
+ {
+  "id": "cheese-vegan-cream",
+  "name": "Vegan cream cheese",
+  "brand": null,
+  "aliases": [],
+  "category": "dairy-alt",
+  "per100g": {
+   "kcal": 280,
+   "protein_g": 1,
+   "carbs_g": 8,
+   "fat_g": 26,
+   "fiber_g": 0,
+   "sugar_g": 2,
+   "satfat_g": 8,
+   "sodium_mg": 450
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "2 tbsp (30 g)",
+    "grams": 30,
+    "isDefault": true
+   },
+   {
+    "label": "100 g",
+    "grams": 100
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": false,
+  "source": "manufacturer label (typical US product)"
+ },
+ {
+  "id": "cheese-vegan-slices",
+  "name": "Vegan cheese slices, American style",
+  "brand": null,
+  "aliases": [],
+  "category": "dairy-alt",
+  "per100g": {
+   "kcal": 265,
+   "protein_g": 1,
+   "carbs_g": 22,
+   "fat_g": 19,
+   "fiber_g": 0,
+   "sugar_g": 1,
+   "satfat_g": 17,
+   "sodium_mg": 760
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 slice (19 g)",
+    "grams": 19,
+    "isDefault": true
+   },
+   {
+    "label": "100 g",
+    "grams": 100
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": false,
+  "source": "manufacturer label (typical US product)"
+ },
+ {
+  "id": "nutritional-yeast",
+  "name": "Nutritional yeast flakes",
+  "brand": null,
+  "aliases": [
+   "nooch"
+  ],
+  "category": "dairy-alt",
+  "per100g": {
+   "kcal": 325,
+   "protein_g": 45,
+   "carbs_g": 37,
+   "fat_g": 5,
+   "fiber_g": 25,
+   "sugar_g": 1.5,
+   "satfat_g": 0.8,
+   "sodium_mg": 30
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 tbsp (5 g)",
+    "grams": 5,
+    "isDefault": true
+   },
+   {
+    "label": "1/4 cup (20 g)",
+    "grams": 20
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": false,
+  "source": "manufacturer label (typical US product)"
+ },
+ {
+  "id": "ice-cream-nondairy-vanilla",
+  "name": "Non-dairy frozen dessert, vanilla",
+  "brand": null,
+  "aliases": [
+   "vegan ice cream"
+  ],
+  "category": "dairy-alt",
+  "per100g": {
+   "kcal": 205,
+   "protein_g": 2,
+   "carbs_g": 24,
+   "fat_g": 11,
+   "fiber_g": 1.5,
+   "sugar_g": 20,
+   "satfat_g": 7,
+   "sodium_mg": 75
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1/2 cup (70 g)",
+    "grams": 70,
+    "isDefault": true
+   },
+   {
+    "label": "1 pint (280 g)",
+    "grams": 280
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": false,
+  "source": "manufacturer label (typical US product)"
+ },
+ {
+  "id": "butter-vegan",
+  "name": "Vegan butter, plant-based sticks",
+  "brand": null,
+  "aliases": [],
+  "category": "dairy-alt",
+  "per100g": {
+   "kcal": 717,
+   "protein_g": 0,
+   "carbs_g": 0,
+   "fat_g": 81,
+   "fiber_g": 0,
+   "sugar_g": 0,
+   "satfat_g": 24,
+   "sodium_mg": 700
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 tbsp (14 g)",
+    "grams": 14,
+    "isDefault": true
+   },
+   {
+    "label": "1 tsp (5 g)",
+    "grams": 5
+   }
+  ],
+  "density_g_per_ml": 0.91,
+  "verified": false,
+  "source": "manufacturer label (typical US product)"
+ }
+]

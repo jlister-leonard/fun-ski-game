@@ -1,0 +1,158 @@
+#category: vegetable
+#source: USDA FoodData Central (SR Legacy)
+#servings: 1 cup (100 g)@100*;100 g@100
+# id|name|aliases|kcal|protein|carbs|fat|fiber|sugar|satfat|sodium|servings|extra
+
+# --- cruciferous ---------------------------------------------------------
+broccoli-raw|Broccoli, raw||34|2.82|6.64|0.37|2.6|1.70|0.04|33|1 cup chopped (91 g)@91*;1 spear (31 g)@31;1 head (608 g)@608|ret=0;car=31;ffol=63;fac=0;dfe=63
+broccoli-cooked|Broccoli, boiled or steamed||35|2.38|7.18|0.41|3.3|1.39|0.05|41|1 cup (156 g)@156*;1/2 cup (78 g)@78|ret=0;car=77;ffol=108;fac=0;dfe=108
+broccoli-frozen-cooked|Broccoli, frozen, cooked||28|3.10|5.35|0.12|3.0|1.20|0.02|22|1 cup (184 g)@184*;100 g@100
+broccolini-cooked|Broccolini, cooked||35|3.0|6.0|0.4|2.6|1.5|0.05|30|1 cup (100 g)@100*;100 g@100|v=0
+broccoli-rabe-cooked|Broccoli rabe, cooked|rapini|33|3.83|3.12|0.52|2.7|0.4|0.07|56|1 cup (85 g)@85*;100 g@100
+cauliflower-raw|Cauliflower, raw||25|1.92|4.97|0.28|2.0|1.91|0.13|30|1 cup chopped (107 g)@107*;1 head (575 g)@575|ret=0;car=0;ffol=57;fac=0;dfe=57
+cauliflower-cooked|Cauliflower, boiled or roasted||23|1.84|4.11|0.45|2.3|1.72|0.10|15|1 cup (124 g)@124*;1/2 cup (62 g)@62
+brussels-sprouts-raw|Brussels sprouts, raw||43|3.38|8.95|0.30|3.8|2.20|0.06|25|1 cup (88 g)@88*;100 g@100|ret=0;car=38;ffol=61;fac=0;dfe=61
+brussels-sprouts-cooked|Brussels sprouts, cooked||36|2.55|7.10|0.50|2.6|1.74|0.10|21|1 cup (156 g)@156*;1/2 cup (78 g)@78
+cabbage-green-raw|Cabbage, green, raw||25|1.28|5.80|0.10|2.5|3.20|0.03|18|1 cup shredded (89 g)@89*;100 g@100|ret=0;car=5;ffol=43;fac=0;dfe=43
+cabbage-red-raw|Cabbage, red, raw||31|1.43|7.37|0.16|2.1|3.83|0.02|27|1 cup shredded (89 g)@89*;100 g@100
+cabbage-napa-raw|Napa cabbage, raw|chinese cabbage|12|1.10|2.23|0.20|1.2|1.41|0.03|11|1 cup shredded (76 g)@76*;100 g@100
+bok-choy-raw|Bok choy, raw||13|1.50|2.18|0.20|1.0|1.18|0.03|65|1 cup shredded (70 g)@70*;100 g@100
+kohlrabi-raw|Kohlrabi, raw||27|1.70|6.20|0.10|3.6|2.60|0.01|20|1 cup (135 g)@135*;100 g@100
+turnip-cooked|Turnip, cooked||22|0.71|5.06|0.08|2.0|3.04|0.01|16|1 cup cubed (156 g)@156*;100 g@100
+rutabaga-cooked|Rutabaga, cooked||30|0.94|6.83|0.17|2.3|4.46|0.03|17|1 cup (170 g)@170*;100 g@100
+radish-raw|Radishes, raw||16|0.68|3.40|0.10|1.6|1.86|0.03|39|1 cup sliced (116 g)@116*;1 radish (4.5 g)@4.5
+daikon-raw|Daikon radish, raw||18|0.60|4.10|0.10|1.6|2.50|0.03|21|1 cup sliced (116 g)@116*;100 g@100
+horseradish-prepared|Horseradish, prepared||48|1.18|11.3|0.69|3.3|7.99|0.09|420|1 tsp (5 g)@5*;1 tbsp (15 g)@15
+
+# --- leafy greens --------------------------------------------------------
+spinach-raw|Spinach, raw||23|2.86|3.63|0.39|2.2|0.42|0.06|79|1 cup (30 g)@30*;3 cups (90 g)@90;1 bag (142 g)@142|ret=0;car=469;ffol=194;fac=0;dfe=194
+spinach-cooked|Spinach, cooked from fresh||23|2.97|3.75|0.26|2.4|0.43|0.04|70|1 cup (180 g)@180*;1/2 cup (90 g)@90|ret=0;car=524;ffol=146;fac=0;dfe=146
+spinach-frozen-cooked|Spinach, frozen, cooked||34|4.01|4.80|0.87|3.7|0.55|0.16|74|1 cup (190 g)@190*;100 g@100
+kale-raw|Kale, raw||49|4.28|8.75|0.93|3.6|2.26|0.09|38|1 cup chopped (21 g)@21*;2 cups (42 g)@42;1 bunch (118 g)@118|ret=0;car=500;ffol=141;fac=0;dfe=141
+kale-cooked|Kale, cooked||28|1.90|5.63|0.40|2.0|1.25|0.05|23|1 cup (130 g)@130*;100 g@100|ret=0;car=241;ffol=13;fac=0;dfe=13
+lettuce-romaine|Romaine lettuce||17|1.23|3.29|0.30|2.1|1.19|0.04|8|1 cup shredded (47 g)@47*;1 heart (312 g)@312;2 cups (94 g)@94|ret=0;car=436;ffol=136;fac=0;dfe=136
+lettuce-iceberg|Iceberg lettuce||14|0.90|2.97|0.14|1.2|1.97|0.02|10|1 cup shredded (72 g)@72*;1 head (539 g)@539
+lettuce-butter|Butter lettuce|bibb;boston lettuce|13|1.35|2.23|0.22|1.1|0.94|0.03|5|1 cup shredded (55 g)@55*;100 g@100
+arugula-raw|Arugula|rocket|25|2.58|3.65|0.66|1.6|2.05|0.09|27|1 cup (20 g)@20*;2 cups (40 g)@40
+spring-mix-greens|Spring mix salad greens|mixed greens;mesclun|20|2.0|3.2|0.3|1.8|0.8|0.04|25|2 cups (57 g)@57*;1 cup (28 g)@28|v=0
+swiss-chard-raw|Swiss chard, raw||19|1.80|3.74|0.20|1.6|1.10|0.03|213|1 cup chopped (36 g)@36*;100 g@100|ret=0;car=306;ffol=14;fac=0;dfe=14
+collard-greens-cooked|Collard greens, cooked||33|2.71|5.42|0.67|4.0|0.42|0.09|15|1 cup (190 g)@190*;100 g@100|ret=0;car=380;ffol=129;fac=0;dfe=129
+mustard-greens-cooked|Mustard greens, cooked||26|2.56|4.51|0.47|2.0|1.20|0.02|9|1 cup (140 g)@140*;100 g@100|ret=0;car=304;ffol=73;fac=0;dfe=73
+watercress-raw|Watercress, raw||11|2.30|1.29|0.10|0.5|0.20|0.03|41|1 cup (34 g)@34*;100 g@100
+endive-raw|Endive, raw||17|1.25|3.35|0.20|3.1|0.25|0.05|22|1 cup (50 g)@50*;100 g@100
+radicchio-raw|Radicchio, raw||23|1.43|4.48|0.25|0.9|0.60|0.06|22|1 cup shredded (40 g)@40*;100 g@100
+sprouts-alfalfa|Alfalfa sprouts, raw||23|3.99|2.10|0.69|1.9|0.20|0.07|6|1 cup (33 g)@33*;100 g@100
+microgreens|Microgreens, mixed||35|3.0|5.0|0.5|2.5|0.8|0.05|20|1 cup (25 g)@25*;100 g@100|v=0
+
+# --- nightshades ---------------------------------------------------------
+tomato-raw|Tomato, red, ripe, raw|tomatoes|18|0.88|3.89|0.20|1.2|2.63|0.03|5|1 medium (123 g)@123*;1 large (182 g)@182;1 slice (20 g)@20;1 cup chopped (180 g)@180|ret=0;car=42;ffol=15;fac=0;dfe=15
+tomato-cherry|Cherry tomatoes|grape tomatoes|18|0.88|3.89|0.20|1.2|2.63|0.03|5|1 cup (149 g)@149*;5 tomatoes (85 g)@85
+tomato-roma|Roma tomato|plum tomato|18|0.88|3.89|0.20|1.2|2.63|0.03|5|1 tomato (62 g)@62*;100 g@100
+tomato-canned-diced|Tomatoes, canned, diced||32|1.60|7.29|0.18|1.9|4.10|0.03|186|1/2 cup (121 g)@121*;1 can (411 g)@411
+tomato-canned-crushed|Tomatoes, canned, crushed||29|1.50|6.60|0.20|1.8|3.90|0.03|130|1/2 cup (123 g)@123*;1 can (411 g)@411|v=0
+tomato-paste|Tomato paste, canned||82|4.32|18.9|0.47|4.1|12.2|0.10|59|1 tbsp (16 g)@16*;2 tbsp (33 g)@33;1 can (170 g)@170|ret=0;car=64;ffol=14;fac=0;dfe=14
+tomato-sun-dried|Sun-dried tomatoes, dry||258|14.1|55.8|2.97|12.3|37.6|0.42|2095|1/4 cup (27 g)@27*;1 oz (28 g)@28
+pepper-bell-red|Bell pepper, red, raw|red pepper;red capsicum|31|0.99|6.03|0.30|2.1|4.20|0.03|4|1 medium (119 g)@119*;1 cup chopped (149 g)@149|ret=0;car=157;ffol=46;fac=0;dfe=46
+pepper-bell-green|Bell pepper, green, raw|green pepper|20|0.86|4.64|0.17|1.7|2.40|0.06|3|1 medium (119 g)@119*;1 cup chopped (149 g)@149|ret=0;car=18;ffol=10;fac=0;dfe=10
+pepper-bell-yellow|Bell pepper, yellow, raw||27|1.00|6.32|0.21|0.9|0|0.03|2|1 medium (119 g)@119*;100 g@100
+pepper-jalapeno|Jalapeño pepper, raw||29|0.91|6.50|0.37|2.8|4.12|0.09|3|1 pepper (14 g)@14*;1/4 cup sliced (23 g)@23
+pepper-serrano|Serrano pepper, raw||32|1.74|6.70|0.44|3.7|3.90|0.05|10|1 pepper (6 g)@6*;100 g@100
+pepper-poblano|Poblano pepper, raw||20|0.86|4.64|0.17|1.7|2.40|0.06|3|1 pepper (45 g)@45*;100 g@100|v=0
+pepper-roasted-red-jarred|Roasted red peppers, jarred||20|0.90|4.00|0.20|1.5|2.50|0.03|300|1/4 cup (40 g)@40*;100 g@100|v=0
+eggplant-raw|Eggplant, raw|aubergine|25|0.98|5.88|0.18|3.0|3.53|0.03|2|1 cup cubed (82 g)@82*;1 eggplant (458 g)@458
+eggplant-cooked|Eggplant, cooked||35|0.83|8.73|0.23|2.5|3.20|0.04|1|1 cup (99 g)@99*;100 g@100
+
+# --- roots & tubers ------------------------------------------------------
+potato-russet-baked|Potato, russet, baked with skin|baked potato|93|2.50|21.1|0.13|2.2|1.16|0.03|10|1 medium (173 g)@173*;1 large (299 g)@299;1 small (138 g)@138|ret=0;car=0;ffol=28;fac=0;dfe=28
+potato-russet-raw|Potato, russet, raw||79|2.14|17.5|0.08|1.3|0.62|0.03|5|1 medium (213 g)@213*;100 g@100
+potato-boiled|Potato, boiled without skin||87|1.87|20.1|0.10|1.8|0.85|0.03|4|1 cup (156 g)@156*;1 medium (167 g)@167
+potato-red-roasted|Potato, red, roasted with skin||89|2.30|19.6|0.20|2.0|1.30|0.05|10|1 cup (156 g)@156*;100 g@100|v=0
+potato-mashed|Mashed potatoes, with milk and butter||113|1.90|16.9|4.22|1.5|1.60|1.10|317|1 cup (210 g)@210*;1/2 cup (105 g)@105
+potato-hash-browns|Hash browns, fried||265|2.90|35.1|12.5|3.2|0.30|1.90|380|1 cup (156 g)@156*;1 patty (55 g)@55|v=0
+potato-tater-tots|Tater tots, baked||202|2.30|30.0|8.00|3.0|0.60|1.40|485|10 pieces (86 g)@86*;100 g@100|v=0
+sweet-potato-raw|Sweet potato, raw||86|1.57|20.1|0.05|3.0|4.18|0.02|55|1 medium (114 g)@114*;1 cup cubed (133 g)@133|ret=0;car=709;ffol=11;fac=0;dfe=11
+sweet-potato-baked|Sweet potato, baked with skin||90|2.01|20.7|0.15|3.3|6.48|0.05|36|1 medium (114 g)@114*;1 large (180 g)@180;1 cup (200 g)@200|ret=0;car=961;ffol=6;fac=0;dfe=6
+sweet-potato-fries-baked|Sweet potato fries, baked||150|2.00|26.0|4.50|3.5|7.00|0.70|280|3 oz (85 g)@85*;100 g@100|v=0
+carrot-raw|Carrots, raw||41|0.93|9.58|0.24|2.8|4.74|0.03|69|1 medium (61 g)@61*;1 cup chopped (128 g)@128;1 large (72 g)@72|ret=0;car=835;ffol=19;fac=0;dfe=19
+carrot-baby|Baby carrots, raw||35|0.64|8.24|0.13|2.9|4.76|0.02|78|1 cup (128 g)@128*;10 carrots (100 g)@100|ret=0;car=690;ffol=28;fac=0;dfe=28
+carrot-cooked|Carrots, cooked||35|0.76|8.22|0.18|3.0|3.45|0.03|58|1 cup sliced (156 g)@156*;100 g@100|ret=0;car=852;ffol=14;fac=0;dfe=14
+beet-raw|Beets, raw||43|1.61|9.56|0.17|2.8|6.76|0.03|78|1 beet (82 g)@82*;1 cup (136 g)@136|ret=0;car=2;ffol=109;fac=0;dfe=109
+beet-cooked|Beets, cooked||44|1.68|9.96|0.18|2.0|7.96|0.03|77|1 cup sliced (170 g)@170*;100 g@100
+parsnip-cooked|Parsnips, cooked||71|1.32|17.0|0.27|3.6|4.60|0.05|10|1 cup sliced (156 g)@156*;100 g@100
+yam-cooked|Yam, cooked||116|1.49|27.5|0.14|3.9|0.50|0.03|8|1 cup cubed (136 g)@136*;100 g@100
+taro-cooked|Taro root, cooked||142|0.52|34.6|0.11|5.1|0.49|0.02|15|1 cup sliced (132 g)@132*;100 g@100
+cassava-raw|Cassava, raw|yuca|160|1.36|38.1|0.28|1.8|1.70|0.07|14|1 cup (206 g)@206*;100 g@100
+jicama-raw|Jicama, raw||38|0.72|8.82|0.09|4.9|1.80|0.02|4|1 cup sliced (120 g)@120*;100 g@100
+celeriac-raw|Celery root, raw|celeriac|42|1.50|9.20|0.30|1.8|1.60|0.08|100|1 cup (156 g)@156*;100 g@100
+
+# --- alliums -------------------------------------------------------------
+onion-yellow-raw|Onion, yellow, raw|onions|40|1.10|9.34|0.10|1.7|4.24|0.04|4|1 medium (110 g)@110*;1 cup chopped (160 g)@160;1/2 cup (80 g)@80|ret=0;car=0;ffol=19;fac=0;dfe=19
+onion-red-raw|Onion, red, raw||40|1.10|9.34|0.10|1.7|4.24|0.04|4|1 medium (110 g)@110*;1/4 cup chopped (40 g)@40
+onion-sauteed|Onions, sautéed||132|1.30|11.0|9.00|1.6|5.00|1.30|4|1/2 cup (58 g)@58*;100 g@100|v=0
+onion-green|Green onions|scallions;spring onions|32|1.83|7.34|0.19|2.6|2.33|0.03|16|1/4 cup chopped (25 g)@25*;1 onion (15 g)@15
+shallot-raw|Shallots, raw||72|2.50|16.8|0.10|3.2|7.87|0.02|12|1 tbsp chopped (10 g)@10*;1 shallot (25 g)@25
+leek-cooked|Leeks, cooked||31|0.81|7.62|0.20|1.0|2.11|0.03|10|1/2 cup (52 g)@52*;100 g@100
+garlic-raw|Garlic, raw||149|6.36|33.1|0.50|2.1|1.00|0.09|17|1 clove (3 g)@3*;3 cloves (9 g)@9;1 tbsp minced (8 g)@8
+
+# --- squash & gourds -----------------------------------------------------
+zucchini-raw|Zucchini, raw|courgette|17|1.21|3.11|0.32|1.0|2.50|0.08|8|1 medium (196 g)@196*;1 cup sliced (113 g)@113
+zucchini-cooked|Zucchini, cooked||17|1.21|3.11|0.32|1.0|2.50|0.08|4|1 cup sliced (180 g)@180*;100 g@100
+squash-yellow-raw|Yellow summer squash, raw||16|1.21|3.35|0.18|1.1|2.20|0.04|2|1 cup sliced (113 g)@113*;100 g@100
+squash-butternut-raw|Butternut squash, raw||45|1.00|11.7|0.10|2.0|2.20|0.02|4|1 cup cubed (140 g)@140*;100 g@100|ret=0;car=532;ffol=27;fac=0;dfe=27
+squash-butternut-cooked|Butternut squash, cooked||40|0.90|10.5|0.09|3.2|2.00|0.02|4|1 cup cubed (205 g)@205*;100 g@100|ret=0;car=558;ffol=19;fac=0;dfe=19
+squash-acorn-cooked|Acorn squash, cooked||56|1.12|14.6|0.14|4.4|0|0.03|4|1 cup cubed (205 g)@205*;100 g@100|ret=0;car=21;ffol=19;fac=0;dfe=19
+squash-spaghetti-cooked|Spaghetti squash, cooked||27|0.66|6.46|0.26|1.4|2.76|0.05|18|1 cup (155 g)@155*;100 g@100
+pumpkin-canned|Pumpkin, canned, plain||34|1.10|8.09|0.28|2.9|3.30|0.15|5|1/2 cup (122 g)@122*;1 cup (245 g)@245|ret=0;car=778;ffol=12;fac=0;dfe=12
+cucumber-raw|Cucumber, with peel|cucumbers|15|0.65|3.63|0.11|0.5|1.67|0.04|2|1 cup sliced (104 g)@104*;1 medium (201 g)@201;1/2 cup (52 g)@52
+chayote-cooked|Chayote squash, cooked||19|0.62|4.51|0.38|1.7|1.66|0.08|1|1 cup (160 g)@160*;100 g@100|v=0
+
+# --- pods, stalks & shoots -----------------------------------------------
+asparagus-raw|Asparagus, raw||20|2.20|3.88|0.12|2.1|1.88|0.04|2|1 cup (134 g)@134*;1 spear (16 g)@16
+asparagus-cooked|Asparagus, cooked||22|2.40|4.11|0.22|2.0|1.30|0.05|14|1 cup (180 g)@180*;5 spears (80 g)@80|ret=0;car=50;ffol=149;fac=0;dfe=149
+green-beans-raw|Green beans, raw|string beans;snap beans|31|1.83|6.97|0.22|2.7|3.26|0.05|6|1 cup (100 g)@100*;100 g@100
+green-beans-cooked|Green beans, cooked||35|1.89|7.88|0.28|3.2|1.55|0.06|1|1 cup (125 g)@125*;100 g@100
+green-beans-canned|Green beans, canned, drained||15|0.80|3.20|0.10|1.4|1.20|0.02|220|1/2 cup (68 g)@68*;1 cup (135 g)@135|v=0
+peas-green-cooked|Green peas, cooked||84|5.36|15.6|0.22|5.5|5.93|0.04|3|1 cup (160 g)@160*;1/2 cup (80 g)@80|ret=0;car=40;ffol=63;fac=0;dfe=63
+peas-green-frozen|Green peas, frozen||77|5.22|13.7|0.40|4.5|4.75|0.08|108|1 cup (134 g)@134*;100 g@100
+peas-snap|Sugar snap peas, raw||42|2.80|7.55|0.20|2.6|4.00|0.04|4|1 cup (63 g)@63*;100 g@100
+peas-snow|Snow peas, raw||42|2.80|7.55|0.20|2.6|4.00|0.04|4|1 cup (63 g)@63*;100 g@100
+celery-raw|Celery, raw||16|0.69|2.97|0.17|1.6|1.34|0.04|80|1 stalk (40 g)@40*;1 cup chopped (101 g)@101
+fennel-raw|Fennel bulb, raw||31|1.24|7.30|0.20|3.1|3.93|0|52|1 cup sliced (87 g)@87*;100 g@100
+artichoke-cooked|Artichoke, cooked||53|2.89|11.9|0.34|5.7|0.99|0.08|60|1 medium (120 g)@120*;100 g@100
+artichoke-hearts-canned|Artichoke hearts, canned, drained||48|2.60|10.5|0.30|5.0|0.90|0.07|400|1/2 cup (84 g)@84*;100 g@100|v=0
+hearts-of-palm-canned|Hearts of palm, canned||28|2.50|4.60|0.62|2.5|0|0.13|426|1/2 cup (73 g)@73*;100 g@100
+okra-cooked|Okra, cooked||22|1.87|4.51|0.21|2.5|2.40|0.06|6|1 cup sliced (160 g)@160*;100 g@100
+bamboo-shoots-canned|Bamboo shoots, canned, drained||12|1.13|1.83|0.26|0.8|1.60|0.06|6|1/2 cup (66 g)@66*;100 g@100
+water-chestnuts-canned|Water chestnuts, canned, drained||50|0.88|12.3|0.06|2.5|2.40|0.01|9|1/2 cup (70 g)@70*;100 g@100
+rhubarb-stalk-cooked|Rhubarb, cooked, unsweetened||21|0.90|4.54|0.20|1.8|1.10|0.05|4|1 cup (240 g)@240*;100 g@100|v=0
+
+# --- corn ----------------------------------------------------------------
+corn-sweet-cooked|Sweet corn, yellow, cooked||96|3.41|20.98|1.50|2.4|4.54|0.20|1|1 ear (90 g)@90*;1 cup kernels (164 g)@164;1/2 cup (82 g)@82|ret=0;car=13;ffol=42;fac=0;dfe=42
+corn-frozen|Sweet corn, frozen, cooked||81|2.80|19.3|0.65|2.0|3.10|0.10|1|1 cup (164 g)@164*;100 g@100
+corn-canned-drained|Sweet corn, canned, drained||81|2.60|19.4|0.98|2.0|4.90|0.15|213|1/2 cup (82 g)@82*;1 cup (164 g)@164
+corn-creamed|Creamed corn, canned||72|1.74|18.1|0.42|1.2|3.90|0.07|264|1/2 cup (128 g)@128*;100 g@100
+
+# --- mushrooms -----------------------------------------------------------
+mushroom-white-raw|Mushrooms, white button, raw||22|3.09|3.26|0.34|1.0|1.98|0.05|5|1 cup sliced (70 g)@70*;1 mushroom (18 g)@18|ret=0;car=0;ffol=17;fac=0;dfe=17
+mushroom-white-cooked|Mushrooms, white, sautéed||28|2.17|5.28|0.47|2.2|1.75|0.07|11|1 cup (156 g)@156*;100 g@100
+mushroom-cremini-raw|Cremini mushrooms, raw|baby bella|22|2.50|4.30|0.10|0.6|1.72|0.01|6|1 cup sliced (72 g)@72*;100 g@100
+mushroom-portobello-raw|Portobello mushrooms, raw||22|2.11|3.87|0.35|1.3|2.50|0.05|9|1 cap (84 g)@84*;1 cup diced (86 g)@86
+mushroom-shiitake-cooked|Shiitake mushrooms, cooked||56|1.56|14.4|0.22|2.1|3.75|0.05|4|1 cup (145 g)@145*;100 g@100
+mushroom-oyster-raw|Oyster mushrooms, raw||33|3.31|6.09|0.41|2.3|1.11|0.06|18|1 cup sliced (86 g)@86*;100 g@100
+mushroom-canned|Mushrooms, canned, drained||25|1.87|5.10|0.29|2.4|1.50|0.04|425|1/2 cup (78 g)@78*;100 g@100
+
+# --- fermented, pickled & prepared ---------------------------------------
+sauerkraut|Sauerkraut, canned||19|0.91|4.28|0.14|2.9|1.78|0.03|661|1/2 cup (71 g)@71*;1 cup (142 g)@142
+kimchi|Kimchi||15|1.10|2.40|0.50|1.6|1.06|0.06|498|1/2 cup (75 g)@75*;1 cup (150 g)@150
+pickles-dill|Pickles, dill||12|0.50|2.30|0.20|1.2|1.20|0.05|1208|1 spear (35 g)@35*;1 medium pickle (65 g)@65
+pickles-bread-butter|Pickles, bread and butter||91|0.50|22.0|0.20|1.0|20.0|0.05|900|4 slices (28 g)@28*;100 g@100|v=0
+olives-green|Olives, green, in brine||145|1.03|3.84|15.3|3.3|0.54|2.03|1556|5 olives (17 g)@17*;10 olives (34 g)@34
+olives-black|Olives, black, ripe, canned||115|0.84|6.26|10.9|1.6|0|1.42|735|5 olives (17 g)@17*;10 olives (34 g)@34
+olives-kalamata|Kalamata olives||187|1.40|4.50|18.5|3.0|0|2.50|1550|5 olives (20 g)@20*;100 g@100|v=0
+avocado-raw|Avocado, Hass|avocados;guac base|160|2.00|8.53|14.7|6.7|0.66|2.13|7|1/2 avocado (68 g)@68*;1 whole (136 g)@136;1 cup sliced (146 g)@146|ret=0;car=7;ffol=81;fac=0;dfe=81
+guacamole|Guacamole||150|2.00|8.00|13.0|5.0|0.80|2.00|350|2 tbsp (30 g)@30*;1/4 cup (60 g)@60|v=0
+coleslaw-dressed|Coleslaw, with dressing||152|1.20|14.0|10.6|1.7|11.0|1.60|267|1/2 cup (60 g)@60*;100 g@100
+potato-salad|Potato salad, with mayonnaise||143|2.10|11.0|10.0|1.3|2.00|1.70|529|1/2 cup (125 g)@125*;100 g@100
+vegetables-mixed-frozen|Mixed vegetables, frozen, cooked||65|3.00|13.1|0.20|4.0|3.00|0.05|32|1 cup (182 g)@182*;100 g@100
+vegetables-roasted-mixed|Roasted mixed vegetables, with oil||100|2.20|12.0|5.00|3.5|4.50|0.70|180|1 cup (150 g)@150*;100 g@100|v=0
+salsa-fresh|Salsa, fresh, pico de gallo||29|1.50|5.60|0.20|1.5|3.30|0.03|430|2 tbsp (30 g)@30*;1/4 cup (60 g)@60

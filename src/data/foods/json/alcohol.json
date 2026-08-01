@@ -1,0 +1,2217 @@
+[
+ {
+  "id": "beer-regular",
+  "name": "Beer, regular, 4.5% ABV",
+  "brand": null,
+  "aliases": [
+   "lager",
+   "beer"
+  ],
+  "category": "alcohol",
+  "per100g": {
+   "kcal": 43,
+   "protein_g": 0.46,
+   "carbs_g": 3.55,
+   "fat_g": 0,
+   "fiber_g": 0,
+   "sugar_g": 0,
+   "satfat_g": 0,
+   "sodium_mg": 4
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 can or bottle (355 ml)",
+    "grams": 359,
+    "isDefault": true
+   },
+   {
+    "label": "1 pint (473 ml)",
+    "grams": 478
+   },
+   {
+    "label": "1 can (473 ml)",
+    "grams": 478
+   }
+  ],
+  "density_g_per_ml": 1.01,
+  "verified": true,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "beer-light",
+  "name": "Beer, light, 4.2% ABV",
+  "brand": null,
+  "aliases": [
+   "light beer",
+   "michelob ultra"
+  ],
+  "category": "alcohol",
+  "per100g": {
+   "kcal": 29,
+   "protein_g": 0.24,
+   "carbs_g": 1.64,
+   "fat_g": 0,
+   "fiber_g": 0,
+   "sugar_g": 0.09,
+   "satfat_g": 0,
+   "sodium_mg": 4
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 can or bottle (355 ml)",
+    "grams": 358,
+    "isDefault": true
+   },
+   {
+    "label": "1 pint (473 ml)",
+    "grams": 477
+   }
+  ],
+  "density_g_per_ml": 1.01,
+  "verified": true,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "beer-ipa",
+  "name": "Beer, IPA, 7% ABV",
+  "brand": null,
+  "aliases": [
+   "india pale ale"
+  ],
+  "category": "alcohol",
+  "per100g": {
+   "kcal": 62,
+   "protein_g": 0.6,
+   "carbs_g": 5.5,
+   "fat_g": 0,
+   "fiber_g": 0,
+   "sugar_g": 0,
+   "satfat_g": 0,
+   "sodium_mg": 5
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 can (355 ml)",
+    "grams": 359,
+    "isDefault": true
+   },
+   {
+    "label": "1 pint (473 ml)",
+    "grams": 478
+   }
+  ],
+  "density_g_per_ml": 1.01,
+  "verified": false,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "beer-stout",
+  "name": "Beer, stout, 4.2% ABV",
+  "brand": null,
+  "aliases": [
+   "guinness"
+  ],
+  "category": "alcohol",
+  "per100g": {
+   "kcal": 36,
+   "protein_g": 0.3,
+   "carbs_g": 3,
+   "fat_g": 0,
+   "fiber_g": 0,
+   "sugar_g": 0,
+   "satfat_g": 0,
+   "sodium_mg": 6
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 pint (473 ml)",
+    "grams": 478,
+    "isDefault": true
+   },
+   {
+    "label": "1 can (440 ml)",
+    "grams": 444
+   }
+  ],
+  "density_g_per_ml": 1.01,
+  "verified": false,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "beer-wheat",
+  "name": "Beer, wheat or hefeweizen, 5% ABV",
+  "brand": null,
+  "aliases": [],
+  "category": "alcohol",
+  "per100g": {
+   "kcal": 48,
+   "protein_g": 0.55,
+   "carbs_g": 4.3,
+   "fat_g": 0,
+   "fiber_g": 0,
+   "sugar_g": 0,
+   "satfat_g": 0,
+   "sodium_mg": 5
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 can (355 ml)",
+    "grams": 359,
+    "isDefault": true
+   },
+   {
+    "label": "1 pint (473 ml)",
+    "grams": 478
+   }
+  ],
+  "density_g_per_ml": 1.01,
+  "verified": false,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "beer-pilsner",
+  "name": "Beer, pilsner, 5% ABV",
+  "brand": null,
+  "aliases": [],
+  "category": "alcohol",
+  "per100g": {
+   "kcal": 45,
+   "protein_g": 0.46,
+   "carbs_g": 3.6,
+   "fat_g": 0,
+   "fiber_g": 0,
+   "sugar_g": 0,
+   "satfat_g": 0,
+   "sodium_mg": 4
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 can (355 ml)",
+    "grams": 359,
+    "isDefault": true
+   },
+   {
+    "label": "1 pint (473 ml)",
+    "grams": 478
+   }
+  ],
+  "density_g_per_ml": 1.01,
+  "verified": false,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "beer-sour",
+  "name": "Beer, sour, 5% ABV",
+  "brand": null,
+  "aliases": [],
+  "category": "alcohol",
+  "per100g": {
+   "kcal": 45,
+   "protein_g": 0.4,
+   "carbs_g": 4,
+   "fat_g": 0,
+   "fiber_g": 0,
+   "sugar_g": 1.5,
+   "satfat_g": 0,
+   "sodium_mg": 6
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 can (355 ml)",
+    "grams": 359,
+    "isDefault": true
+   },
+   {
+    "label": "100 g",
+    "grams": 100
+   }
+  ],
+  "density_g_per_ml": 1.01,
+  "verified": false,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "beer-non-alcoholic",
+  "name": "Beer, non-alcoholic",
+  "brand": null,
+  "aliases": [],
+  "category": "alcohol",
+  "per100g": {
+   "kcal": 13,
+   "protein_g": 0.42,
+   "carbs_g": 2.8,
+   "fat_g": 0,
+   "fiber_g": 0,
+   "sugar_g": 1.5,
+   "satfat_g": 0,
+   "sodium_mg": 5
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 can (355 ml)",
+    "grams": 358,
+    "isDefault": true
+   },
+   {
+    "label": "100 g",
+    "grams": 100
+   }
+  ],
+  "density_g_per_ml": 1.01,
+  "verified": false,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "hard-seltzer",
+  "name": "Hard seltzer, 5% ABV",
+  "brand": null,
+  "aliases": [
+   "white claw",
+   "truly"
+  ],
+  "category": "alcohol",
+  "per100g": {
+   "kcal": 28,
+   "protein_g": 0,
+   "carbs_g": 0.56,
+   "fat_g": 0,
+   "fiber_g": 0,
+   "sugar_g": 0.56,
+   "satfat_g": 0,
+   "sodium_mg": 6
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 can (355 ml)",
+    "grams": 357,
+    "isDefault": true
+   },
+   {
+    "label": "2 cans (710 ml)",
+    "grams": 714
+   }
+  ],
+  "density_g_per_ml": 1.005,
+  "verified": false,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "hard-cider",
+  "name": "Hard cider, 5% ABV",
+  "brand": null,
+  "aliases": [],
+  "category": "alcohol",
+  "per100g": {
+   "kcal": 50,
+   "protein_g": 0,
+   "carbs_g": 5,
+   "fat_g": 0,
+   "fiber_g": 0,
+   "sugar_g": 4.5,
+   "satfat_g": 0,
+   "sodium_mg": 7
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 can or bottle (355 ml)",
+    "grams": 359,
+    "isDefault": true
+   },
+   {
+    "label": "1 pint (473 ml)",
+    "grams": 478
+   }
+  ],
+  "density_g_per_ml": 1.01,
+  "verified": false,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "wine-red",
+  "name": "Wine, red, 13.5% ABV",
+  "brand": null,
+  "aliases": [
+   "cabernet",
+   "merlot",
+   "pinot noir",
+   "red wine"
+  ],
+  "category": "alcohol",
+  "per100g": {
+   "kcal": 85,
+   "protein_g": 0.07,
+   "carbs_g": 2.61,
+   "fat_g": 0,
+   "fiber_g": 0,
+   "sugar_g": 0.62,
+   "satfat_g": 0,
+   "sodium_mg": 4
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 glass, 5 fl oz (148 ml)",
+    "grams": 146,
+    "isDefault": true
+   },
+   {
+    "label": "1 large pour (177 ml)",
+    "grams": 175
+   },
+   {
+    "label": "1 bottle (750 ml)",
+    "grams": 743
+   }
+  ],
+  "density_g_per_ml": 0.99,
+  "verified": true,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "wine-white-dry",
+  "name": "Wine, white, dry, 12% ABV",
+  "brand": null,
+  "aliases": [
+   "sauvignon blanc",
+   "pinot grigio",
+   "chardonnay"
+  ],
+  "category": "alcohol",
+  "per100g": {
+   "kcal": 82,
+   "protein_g": 0.07,
+   "carbs_g": 2.6,
+   "fat_g": 0,
+   "fiber_g": 0,
+   "sugar_g": 1,
+   "satfat_g": 0,
+   "sodium_mg": 5
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 glass, 5 fl oz (148 ml)",
+    "grams": 146,
+    "isDefault": true
+   },
+   {
+    "label": "1 bottle (750 ml)",
+    "grams": 743
+   }
+  ],
+  "density_g_per_ml": 0.99,
+  "verified": true,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "wine-rose",
+  "name": "Wine, rosé, 12% ABV",
+  "brand": null,
+  "aliases": [],
+  "category": "alcohol",
+  "per100g": {
+   "kcal": 83,
+   "protein_g": 0.07,
+   "carbs_g": 2.9,
+   "fat_g": 0,
+   "fiber_g": 0,
+   "sugar_g": 1.2,
+   "satfat_g": 0,
+   "sodium_mg": 5
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 glass, 5 fl oz (148 ml)",
+    "grams": 146,
+    "isDefault": true
+   },
+   {
+    "label": "1 bottle (750 ml)",
+    "grams": 743
+   }
+  ],
+  "density_g_per_ml": 0.99,
+  "verified": false,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "wine-sparkling",
+  "name": "Champagne or prosecco, 12% ABV",
+  "brand": null,
+  "aliases": [
+   "sparkling wine"
+  ],
+  "category": "alcohol",
+  "per100g": {
+   "kcal": 76,
+   "protein_g": 0.07,
+   "carbs_g": 1.6,
+   "fat_g": 0,
+   "fiber_g": 0,
+   "sugar_g": 1,
+   "satfat_g": 0,
+   "sodium_mg": 5
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 flute, 4 fl oz (118 ml)",
+    "grams": 117,
+    "isDefault": true
+   },
+   {
+    "label": "1 glass (148 ml)",
+    "grams": 146
+   }
+  ],
+  "density_g_per_ml": 0.99,
+  "verified": false,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "wine-riesling-sweet",
+  "name": "Wine, Riesling, off-dry, 11% ABV",
+  "brand": null,
+  "aliases": [],
+  "category": "alcohol",
+  "per100g": {
+   "kcal": 90,
+   "protein_g": 0.07,
+   "carbs_g": 5.5,
+   "fat_g": 0,
+   "fiber_g": 0,
+   "sugar_g": 4.5,
+   "satfat_g": 0,
+   "sodium_mg": 5
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 glass, 5 fl oz (148 ml)",
+    "grams": 147,
+    "isDefault": true
+   },
+   {
+    "label": "100 g",
+    "grams": 100
+   }
+  ],
+  "density_g_per_ml": 0.99,
+  "verified": false,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "wine-dessert-sweet",
+  "name": "Dessert wine, sweet, 15% ABV",
+  "brand": null,
+  "aliases": [
+   "sauternes",
+   "ice wine"
+  ],
+  "category": "alcohol",
+  "per100g": {
+   "kcal": 160,
+   "protein_g": 0.2,
+   "carbs_g": 12.2,
+   "fat_g": 0,
+   "fiber_g": 0,
+   "sugar_g": 11,
+   "satfat_g": 0,
+   "sodium_mg": 9
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 pour, 3 fl oz (89 ml)",
+    "grams": 88,
+    "isDefault": true
+   },
+   {
+    "label": "100 g",
+    "grams": 100
+   }
+  ],
+  "density_g_per_ml": 1,
+  "verified": true,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "wine-port",
+  "name": "Port wine, 20% ABV",
+  "brand": null,
+  "aliases": [],
+  "category": "alcohol",
+  "per100g": {
+   "kcal": 165,
+   "protein_g": 0.1,
+   "carbs_g": 12,
+   "fat_g": 0,
+   "fiber_g": 0,
+   "sugar_g": 10,
+   "satfat_g": 0,
+   "sodium_mg": 9
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 pour, 3 fl oz (89 ml)",
+    "grams": 89,
+    "isDefault": true
+   },
+   {
+    "label": "100 g",
+    "grams": 100
+   }
+  ],
+  "density_g_per_ml": 1,
+  "verified": false,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "sake",
+  "name": "Sake, 16% ABV",
+  "brand": null,
+  "aliases": [
+   "rice wine"
+  ],
+  "category": "alcohol",
+  "per100g": {
+   "kcal": 134,
+   "protein_g": 0.5,
+   "carbs_g": 5,
+   "fat_g": 0,
+   "fiber_g": 0,
+   "sugar_g": 0,
+   "satfat_g": 0,
+   "sodium_mg": 2
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 pour, 3 fl oz (89 ml)",
+    "grams": 88,
+    "isDefault": true
+   },
+   {
+    "label": "1 cup (180 ml)",
+    "grams": 178
+   }
+  ],
+  "density_g_per_ml": 0.99,
+  "verified": true,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "vermouth-dry",
+  "name": "Vermouth, dry, 18% ABV",
+  "brand": null,
+  "aliases": [],
+  "category": "alcohol",
+  "per100g": {
+   "kcal": 105,
+   "protein_g": 0,
+   "carbs_g": 3,
+   "fat_g": 0,
+   "fiber_g": 0,
+   "sugar_g": 2.5,
+   "satfat_g": 0,
+   "sodium_mg": 8
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 pour, 1.5 fl oz (44 ml)",
+    "grams": 44,
+    "isDefault": true
+   },
+   {
+    "label": "100 g",
+    "grams": 100
+   }
+  ],
+  "density_g_per_ml": 0.99,
+  "verified": false,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "vermouth-sweet",
+  "name": "Vermouth, sweet, 16% ABV",
+  "brand": null,
+  "aliases": [],
+  "category": "alcohol",
+  "per100g": {
+   "kcal": 158,
+   "protein_g": 0,
+   "carbs_g": 15.9,
+   "fat_g": 0,
+   "fiber_g": 0,
+   "sugar_g": 14,
+   "satfat_g": 0,
+   "sodium_mg": 10
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 pour, 1.5 fl oz (44 ml)",
+    "grams": 44,
+    "isDefault": true
+   },
+   {
+    "label": "100 g",
+    "grams": 100
+   }
+  ],
+  "density_g_per_ml": 1.01,
+  "verified": false,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "vodka-80-proof",
+  "name": "Vodka, 80 proof, 40% ABV",
+  "brand": null,
+  "aliases": [],
+  "category": "alcohol",
+  "per100g": {
+   "kcal": 231,
+   "protein_g": 0,
+   "carbs_g": 0,
+   "fat_g": 0,
+   "fiber_g": 0,
+   "sugar_g": 0,
+   "satfat_g": 0,
+   "sodium_mg": 1
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 shot, 1.5 fl oz (44 ml)",
+    "grams": 42,
+    "isDefault": true
+   },
+   {
+    "label": "1 double (89 ml)",
+    "grams": 83
+   }
+  ],
+  "density_g_per_ml": 0.94,
+  "verified": true,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "gin-80-proof",
+  "name": "Gin, 80 proof, 40% ABV",
+  "brand": null,
+  "aliases": [],
+  "category": "alcohol",
+  "per100g": {
+   "kcal": 231,
+   "protein_g": 0,
+   "carbs_g": 0,
+   "fat_g": 0,
+   "fiber_g": 0,
+   "sugar_g": 0,
+   "satfat_g": 0,
+   "sodium_mg": 1
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 shot, 1.5 fl oz (44 ml)",
+    "grams": 42,
+    "isDefault": true
+   },
+   {
+    "label": "1 double (89 ml)",
+    "grams": 83
+   }
+  ],
+  "density_g_per_ml": 0.94,
+  "verified": true,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "rum-80-proof",
+  "name": "Rum, 80 proof, 40% ABV",
+  "brand": null,
+  "aliases": [],
+  "category": "alcohol",
+  "per100g": {
+   "kcal": 231,
+   "protein_g": 0,
+   "carbs_g": 0,
+   "fat_g": 0,
+   "fiber_g": 0,
+   "sugar_g": 0,
+   "satfat_g": 0,
+   "sodium_mg": 1
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 shot, 1.5 fl oz (44 ml)",
+    "grams": 42,
+    "isDefault": true
+   },
+   {
+    "label": "1 double (89 ml)",
+    "grams": 83
+   }
+  ],
+  "density_g_per_ml": 0.94,
+  "verified": true,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "whiskey-80-proof",
+  "name": "Whiskey, 80 proof, 40% ABV",
+  "brand": null,
+  "aliases": [
+   "bourbon",
+   "scotch",
+   "rye"
+  ],
+  "category": "alcohol",
+  "per100g": {
+   "kcal": 231,
+   "protein_g": 0,
+   "carbs_g": 0,
+   "fat_g": 0,
+   "fiber_g": 0,
+   "sugar_g": 0,
+   "satfat_g": 0,
+   "sodium_mg": 1
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 shot, 1.5 fl oz (44 ml)",
+    "grams": 42,
+    "isDefault": true
+   },
+   {
+    "label": "1 double (89 ml)",
+    "grams": 83
+   },
+   {
+    "label": "1 pour, 2 oz (59 ml)",
+    "grams": 55
+   }
+  ],
+  "density_g_per_ml": 0.94,
+  "verified": true,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "tequila-80-proof",
+  "name": "Tequila, 80 proof, 40% ABV",
+  "brand": null,
+  "aliases": [],
+  "category": "alcohol",
+  "per100g": {
+   "kcal": 231,
+   "protein_g": 0,
+   "carbs_g": 0,
+   "fat_g": 0,
+   "fiber_g": 0,
+   "sugar_g": 0,
+   "satfat_g": 0,
+   "sodium_mg": 1
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 shot, 1.5 fl oz (44 ml)",
+    "grams": 42,
+    "isDefault": true
+   },
+   {
+    "label": "1 double (89 ml)",
+    "grams": 83
+   }
+  ],
+  "density_g_per_ml": 0.94,
+  "verified": true,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "brandy-80-proof",
+  "name": "Brandy or cognac, 80 proof",
+  "brand": null,
+  "aliases": [],
+  "category": "alcohol",
+  "per100g": {
+   "kcal": 231,
+   "protein_g": 0,
+   "carbs_g": 0,
+   "fat_g": 0,
+   "fiber_g": 0,
+   "sugar_g": 0,
+   "satfat_g": 0,
+   "sodium_mg": 1
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 shot, 1.5 fl oz (44 ml)",
+    "grams": 42,
+    "isDefault": true
+   },
+   {
+    "label": "100 g",
+    "grams": 100
+   }
+  ],
+  "density_g_per_ml": 0.94,
+  "verified": true,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "spirits-90-proof",
+  "name": "Distilled spirits, 90 proof, 45% ABV",
+  "brand": null,
+  "aliases": [],
+  "category": "alcohol",
+  "per100g": {
+   "kcal": 263,
+   "protein_g": 0,
+   "carbs_g": 0,
+   "fat_g": 0,
+   "fiber_g": 0,
+   "sugar_g": 0,
+   "satfat_g": 0,
+   "sodium_mg": 1
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 shot, 1.5 fl oz (44 ml)",
+    "grams": 41,
+    "isDefault": true
+   },
+   {
+    "label": "100 g",
+    "grams": 100
+   }
+  ],
+  "density_g_per_ml": 0.93,
+  "verified": true,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "spirits-100-proof",
+  "name": "Distilled spirits, 100 proof, 50% ABV",
+  "brand": null,
+  "aliases": [],
+  "category": "alcohol",
+  "per100g": {
+   "kcal": 295,
+   "protein_g": 0,
+   "carbs_g": 0,
+   "fat_g": 0,
+   "fiber_g": 0,
+   "sugar_g": 0,
+   "satfat_g": 0,
+   "sodium_mg": 1
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 shot, 1.5 fl oz (44 ml)",
+    "grams": 41,
+    "isDefault": true
+   },
+   {
+    "label": "100 g",
+    "grams": 100
+   }
+  ],
+  "density_g_per_ml": 0.92,
+  "verified": true,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "mezcal",
+  "name": "Mezcal, 40% ABV",
+  "brand": null,
+  "aliases": [],
+  "category": "alcohol",
+  "per100g": {
+   "kcal": 231,
+   "protein_g": 0,
+   "carbs_g": 0,
+   "fat_g": 0,
+   "fiber_g": 0,
+   "sugar_g": 0,
+   "satfat_g": 0,
+   "sodium_mg": 1
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 shot, 1.5 fl oz (44 ml)",
+    "grams": 42,
+    "isDefault": true
+   },
+   {
+    "label": "100 g",
+    "grams": 100
+   }
+  ],
+  "density_g_per_ml": 0.94,
+  "verified": false,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "soju",
+  "name": "Soju, 17% ABV",
+  "brand": null,
+  "aliases": [],
+  "category": "alcohol",
+  "per100g": {
+   "kcal": 106,
+   "protein_g": 0,
+   "carbs_g": 3,
+   "fat_g": 0,
+   "fiber_g": 0,
+   "sugar_g": 3,
+   "satfat_g": 0,
+   "sodium_mg": 2
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 shot (50 ml)",
+    "grams": 49,
+    "isDefault": true
+   },
+   {
+    "label": "1 bottle (360 ml)",
+    "grams": 353
+   }
+  ],
+  "density_g_per_ml": 0.98,
+  "verified": false,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "liqueur-baileys",
+  "name": "Irish cream liqueur, 17% ABV",
+  "brand": null,
+  "aliases": [
+   "baileys"
+  ],
+  "category": "alcohol",
+  "per100g": {
+   "kcal": 327,
+   "protein_g": 3,
+   "carbs_g": 24,
+   "fat_g": 13,
+   "fiber_g": 0,
+   "sugar_g": 22,
+   "satfat_g": 8,
+   "sodium_mg": 60
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 shot, 1.5 fl oz (44 ml)",
+    "grams": 46,
+    "isDefault": true
+   },
+   {
+    "label": "100 g",
+    "grams": 100
+   }
+  ],
+  "density_g_per_ml": 1.05,
+  "verified": false,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "liqueur-kahlua",
+  "name": "Coffee liqueur, 20% ABV",
+  "brand": null,
+  "aliases": [
+   "kahlua"
+  ],
+  "category": "alcohol",
+  "per100g": {
+   "kcal": 336,
+   "protein_g": 0.1,
+   "carbs_g": 45,
+   "fat_g": 0.3,
+   "fiber_g": 0,
+   "sugar_g": 41,
+   "satfat_g": 0.1,
+   "sodium_mg": 10
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 shot, 1.5 fl oz (44 ml)",
+    "grams": 48,
+    "isDefault": true
+   },
+   {
+    "label": "100 g",
+    "grams": 100
+   }
+  ],
+  "density_g_per_ml": 1.09,
+  "verified": false,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "liqueur-triple-sec",
+  "name": "Triple sec or Cointreau, 40% ABV",
+  "brand": null,
+  "aliases": [],
+  "category": "alcohol",
+  "per100g": {
+   "kcal": 300,
+   "protein_g": 0,
+   "carbs_g": 30,
+   "fat_g": 0,
+   "fiber_g": 0,
+   "sugar_g": 30,
+   "satfat_g": 0,
+   "sodium_mg": 3
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 shot, 1.5 fl oz (44 ml)",
+    "grams": 45,
+    "isDefault": true
+   },
+   {
+    "label": "1/2 oz (15 ml)",
+    "grams": 15
+   }
+  ],
+  "density_g_per_ml": 1.02,
+  "verified": false,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "liqueur-amaretto",
+  "name": "Amaretto, 28% ABV",
+  "brand": null,
+  "aliases": [],
+  "category": "alcohol",
+  "per100g": {
+   "kcal": 280,
+   "protein_g": 0,
+   "carbs_g": 35,
+   "fat_g": 0,
+   "fiber_g": 0,
+   "sugar_g": 35,
+   "satfat_g": 0,
+   "sodium_mg": 3
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 shot, 1.5 fl oz (44 ml)",
+    "grams": 47,
+    "isDefault": true
+   },
+   {
+    "label": "100 g",
+    "grams": 100
+   }
+  ],
+  "density_g_per_ml": 1.07,
+  "verified": false,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "liqueur-aperol",
+  "name": "Aperol, 11% ABV",
+  "brand": null,
+  "aliases": [],
+  "category": "alcohol",
+  "per100g": {
+   "kcal": 156,
+   "protein_g": 0,
+   "carbs_g": 24,
+   "fat_g": 0,
+   "fiber_g": 0,
+   "sugar_g": 24,
+   "satfat_g": 0,
+   "sodium_mg": 5
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 pour, 1.5 fl oz (44 ml)",
+    "grams": 48,
+    "isDefault": true
+   },
+   {
+    "label": "100 g",
+    "grams": 100
+   }
+  ],
+  "density_g_per_ml": 1.09,
+  "verified": false,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "liqueur-campari",
+  "name": "Campari, 25% ABV",
+  "brand": null,
+  "aliases": [],
+  "category": "alcohol",
+  "per100g": {
+   "kcal": 240,
+   "protein_g": 0,
+   "carbs_g": 24,
+   "fat_g": 0,
+   "fiber_g": 0,
+   "sugar_g": 24,
+   "satfat_g": 0,
+   "sodium_mg": 4
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 pour, 1.5 fl oz (44 ml)",
+    "grams": 47,
+    "isDefault": true
+   },
+   {
+    "label": "100 g",
+    "grams": 100
+   }
+  ],
+  "density_g_per_ml": 1.06,
+  "verified": false,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "liqueur-jagermeister",
+  "name": "Jägermeister, 35% ABV",
+  "brand": null,
+  "aliases": [],
+  "category": "alcohol",
+  "per100g": {
+   "kcal": 250,
+   "protein_g": 0,
+   "carbs_g": 15,
+   "fat_g": 0,
+   "fiber_g": 0,
+   "sugar_g": 15,
+   "satfat_g": 0,
+   "sodium_mg": 5
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 shot, 1.5 fl oz (44 ml)",
+    "grams": 47,
+    "isDefault": true
+   },
+   {
+    "label": "100 g",
+    "grams": 100
+   }
+  ],
+  "density_g_per_ml": 1.06,
+  "verified": false,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "liqueur-limoncello",
+  "name": "Limoncello, 28% ABV",
+  "brand": null,
+  "aliases": [],
+  "category": "alcohol",
+  "per100g": {
+   "kcal": 320,
+   "protein_g": 0,
+   "carbs_g": 45,
+   "fat_g": 0,
+   "fiber_g": 0,
+   "sugar_g": 45,
+   "satfat_g": 0,
+   "sodium_mg": 3
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 pour, 1.5 fl oz (44 ml)",
+    "grams": 48,
+    "isDefault": true
+   },
+   {
+    "label": "100 g",
+    "grams": 100
+   }
+  ],
+  "density_g_per_ml": 1.09,
+  "verified": false,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "cocktail-margarita",
+  "name": "Margarita",
+  "brand": null,
+  "aliases": [],
+  "category": "alcohol",
+  "per100g": {
+   "kcal": 154,
+   "protein_g": 0,
+   "carbs_g": 11.9,
+   "fat_g": 0,
+   "fiber_g": 0,
+   "sugar_g": 11,
+   "satfat_g": 0,
+   "sodium_mg": 8
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 drink, 4 fl oz (118 ml)",
+    "grams": 118,
+    "isDefault": true
+   },
+   {
+    "label": "1 large (240 ml)",
+    "grams": 240
+   }
+  ],
+  "density_g_per_ml": 1,
+  "verified": false,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "cocktail-mojito",
+  "name": "Mojito",
+  "brand": null,
+  "aliases": [],
+  "category": "alcohol",
+  "per100g": {
+   "kcal": 92,
+   "protein_g": 0,
+   "carbs_g": 10,
+   "fat_g": 0,
+   "fiber_g": 0,
+   "sugar_g": 9.5,
+   "satfat_g": 0,
+   "sodium_mg": 4
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 drink, 8 fl oz (237 ml)",
+    "grams": 237,
+    "isDefault": true
+   },
+   {
+    "label": "100 g",
+    "grams": 100
+   }
+  ],
+  "density_g_per_ml": 1,
+  "verified": false,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "cocktail-old-fashioned",
+  "name": "Old Fashioned",
+  "brand": null,
+  "aliases": [],
+  "category": "alcohol",
+  "per100g": {
+   "kcal": 150,
+   "protein_g": 0,
+   "carbs_g": 6,
+   "fat_g": 0,
+   "fiber_g": 0,
+   "sugar_g": 6,
+   "satfat_g": 0,
+   "sodium_mg": 3
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 drink, 3.5 fl oz (104 ml)",
+    "grams": 100,
+    "isDefault": true
+   },
+   {
+    "label": "100 g",
+    "grams": 100
+   }
+  ],
+  "density_g_per_ml": 0.96,
+  "verified": false,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "cocktail-martini",
+  "name": "Martini, gin or vodka",
+  "brand": null,
+  "aliases": [],
+  "category": "alcohol",
+  "per100g": {
+   "kcal": 197,
+   "protein_g": 0,
+   "carbs_g": 0.3,
+   "fat_g": 0,
+   "fiber_g": 0,
+   "sugar_g": 0.2,
+   "satfat_g": 0,
+   "sodium_mg": 2
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 drink, 3 fl oz (89 ml)",
+    "grams": 85,
+    "isDefault": true
+   },
+   {
+    "label": "100 g",
+    "grams": 100
+   }
+  ],
+  "density_g_per_ml": 0.95,
+  "verified": false,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "cocktail-gin-tonic",
+  "name": "Gin and tonic",
+  "brand": null,
+  "aliases": [],
+  "category": "alcohol",
+  "per100g": {
+   "kcal": 75,
+   "protein_g": 0,
+   "carbs_g": 6.5,
+   "fat_g": 0,
+   "fiber_g": 0,
+   "sugar_g": 6.5,
+   "satfat_g": 0,
+   "sodium_mg": 5
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 drink, 8 fl oz (237 ml)",
+    "grams": 240,
+    "isDefault": true
+   },
+   {
+    "label": "100 g",
+    "grams": 100
+   }
+  ],
+  "density_g_per_ml": 1.01,
+  "verified": false,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "cocktail-vodka-soda",
+  "name": "Vodka soda",
+  "brand": null,
+  "aliases": [],
+  "category": "alcohol",
+  "per100g": {
+   "kcal": 36,
+   "protein_g": 0,
+   "carbs_g": 0,
+   "fat_g": 0,
+   "fiber_g": 0,
+   "sugar_g": 0,
+   "satfat_g": 0,
+   "sodium_mg": 5
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 drink, 8 fl oz (237 ml)",
+    "grams": 237,
+    "isDefault": true
+   },
+   {
+    "label": "100 g",
+    "grams": 100
+   }
+  ],
+  "density_g_per_ml": 1,
+  "verified": false,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "cocktail-moscow-mule",
+  "name": "Moscow mule",
+  "brand": null,
+  "aliases": [],
+  "category": "alcohol",
+  "per100g": {
+   "kcal": 78,
+   "protein_g": 0,
+   "carbs_g": 9.5,
+   "fat_g": 0,
+   "fiber_g": 0,
+   "sugar_g": 9,
+   "satfat_g": 0,
+   "sodium_mg": 8
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 drink, 8 fl oz (237 ml)",
+    "grams": 240,
+    "isDefault": true
+   },
+   {
+    "label": "100 g",
+    "grams": 100
+   }
+  ],
+  "density_g_per_ml": 1.01,
+  "verified": false,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "cocktail-mimosa",
+  "name": "Mimosa",
+  "brand": null,
+  "aliases": [],
+  "category": "alcohol",
+  "per100g": {
+   "kcal": 71,
+   "protein_g": 0.2,
+   "carbs_g": 7.5,
+   "fat_g": 0,
+   "fiber_g": 0,
+   "sugar_g": 6.5,
+   "satfat_g": 0,
+   "sodium_mg": 4
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 drink, 6 fl oz (177 ml)",
+    "grams": 178,
+    "isDefault": true
+   },
+   {
+    "label": "100 g",
+    "grams": 100
+   }
+  ],
+  "density_g_per_ml": 1,
+  "verified": false,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "cocktail-bloody-mary",
+  "name": "Bloody Mary",
+  "brand": null,
+  "aliases": [],
+  "category": "alcohol",
+  "per100g": {
+   "kcal": 52,
+   "protein_g": 0.6,
+   "carbs_g": 5,
+   "fat_g": 0.05,
+   "fiber_g": 0.4,
+   "sugar_g": 3,
+   "satfat_g": 0,
+   "sodium_mg": 300
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 drink, 8 fl oz (237 ml)",
+    "grams": 240,
+    "isDefault": true
+   },
+   {
+    "label": "100 g",
+    "grams": 100
+   }
+  ],
+  "density_g_per_ml": 1.01,
+  "verified": false,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "cocktail-pina-colada",
+  "name": "Piña colada",
+  "brand": null,
+  "aliases": [],
+  "category": "alcohol",
+  "per100g": {
+   "kcal": 204,
+   "protein_g": 0.5,
+   "carbs_g": 25,
+   "fat_g": 6.5,
+   "fiber_g": 0.4,
+   "sugar_g": 22,
+   "satfat_g": 5.5,
+   "sodium_mg": 10
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 drink, 8 fl oz (237 ml)",
+    "grams": 245,
+    "isDefault": true
+   },
+   {
+    "label": "100 g",
+    "grams": 100
+   }
+  ],
+  "density_g_per_ml": 1.03,
+  "verified": false,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "cocktail-whiskey-sour",
+  "name": "Whiskey sour",
+  "brand": null,
+  "aliases": [],
+  "category": "alcohol",
+  "per100g": {
+   "kcal": 135,
+   "protein_g": 0,
+   "carbs_g": 9,
+   "fat_g": 0,
+   "fiber_g": 0,
+   "sugar_g": 8.5,
+   "satfat_g": 0,
+   "sodium_mg": 4
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 drink, 4 fl oz (118 ml)",
+    "grams": 118,
+    "isDefault": true
+   },
+   {
+    "label": "100 g",
+    "grams": 100
+   }
+  ],
+  "density_g_per_ml": 1,
+  "verified": false,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "cocktail-espresso-martini",
+  "name": "Espresso martini",
+  "brand": null,
+  "aliases": [],
+  "category": "alcohol",
+  "per100g": {
+   "kcal": 186,
+   "protein_g": 0.3,
+   "carbs_g": 13,
+   "fat_g": 0,
+   "fiber_g": 0,
+   "sugar_g": 12,
+   "satfat_g": 0,
+   "sodium_mg": 5
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 drink, 4 fl oz (118 ml)",
+    "grams": 120,
+    "isDefault": true
+   },
+   {
+    "label": "100 g",
+    "grams": 100
+   }
+  ],
+  "density_g_per_ml": 1.02,
+  "verified": false,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "cocktail-cosmopolitan",
+  "name": "Cosmopolitan",
+  "brand": null,
+  "aliases": [],
+  "category": "alcohol",
+  "per100g": {
+   "kcal": 169,
+   "protein_g": 0,
+   "carbs_g": 11,
+   "fat_g": 0,
+   "fiber_g": 0,
+   "sugar_g": 10.5,
+   "satfat_g": 0,
+   "sodium_mg": 4
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 drink, 4 fl oz (118 ml)",
+    "grams": 118,
+    "isDefault": true
+   },
+   {
+    "label": "100 g",
+    "grams": 100
+   }
+  ],
+  "density_g_per_ml": 1,
+  "verified": false,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "cocktail-negroni",
+  "name": "Negroni",
+  "brand": null,
+  "aliases": [],
+  "category": "alcohol",
+  "per100g": {
+   "kcal": 220,
+   "protein_g": 0,
+   "carbs_g": 13,
+   "fat_g": 0,
+   "fiber_g": 0,
+   "sugar_g": 12.5,
+   "satfat_g": 0,
+   "sodium_mg": 5
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 drink, 3 fl oz (89 ml)",
+    "grams": 90,
+    "isDefault": true
+   },
+   {
+    "label": "100 g",
+    "grams": 100
+   }
+  ],
+  "density_g_per_ml": 1.01,
+  "verified": false,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "cocktail-aperol-spritz",
+  "name": "Aperol spritz",
+  "brand": null,
+  "aliases": [],
+  "category": "alcohol",
+  "per100g": {
+   "kcal": 70,
+   "protein_g": 0,
+   "carbs_g": 8.5,
+   "fat_g": 0,
+   "fiber_g": 0,
+   "sugar_g": 8,
+   "satfat_g": 0,
+   "sodium_mg": 6
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 drink, 6 fl oz (177 ml)",
+    "grams": 179,
+    "isDefault": true
+   },
+   {
+    "label": "100 g",
+    "grams": 100
+   }
+  ],
+  "density_g_per_ml": 1.01,
+  "verified": false,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "cocktail-long-island",
+  "name": "Long Island iced tea",
+  "brand": null,
+  "aliases": [],
+  "category": "alcohol",
+  "per100g": {
+   "kcal": 169,
+   "protein_g": 0,
+   "carbs_g": 14,
+   "fat_g": 0,
+   "fiber_g": 0,
+   "sugar_g": 13,
+   "satfat_g": 0,
+   "sodium_mg": 10
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 drink, 8 fl oz (237 ml)",
+    "grams": 240,
+    "isDefault": true
+   },
+   {
+    "label": "100 g",
+    "grams": 100
+   }
+  ],
+  "density_g_per_ml": 1.01,
+  "verified": false,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "cocktail-white-russian",
+  "name": "White Russian",
+  "brand": null,
+  "aliases": [],
+  "category": "alcohol",
+  "per100g": {
+   "kcal": 245,
+   "protein_g": 1,
+   "carbs_g": 17,
+   "fat_g": 8,
+   "fiber_g": 0,
+   "sugar_g": 16,
+   "satfat_g": 5,
+   "sodium_mg": 15
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 drink, 5 fl oz (148 ml)",
+    "grams": 152,
+    "isDefault": true
+   },
+   {
+    "label": "100 g",
+    "grams": 100
+   }
+  ],
+  "density_g_per_ml": 1.03,
+  "verified": false,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "cocktail-daiquiri",
+  "name": "Daiquiri, classic",
+  "brand": null,
+  "aliases": [],
+  "category": "alcohol",
+  "per100g": {
+   "kcal": 145,
+   "protein_g": 0,
+   "carbs_g": 10,
+   "fat_g": 0,
+   "fiber_g": 0,
+   "sugar_g": 9.5,
+   "satfat_g": 0,
+   "sodium_mg": 3
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 drink, 4 fl oz (118 ml)",
+    "grams": 118,
+    "isDefault": true
+   },
+   {
+    "label": "100 g",
+    "grams": 100
+   }
+  ],
+  "density_g_per_ml": 1,
+  "verified": false,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "cocktail-michelada",
+  "name": "Michelada",
+  "brand": null,
+  "aliases": [],
+  "category": "alcohol",
+  "per100g": {
+   "kcal": 36,
+   "protein_g": 0.4,
+   "carbs_g": 3.5,
+   "fat_g": 0,
+   "fiber_g": 0.2,
+   "sugar_g": 1,
+   "satfat_g": 0,
+   "sodium_mg": 280
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 drink, 12 fl oz (355 ml)",
+    "grams": 359,
+    "isDefault": true
+   },
+   {
+    "label": "100 g",
+    "grams": 100
+   }
+  ],
+  "density_g_per_ml": 1.01,
+  "verified": false,
+  "source": "USDA FoodData Central (SR Legacy)"
+ }
+]

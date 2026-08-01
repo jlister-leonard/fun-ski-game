@@ -1,0 +1,1066 @@
+[
+ {
+  "id": "soup-chicken-noodle",
+  "name": "Chicken noodle soup, canned, prepared",
+  "brand": null,
+  "aliases": [],
+  "category": "soup",
+  "per100g": {
+   "kcal": 25,
+   "protein_g": 1.5,
+   "carbs_g": 3.1,
+   "fat_g": 0.75,
+   "fiber_g": 0.3,
+   "sugar_g": 0.4,
+   "satfat_g": 0.2,
+   "sodium_mg": 343
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 cup (245 ml)",
+    "grams": 245,
+    "isDefault": true
+   },
+   {
+    "label": "1 can (305 g)",
+    "grams": 305
+   }
+  ],
+  "density_g_per_ml": 1.02,
+  "verified": true,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "soup-chicken-noodle-homemade",
+  "name": "Chicken noodle soup, homemade",
+  "brand": null,
+  "aliases": [],
+  "category": "soup",
+  "per100g": {
+   "kcal": 40,
+   "protein_g": 3.5,
+   "carbs_g": 4.5,
+   "fat_g": 1,
+   "fiber_g": 0.4,
+   "sugar_g": 0.5,
+   "satfat_g": 0.25,
+   "sodium_mg": 300
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 cup (245 ml)",
+    "grams": 245,
+    "isDefault": true
+   },
+   {
+    "label": "1 bowl (350 ml)",
+    "grams": 350
+   }
+  ],
+  "density_g_per_ml": 1.02,
+  "verified": false,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "soup-tomato",
+  "name": "Tomato soup, canned, prepared with water",
+  "brand": null,
+  "aliases": [],
+  "category": "soup",
+  "per100g": {
+   "kcal": 30,
+   "protein_g": 0.8,
+   "carbs_g": 6.6,
+   "fat_g": 0.3,
+   "fiber_g": 0.6,
+   "sugar_g": 4,
+   "satfat_g": 0.06,
+   "sodium_mg": 292
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 cup (245 ml)",
+    "grams": 245,
+    "isDefault": true
+   },
+   {
+    "label": "1 can (305 g)",
+    "grams": 305
+   }
+  ],
+  "density_g_per_ml": 1.02,
+  "verified": true,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "soup-tomato-cream",
+  "name": "Creamy tomato soup",
+  "brand": null,
+  "aliases": [],
+  "category": "soup",
+  "per100g": {
+   "kcal": 60,
+   "protein_g": 1.5,
+   "carbs_g": 8,
+   "fat_g": 2.5,
+   "fiber_g": 0.8,
+   "sugar_g": 5,
+   "satfat_g": 1.5,
+   "sodium_mg": 360
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 cup (245 ml)",
+    "grams": 245,
+    "isDefault": true
+   },
+   {
+    "label": "1 bowl (350 ml)",
+    "grams": 350
+   }
+  ],
+  "density_g_per_ml": 1.02,
+  "verified": false,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "soup-minestrone",
+  "name": "Minestrone soup, canned",
+  "brand": null,
+  "aliases": [],
+  "category": "soup",
+  "per100g": {
+   "kcal": 34,
+   "protein_g": 2.1,
+   "carbs_g": 5.3,
+   "fat_g": 0.9,
+   "fiber_g": 1,
+   "sugar_g": 1,
+   "satfat_g": 0.2,
+   "sodium_mg": 370
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 cup (245 ml)",
+    "grams": 245,
+    "isDefault": true
+   },
+   {
+    "label": "1 bowl (350 ml)",
+    "grams": 350
+   }
+  ],
+  "density_g_per_ml": 1.02,
+  "verified": true,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "soup-vegetable",
+  "name": "Vegetable soup, canned",
+  "brand": null,
+  "aliases": [],
+  "category": "soup",
+  "per100g": {
+   "kcal": 30,
+   "protein_g": 1.2,
+   "carbs_g": 5.5,
+   "fat_g": 0.5,
+   "fiber_g": 0.9,
+   "sugar_g": 1.5,
+   "satfat_g": 0.1,
+   "sodium_mg": 340
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 cup (245 ml)",
+    "grams": 245,
+    "isDefault": true
+   },
+   {
+    "label": "100 g",
+    "grams": 100
+   }
+  ],
+  "density_g_per_ml": 1.02,
+  "verified": false,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "soup-lentil",
+  "name": "Lentil soup",
+  "brand": null,
+  "aliases": [],
+  "category": "soup",
+  "per100g": {
+   "kcal": 55,
+   "protein_g": 3.5,
+   "carbs_g": 8.5,
+   "fat_g": 0.7,
+   "fiber_g": 2.5,
+   "sugar_g": 1,
+   "satfat_g": 0.15,
+   "sodium_mg": 300
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 cup (245 ml)",
+    "grams": 245,
+    "isDefault": true
+   },
+   {
+    "label": "1 bowl (350 ml)",
+    "grams": 350
+   }
+  ],
+  "density_g_per_ml": 1.02,
+  "verified": false,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "soup-black-bean",
+  "name": "Black bean soup, canned",
+  "brand": null,
+  "aliases": [],
+  "category": "soup",
+  "per100g": {
+   "kcal": 46,
+   "protein_g": 2.6,
+   "carbs_g": 8,
+   "fat_g": 0.6,
+   "fiber_g": 3.5,
+   "sugar_g": 1,
+   "satfat_g": 0.15,
+   "sodium_mg": 500
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 cup (245 ml)",
+    "grams": 245,
+    "isDefault": true
+   },
+   {
+    "label": "100 g",
+    "grams": 100
+   }
+  ],
+  "density_g_per_ml": 1.02,
+  "verified": true,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "soup-split-pea-ham",
+  "name": "Split pea with ham soup",
+  "brand": null,
+  "aliases": [],
+  "category": "soup",
+  "per100g": {
+   "kcal": 75,
+   "protein_g": 4.1,
+   "carbs_g": 11,
+   "fat_g": 1.6,
+   "fiber_g": 1.7,
+   "sugar_g": 1.5,
+   "satfat_g": 0.6,
+   "sodium_mg": 400
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 cup (245 ml)",
+    "grams": 245,
+    "isDefault": true
+   },
+   {
+    "label": "100 g",
+    "grams": 100
+   }
+  ],
+  "density_g_per_ml": 1.02,
+  "verified": true,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "soup-broccoli-cheddar",
+  "name": "Broccoli cheddar soup",
+  "brand": null,
+  "aliases": [],
+  "category": "soup",
+  "per100g": {
+   "kcal": 100,
+   "protein_g": 3.5,
+   "carbs_g": 7,
+   "fat_g": 6.5,
+   "fiber_g": 1,
+   "sugar_g": 2.5,
+   "satfat_g": 3.2,
+   "sodium_mg": 480
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 cup (245 ml)",
+    "grams": 245,
+    "isDefault": true
+   },
+   {
+    "label": "1 bowl (350 ml)",
+    "grams": 350
+   }
+  ],
+  "density_g_per_ml": 1.02,
+  "verified": false,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "soup-clam-chowder-new-england",
+  "name": "Clam chowder, New England",
+  "brand": null,
+  "aliases": [],
+  "category": "soup",
+  "per100g": {
+   "kcal": 80,
+   "protein_g": 3.5,
+   "carbs_g": 8.5,
+   "fat_g": 3.6,
+   "fiber_g": 0.5,
+   "sugar_g": 1,
+   "satfat_g": 1.1,
+   "sodium_mg": 400
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 cup (245 ml)",
+    "grams": 245,
+    "isDefault": true
+   },
+   {
+    "label": "1 bread bowl (450 g)",
+    "grams": 450
+   }
+  ],
+  "density_g_per_ml": 1.02,
+  "verified": false,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "soup-corn-chowder",
+  "name": "Corn chowder",
+  "brand": null,
+  "aliases": [],
+  "category": "soup",
+  "per100g": {
+   "kcal": 85,
+   "protein_g": 2.5,
+   "carbs_g": 12,
+   "fat_g": 3.2,
+   "fiber_g": 1.2,
+   "sugar_g": 4,
+   "satfat_g": 1.3,
+   "sodium_mg": 380
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 cup (245 ml)",
+    "grams": 245,
+    "isDefault": true
+   },
+   {
+    "label": "100 g",
+    "grams": 100
+   }
+  ],
+  "density_g_per_ml": 1.02,
+  "verified": false,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "soup-french-onion",
+  "name": "French onion soup, with cheese and bread",
+  "brand": null,
+  "aliases": [],
+  "category": "soup",
+  "per100g": {
+   "kcal": 70,
+   "protein_g": 3.5,
+   "carbs_g": 7,
+   "fat_g": 3.2,
+   "fiber_g": 0.8,
+   "sugar_g": 2.5,
+   "satfat_g": 1.8,
+   "sodium_mg": 560
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 cup (245 ml)",
+    "grams": 245,
+    "isDefault": true
+   },
+   {
+    "label": "1 crock (350 g)",
+    "grams": 350
+   }
+  ],
+  "density_g_per_ml": 1.02,
+  "verified": false,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "soup-butternut-squash",
+  "name": "Butternut squash soup",
+  "brand": null,
+  "aliases": [],
+  "category": "soup",
+  "per100g": {
+   "kcal": 50,
+   "protein_g": 1.2,
+   "carbs_g": 9.5,
+   "fat_g": 1.3,
+   "fiber_g": 1.5,
+   "sugar_g": 4,
+   "satfat_g": 0.7,
+   "sodium_mg": 340
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 cup (245 ml)",
+    "grams": 245,
+    "isDefault": true
+   },
+   {
+    "label": "100 g",
+    "grams": 100
+   }
+  ],
+  "density_g_per_ml": 1.02,
+  "verified": false,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "soup-miso",
+  "name": "Miso soup",
+  "brand": null,
+  "aliases": [],
+  "category": "soup",
+  "per100g": {
+   "kcal": 16,
+   "protein_g": 1.2,
+   "carbs_g": 1.8,
+   "fat_g": 0.5,
+   "fiber_g": 0.3,
+   "sugar_g": 0.5,
+   "satfat_g": 0.1,
+   "sodium_mg": 350
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 cup (245 ml)",
+    "grams": 245,
+    "isDefault": true
+   },
+   {
+    "label": "1 bowl (200 ml)",
+    "grams": 204
+   }
+  ],
+  "density_g_per_ml": 1.02,
+  "verified": true,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "soup-egg-drop",
+  "name": "Egg drop soup",
+  "brand": null,
+  "aliases": [],
+  "category": "soup",
+  "per100g": {
+   "kcal": 27,
+   "protein_g": 2,
+   "carbs_g": 2.2,
+   "fat_g": 1.1,
+   "fiber_g": 0.1,
+   "sugar_g": 0.5,
+   "satfat_g": 0.3,
+   "sodium_mg": 380
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 cup (245 ml)",
+    "grams": 245,
+    "isDefault": true
+   },
+   {
+    "label": "100 g",
+    "grams": 100
+   }
+  ],
+  "density_g_per_ml": 1.02,
+  "verified": false,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "soup-hot-and-sour",
+  "name": "Hot and sour soup",
+  "brand": null,
+  "aliases": [],
+  "category": "soup",
+  "per100g": {
+   "kcal": 38,
+   "protein_g": 2.5,
+   "carbs_g": 3.5,
+   "fat_g": 1.5,
+   "fiber_g": 0.5,
+   "sugar_g": 1,
+   "satfat_g": 0.4,
+   "sodium_mg": 450
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 cup (245 ml)",
+    "grams": 245,
+    "isDefault": true
+   },
+   {
+    "label": "100 g",
+    "grams": 100
+   }
+  ],
+  "density_g_per_ml": 1.02,
+  "verified": false,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "soup-wonton",
+  "name": "Wonton soup",
+  "brand": null,
+  "aliases": [],
+  "category": "soup",
+  "per100g": {
+   "kcal": 30,
+   "protein_g": 2,
+   "carbs_g": 3.5,
+   "fat_g": 0.8,
+   "fiber_g": 0.3,
+   "sugar_g": 0.5,
+   "satfat_g": 0.2,
+   "sodium_mg": 400
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 cup (245 ml)",
+    "grams": 245,
+    "isDefault": true
+   },
+   {
+    "label": "1 bowl (350 ml)",
+    "grams": 350
+   }
+  ],
+  "density_g_per_ml": 1.02,
+  "verified": false,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "soup-chicken-tortilla",
+  "name": "Chicken tortilla soup",
+  "brand": null,
+  "aliases": [],
+  "category": "soup",
+  "per100g": {
+   "kcal": 55,
+   "protein_g": 3.5,
+   "carbs_g": 6,
+   "fat_g": 2,
+   "fiber_g": 1,
+   "sugar_g": 1.5,
+   "satfat_g": 0.5,
+   "sodium_mg": 420
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 cup (245 ml)",
+    "grams": 245,
+    "isDefault": true
+   },
+   {
+    "label": "100 g",
+    "grams": 100
+   }
+  ],
+  "density_g_per_ml": 1.02,
+  "verified": false,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "soup-matzo-ball",
+  "name": "Matzo ball soup",
+  "brand": null,
+  "aliases": [],
+  "category": "soup",
+  "per100g": {
+   "kcal": 45,
+   "protein_g": 2,
+   "carbs_g": 5.5,
+   "fat_g": 1.6,
+   "fiber_g": 0.4,
+   "sugar_g": 0.5,
+   "satfat_g": 0.35,
+   "sodium_mg": 420
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 cup (245 ml)",
+    "grams": 245,
+    "isDefault": true
+   },
+   {
+    "label": "100 g",
+    "grams": 100
+   }
+  ],
+  "density_g_per_ml": 1.02,
+  "verified": false,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "soup-gumbo-chicken-sausage",
+  "name": "Gumbo, chicken and sausage",
+  "brand": null,
+  "aliases": [],
+  "category": "soup",
+  "per100g": {
+   "kcal": 70,
+   "protein_g": 5,
+   "carbs_g": 5.5,
+   "fat_g": 3.2,
+   "fiber_g": 0.8,
+   "sugar_g": 1,
+   "satfat_g": 1,
+   "sodium_mg": 480
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 cup (245 ml)",
+    "grams": 245,
+    "isDefault": true
+   },
+   {
+    "label": "100 g",
+    "grams": 100
+   }
+  ],
+  "density_g_per_ml": 1.02,
+  "verified": false,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "chili-con-carne-beans",
+  "name": "Chili con carne, with beans",
+  "brand": null,
+  "aliases": [],
+  "category": "soup",
+  "per100g": {
+   "kcal": 110,
+   "protein_g": 8.5,
+   "carbs_g": 10,
+   "fat_g": 4,
+   "fiber_g": 3,
+   "sugar_g": 1.5,
+   "satfat_g": 1.5,
+   "sodium_mg": 420
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 cup (253 g)",
+    "grams": 253,
+    "isDefault": true
+   },
+   {
+    "label": "1 bowl (350 g)",
+    "grams": 350
+   }
+  ],
+  "density_g_per_ml": 1.02,
+  "verified": true,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "beef-stew",
+  "name": "Beef stew, with vegetables",
+  "brand": null,
+  "aliases": [],
+  "category": "soup",
+  "per100g": {
+   "kcal": 85,
+   "protein_g": 6.5,
+   "carbs_g": 7.5,
+   "fat_g": 3,
+   "fiber_g": 1,
+   "sugar_g": 1.5,
+   "satfat_g": 1.2,
+   "sodium_mg": 350
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 cup (245 g)",
+    "grams": 245,
+    "isDefault": true
+   },
+   {
+    "label": "1 bowl (350 g)",
+    "grams": 350
+   }
+  ],
+  "density_g_per_ml": 1.02,
+  "verified": true,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "broth-chicken",
+  "name": "Chicken broth",
+  "brand": null,
+  "aliases": [],
+  "category": "soup",
+  "per100g": {
+   "kcal": 6,
+   "protein_g": 0.6,
+   "carbs_g": 0.4,
+   "fat_g": 0.2,
+   "fiber_g": 0,
+   "sugar_g": 0.2,
+   "satfat_g": 0.05,
+   "sodium_mg": 343
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 cup (240 ml)",
+    "grams": 240,
+    "isDefault": true
+   },
+   {
+    "label": "1 carton (946 ml)",
+    "grams": 965
+   }
+  ],
+  "density_g_per_ml": 1.02,
+  "verified": true,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "broth-beef",
+  "name": "Beef broth",
+  "brand": null,
+  "aliases": [],
+  "category": "soup",
+  "per100g": {
+   "kcal": 7,
+   "protein_g": 1,
+   "carbs_g": 0.1,
+   "fat_g": 0.1,
+   "fiber_g": 0,
+   "sugar_g": 0,
+   "satfat_g": 0.05,
+   "sodium_mg": 350
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 cup (240 ml)",
+    "grams": 240,
+    "isDefault": true
+   },
+   {
+    "label": "100 g",
+    "grams": 100
+   }
+  ],
+  "density_g_per_ml": 1.02,
+  "verified": true,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "broth-vegetable",
+  "name": "Vegetable broth",
+  "brand": null,
+  "aliases": [],
+  "category": "soup",
+  "per100g": {
+   "kcal": 5,
+   "protein_g": 0.2,
+   "carbs_g": 1,
+   "fat_g": 0,
+   "fiber_g": 0,
+   "sugar_g": 0.4,
+   "satfat_g": 0,
+   "sodium_mg": 350
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 cup (240 ml)",
+    "grams": 240,
+    "isDefault": true
+   },
+   {
+    "label": "100 g",
+    "grams": 100
+   }
+  ],
+  "density_g_per_ml": 1.02,
+  "verified": false,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "broth-bone-chicken",
+  "name": "Bone broth, chicken",
+  "brand": null,
+  "aliases": [],
+  "category": "soup",
+  "per100g": {
+   "kcal": 18,
+   "protein_g": 4,
+   "carbs_g": 0,
+   "fat_g": 0.2,
+   "fiber_g": 0,
+   "sugar_g": 0,
+   "satfat_g": 0.05,
+   "sodium_mg": 230
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 cup (240 ml)",
+    "grams": 240,
+    "isDefault": true
+   },
+   {
+    "label": "100 g",
+    "grams": 100
+   }
+  ],
+  "density_g_per_ml": 1.02,
+  "verified": false,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "bouillon-cube-chicken",
+  "name": "Bouillon cube, chicken",
+  "brand": null,
+  "aliases": [],
+  "category": "soup",
+  "per100g": {
+   "kcal": 300,
+   "protein_g": 13,
+   "carbs_g": 20,
+   "fat_g": 18,
+   "fiber_g": 0,
+   "sugar_g": 3,
+   "satfat_g": 8,
+   "sodium_mg": 20000
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 cube (4 g)",
+    "grams": 4,
+    "isDefault": true
+   },
+   {
+    "label": "100 g",
+    "grams": 100
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": false,
+  "source": "USDA FoodData Central (SR Legacy)"
+ }
+]

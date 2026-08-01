@@ -1,0 +1,1970 @@
+[
+ {
+  "id": "salt-table",
+  "name": "Salt, table",
+  "brand": null,
+  "aliases": [
+   "sodium chloride",
+   "kosher salt"
+  ],
+  "category": "herb-spice",
+  "per100g": {
+   "kcal": 0,
+   "protein_g": 0,
+   "carbs_g": 0,
+   "fat_g": 0,
+   "fiber_g": 0,
+   "sugar_g": 0,
+   "satfat_g": 0,
+   "sodium_mg": 38758
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 tsp (6 g)",
+    "grams": 6,
+    "isDefault": true
+   },
+   {
+    "label": "1/4 tsp (1.5 g)",
+    "grams": 1.5
+   },
+   {
+    "label": "1 pinch (0.4 g)",
+    "grams": 0.4
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": true,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "salt-sea",
+  "name": "Sea salt",
+  "brand": null,
+  "aliases": [],
+  "category": "herb-spice",
+  "per100g": {
+   "kcal": 0,
+   "protein_g": 0,
+   "carbs_g": 0,
+   "fat_g": 0,
+   "fiber_g": 0,
+   "sugar_g": 0,
+   "satfat_g": 0,
+   "sodium_mg": 38758
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 tsp (6 g)",
+    "grams": 6,
+    "isDefault": true
+   },
+   {
+    "label": "1/4 tsp (1.5 g)",
+    "grams": 1.5
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": true,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "pepper-black-ground",
+  "name": "Black pepper, ground",
+  "brand": null,
+  "aliases": [],
+  "category": "herb-spice",
+  "per100g": {
+   "kcal": 251,
+   "protein_g": 10.4,
+   "carbs_g": 64,
+   "fat_g": 3.26,
+   "fiber_g": 25.3,
+   "sugar_g": 0.64,
+   "satfat_g": 1.39,
+   "sodium_mg": 20
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 tsp (2.3 g)",
+    "grams": 2.3,
+    "isDefault": true
+   },
+   {
+    "label": "1 tbsp (6.9 g)",
+    "grams": 6.9
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": true,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "garlic-powder",
+  "name": "Garlic powder",
+  "brand": null,
+  "aliases": [],
+  "category": "herb-spice",
+  "per100g": {
+   "kcal": 331,
+   "protein_g": 16.6,
+   "carbs_g": 72.7,
+   "fat_g": 0.73,
+   "fiber_g": 9,
+   "sugar_g": 2.43,
+   "satfat_g": 0.25,
+   "sodium_mg": 60
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 tsp (3.1 g)",
+    "grams": 3.1,
+    "isDefault": true
+   },
+   {
+    "label": "1 tbsp (9.7 g)",
+    "grams": 9.7
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": true,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "onion-powder",
+  "name": "Onion powder",
+  "brand": null,
+  "aliases": [],
+  "category": "herb-spice",
+  "per100g": {
+   "kcal": 341,
+   "protein_g": 10.4,
+   "carbs_g": 79.1,
+   "fat_g": 1.04,
+   "fiber_g": 15.2,
+   "sugar_g": 6.63,
+   "satfat_g": 0.18,
+   "sodium_mg": 73
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 tsp (2.4 g)",
+    "grams": 2.4,
+    "isDefault": true
+   },
+   {
+    "label": "1 tbsp (7 g)",
+    "grams": 7
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": true,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "paprika",
+  "name": "Paprika",
+  "brand": null,
+  "aliases": [],
+  "category": "herb-spice",
+  "per100g": {
+   "kcal": 282,
+   "protein_g": 14.1,
+   "carbs_g": 54,
+   "fat_g": 12.9,
+   "fiber_g": 34.9,
+   "sugar_g": 10.3,
+   "satfat_g": 2.14,
+   "sodium_mg": 68
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 tsp (2.3 g)",
+    "grams": 2.3,
+    "isDefault": true
+   },
+   {
+    "label": "1 tbsp (6.9 g)",
+    "grams": 6.9
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": true,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "paprika-smoked",
+  "name": "Smoked paprika",
+  "brand": null,
+  "aliases": [],
+  "category": "herb-spice",
+  "per100g": {
+   "kcal": 282,
+   "protein_g": 14.1,
+   "carbs_g": 54,
+   "fat_g": 12.9,
+   "fiber_g": 34.9,
+   "sugar_g": 10.3,
+   "satfat_g": 2.14,
+   "sodium_mg": 68
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 tsp (2.3 g)",
+    "grams": 2.3,
+    "isDefault": true
+   },
+   {
+    "label": "1 tbsp (6.9 g)",
+    "grams": 6.9
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": false,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "cumin-ground",
+  "name": "Cumin, ground",
+  "brand": null,
+  "aliases": [],
+  "category": "herb-spice",
+  "per100g": {
+   "kcal": 375,
+   "protein_g": 17.8,
+   "carbs_g": 44.2,
+   "fat_g": 22.3,
+   "fiber_g": 10.5,
+   "sugar_g": 2.25,
+   "satfat_g": 1.54,
+   "sodium_mg": 168
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 tsp (2.1 g)",
+    "grams": 2.1,
+    "isDefault": true
+   },
+   {
+    "label": "1 tbsp (6 g)",
+    "grams": 6
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": true,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "chili-powder",
+  "name": "Chili powder",
+  "brand": null,
+  "aliases": [],
+  "category": "herb-spice",
+  "per100g": {
+   "kcal": 282,
+   "protein_g": 13.5,
+   "carbs_g": 49.7,
+   "fat_g": 14.3,
+   "fiber_g": 34.8,
+   "sugar_g": 7.19,
+   "satfat_g": 2.5,
+   "sodium_mg": 1640
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 tsp (2.6 g)",
+    "grams": 2.6,
+    "isDefault": true
+   },
+   {
+    "label": "1 tbsp (7.8 g)",
+    "grams": 7.8
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": true,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "cayenne-pepper",
+  "name": "Cayenne pepper, ground",
+  "brand": null,
+  "aliases": [],
+  "category": "herb-spice",
+  "per100g": {
+   "kcal": 318,
+   "protein_g": 12,
+   "carbs_g": 56.6,
+   "fat_g": 17.3,
+   "fiber_g": 27.2,
+   "sugar_g": 10.3,
+   "satfat_g": 3.26,
+   "sodium_mg": 30
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 tsp (1.8 g)",
+    "grams": 1.8,
+    "isDefault": true
+   },
+   {
+    "label": "1/4 tsp (0.5 g)",
+    "grams": 0.5
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": true,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "red-pepper-flakes",
+  "name": "Crushed red pepper flakes",
+  "brand": null,
+  "aliases": [],
+  "category": "herb-spice",
+  "per100g": {
+   "kcal": 318,
+   "protein_g": 12,
+   "carbs_g": 56.6,
+   "fat_g": 17.3,
+   "fiber_g": 27.2,
+   "sugar_g": 10.3,
+   "satfat_g": 3.26,
+   "sodium_mg": 30
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 tsp (1.8 g)",
+    "grams": 1.8,
+    "isDefault": true
+   },
+   {
+    "label": "1 tbsp (5.4 g)",
+    "grams": 5.4
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": false,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "oregano-dried",
+  "name": "Oregano, dried",
+  "brand": null,
+  "aliases": [],
+  "category": "herb-spice",
+  "per100g": {
+   "kcal": 265,
+   "protein_g": 9,
+   "carbs_g": 68.9,
+   "fat_g": 4.28,
+   "fiber_g": 42.5,
+   "sugar_g": 4.09,
+   "satfat_g": 1.55,
+   "sodium_mg": 25
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 tsp (1 g)",
+    "grams": 1,
+    "isDefault": true
+   },
+   {
+    "label": "1 tbsp (3 g)",
+    "grams": 3
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": true,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "basil-dried",
+  "name": "Basil, dried",
+  "brand": null,
+  "aliases": [],
+  "category": "herb-spice",
+  "per100g": {
+   "kcal": 233,
+   "protein_g": 22.9,
+   "carbs_g": 47.8,
+   "fat_g": 4.07,
+   "fiber_g": 37.7,
+   "sugar_g": 1.71,
+   "satfat_g": 2.16,
+   "sodium_mg": 76
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 tsp (0.7 g)",
+    "grams": 0.7,
+    "isDefault": true
+   },
+   {
+    "label": "1 tbsp (2.1 g)",
+    "grams": 2.1
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": true,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "basil-fresh",
+  "name": "Basil, fresh",
+  "brand": null,
+  "aliases": [],
+  "category": "herb-spice",
+  "per100g": {
+   "kcal": 23,
+   "protein_g": 3.15,
+   "carbs_g": 2.65,
+   "fat_g": 0.64,
+   "fiber_g": 1.6,
+   "sugar_g": 0.3,
+   "satfat_g": 0.04,
+   "sodium_mg": 4
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1/4 cup chopped (6 g)",
+    "grams": 6,
+    "isDefault": true
+   },
+   {
+    "label": "1 leaf (0.5 g)",
+    "grams": 0.5
+   },
+   {
+    "label": "1 cup (24 g)",
+    "grams": 24
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": true,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "thyme-dried",
+  "name": "Thyme, dried",
+  "brand": null,
+  "aliases": [],
+  "category": "herb-spice",
+  "per100g": {
+   "kcal": 276,
+   "protein_g": 9.11,
+   "carbs_g": 63.9,
+   "fat_g": 7.43,
+   "fiber_g": 37,
+   "sugar_g": 1.71,
+   "satfat_g": 2.73,
+   "sodium_mg": 55
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 tsp (1 g)",
+    "grams": 1,
+    "isDefault": true
+   },
+   {
+    "label": "1 tbsp (3 g)",
+    "grams": 3
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": true,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "rosemary-dried",
+  "name": "Rosemary, dried",
+  "brand": null,
+  "aliases": [],
+  "category": "herb-spice",
+  "per100g": {
+   "kcal": 331,
+   "protein_g": 4.88,
+   "carbs_g": 64.1,
+   "fat_g": 15.2,
+   "fiber_g": 42.6,
+   "sugar_g": 0,
+   "satfat_g": 7.37,
+   "sodium_mg": 50
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 tsp (1.2 g)",
+    "grams": 1.2,
+    "isDefault": true
+   },
+   {
+    "label": "1 tbsp (3.3 g)",
+    "grams": 3.3
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": true,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "parsley-fresh",
+  "name": "Parsley, fresh",
+  "brand": null,
+  "aliases": [],
+  "category": "herb-spice",
+  "per100g": {
+   "kcal": 36,
+   "protein_g": 2.97,
+   "carbs_g": 6.33,
+   "fat_g": 0.79,
+   "fiber_g": 3.3,
+   "sugar_g": 0.85,
+   "satfat_g": 0.13,
+   "sodium_mg": 56
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1/4 cup chopped (15 g)",
+    "grams": 15,
+    "isDefault": true
+   },
+   {
+    "label": "1 tbsp (4 g)",
+    "grams": 4
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": true,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "cilantro-fresh",
+  "name": "Cilantro, fresh",
+  "brand": null,
+  "aliases": [
+   "coriander leaves",
+   "chinese parsley"
+  ],
+  "category": "herb-spice",
+  "per100g": {
+   "kcal": 23,
+   "protein_g": 2.13,
+   "carbs_g": 3.67,
+   "fat_g": 0.52,
+   "fiber_g": 2.8,
+   "sugar_g": 0.87,
+   "satfat_g": 0.01,
+   "sodium_mg": 46
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1/4 cup chopped (4 g)",
+    "grams": 4,
+    "isDefault": true
+   },
+   {
+    "label": "1 tbsp (1 g)",
+    "grams": 1
+   },
+   {
+    "label": "1 bunch (28 g)",
+    "grams": 28
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": true,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "dill-fresh",
+  "name": "Dill weed, fresh",
+  "brand": null,
+  "aliases": [],
+  "category": "herb-spice",
+  "per100g": {
+   "kcal": 43,
+   "protein_g": 3.46,
+   "carbs_g": 7.02,
+   "fat_g": 1.12,
+   "fiber_g": 2.1,
+   "sugar_g": 0,
+   "satfat_g": 0.06,
+   "sodium_mg": 61
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 tbsp (1 g)",
+    "grams": 1,
+    "isDefault": true
+   },
+   {
+    "label": "1/4 cup (6 g)",
+    "grams": 6
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": true,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "sage-dried",
+  "name": "Sage, ground",
+  "brand": null,
+  "aliases": [],
+  "category": "herb-spice",
+  "per100g": {
+   "kcal": 315,
+   "protein_g": 10.6,
+   "carbs_g": 60.7,
+   "fat_g": 12.8,
+   "fiber_g": 40.3,
+   "sugar_g": 1.71,
+   "satfat_g": 7.03,
+   "sodium_mg": 11
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 tsp (0.7 g)",
+    "grams": 0.7,
+    "isDefault": true
+   },
+   {
+    "label": "1 tbsp (2 g)",
+    "grams": 2
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": true,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "bay-leaf",
+  "name": "Bay leaf, dried",
+  "brand": null,
+  "aliases": [],
+  "category": "herb-spice",
+  "per100g": {
+   "kcal": 313,
+   "protein_g": 7.61,
+   "carbs_g": 75,
+   "fat_g": 8.36,
+   "fiber_g": 26.3,
+   "sugar_g": 0,
+   "satfat_g": 2.28,
+   "sodium_mg": 23
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 leaf (0.2 g)",
+    "grams": 0.2,
+    "isDefault": true
+   },
+   {
+    "label": "2 leaves (0.4 g)",
+    "grams": 0.4
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": true,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "mint-fresh",
+  "name": "Mint, fresh",
+  "brand": null,
+  "aliases": [
+   "peppermint",
+   "spearmint"
+  ],
+  "category": "herb-spice",
+  "per100g": {
+   "kcal": 70,
+   "protein_g": 3.75,
+   "carbs_g": 14.9,
+   "fat_g": 0.94,
+   "fiber_g": 8,
+   "sugar_g": 0,
+   "satfat_g": 0.25,
+   "sodium_mg": 31
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1/4 cup (6 g)",
+    "grams": 6,
+    "isDefault": true
+   },
+   {
+    "label": "1 tbsp (2 g)",
+    "grams": 2
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": true,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "tarragon-dried",
+  "name": "Tarragon, dried",
+  "brand": null,
+  "aliases": [],
+  "category": "herb-spice",
+  "per100g": {
+   "kcal": 295,
+   "protein_g": 22.8,
+   "carbs_g": 42.8,
+   "fat_g": 7.24,
+   "fiber_g": 7.4,
+   "sugar_g": 0,
+   "satfat_g": 1.88,
+   "sodium_mg": 62
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 tsp (0.6 g)",
+    "grams": 0.6,
+    "isDefault": true
+   },
+   {
+    "label": "1 tbsp (2 g)",
+    "grams": 2
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": true,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "turmeric-ground",
+  "name": "Turmeric, ground",
+  "brand": null,
+  "aliases": [],
+  "category": "herb-spice",
+  "per100g": {
+   "kcal": 312,
+   "protein_g": 9.68,
+   "carbs_g": 67.1,
+   "fat_g": 3.25,
+   "fiber_g": 22.7,
+   "sugar_g": 3.21,
+   "satfat_g": 1.84,
+   "sodium_mg": 27
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 tsp (3 g)",
+    "grams": 3,
+    "isDefault": true
+   },
+   {
+    "label": "1 tbsp (9 g)",
+    "grams": 9
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": true,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "ginger-ground",
+  "name": "Ginger, ground",
+  "brand": null,
+  "aliases": [],
+  "category": "herb-spice",
+  "per100g": {
+   "kcal": 335,
+   "protein_g": 8.98,
+   "carbs_g": 71.6,
+   "fat_g": 4.24,
+   "fiber_g": 14.1,
+   "sugar_g": 3.39,
+   "satfat_g": 2.6,
+   "sodium_mg": 27
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 tsp (1.8 g)",
+    "grams": 1.8,
+    "isDefault": true
+   },
+   {
+    "label": "1 tbsp (5.4 g)",
+    "grams": 5.4
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": true,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "ginger-fresh",
+  "name": "Ginger root, fresh",
+  "brand": null,
+  "aliases": [],
+  "category": "herb-spice",
+  "per100g": {
+   "kcal": 80,
+   "protein_g": 1.82,
+   "carbs_g": 17.8,
+   "fat_g": 0.75,
+   "fiber_g": 2,
+   "sugar_g": 1.7,
+   "satfat_g": 0.2,
+   "sodium_mg": 13
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 tsp minced (2 g)",
+    "grams": 2,
+    "isDefault": true
+   },
+   {
+    "label": "1 tbsp (6 g)",
+    "grams": 6
+   },
+   {
+    "label": "1 inch piece (11 g)",
+    "grams": 11
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": true,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "cinnamon-ground",
+  "name": "Cinnamon, ground",
+  "brand": null,
+  "aliases": [],
+  "category": "herb-spice",
+  "per100g": {
+   "kcal": 247,
+   "protein_g": 3.99,
+   "carbs_g": 80.6,
+   "fat_g": 1.24,
+   "fiber_g": 53.1,
+   "sugar_g": 2.17,
+   "satfat_g": 0.35,
+   "sodium_mg": 10
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 tsp (2.6 g)",
+    "grams": 2.6,
+    "isDefault": true
+   },
+   {
+    "label": "1 tbsp (7.8 g)",
+    "grams": 7.8
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": true,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "nutmeg-ground",
+  "name": "Nutmeg, ground",
+  "brand": null,
+  "aliases": [],
+  "category": "herb-spice",
+  "per100g": {
+   "kcal": 525,
+   "protein_g": 5.84,
+   "carbs_g": 49.3,
+   "fat_g": 36.3,
+   "fiber_g": 20.8,
+   "sugar_g": 28.5,
+   "satfat_g": 25.9,
+   "sodium_mg": 16
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 tsp (2.2 g)",
+    "grams": 2.2,
+    "isDefault": true
+   },
+   {
+    "label": "1/4 tsp (0.6 g)",
+    "grams": 0.6
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": true,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "cardamom-ground",
+  "name": "Cardamom, ground",
+  "brand": null,
+  "aliases": [],
+  "category": "herb-spice",
+  "per100g": {
+   "kcal": 311,
+   "protein_g": 10.8,
+   "carbs_g": 68.5,
+   "fat_g": 6.7,
+   "fiber_g": 28,
+   "sugar_g": 0,
+   "satfat_g": 0.68,
+   "sodium_mg": 18
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 tsp (2 g)",
+    "grams": 2,
+    "isDefault": true
+   },
+   {
+    "label": "1 tbsp (6 g)",
+    "grams": 6
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": true,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "cloves-ground",
+  "name": "Cloves, ground",
+  "brand": null,
+  "aliases": [],
+  "category": "herb-spice",
+  "per100g": {
+   "kcal": 274,
+   "protein_g": 5.97,
+   "carbs_g": 65.5,
+   "fat_g": 13,
+   "fiber_g": 33.9,
+   "sugar_g": 2.38,
+   "satfat_g": 3.95,
+   "sodium_mg": 277
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 tsp (2.1 g)",
+    "grams": 2.1,
+    "isDefault": true
+   },
+   {
+    "label": "1/4 tsp (0.5 g)",
+    "grams": 0.5
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": true,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "allspice-ground",
+  "name": "Allspice, ground",
+  "brand": null,
+  "aliases": [],
+  "category": "herb-spice",
+  "per100g": {
+   "kcal": 263,
+   "protein_g": 6.09,
+   "carbs_g": 60,
+   "fat_g": 8.69,
+   "fiber_g": 21.6,
+   "sugar_g": 0,
+   "satfat_g": 2.55,
+   "sodium_mg": 77
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 tsp (1.9 g)",
+    "grams": 1.9,
+    "isDefault": true
+   },
+   {
+    "label": "1 tbsp (6 g)",
+    "grams": 6
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": true,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "coriander-seed-ground",
+  "name": "Coriander seed, ground",
+  "brand": null,
+  "aliases": [],
+  "category": "herb-spice",
+  "per100g": {
+   "kcal": 298,
+   "protein_g": 12.4,
+   "carbs_g": 54.99,
+   "fat_g": 17.8,
+   "fiber_g": 41.9,
+   "sugar_g": 0,
+   "satfat_g": 0.99,
+   "sodium_mg": 35
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 tsp (1.8 g)",
+    "grams": 1.8,
+    "isDefault": true
+   },
+   {
+    "label": "1 tbsp (5 g)",
+    "grams": 5
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": true,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "mustard-seed",
+  "name": "Mustard seed, ground",
+  "brand": null,
+  "aliases": [],
+  "category": "herb-spice",
+  "per100g": {
+   "kcal": 508,
+   "protein_g": 26.1,
+   "carbs_g": 28.1,
+   "fat_g": 36.2,
+   "fiber_g": 12.2,
+   "sugar_g": 6.79,
+   "satfat_g": 1.99,
+   "sodium_mg": 13
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 tsp (2 g)",
+    "grams": 2,
+    "isDefault": true
+   },
+   {
+    "label": "1 tbsp (6.5 g)",
+    "grams": 6.5
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": true,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "fennel-seed",
+  "name": "Fennel seed",
+  "brand": null,
+  "aliases": [],
+  "category": "herb-spice",
+  "per100g": {
+   "kcal": 345,
+   "protein_g": 15.8,
+   "carbs_g": 52.3,
+   "fat_g": 14.9,
+   "fiber_g": 39.8,
+   "sugar_g": 0,
+   "satfat_g": 0.48,
+   "sodium_mg": 88
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 tsp (2 g)",
+    "grams": 2,
+    "isDefault": true
+   },
+   {
+    "label": "1 tbsp (5.8 g)",
+    "grams": 5.8
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": true,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "star-anise",
+  "name": "Star anise, ground",
+  "brand": null,
+  "aliases": [],
+  "category": "herb-spice",
+  "per100g": {
+   "kcal": 337,
+   "protein_g": 17.6,
+   "carbs_g": 50,
+   "fat_g": 15.9,
+   "fiber_g": 14.6,
+   "sugar_g": 0,
+   "satfat_g": 0.59,
+   "sodium_mg": 16
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 star (1 g)",
+    "grams": 1,
+    "isDefault": true
+   },
+   {
+    "label": "1 tsp (2 g)",
+    "grams": 2
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": false,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "curry-powder",
+  "name": "Curry powder",
+  "brand": null,
+  "aliases": [],
+  "category": "herb-spice",
+  "per100g": {
+   "kcal": 325,
+   "protein_g": 12.7,
+   "carbs_g": 55.8,
+   "fat_g": 13.8,
+   "fiber_g": 53.2,
+   "sugar_g": 2.76,
+   "satfat_g": 2.24,
+   "sodium_mg": 52
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 tsp (2 g)",
+    "grams": 2,
+    "isDefault": true
+   },
+   {
+    "label": "1 tbsp (6.3 g)",
+    "grams": 6.3
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": true,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "garam-masala",
+  "name": "Garam masala",
+  "brand": null,
+  "aliases": [],
+  "category": "herb-spice",
+  "per100g": {
+   "kcal": 379,
+   "protein_g": 15,
+   "carbs_g": 45,
+   "fat_g": 15,
+   "fiber_g": 25,
+   "sugar_g": 3,
+   "satfat_g": 3,
+   "sodium_mg": 60
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 tsp (2 g)",
+    "grams": 2,
+    "isDefault": true
+   },
+   {
+    "label": "1 tbsp (6 g)",
+    "grams": 6
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": false,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "italian-seasoning",
+  "name": "Italian seasoning, dried herb blend",
+  "brand": null,
+  "aliases": [],
+  "category": "herb-spice",
+  "per100g": {
+   "kcal": 265,
+   "protein_g": 9,
+   "carbs_g": 65,
+   "fat_g": 5,
+   "fiber_g": 40,
+   "sugar_g": 3,
+   "satfat_g": 1.5,
+   "sodium_mg": 30
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 tsp (1 g)",
+    "grams": 1,
+    "isDefault": true
+   },
+   {
+    "label": "1 tbsp (3 g)",
+    "grams": 3
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": false,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "taco-seasoning-mix",
+  "name": "Taco seasoning mix, dry",
+  "brand": null,
+  "aliases": [],
+  "category": "herb-spice",
+  "per100g": {
+   "kcal": 300,
+   "protein_g": 9,
+   "carbs_g": 55,
+   "fat_g": 5,
+   "fiber_g": 12,
+   "sugar_g": 8,
+   "satfat_g": 1,
+   "sodium_mg": 7000
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 tbsp (7.5 g)",
+    "grams": 7.5,
+    "isDefault": true
+   },
+   {
+    "label": "1 packet (28 g)",
+    "grams": 28
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": false,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "ranch-seasoning-mix",
+  "name": "Ranch seasoning mix, dry",
+  "brand": null,
+  "aliases": [],
+  "category": "herb-spice",
+  "per100g": {
+   "kcal": 320,
+   "protein_g": 8,
+   "carbs_g": 60,
+   "fat_g": 5,
+   "fiber_g": 3,
+   "sugar_g": 15,
+   "satfat_g": 1.5,
+   "sodium_mg": 6500
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 tbsp (8 g)",
+    "grams": 8,
+    "isDefault": true
+   },
+   {
+    "label": "1 packet (28 g)",
+    "grams": 28
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": false,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "lemon-pepper-seasoning",
+  "name": "Lemon pepper seasoning",
+  "brand": null,
+  "aliases": [],
+  "category": "herb-spice",
+  "per100g": {
+   "kcal": 330,
+   "protein_g": 8,
+   "carbs_g": 55,
+   "fat_g": 7,
+   "fiber_g": 20,
+   "sugar_g": 3,
+   "satfat_g": 1.5,
+   "sodium_mg": 13000
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 tsp (3 g)",
+    "grams": 3,
+    "isDefault": true
+   },
+   {
+    "label": "1 tbsp (9 g)",
+    "grams": 9
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": false,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "old-bay-seasoning",
+  "name": "Old Bay seasoning",
+  "brand": "Old Bay",
+  "aliases": [],
+  "category": "herb-spice",
+  "per100g": {
+   "kcal": 280,
+   "protein_g": 8,
+   "carbs_g": 48,
+   "fat_g": 6,
+   "fiber_g": 20,
+   "sugar_g": 1,
+   "satfat_g": 1,
+   "sodium_mg": 22000
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 tsp (2.4 g)",
+    "grams": 2.4,
+    "isDefault": true
+   },
+   {
+    "label": "1 tbsp (7 g)",
+    "grams": 7
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": false,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "zaatar",
+  "name": "Za'atar seasoning",
+  "brand": null,
+  "aliases": [],
+  "category": "herb-spice",
+  "per100g": {
+   "kcal": 390,
+   "protein_g": 13,
+   "carbs_g": 30,
+   "fat_g": 25,
+   "fiber_g": 18,
+   "sugar_g": 1,
+   "satfat_g": 3.5,
+   "sodium_mg": 1200
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 tsp (2.5 g)",
+    "grams": 2.5,
+    "isDefault": true
+   },
+   {
+    "label": "1 tbsp (7.5 g)",
+    "grams": 7.5
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": false,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "sumac-ground",
+  "name": "Sumac, ground",
+  "brand": null,
+  "aliases": [],
+  "category": "herb-spice",
+  "per100g": {
+   "kcal": 320,
+   "protein_g": 4,
+   "carbs_g": 65,
+   "fat_g": 8,
+   "fiber_g": 30,
+   "sugar_g": 3,
+   "satfat_g": 1,
+   "sodium_mg": 30
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 tsp (2.5 g)",
+    "grams": 2.5,
+    "isDefault": true
+   },
+   {
+    "label": "1 tbsp (7.5 g)",
+    "grams": 7.5
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": false,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "five-spice-chinese",
+  "name": "Chinese five spice powder",
+  "brand": null,
+  "aliases": [],
+  "category": "herb-spice",
+  "per100g": {
+   "kcal": 350,
+   "protein_g": 8,
+   "carbs_g": 60,
+   "fat_g": 10,
+   "fiber_g": 30,
+   "sugar_g": 5,
+   "satfat_g": 2,
+   "sodium_mg": 20
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 tsp (2 g)",
+    "grams": 2,
+    "isDefault": true
+   },
+   {
+    "label": "1 tbsp (6 g)",
+    "grams": 6
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": false,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "msg",
+  "name": "Monosodium glutamate",
+  "brand": null,
+  "aliases": [
+   "msg",
+   "accent"
+  ],
+  "category": "herb-spice",
+  "per100g": {
+   "kcal": 0,
+   "protein_g": 0,
+   "carbs_g": 0,
+   "fat_g": 0,
+   "fiber_g": 0,
+   "sugar_g": 0,
+   "satfat_g": 0,
+   "sodium_mg": 12280
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 tsp (5 g)",
+    "grams": 5,
+    "isDefault": true
+   },
+   {
+    "label": "1/4 tsp (1.2 g)",
+    "grams": 1.2
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": true,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "baking-powder",
+  "name": "Baking powder",
+  "brand": null,
+  "aliases": [],
+  "category": "herb-spice",
+  "per100g": {
+   "kcal": 53,
+   "protein_g": 0,
+   "carbs_g": 13.5,
+   "fat_g": 0,
+   "fiber_g": 0.2,
+   "sugar_g": 0,
+   "satfat_g": 0,
+   "sodium_mg": 10600
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 tsp (4.6 g)",
+    "grams": 4.6,
+    "isDefault": true
+   },
+   {
+    "label": "1 tbsp (13.8 g)",
+    "grams": 13.8
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": true,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "baking-soda",
+  "name": "Baking soda",
+  "brand": null,
+  "aliases": [
+   "sodium bicarbonate"
+  ],
+  "category": "herb-spice",
+  "per100g": {
+   "kcal": 0,
+   "protein_g": 0,
+   "carbs_g": 0,
+   "fat_g": 0,
+   "fiber_g": 0,
+   "sugar_g": 0,
+   "satfat_g": 0,
+   "sodium_mg": 27360
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 tsp (4.6 g)",
+    "grams": 4.6,
+    "isDefault": true
+   },
+   {
+    "label": "1/2 tsp (2.3 g)",
+    "grams": 2.3
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": true,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "vanilla-extract",
+  "name": "Vanilla extract",
+  "brand": null,
+  "aliases": [],
+  "category": "herb-spice",
+  "per100g": {
+   "kcal": 288,
+   "protein_g": 0.06,
+   "carbs_g": 12.6,
+   "fat_g": 0.06,
+   "fiber_g": 0,
+   "sugar_g": 12.6,
+   "satfat_g": 0.01,
+   "sodium_mg": 9
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 tsp (4.2 g)",
+    "grams": 4.2,
+    "isDefault": true
+   },
+   {
+    "label": "1 tbsp (13 g)",
+    "grams": 13
+   }
+  ],
+  "density_g_per_ml": 0.88,
+  "verified": true,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "cocoa-powder-unsweetened",
+  "name": "Cocoa powder, unsweetened",
+  "brand": null,
+  "aliases": [],
+  "category": "herb-spice",
+  "per100g": {
+   "kcal": 228,
+   "protein_g": 19.6,
+   "carbs_g": 57.9,
+   "fat_g": 13.7,
+   "fiber_g": 37,
+   "sugar_g": 1.75,
+   "satfat_g": 8.07,
+   "sodium_mg": 21
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 tbsp (5.4 g)",
+    "grams": 5.4,
+    "isDefault": true
+   },
+   {
+    "label": "1/4 cup (21 g)",
+    "grams": 21
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": true,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "yeast-active-dry",
+  "name": "Yeast, active dry",
+  "brand": null,
+  "aliases": [],
+  "category": "herb-spice",
+  "per100g": {
+   "kcal": 325,
+   "protein_g": 40.4,
+   "carbs_g": 41.2,
+   "fat_g": 7.61,
+   "fiber_g": 26.9,
+   "sugar_g": 0,
+   "satfat_g": 1,
+   "sodium_mg": 51
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 packet (7 g)",
+    "grams": 7,
+    "isDefault": true
+   },
+   {
+    "label": "1 tsp (3 g)",
+    "grams": 3
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": true,
+  "source": "USDA FoodData Central (SR Legacy)"
+ }
+]

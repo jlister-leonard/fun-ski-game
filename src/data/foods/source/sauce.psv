@@ -1,0 +1,48 @@
+#category: sauce
+#source: USDA FoodData Central (SR Legacy)
+#servings: 1/4 cup (60 g)@60*;2 tbsp (30 g)@30;100 g@100
+#density: 1.05
+# Cooking sauces and salad dressings. Dressing is the single most under-logged
+# item in a food diary — 2 tbsp of ranch is 145 kcal.
+# id|name|aliases|kcal|protein|carbs|fat|fiber|sugar|satfat|sodium|servings|extra
+sauce-marinara|Marinara sauce, jarred|pasta sauce;tomato sauce|54|1.60|9.30|1.30|1.9|5.30|0.20|420|1/2 cup (125 g)@125*;1/4 cup (63 g)@63;1 cup (250 g)@250
+sauce-tomato-plain|Tomato sauce, canned, plain||24|1.20|5.30|0.20|1.5|3.70|0.03|460|1/4 cup (62 g)@62*;1 cup (245 g)@245
+sauce-vodka|Vodka sauce||110|2.5|9.0|7.0|1.5|5.0|3.0|450|1/2 cup (125 g)@125*;1/4 cup (63 g)@63|v=0
+sauce-alfredo|Alfredo sauce, jarred||180|3.0|5.0|17.0|0.5|2.0|8.0|700|1/4 cup (61 g)@61*;1/2 cup (122 g)@122|v=0
+sauce-bolognese|Bolognese meat sauce||95|6.0|7.0|4.5|1.5|4.0|1.6|400|1/2 cup (125 g)@125*;1 cup (250 g)@250|v=0
+sauce-arrabbiata|Arrabbiata sauce||60|1.8|8.5|2.0|2.0|5.0|0.3|480|1/2 cup (125 g)@125*;100 g@100|v=0
+pesto-basil|Pesto, basil||455|5.0|6.0|46.0|1.5|1.5|7.0|750|2 tbsp (32 g)@32*;1 tbsp (16 g)@16;1/4 cup (64 g)@64|v=0
+pesto-sundried-tomato|Pesto, sun-dried tomato||400|4.0|10.0|38.0|2.5|4.0|5.5|800|2 tbsp (32 g)@32*;100 g@100|v=0
+sauce-bbq|Barbecue sauce||172|0.82|40.8|0.63|0.9|33.2|0.09|1027|2 tbsp (36 g)@36*;1 tbsp (18 g)@18;1/4 cup (72 g)@72|d=1.2
+sauce-bbq-sugar-free|Barbecue sauce, sugar free||40|1.0|9.0|0.3|3.0|1.0|0|900|2 tbsp (36 g)@36*;100 g@100|d=1.2;v=0
+sauce-teriyaki|Teriyaki sauce||89|5.93|15.6|0.02|0.1|14.1|0|3833|1 tbsp (18 ml)@21.6*;2 tbsp (36 g)@36|d=1.2
+sauce-buffalo|Buffalo wing sauce||60|0.5|4.0|4.5|0.5|1.0|0.7|3200|1 tbsp (15 g)@15*;2 tbsp (30 g)@30|d=1.05;v=0
+sauce-enchilada-red|Enchilada sauce, red||45|1.2|6.5|1.7|1.5|2.5|0.3|700|1/4 cup (60 g)@60*;1/2 cup (120 g)@120|v=0
+sauce-queso|Queso dip, cheese sauce||250|9.0|8.0|20.0|0.5|4.5|9.0|1150|1/4 cup (60 g)@60*;2 tbsp (30 g)@30|v=0
+sauce-cheese-nacho|Nacho cheese sauce||248|9.5|8.5|19.4|0|4.5|8.5|1300|1/4 cup (63 g)@63*;100 g@100|v=0
+sauce-hollandaise|Hollandaise sauce||525|3.0|2.0|56.0|0|1.0|33.0|500|2 tbsp (30 g)@30*;1/4 cup (60 g)@60|v=0
+sauce-bechamel|Béchamel, white sauce||120|3.5|8.0|8.0|0.2|3.5|4.5|400|1/4 cup (63 g)@63*;100 g@100|v=0
+gravy-brown|Brown gravy, prepared||55|1.5|6.0|2.5|0.3|1.0|1.0|600|1/4 cup (60 ml)@63*;1/2 cup (120 ml)@126|v=0
+gravy-turkey|Turkey gravy, canned||36|1.85|4.72|1.30|0.4|0.5|0.38|560|1/4 cup (60 ml)@63*;1/2 cup (120 ml)@126
+gravy-sausage|Sausage gravy, country||160|4.5|9.0|11.5|0.3|2.0|4.0|600|1/2 cup (120 g)@120*;100 g@100|v=0
+sauce-curry-tikka-masala|Tikka masala simmer sauce||110|2.0|10.0|7.0|1.5|6.0|3.5|500|1/2 cup (125 g)@125*;1/4 cup (63 g)@63|v=0
+sauce-curry-thai-green|Thai green curry sauce||120|1.5|7.0|10.0|1.0|4.0|7.5|650|1/2 cup (125 g)@125*;100 g@100|v=0
+sauce-peanut-satay|Peanut satay sauce||280|8.0|18.0|20.0|2.5|12.0|4.0|750|2 tbsp (32 g)@32*;1/4 cup (64 g)@64|v=0
+sauce-sweet-sour|Sweet and sour sauce||166|0.2|41.0|0.1|0.3|33.0|0|380|2 tbsp (36 g)@36*;1 packet (28 g)@28|d=1.2
+sauce-mole|Mole sauce||200|4.5|20.0|12.0|3.5|10.0|2.5|600|1/4 cup (60 g)@60*;100 g@100|v=0
+sauce-romesco|Romesco sauce||290|4.0|10.0|26.0|3.0|4.0|3.5|450|2 tbsp (30 g)@30*;100 g@100|v=0
+dressing-ranch|Ranch dressing, regular||484|1.10|6.10|50.7|0.3|4.30|7.70|1024|2 tbsp (30 g)@30*;1 tbsp (15 g)@15;1/4 cup (60 g)@60|d=0.94
+dressing-ranch-light|Ranch dressing, light||220|1.0|13.0|18.0|0.5|5.0|2.8|1050|2 tbsp (31 g)@31*;100 g@100|d=0.98;v=0
+dressing-blue-cheese|Blue cheese dressing||484|2.20|4.80|50.9|0.3|3.20|9.70|880|2 tbsp (30 g)@30*;1/4 cup (60 g)@60|d=0.94
+dressing-caesar|Caesar dressing||542|1.60|3.30|57.8|0.3|2.10|8.80|1120|2 tbsp (30 g)@30*;1 tbsp (15 g)@15|d=0.94
+dressing-italian|Italian dressing||292|0.50|11.4|27.6|0|9.20|4.20|1200|2 tbsp (29 g)@29*;1/4 cup (58 g)@58|d=0.96
+dressing-balsamic-vinaigrette|Balsamic vinaigrette||300|0.3|10.0|29.0|0.2|8.0|4.2|780|2 tbsp (31 g)@31*;1 tbsp (16 g)@16|d=0.96;v=0
+dressing-thousand-island|Thousand Island dressing||378|0.90|15.4|35.4|0.7|13.4|5.10|920|2 tbsp (32 g)@32*;100 g@100|d=1.0
+dressing-honey-mustard|Honey mustard dressing||420|1.0|18.0|38.0|0.3|16.0|5.5|600|2 tbsp (31 g)@31*;100 g@100|d=1.0;v=0
+dressing-greek|Greek vinaigrette||400|0.5|6.0|42.0|0.2|4.0|6.0|900|2 tbsp (30 g)@30*;100 g@100|d=0.96;v=0
+dressing-sesame-ginger|Sesame ginger dressing||270|1.0|22.0|20.0|0.5|18.0|2.8|1100|2 tbsp (32 g)@32*;100 g@100|d=1.0;v=0
+dressing-tahini-lemon|Tahini lemon dressing||380|8.0|12.0|34.0|4.0|2.0|4.8|500|2 tbsp (32 g)@32*;100 g@100|d=1.0;v=0
+dressing-poppy-seed|Poppy seed dressing||400|0.5|24.0|34.0|0.5|22.0|5.0|550|2 tbsp (32 g)@32*;100 g@100|d=1.0;v=0
+dressing-vinaigrette-oil-vinegar|Oil and vinegar dressing||449|0|2.50|50.1|0|2.50|9.10|2|2 tbsp (31 g)@31*;1 tbsp (16 g)@16|d=0.93
+dressing-yogurt-light|Yogurt-based light dressing||90|2.5|8.0|5.0|0.3|5.0|1.0|450|2 tbsp (31 g)@31*;100 g@100|d=1.0;v=0
+dressing-zero-cal|Zero calorie salad dressing||10|0|2.5|0|0.5|0.5|0|400|2 tbsp (31 g)@31*;100 g@100|d=1.0;v=0

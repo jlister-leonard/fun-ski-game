@@ -1,0 +1,2578 @@
+[
+ {
+  "id": "rice-white-long-dry",
+  "name": "White rice, long grain, dry",
+  "brand": null,
+  "aliases": [
+   "uncooked white rice"
+  ],
+  "category": "grain",
+  "per100g": {
+   "kcal": 365,
+   "protein_g": 7.13,
+   "carbs_g": 79.9,
+   "fat_g": 0.66,
+   "fiber_g": 1.3,
+   "sugar_g": 0.12,
+   "satfat_g": 0.18,
+   "sodium_mg": 5
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": 0,
+   "vitamin_a_carotenoid_mcg_rae": 0,
+   "folate_food_mcg": 5,
+   "folic_acid_mcg": 133,
+   "folate_dfe_mcg": 231
+  },
+  "servings": [
+   {
+    "label": "1/4 cup dry (46 g)",
+    "grams": 46,
+    "isDefault": true
+   },
+   {
+    "label": "1/2 cup dry (93 g)",
+    "grams": 93
+   },
+   {
+    "label": "100 g",
+    "grams": 100
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": true,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "rice-white-long-cooked",
+  "name": "White rice, long grain, cooked",
+  "brand": null,
+  "aliases": [
+   "steamed rice",
+   "cooked white rice"
+  ],
+  "category": "grain",
+  "per100g": {
+   "kcal": 130,
+   "protein_g": 2.69,
+   "carbs_g": 28.2,
+   "fat_g": 0.28,
+   "fiber_g": 0.4,
+   "sugar_g": 0.05,
+   "satfat_g": 0.08,
+   "sodium_mg": 1
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": 0,
+   "vitamin_a_carotenoid_mcg_rae": 0,
+   "folate_food_mcg": 2,
+   "folic_acid_mcg": 33,
+   "folate_dfe_mcg": 58
+  },
+  "servings": [
+   {
+    "label": "1 cup cooked (158 g)",
+    "grams": 158,
+    "isDefault": true
+   },
+   {
+    "label": "1/2 cup cooked (79 g)",
+    "grams": 79
+   },
+   {
+    "label": "3/4 cup (119 g)",
+    "grams": 119
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": true,
+  "source": "USDA FoodData Central SR Legacy FDC 168878, release 2018-04, reviewed 2026-08-01"
+ },
+ {
+  "id": "rice-jasmine-cooked",
+  "name": "Jasmine rice, cooked",
+  "brand": null,
+  "aliases": [],
+  "category": "grain",
+  "per100g": {
+   "kcal": 129,
+   "protein_g": 2.7,
+   "carbs_g": 28,
+   "fat_g": 0.3,
+   "fiber_g": 0.4,
+   "sugar_g": 0.05,
+   "satfat_g": 0.08,
+   "sodium_mg": 1
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 cup cooked (158 g)",
+    "grams": 158,
+    "isDefault": true
+   },
+   {
+    "label": "1/2 cup (79 g)",
+    "grams": 79
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": false,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "rice-basmati-cooked",
+  "name": "Basmati rice, cooked",
+  "brand": null,
+  "aliases": [],
+  "category": "grain",
+  "per100g": {
+   "kcal": 121,
+   "protein_g": 3.5,
+   "carbs_g": 25.2,
+   "fat_g": 0.4,
+   "fiber_g": 0.7,
+   "sugar_g": 0.05,
+   "satfat_g": 0.1,
+   "sodium_mg": 1
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 cup cooked (158 g)",
+    "grams": 158,
+    "isDefault": true
+   },
+   {
+    "label": "1/2 cup (79 g)",
+    "grams": 79
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": false,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "rice-brown-long-dry",
+  "name": "Brown rice, long grain, dry",
+  "brand": null,
+  "aliases": [],
+  "category": "grain",
+  "per100g": {
+   "kcal": 370,
+   "protein_g": 7.94,
+   "carbs_g": 77.2,
+   "fat_g": 2.92,
+   "fiber_g": 3.5,
+   "sugar_g": 0.85,
+   "satfat_g": 0.58,
+   "sodium_mg": 7
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1/4 cup dry (46 g)",
+    "grams": 46,
+    "isDefault": true
+   },
+   {
+    "label": "100 g",
+    "grams": 100
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": true,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "rice-brown-long-cooked",
+  "name": "Brown rice, long grain, cooked",
+  "brand": null,
+  "aliases": [],
+  "category": "grain",
+  "per100g": {
+   "kcal": 123,
+   "protein_g": 2.74,
+   "carbs_g": 25.6,
+   "fat_g": 0.97,
+   "fiber_g": 1.6,
+   "sugar_g": 0.24,
+   "satfat_g": 0.19,
+   "sodium_mg": 4
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": 0,
+   "vitamin_a_carotenoid_mcg_rae": 0,
+   "folate_food_mcg": 4,
+   "folic_acid_mcg": 0,
+   "folate_dfe_mcg": 4
+  },
+  "servings": [
+   {
+    "label": "1 cup cooked (195 g)",
+    "grams": 195,
+    "isDefault": true
+   },
+   {
+    "label": "1/2 cup (98 g)",
+    "grams": 98
+   },
+   {
+    "label": "3/4 cup (146 g)",
+    "grams": 146
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": true,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "rice-wild-cooked",
+  "name": "Wild rice, cooked",
+  "brand": null,
+  "aliases": [],
+  "category": "grain",
+  "per100g": {
+   "kcal": 101,
+   "protein_g": 3.99,
+   "carbs_g": 21.3,
+   "fat_g": 0.34,
+   "fiber_g": 1.8,
+   "sugar_g": 0.73,
+   "satfat_g": 0.05,
+   "sodium_mg": 3
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 cup cooked (164 g)",
+    "grams": 164,
+    "isDefault": true
+   },
+   {
+    "label": "1/2 cup (82 g)",
+    "grams": 82
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": true,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "rice-arborio-cooked",
+  "name": "Arborio rice, cooked",
+  "brand": null,
+  "aliases": [
+   "risotto rice"
+  ],
+  "category": "grain",
+  "per100g": {
+   "kcal": 130,
+   "protein_g": 2.4,
+   "carbs_g": 28.9,
+   "fat_g": 0.2,
+   "fiber_g": 0.4,
+   "sugar_g": 0,
+   "satfat_g": 0.05,
+   "sodium_mg": 1
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 cup cooked (158 g)",
+    "grams": 158,
+    "isDefault": true
+   },
+   {
+    "label": "100 g",
+    "grams": 100
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": false,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "rice-sushi-cooked",
+  "name": "Sushi rice, seasoned, cooked",
+  "brand": null,
+  "aliases": [],
+  "category": "grain",
+  "per100g": {
+   "kcal": 150,
+   "protein_g": 2.5,
+   "carbs_g": 33,
+   "fat_g": 0.3,
+   "fiber_g": 0.4,
+   "sugar_g": 4.5,
+   "satfat_g": 0.08,
+   "sodium_mg": 250
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 cup (170 g)",
+    "grams": 170,
+    "isDefault": true
+   },
+   {
+    "label": "100 g",
+    "grams": 100
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": false,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "rice-black-cooked",
+  "name": "Black rice, cooked",
+  "brand": null,
+  "aliases": [
+   "forbidden rice"
+  ],
+  "category": "grain",
+  "per100g": {
+   "kcal": 130,
+   "protein_g": 3.5,
+   "carbs_g": 27,
+   "fat_g": 1,
+   "fiber_g": 1.8,
+   "sugar_g": 0.2,
+   "satfat_g": 0.2,
+   "sodium_mg": 4
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 cup cooked (170 g)",
+    "grams": 170,
+    "isDefault": true
+   },
+   {
+    "label": "100 g",
+    "grams": 100
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": false,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "rice-red-cooked",
+  "name": "Red rice, cooked",
+  "brand": null,
+  "aliases": [],
+  "category": "grain",
+  "per100g": {
+   "kcal": 124,
+   "protein_g": 3,
+   "carbs_g": 26,
+   "fat_g": 1,
+   "fiber_g": 2,
+   "sugar_g": 0.2,
+   "satfat_g": 0.2,
+   "sodium_mg": 4
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 cup cooked (170 g)",
+    "grams": 170,
+    "isDefault": true
+   },
+   {
+    "label": "100 g",
+    "grams": 100
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": false,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "rice-cauliflower-frozen",
+  "name": "Cauliflower rice, frozen",
+  "brand": null,
+  "aliases": [
+   "riced cauliflower"
+  ],
+  "category": "grain",
+  "per100g": {
+   "kcal": 25,
+   "protein_g": 2,
+   "carbs_g": 5,
+   "fat_g": 0.3,
+   "fiber_g": 2,
+   "sugar_g": 2,
+   "satfat_g": 0.1,
+   "sodium_mg": 30
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 cup (85 g)",
+    "grams": 85,
+    "isDefault": true
+   },
+   {
+    "label": "100 g",
+    "grams": 100
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": false,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "rice-instant-cooked",
+  "name": "Instant white rice, cooked",
+  "brand": null,
+  "aliases": [
+   "minute rice"
+  ],
+  "category": "grain",
+  "per100g": {
+   "kcal": 124,
+   "protein_g": 2.4,
+   "carbs_g": 27,
+   "fat_g": 0.2,
+   "fiber_g": 0.9,
+   "sugar_g": 0,
+   "satfat_g": 0.05,
+   "sodium_mg": 3
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 cup cooked (165 g)",
+    "grams": 165,
+    "isDefault": true
+   },
+   {
+    "label": "100 g",
+    "grams": 100
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": false,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "rice-parboiled-cooked",
+  "name": "Parboiled rice, cooked",
+  "brand": null,
+  "aliases": [
+   "converted rice"
+  ],
+  "category": "grain",
+  "per100g": {
+   "kcal": 123,
+   "protein_g": 2.9,
+   "carbs_g": 26.1,
+   "fat_g": 0.4,
+   "fiber_g": 0.9,
+   "sugar_g": 0,
+   "satfat_g": 0.1,
+   "sodium_mg": 2
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 cup cooked (158 g)",
+    "grams": 158,
+    "isDefault": true
+   },
+   {
+    "label": "100 g",
+    "grams": 100
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": true,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "oats-rolled-dry",
+  "name": "Rolled oats, dry",
+  "brand": null,
+  "aliases": [
+   "old fashioned oats",
+   "oatmeal dry"
+  ],
+  "category": "grain",
+  "per100g": {
+   "kcal": 379,
+   "protein_g": 13.2,
+   "carbs_g": 67.7,
+   "fat_g": 6.52,
+   "fiber_g": 10.1,
+   "sugar_g": 0.99,
+   "satfat_g": 1.11,
+   "sodium_mg": 6
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": 0,
+   "vitamin_a_carotenoid_mcg_rae": 0,
+   "folate_food_mcg": 56,
+   "folic_acid_mcg": 0,
+   "folate_dfe_mcg": 56
+  },
+  "servings": [
+   {
+    "label": "1/2 cup dry (40 g)",
+    "grams": 40,
+    "isDefault": true
+   },
+   {
+    "label": "1/4 cup dry (20 g)",
+    "grams": 20
+   },
+   {
+    "label": "1 cup dry (81 g)",
+    "grams": 81
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": true,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "oats-steel-cut-dry",
+  "name": "Steel cut oats, dry",
+  "brand": null,
+  "aliases": [
+   "irish oats"
+  ],
+  "category": "grain",
+  "per100g": {
+   "kcal": 379,
+   "protein_g": 13.2,
+   "carbs_g": 67.7,
+   "fat_g": 6.52,
+   "fiber_g": 10.1,
+   "sugar_g": 0.99,
+   "satfat_g": 1.11,
+   "sodium_mg": 6
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1/4 cup dry (40 g)",
+    "grams": 40,
+    "isDefault": true
+   },
+   {
+    "label": "100 g",
+    "grams": 100
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": true,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "oats-quick-dry",
+  "name": "Quick oats, dry",
+  "brand": null,
+  "aliases": [],
+  "category": "grain",
+  "per100g": {
+   "kcal": 379,
+   "protein_g": 13.2,
+   "carbs_g": 67.7,
+   "fat_g": 6.52,
+   "fiber_g": 10.1,
+   "sugar_g": 0.99,
+   "satfat_g": 1.11,
+   "sodium_mg": 6
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1/2 cup dry (40 g)",
+    "grams": 40,
+    "isDefault": true
+   },
+   {
+    "label": "100 g",
+    "grams": 100
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": true,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "oatmeal-cooked-water",
+  "name": "Oatmeal, cooked with water",
+  "brand": null,
+  "aliases": [],
+  "category": "grain",
+  "per100g": {
+   "kcal": 71,
+   "protein_g": 2.54,
+   "carbs_g": 12,
+   "fat_g": 1.52,
+   "fiber_g": 1.7,
+   "sugar_g": 0.3,
+   "satfat_g": 0.26,
+   "sodium_mg": 4
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 cup cooked (234 g)",
+    "grams": 234,
+    "isDefault": true
+   },
+   {
+    "label": "1/2 cup (117 g)",
+    "grams": 117
+   }
+  ],
+  "density_g_per_ml": 1,
+  "verified": true,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "oatmeal-instant-plain-dry",
+  "name": "Instant oatmeal, plain, dry packet",
+  "brand": null,
+  "aliases": [],
+  "category": "grain",
+  "per100g": {
+   "kcal": 371,
+   "protein_g": 12.8,
+   "carbs_g": 68.7,
+   "fat_g": 6.6,
+   "fiber_g": 9.4,
+   "sugar_g": 1,
+   "satfat_g": 1.2,
+   "sodium_mg": 340
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 packet (28 g)",
+    "grams": 28,
+    "isDefault": true
+   },
+   {
+    "label": "100 g",
+    "grams": 100
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": true,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "oatmeal-instant-maple-dry",
+  "name": "Instant oatmeal, maple brown sugar, dry packet",
+  "brand": null,
+  "aliases": [],
+  "category": "grain",
+  "per100g": {
+   "kcal": 382,
+   "protein_g": 8.5,
+   "carbs_g": 76,
+   "fat_g": 4.7,
+   "fiber_g": 6.5,
+   "sugar_g": 30,
+   "satfat_g": 0.9,
+   "sodium_mg": 260
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 packet (43 g)",
+    "grams": 43,
+    "isDefault": true
+   },
+   {
+    "label": "100 g",
+    "grams": 100
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": false,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "oats-overnight-prepared",
+  "name": "Overnight oats, made with milk",
+  "brand": null,
+  "aliases": [],
+  "category": "grain",
+  "per100g": {
+   "kcal": 115,
+   "protein_g": 4.5,
+   "carbs_g": 17,
+   "fat_g": 3.2,
+   "fiber_g": 2.2,
+   "sugar_g": 4,
+   "satfat_g": 1,
+   "sodium_mg": 30
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 jar (250 g)",
+    "grams": 250,
+    "isDefault": true
+   },
+   {
+    "label": "100 g",
+    "grams": 100
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": false,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "oat-bran-dry",
+  "name": "Oat bran, dry",
+  "brand": null,
+  "aliases": [],
+  "category": "grain",
+  "per100g": {
+   "kcal": 375,
+   "protein_g": 17.3,
+   "carbs_g": 66.2,
+   "fat_g": 7.03,
+   "fiber_g": 15.4,
+   "sugar_g": 1.45,
+   "satfat_g": 1.33,
+   "sodium_mg": 4
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1/4 cup (24 g)",
+    "grams": 24,
+    "isDefault": true
+   },
+   {
+    "label": "100 g",
+    "grams": 100
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": false,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "quinoa-dry",
+  "name": "Quinoa, dry",
+  "brand": null,
+  "aliases": [],
+  "category": "grain",
+  "per100g": {
+   "kcal": 368,
+   "protein_g": 14.1,
+   "carbs_g": 64.2,
+   "fat_g": 6.07,
+   "fiber_g": 7,
+   "sugar_g": 0,
+   "satfat_g": 0.71,
+   "sodium_mg": 5
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1/4 cup dry (43 g)",
+    "grams": 43,
+    "isDefault": true
+   },
+   {
+    "label": "100 g",
+    "grams": 100
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": true,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "quinoa-cooked",
+  "name": "Quinoa, cooked",
+  "brand": null,
+  "aliases": [],
+  "category": "grain",
+  "per100g": {
+   "kcal": 120,
+   "protein_g": 4.4,
+   "carbs_g": 21.3,
+   "fat_g": 1.92,
+   "fiber_g": 2.8,
+   "sugar_g": 0.87,
+   "satfat_g": 0.23,
+   "sodium_mg": 7
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": 0,
+   "vitamin_a_carotenoid_mcg_rae": 1,
+   "folate_food_mcg": 42,
+   "folic_acid_mcg": 0,
+   "folate_dfe_mcg": 42
+  },
+  "servings": [
+   {
+    "label": "1 cup cooked (185 g)",
+    "grams": 185,
+    "isDefault": true
+   },
+   {
+    "label": "1/2 cup (93 g)",
+    "grams": 93
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": true,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "buckwheat-cooked",
+  "name": "Buckwheat groats, cooked",
+  "brand": null,
+  "aliases": [
+   "kasha"
+  ],
+  "category": "grain",
+  "per100g": {
+   "kcal": 92,
+   "protein_g": 3.38,
+   "carbs_g": 19.9,
+   "fat_g": 0.62,
+   "fiber_g": 2.7,
+   "sugar_g": 0.9,
+   "satfat_g": 0.14,
+   "sodium_mg": 4
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 cup cooked (168 g)",
+    "grams": 168,
+    "isDefault": true
+   },
+   {
+    "label": "100 g",
+    "grams": 100
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": true,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "amaranth-cooked",
+  "name": "Amaranth, cooked",
+  "brand": null,
+  "aliases": [],
+  "category": "grain",
+  "per100g": {
+   "kcal": 102,
+   "protein_g": 3.8,
+   "carbs_g": 18.7,
+   "fat_g": 1.58,
+   "fiber_g": 2.1,
+   "sugar_g": 0,
+   "satfat_g": 0.33,
+   "sodium_mg": 6
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 cup cooked (246 g)",
+    "grams": 246,
+    "isDefault": true
+   },
+   {
+    "label": "100 g",
+    "grams": 100
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": true,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "millet-cooked",
+  "name": "Millet, cooked",
+  "brand": null,
+  "aliases": [],
+  "category": "grain",
+  "per100g": {
+   "kcal": 119,
+   "protein_g": 3.51,
+   "carbs_g": 23.7,
+   "fat_g": 1,
+   "fiber_g": 1.3,
+   "sugar_g": 0.1,
+   "satfat_g": 0.17,
+   "sodium_mg": 2
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 cup cooked (174 g)",
+    "grams": 174,
+    "isDefault": true
+   },
+   {
+    "label": "100 g",
+    "grams": 100
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": true,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "teff-cooked",
+  "name": "Teff, cooked",
+  "brand": null,
+  "aliases": [],
+  "category": "grain",
+  "per100g": {
+   "kcal": 101,
+   "protein_g": 3.9,
+   "carbs_g": 19.9,
+   "fat_g": 0.7,
+   "fiber_g": 2.8,
+   "sugar_g": 0.2,
+   "satfat_g": 0.1,
+   "sodium_mg": 8
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 cup cooked (252 g)",
+    "grams": 252,
+    "isDefault": true
+   },
+   {
+    "label": "100 g",
+    "grams": 100
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": false,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "sorghum-cooked",
+  "name": "Sorghum, cooked",
+  "brand": null,
+  "aliases": [],
+  "category": "grain",
+  "per100g": {
+   "kcal": 115,
+   "protein_g": 3.5,
+   "carbs_g": 25,
+   "fat_g": 1.1,
+   "fiber_g": 2.5,
+   "sugar_g": 0.3,
+   "satfat_g": 0.2,
+   "sodium_mg": 2
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 cup cooked (192 g)",
+    "grams": 192,
+    "isDefault": true
+   },
+   {
+    "label": "100 g",
+    "grams": 100
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": false,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "farro-dry",
+  "name": "Farro, dry",
+  "brand": null,
+  "aliases": [
+   "emmer wheat"
+  ],
+  "category": "grain",
+  "per100g": {
+   "kcal": 340,
+   "protein_g": 14,
+   "carbs_g": 71,
+   "fat_g": 2,
+   "fiber_g": 11,
+   "sugar_g": 2,
+   "satfat_g": 0.4,
+   "sodium_mg": 4
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1/4 cup dry (47 g)",
+    "grams": 47,
+    "isDefault": true
+   },
+   {
+    "label": "100 g",
+    "grams": 100
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": false,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "farro-cooked",
+  "name": "Farro, cooked",
+  "brand": null,
+  "aliases": [],
+  "category": "grain",
+  "per100g": {
+   "kcal": 128,
+   "protein_g": 5,
+   "carbs_g": 26,
+   "fat_g": 0.8,
+   "fiber_g": 4,
+   "sugar_g": 0.7,
+   "satfat_g": 0.15,
+   "sodium_mg": 4
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 cup cooked (170 g)",
+    "grams": 170,
+    "isDefault": true
+   },
+   {
+    "label": "1/2 cup (85 g)",
+    "grams": 85
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": false,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "freekeh-cooked",
+  "name": "Freekeh, cooked",
+  "brand": null,
+  "aliases": [],
+  "category": "grain",
+  "per100g": {
+   "kcal": 115,
+   "protein_g": 4.5,
+   "carbs_g": 23,
+   "fat_g": 0.7,
+   "fiber_g": 4.5,
+   "sugar_g": 0.3,
+   "satfat_g": 0.1,
+   "sodium_mg": 5
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 cup cooked (170 g)",
+    "grams": 170,
+    "isDefault": true
+   },
+   {
+    "label": "100 g",
+    "grams": 100
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": false,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "barley-pearled-cooked",
+  "name": "Pearl barley, cooked",
+  "brand": null,
+  "aliases": [],
+  "category": "grain",
+  "per100g": {
+   "kcal": 123,
+   "protein_g": 2.26,
+   "carbs_g": 28.2,
+   "fat_g": 0.44,
+   "fiber_g": 3.8,
+   "sugar_g": 0.28,
+   "satfat_g": 0.09,
+   "sodium_mg": 3
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 cup cooked (157 g)",
+    "grams": 157,
+    "isDefault": true
+   },
+   {
+    "label": "1/2 cup (79 g)",
+    "grams": 79
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": true,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "barley-pearled-dry",
+  "name": "Pearl barley, dry",
+  "brand": null,
+  "aliases": [],
+  "category": "grain",
+  "per100g": {
+   "kcal": 352,
+   "protein_g": 9.91,
+   "carbs_g": 77.7,
+   "fat_g": 1.16,
+   "fiber_g": 15.6,
+   "sugar_g": 0.8,
+   "satfat_g": 0.24,
+   "sodium_mg": 9
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1/4 cup dry (50 g)",
+    "grams": 50,
+    "isDefault": true
+   },
+   {
+    "label": "100 g",
+    "grams": 100
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": true,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "bulgur-cooked",
+  "name": "Bulgur wheat, cooked",
+  "brand": null,
+  "aliases": [],
+  "category": "grain",
+  "per100g": {
+   "kcal": 83,
+   "protein_g": 3.08,
+   "carbs_g": 18.6,
+   "fat_g": 0.24,
+   "fiber_g": 4.5,
+   "sugar_g": 0.1,
+   "satfat_g": 0.04,
+   "sodium_mg": 5
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 cup cooked (182 g)",
+    "grams": 182,
+    "isDefault": true
+   },
+   {
+    "label": "1/2 cup (91 g)",
+    "grams": 91
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": true,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "couscous-cooked",
+  "name": "Couscous, cooked",
+  "brand": null,
+  "aliases": [],
+  "category": "grain",
+  "per100g": {
+   "kcal": 112,
+   "protein_g": 3.79,
+   "carbs_g": 23.2,
+   "fat_g": 0.16,
+   "fiber_g": 1.4,
+   "sugar_g": 0.1,
+   "satfat_g": 0.03,
+   "sodium_mg": 5
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 cup cooked (157 g)",
+    "grams": 157,
+    "isDefault": true
+   },
+   {
+    "label": "1/2 cup (79 g)",
+    "grams": 79
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": true,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "couscous-pearl-cooked",
+  "name": "Pearl couscous, cooked",
+  "brand": null,
+  "aliases": [
+   "israeli couscous"
+  ],
+  "category": "grain",
+  "per100g": {
+   "kcal": 130,
+   "protein_g": 4.5,
+   "carbs_g": 26,
+   "fat_g": 0.3,
+   "fiber_g": 1.5,
+   "sugar_g": 0.1,
+   "satfat_g": 0.05,
+   "sodium_mg": 5
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 cup cooked (157 g)",
+    "grams": 157,
+    "isDefault": true
+   },
+   {
+    "label": "100 g",
+    "grams": 100
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": false,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "spelt-cooked",
+  "name": "Spelt, cooked",
+  "brand": null,
+  "aliases": [],
+  "category": "grain",
+  "per100g": {
+   "kcal": 127,
+   "protein_g": 5.5,
+   "carbs_g": 26.4,
+   "fat_g": 0.85,
+   "fiber_g": 3.9,
+   "sugar_g": 0.2,
+   "satfat_g": 0.14,
+   "sodium_mg": 5
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 cup cooked (194 g)",
+    "grams": 194,
+    "isDefault": true
+   },
+   {
+    "label": "100 g",
+    "grams": 100
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": false,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "rye-berries-cooked",
+  "name": "Rye berries, cooked",
+  "brand": null,
+  "aliases": [],
+  "category": "grain",
+  "per100g": {
+   "kcal": 118,
+   "protein_g": 5,
+   "carbs_g": 24.5,
+   "fat_g": 0.9,
+   "fiber_g": 4.5,
+   "sugar_g": 0.5,
+   "satfat_g": 0.1,
+   "sodium_mg": 3
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 cup cooked (170 g)",
+    "grams": 170,
+    "isDefault": true
+   },
+   {
+    "label": "100 g",
+    "grams": 100
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": false,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "kamut-cooked",
+  "name": "Kamut, cooked",
+  "brand": null,
+  "aliases": [
+   "khorasan wheat"
+  ],
+  "category": "grain",
+  "per100g": {
+   "kcal": 132,
+   "protein_g": 5.7,
+   "carbs_g": 27.6,
+   "fat_g": 0.8,
+   "fiber_g": 4.3,
+   "sugar_g": 0.7,
+   "satfat_g": 0.1,
+   "sodium_mg": 5
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 cup cooked (172 g)",
+    "grams": 172,
+    "isDefault": true
+   },
+   {
+    "label": "100 g",
+    "grams": 100
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": false,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "cornmeal-dry",
+  "name": "Cornmeal, degermed, yellow, dry",
+  "brand": null,
+  "aliases": [],
+  "category": "grain",
+  "per100g": {
+   "kcal": 370,
+   "protein_g": 8.12,
+   "carbs_g": 79.5,
+   "fat_g": 1.75,
+   "fiber_g": 3.9,
+   "sugar_g": 1.61,
+   "satfat_g": 0.24,
+   "sodium_mg": 7
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": 0,
+   "vitamin_a_carotenoid_mcg_rae": 0,
+   "folate_food_mcg": 11,
+   "folic_acid_mcg": 137,
+   "folate_dfe_mcg": 244
+  },
+  "servings": [
+   {
+    "label": "1/4 cup (34 g)",
+    "grams": 34,
+    "isDefault": true
+   },
+   {
+    "label": "100 g",
+    "grams": 100
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": true,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "polenta-cooked",
+  "name": "Polenta, cooked",
+  "brand": null,
+  "aliases": [],
+  "category": "grain",
+  "per100g": {
+   "kcal": 70,
+   "protein_g": 1.6,
+   "carbs_g": 15,
+   "fat_g": 0.3,
+   "fiber_g": 0.9,
+   "sugar_g": 0.2,
+   "satfat_g": 0.05,
+   "sodium_mg": 240
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 cup (240 g)",
+    "grams": 240,
+    "isDefault": true
+   },
+   {
+    "label": "100 g",
+    "grams": 100
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": false,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "grits-cooked",
+  "name": "Grits, cooked with water",
+  "brand": null,
+  "aliases": [
+   "corn grits"
+  ],
+  "category": "grain",
+  "per100g": {
+   "kcal": 59,
+   "protein_g": 1.4,
+   "carbs_g": 12.9,
+   "fat_g": 0.19,
+   "fiber_g": 0.7,
+   "sugar_g": 0.1,
+   "satfat_g": 0.03,
+   "sodium_mg": 180
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 cup cooked (233 g)",
+    "grams": 233,
+    "isDefault": true
+   },
+   {
+    "label": "100 g",
+    "grams": 100
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": true,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "hominy-canned",
+  "name": "Hominy, canned, drained",
+  "brand": null,
+  "aliases": [
+   "pozole"
+  ],
+  "category": "grain",
+  "per100g": {
+   "kcal": 72,
+   "protein_g": 1.48,
+   "carbs_g": 14.3,
+   "fat_g": 0.87,
+   "fiber_g": 2.5,
+   "sugar_g": 0,
+   "satfat_g": 0.12,
+   "sodium_mg": 345
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 cup (165 g)",
+    "grams": 165,
+    "isDefault": true
+   },
+   {
+    "label": "100 g",
+    "grams": 100
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": true,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "masa-harina-dry",
+  "name": "Masa harina, dry",
+  "brand": null,
+  "aliases": [
+   "corn flour for tortillas"
+  ],
+  "category": "grain",
+  "per100g": {
+   "kcal": 365,
+   "protein_g": 9.3,
+   "carbs_g": 76.3,
+   "fat_g": 3.9,
+   "fiber_g": 6.4,
+   "sugar_g": 1.6,
+   "satfat_g": 0.5,
+   "sodium_mg": 5
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1/4 cup (30 g)",
+    "grams": 30,
+    "isDefault": true
+   },
+   {
+    "label": "100 g",
+    "grams": 100
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": true,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "cream-of-wheat-cooked",
+  "name": "Cream of wheat, cooked",
+  "brand": null,
+  "aliases": [
+   "farina"
+  ],
+  "category": "grain",
+  "per100g": {
+   "kcal": 63,
+   "protein_g": 1.8,
+   "carbs_g": 13.1,
+   "fat_g": 0.24,
+   "fiber_g": 0.7,
+   "sugar_g": 0.1,
+   "satfat_g": 0.04,
+   "sodium_mg": 97
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 cup cooked (241 g)",
+    "grams": 241,
+    "isDefault": true
+   },
+   {
+    "label": "100 g",
+    "grams": 100
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": false,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "flour-all-purpose",
+  "name": "All-purpose flour, white, enriched",
+  "brand": null,
+  "aliases": [
+   "white flour",
+   "plain flour"
+  ],
+  "category": "grain",
+  "per100g": {
+   "kcal": 364,
+   "protein_g": 10.3,
+   "carbs_g": 76.3,
+   "fat_g": 0.98,
+   "fiber_g": 2.7,
+   "sugar_g": 0.27,
+   "satfat_g": 0.16,
+   "sodium_mg": 2
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": 0,
+   "vitamin_a_carotenoid_mcg_rae": 0,
+   "folate_food_mcg": 26,
+   "folic_acid_mcg": 154,
+   "folate_dfe_mcg": 291
+  },
+  "servings": [
+   {
+    "label": "1/4 cup (31 g)",
+    "grams": 31,
+    "isDefault": true
+   },
+   {
+    "label": "1 cup (125 g)",
+    "grams": 125
+   },
+   {
+    "label": "1 tbsp (8 g)",
+    "grams": 8
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": true,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "flour-bread",
+  "name": "Bread flour, white",
+  "brand": null,
+  "aliases": [],
+  "category": "grain",
+  "per100g": {
+   "kcal": 361,
+   "protein_g": 12,
+   "carbs_g": 72.5,
+   "fat_g": 1.66,
+   "fiber_g": 2.4,
+   "sugar_g": 0.31,
+   "satfat_g": 0.24,
+   "sodium_mg": 2
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": 0,
+   "vitamin_a_carotenoid_mcg_rae": 0,
+   "folate_food_mcg": 25,
+   "folic_acid_mcg": 150,
+   "folate_dfe_mcg": 280
+  },
+  "servings": [
+   {
+    "label": "1/4 cup (34 g)",
+    "grams": 34,
+    "isDefault": true
+   },
+   {
+    "label": "1 cup (137 g)",
+    "grams": 137
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": true,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "flour-cake",
+  "name": "Cake flour",
+  "brand": null,
+  "aliases": [],
+  "category": "grain",
+  "per100g": {
+   "kcal": 362,
+   "protein_g": 8.2,
+   "carbs_g": 78,
+   "fat_g": 0.86,
+   "fiber_g": 1.7,
+   "sugar_g": 0.3,
+   "satfat_g": 0.13,
+   "sodium_mg": 2
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1/4 cup (28 g)",
+    "grams": 28,
+    "isDefault": true
+   },
+   {
+    "label": "1 cup (114 g)",
+    "grams": 114
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": false,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "flour-whole-wheat",
+  "name": "Whole wheat flour",
+  "brand": null,
+  "aliases": [],
+  "category": "grain",
+  "per100g": {
+   "kcal": 340,
+   "protein_g": 13.2,
+   "carbs_g": 72,
+   "fat_g": 2.5,
+   "fiber_g": 10.7,
+   "sugar_g": 0.41,
+   "satfat_g": 0.43,
+   "sodium_mg": 2
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": 0,
+   "vitamin_a_carotenoid_mcg_rae": 0,
+   "folate_food_mcg": 44,
+   "folic_acid_mcg": 0,
+   "folate_dfe_mcg": 44
+  },
+  "servings": [
+   {
+    "label": "1/4 cup (30 g)",
+    "grams": 30,
+    "isDefault": true
+   },
+   {
+    "label": "1 cup (120 g)",
+    "grams": 120
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": true,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "flour-almond",
+  "name": "Almond flour",
+  "brand": null,
+  "aliases": [
+   "almond meal"
+  ],
+  "category": "grain",
+  "per100g": {
+   "kcal": 571,
+   "protein_g": 21.4,
+   "carbs_g": 21.4,
+   "fat_g": 50,
+   "fiber_g": 10.7,
+   "sugar_g": 3.6,
+   "satfat_g": 3.6,
+   "sodium_mg": 0
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1/4 cup (28 g)",
+    "grams": 28,
+    "isDefault": true
+   },
+   {
+    "label": "1 cup (112 g)",
+    "grams": 112
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": true,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "flour-coconut",
+  "name": "Coconut flour",
+  "brand": null,
+  "aliases": [],
+  "category": "grain",
+  "per100g": {
+   "kcal": 400,
+   "protein_g": 18,
+   "carbs_g": 60,
+   "fat_g": 13,
+   "fiber_g": 39,
+   "sugar_g": 10,
+   "satfat_g": 11,
+   "sodium_mg": 63
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "2 tbsp (14 g)",
+    "grams": 14,
+    "isDefault": true
+   },
+   {
+    "label": "1/4 cup (28 g)",
+    "grams": 28
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": true,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "flour-oat",
+  "name": "Oat flour",
+  "brand": null,
+  "aliases": [],
+  "category": "grain",
+  "per100g": {
+   "kcal": 404,
+   "protein_g": 14.7,
+   "carbs_g": 65.7,
+   "fat_g": 9.1,
+   "fiber_g": 6.5,
+   "sugar_g": 0.8,
+   "satfat_g": 1.6,
+   "sodium_mg": 19
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1/4 cup (30 g)",
+    "grams": 30,
+    "isDefault": true
+   },
+   {
+    "label": "1 cup (120 g)",
+    "grams": 120
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": false,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "flour-chickpea",
+  "name": "Chickpea flour",
+  "brand": null,
+  "aliases": [
+   "besan",
+   "gram flour"
+  ],
+  "category": "grain",
+  "per100g": {
+   "kcal": 387,
+   "protein_g": 22.4,
+   "carbs_g": 57.8,
+   "fat_g": 6.69,
+   "fiber_g": 10.8,
+   "sugar_g": 10.9,
+   "satfat_g": 0.69,
+   "sodium_mg": 64
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1/4 cup (23 g)",
+    "grams": 23,
+    "isDefault": true
+   },
+   {
+    "label": "1 cup (92 g)",
+    "grams": 92
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": true,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "flour-rice-white",
+  "name": "White rice flour",
+  "brand": null,
+  "aliases": [],
+  "category": "grain",
+  "per100g": {
+   "kcal": 366,
+   "protein_g": 5.95,
+   "carbs_g": 80.1,
+   "fat_g": 1.42,
+   "fiber_g": 2.4,
+   "sugar_g": 0.12,
+   "satfat_g": 0.39,
+   "sodium_mg": 0
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1/4 cup (39 g)",
+    "grams": 39,
+    "isDefault": true
+   },
+   {
+    "label": "1 cup (158 g)",
+    "grams": 158
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": true,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "flour-rye",
+  "name": "Rye flour, dark",
+  "brand": null,
+  "aliases": [],
+  "category": "grain",
+  "per100g": {
+   "kcal": 324,
+   "protein_g": 10.9,
+   "carbs_g": 68.6,
+   "fat_g": 2.69,
+   "fiber_g": 22.6,
+   "sugar_g": 1,
+   "satfat_g": 0.3,
+   "sodium_mg": 1
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1/4 cup (32 g)",
+    "grams": 32,
+    "isDefault": true
+   },
+   {
+    "label": "1 cup (128 g)",
+    "grams": 128
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": true,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "flour-buckwheat",
+  "name": "Buckwheat flour",
+  "brand": null,
+  "aliases": [],
+  "category": "grain",
+  "per100g": {
+   "kcal": 335,
+   "protein_g": 12.6,
+   "carbs_g": 70.6,
+   "fat_g": 3.1,
+   "fiber_g": 10,
+   "sugar_g": 2.6,
+   "satfat_g": 0.68,
+   "sodium_mg": 11
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1/4 cup (30 g)",
+    "grams": 30,
+    "isDefault": true
+   },
+   {
+    "label": "1 cup (120 g)",
+    "grams": 120
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": true,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "flour-semolina",
+  "name": "Semolina flour, enriched",
+  "brand": null,
+  "aliases": [],
+  "category": "grain",
+  "per100g": {
+   "kcal": 360,
+   "protein_g": 12.7,
+   "carbs_g": 72.8,
+   "fat_g": 1.05,
+   "fiber_g": 3.9,
+   "sugar_g": 0,
+   "satfat_g": 0.15,
+   "sodium_mg": 1
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1/4 cup (42 g)",
+    "grams": 42,
+    "isDefault": true
+   },
+   {
+    "label": "1 cup (167 g)",
+    "grams": 167
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": true,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "flour-tapioca",
+  "name": "Tapioca starch",
+  "brand": null,
+  "aliases": [
+   "tapioca flour"
+  ],
+  "category": "grain",
+  "per100g": {
+   "kcal": 358,
+   "protein_g": 0.19,
+   "carbs_g": 88.7,
+   "fat_g": 0.02,
+   "fiber_g": 0.9,
+   "sugar_g": 3.35,
+   "satfat_g": 0,
+   "sodium_mg": 1
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 tbsp (8 g)",
+    "grams": 8,
+    "isDefault": true
+   },
+   {
+    "label": "1/4 cup (30 g)",
+    "grams": 30
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": true,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "flour-cornstarch",
+  "name": "Cornstarch",
+  "brand": null,
+  "aliases": [
+   "corn flour uk"
+  ],
+  "category": "grain",
+  "per100g": {
+   "kcal": 381,
+   "protein_g": 0.26,
+   "carbs_g": 91.3,
+   "fat_g": 0.05,
+   "fiber_g": 0.9,
+   "sugar_g": 0,
+   "satfat_g": 0.01,
+   "sodium_mg": 9
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 tbsp (8 g)",
+    "grams": 8,
+    "isDefault": true
+   },
+   {
+    "label": "1 tsp (2.5 g)",
+    "grams": 2.5
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": true,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "flour-potato-starch",
+  "name": "Potato starch",
+  "brand": null,
+  "aliases": [],
+  "category": "grain",
+  "per100g": {
+   "kcal": 357,
+   "protein_g": 0.1,
+   "carbs_g": 88,
+   "fat_g": 0.05,
+   "fiber_g": 0,
+   "sugar_g": 0,
+   "satfat_g": 0,
+   "sodium_mg": 10
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 tbsp (10 g)",
+    "grams": 10,
+    "isDefault": true
+   },
+   {
+    "label": "100 g",
+    "grams": 100
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": false,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "flour-arrowroot",
+  "name": "Arrowroot starch",
+  "brand": null,
+  "aliases": [],
+  "category": "grain",
+  "per100g": {
+   "kcal": 357,
+   "protein_g": 0.3,
+   "carbs_g": 88.2,
+   "fat_g": 0.1,
+   "fiber_g": 3.4,
+   "sugar_g": 0,
+   "satfat_g": 0,
+   "sodium_mg": 2
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 tbsp (8 g)",
+    "grams": 8,
+    "isDefault": true
+   },
+   {
+    "label": "100 g",
+    "grams": 100
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": true,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "flour-vital-wheat-gluten",
+  "name": "Vital wheat gluten",
+  "brand": null,
+  "aliases": [],
+  "category": "grain",
+  "per100g": {
+   "kcal": 370,
+   "protein_g": 75.2,
+   "carbs_g": 13.8,
+   "fat_g": 1.85,
+   "fiber_g": 0.6,
+   "sugar_g": 0,
+   "satfat_g": 0.3,
+   "sodium_mg": 29
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1/4 cup (30 g)",
+    "grams": 30,
+    "isDefault": true
+   },
+   {
+    "label": "100 g",
+    "grams": 100
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": true,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "wheat-bran",
+  "name": "Wheat bran, crude",
+  "brand": null,
+  "aliases": [],
+  "category": "grain",
+  "per100g": {
+   "kcal": 216,
+   "protein_g": 15.6,
+   "carbs_g": 64.5,
+   "fat_g": 4.25,
+   "fiber_g": 42.8,
+   "sugar_g": 0.41,
+   "satfat_g": 0.63,
+   "sodium_mg": 2
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1/4 cup (15 g)",
+    "grams": 15,
+    "isDefault": true
+   },
+   {
+    "label": "1 tbsp (4 g)",
+    "grams": 4
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": true,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "wheat-germ",
+  "name": "Wheat germ, toasted",
+  "brand": null,
+  "aliases": [],
+  "category": "grain",
+  "per100g": {
+   "kcal": 382,
+   "protein_g": 29.1,
+   "carbs_g": 52.2,
+   "fat_g": 10.7,
+   "fiber_g": 15,
+   "sugar_g": 8,
+   "satfat_g": 1.85,
+   "sodium_mg": 4
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "2 tbsp (14 g)",
+    "grams": 14,
+    "isDefault": true
+   },
+   {
+    "label": "1/4 cup (28 g)",
+    "grams": 28
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": true,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "psyllium-husk",
+  "name": "Psyllium husk powder",
+  "brand": null,
+  "aliases": [],
+  "category": "grain",
+  "per100g": {
+   "kcal": 200,
+   "protein_g": 1.6,
+   "carbs_g": 88,
+   "fat_g": 0.5,
+   "fiber_g": 80,
+   "sugar_g": 0,
+   "satfat_g": 0.1,
+   "sodium_mg": 30
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 tbsp (9 g)",
+    "grams": 9,
+    "isDefault": true
+   },
+   {
+    "label": "1 tsp (3 g)",
+    "grams": 3
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": true,
+  "source": "USDA FoodData Central (SR Legacy)"
+ }
+]

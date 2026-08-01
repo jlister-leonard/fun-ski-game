@@ -1,0 +1,46 @@
+#category: cereal
+#source: manufacturer label (US formulation)
+#servings: 1 cup (30 g)@30*;100 g@100
+# Cereal is the classic "per 100 g looks insane" category — a serving is 28-60 g,
+# so ALWAYS default to the box serving, never to 100 g.
+# id|name|aliases|kcal|protein|carbs|fat|fiber|sugar|satfat|sodium|servings|extra
+cereal-cheerios|Cheerios, original||367|12.3|73.2|6.6|10.0|4.4|1.2|505|1 cup (28 g)@28*;1.5 cups (42 g)@42|brand=General Mills;ret=0;car=0;ffol=30;fac=402
+cereal-honey-nut-cheerios|Honey Nut Cheerios||379|8.1|78.4|4.5|7.0|32.4|0.7|486|1 cup (37 g)@37*;100 g@100|brand=General Mills;ret=0;car=0;ffol=25;fac=405
+cereal-corn-flakes|Corn Flakes||357|7.5|84.0|0.4|3.0|8.9|0.1|729|1 cup (28 g)@28*;100 g@100|brand=Kellogg's;ret=750;car=0;ffol=17;fac=200
+cereal-frosted-flakes|Frosted Flakes||375|4.5|90.0|0|2.5|36.6|0|500|1 cup (41 g)@41*;3/4 cup (31 g)@31|brand=Kellogg's;ret=610;car=0;ffol=12;fac=244
+cereal-rice-krispies|Rice Krispies||382|6.5|87.0|1.0|1.0|10.0|0.3|690|1.25 cups (33 g)@33*;100 g@100|brand=Kellogg's;ret=760;car=0;ffol=15;fac=303
+cereal-special-k-original|Special K, original||379|20.0|76.0|1.5|4.0|13.0|0.4|560|1 cup (31 g)@31*;100 g@100|brand=Kellogg's;ret=1290;car=0;ffol=20;fac=1290
+cereal-raisin-bran|Raisin Bran||322|8.1|76.0|2.2|11.0|27.0|0.4|570|1 cup (59 g)@59*;100 g@100|brand=Kellogg's;ret=630;car=0;ffol=30;fac=225
+cereal-bran-flakes|Bran Flakes||330|10.0|78.0|2.0|15.0|17.0|0.4|550|3/4 cup (30 g)@30*;100 g@100|
+cereal-fiber-one-original|Fiber One Original||200|8.0|80.0|2.0|57.0|0|0.4|210|1/2 cup (30 g)@30*;100 g@100|brand=General Mills
+cereal-all-bran|All-Bran Original||259|13.0|80.0|3.5|29.0|18.0|0.7|505|1/2 cup (31 g)@31*;100 g@100|brand=Kellogg's;fl=fiber;ret=800;car=0;ffol=60;fac=323
+cereal-grape-nuts|Grape-Nuts||358|11.0|79.0|2.0|9.0|8.0|0.3|470|1/2 cup (58 g)@58*;100 g@100|brand=Post;ret=0;car=0;ffol=25;fac=345
+cereal-shredded-wheat|Shredded Wheat, spoon size||340|11.0|79.0|2.0|12.0|0.4|0.3|8|1 cup (49 g)@49*;100 g@100|brand=Post
+cereal-frosted-mini-wheats|Frosted Mini-Wheats||350|9.5|82.0|1.5|9.5|20.0|0.3|20|1 cup (59 g)@59*;100 g@100|brand=Kellogg's
+cereal-cinnamon-toast-crunch|Cinnamon Toast Crunch||420|5.0|77.0|11.0|4.0|30.0|1.5|500|1 cup (40 g)@40*;100 g@100|brand=General Mills
+cereal-lucky-charms|Lucky Charms||385|6.4|79.5|3.8|6.4|33.0|0.6|590|1 cup (36 g)@36*;100 g@100|brand=General Mills
+cereal-froot-loops|Froot Loops||385|4.5|87.0|3.5|9.0|38.0|1.5|500|1.5 cups (39 g)@39*;100 g@100|brand=Kellogg's;ret=770;car=0;ffol=15;fac=385
+cereal-cocoa-puffs|Cocoa Puffs||400|4.0|84.0|5.5|6.0|33.0|1.0|420|1 cup (36 g)@36*;100 g@100|brand=General Mills
+cereal-reeses-puffs|Reese's Puffs||420|6.0|75.0|11.0|4.5|30.0|1.5|400|1 cup (39 g)@39*;100 g@100|brand=General Mills
+cereal-captain-crunch|Cap'n Crunch||400|4.0|86.0|5.0|3.0|38.0|2.5|560|1 cup (37 g)@37*;100 g@100|brand=Quaker
+cereal-honey-bunches-oats|Honey Bunches of Oats, honey roasted||400|6.7|80.0|6.7|5.0|23.0|1.0|400|1 cup (30 g)@30*;100 g@100|brand=Post
+cereal-life|Life cereal, original||380|8.0|80.0|4.0|8.0|22.0|0.7|500|1 cup (32 g)@32*;100 g@100|brand=Quaker
+cereal-chex-rice|Rice Chex||379|5.5|86.0|2.0|3.5|8.0|0.3|590|1 cup (32 g)@32*;100 g@100|brand=General Mills
+cereal-chex-corn|Corn Chex||379|6.0|85.0|2.0|3.5|10.0|0.3|590|1 cup (31 g)@31*;100 g@100|brand=General Mills
+cereal-wheaties|Wheaties||357|10.0|82.0|3.5|10.0|14.0|0.5|500|1 cup (30 g)@30*;100 g@100|brand=General Mills
+cereal-total|Total whole grain||357|10.0|82.0|3.5|10.0|17.0|0.5|590|1 cup (30 g)@30*;100 g@100|brand=General Mills;ret=1500;car=0;ffol=20;fac=1333
+cereal-kashi-golean|Kashi GoLean, original||340|26.0|60.0|3.0|20.0|12.0|0.5|170|1 cup (52 g)@52*;100 g@100|brand=Kashi
+cereal-kashi-cinnamon-harvest|Kashi Cinnamon Harvest||350|9.0|82.0|1.5|11.0|17.0|0.3|10|1 cup (55 g)@55*;100 g@100|brand=Kashi
+cereal-magic-spoon|Magic Spoon, frosted||385|36.0|38.0|13.0|2.6|0|3.8|360|1 cup (39 g)@39*;100 g@100|brand=Magic Spoon
+cereal-catalina-crunch|Catalina Crunch, cinnamon toast||357|32.0|46.0|11.0|32.0|0|1.8|536|1/2 cup (28 g)@28*;100 g@100|brand=Catalina Crunch
+cereal-granola-plain|Granola, plain, homestyle||471|10.0|64.0|20.0|7.0|20.0|3.0|30|1/2 cup (61 g)@61*;1/4 cup (30 g)@30
+cereal-granola-lowfat|Granola, low fat||400|9.0|76.0|6.0|6.0|24.0|1.5|180|1/2 cup (55 g)@55*;100 g@100|v=0
+cereal-granola-nature-valley|Nature Valley Oats 'n Honey granola||440|9.0|71.0|14.0|6.0|22.0|1.5|180|1/2 cup (55 g)@55*;100 g@100|brand=Nature Valley
+cereal-muesli|Muesli, dry, unsweetened||340|10.0|66.0|6.0|8.0|16.0|1.0|20|1/2 cup (43 g)@43*;100 g@100|v=0
+cereal-puffed-rice|Puffed rice, plain||402|6.3|89.8|0.5|1.4|0|0.1|4|1 cup (14 g)@14*;100 g@100
+cereal-puffed-wheat|Puffed wheat, plain||367|14.9|78.5|1.4|10.0|0.5|0.2|4|1 cup (12 g)@12*;100 g@100|
+cereal-grits-instant-packet|Instant grits, plain, dry packet||368|8.5|80.0|1.2|2.0|0.5|0.2|400|1 packet (28 g)@28*;100 g@100|v=0
+cereal-cream-of-rice-dry|Cream of Rice, dry||366|6.0|82.0|0.5|1.0|0|0.1|0|1/4 cup (35 g)@35*;100 g@100|v=0
+cereal-corn-pops|Corn Pops||382|3.6|89.0|1.8|1.8|32.0|0.4|400|1 cup (31 g)@31*;100 g@100|brand=Kellogg's;v=0
+cereal-apple-jacks|Apple Jacks||390|4.0|88.0|3.5|9.0|38.0|1.5|400|1.25 cups (39 g)@39*;100 g@100|brand=Kellogg's;v=0
+cereal-cracklin-oat-bran|Cracklin' Oat Bran||440|7.0|74.0|14.0|12.0|30.0|5.0|300|3/4 cup (49 g)@49*;100 g@100|brand=Kellogg's;v=0

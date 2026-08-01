@@ -1,0 +1,3087 @@
+[
+ {
+  "id": "apple-raw",
+  "name": "Apple, with skin",
+  "brand": null,
+  "aliases": [
+   "apples"
+  ],
+  "category": "fruit",
+  "per100g": {
+   "kcal": 52,
+   "protein_g": 0.26,
+   "carbs_g": 13.8,
+   "fat_g": 0.17,
+   "fiber_g": 2.4,
+   "sugar_g": 10.4,
+   "satfat_g": 0.03,
+   "sodium_mg": 1
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 medium (182 g)",
+    "grams": 182,
+    "isDefault": true
+   },
+   {
+    "label": "1 small (149 g)",
+    "grams": 149
+   },
+   {
+    "label": "1 large (223 g)",
+    "grams": 223
+   },
+   {
+    "label": "1 cup sliced (109 g)",
+    "grams": 109
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": true,
+  "source": "USDA FoodData Central SR Legacy FDC 171688, release 2018-04, reviewed 2026-08-01"
+ },
+ {
+  "id": "apple-granny-smith",
+  "name": "Apple, Granny Smith",
+  "brand": null,
+  "aliases": [],
+  "category": "fruit",
+  "per100g": {
+   "kcal": 52,
+   "protein_g": 0.27,
+   "carbs_g": 13.6,
+   "fat_g": 0.19,
+   "fiber_g": 2.8,
+   "sugar_g": 9.6,
+   "satfat_g": 0.03,
+   "sodium_mg": 1
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 medium (182 g)",
+    "grams": 182,
+    "isDefault": true
+   },
+   {
+    "label": "1 cup sliced (109 g)",
+    "grams": 109
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": false,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "apple-honeycrisp",
+  "name": "Apple, Honeycrisp",
+  "brand": null,
+  "aliases": [],
+  "category": "fruit",
+  "per100g": {
+   "kcal": 52,
+   "protein_g": 0.26,
+   "carbs_g": 14,
+   "fat_g": 0.17,
+   "fiber_g": 2.4,
+   "sugar_g": 11,
+   "satfat_g": 0.03,
+   "sodium_mg": 1
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 medium (200 g)",
+    "grams": 200,
+    "isDefault": true
+   },
+   {
+    "label": "1 large (250 g)",
+    "grams": 250
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": false,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "apple-gala",
+  "name": "Apple, Gala",
+  "brand": null,
+  "aliases": [],
+  "category": "fruit",
+  "per100g": {
+   "kcal": 57,
+   "protein_g": 0.25,
+   "carbs_g": 15,
+   "fat_g": 0.12,
+   "fiber_g": 2.1,
+   "sugar_g": 11.9,
+   "satfat_g": 0.02,
+   "sodium_mg": 1
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 medium (172 g)",
+    "grams": 172,
+    "isDefault": true
+   },
+   {
+    "label": "100 g",
+    "grams": 100
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": false,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "apple-dried-rings",
+  "name": "Apple, dried rings",
+  "brand": null,
+  "aliases": [],
+  "category": "fruit",
+  "per100g": {
+   "kcal": 243,
+   "protein_g": 0.93,
+   "carbs_g": 65.9,
+   "fat_g": 0.32,
+   "fiber_g": 8.7,
+   "sugar_g": 57.2,
+   "satfat_g": 0.05,
+   "sodium_mg": 87
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1/4 cup (24 g)",
+    "grams": 24,
+    "isDefault": true
+   },
+   {
+    "label": "1 oz (28 g)",
+    "grams": 28
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": true,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "applesauce-unsweetened",
+  "name": "Applesauce, unsweetened",
+  "brand": null,
+  "aliases": [],
+  "category": "fruit",
+  "per100g": {
+   "kcal": 42,
+   "protein_g": 0.17,
+   "carbs_g": 11.3,
+   "fat_g": 0.1,
+   "fiber_g": 1.1,
+   "sugar_g": 9.4,
+   "satfat_g": 0.02,
+   "sodium_mg": 2
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1/2 cup (122 g)",
+    "grams": 122,
+    "isDefault": true
+   },
+   {
+    "label": "1 cup (244 g)",
+    "grams": 244
+   },
+   {
+    "label": "1 pouch (90 g)",
+    "grams": 90
+   }
+  ],
+  "density_g_per_ml": 1.05,
+  "verified": true,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "applesauce-sweetened",
+  "name": "Applesauce, sweetened",
+  "brand": null,
+  "aliases": [],
+  "category": "fruit",
+  "per100g": {
+   "kcal": 68,
+   "protein_g": 0.16,
+   "carbs_g": 17.8,
+   "fat_g": 0.18,
+   "fiber_g": 1.2,
+   "sugar_g": 15.9,
+   "satfat_g": 0.03,
+   "sodium_mg": 2
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1/2 cup (128 g)",
+    "grams": 128,
+    "isDefault": true
+   },
+   {
+    "label": "1 cup (255 g)",
+    "grams": 255
+   }
+  ],
+  "density_g_per_ml": 1.05,
+  "verified": true,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "pear-raw",
+  "name": "Pear, with skin",
+  "brand": null,
+  "aliases": [],
+  "category": "fruit",
+  "per100g": {
+   "kcal": 57,
+   "protein_g": 0.36,
+   "carbs_g": 15.2,
+   "fat_g": 0.14,
+   "fiber_g": 3.1,
+   "sugar_g": 9.75,
+   "satfat_g": 0.02,
+   "sodium_mg": 1
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 medium (178 g)",
+    "grams": 178,
+    "isDefault": true
+   },
+   {
+    "label": "1 large (230 g)",
+    "grams": 230
+   },
+   {
+    "label": "1 cup sliced (140 g)",
+    "grams": 140
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": true,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "pear-asian",
+  "name": "Asian pear",
+  "brand": null,
+  "aliases": [],
+  "category": "fruit",
+  "per100g": {
+   "kcal": 42,
+   "protein_g": 0.5,
+   "carbs_g": 10.7,
+   "fat_g": 0.23,
+   "fiber_g": 3.6,
+   "sugar_g": 7.05,
+   "satfat_g": 0.01,
+   "sodium_mg": 0
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 medium (275 g)",
+    "grams": 275,
+    "isDefault": true
+   },
+   {
+    "label": "100 g",
+    "grams": 100
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": true,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "peach-raw",
+  "name": "Peach",
+  "brand": null,
+  "aliases": [],
+  "category": "fruit",
+  "per100g": {
+   "kcal": 39,
+   "protein_g": 0.91,
+   "carbs_g": 9.54,
+   "fat_g": 0.25,
+   "fiber_g": 1.5,
+   "sugar_g": 8.39,
+   "satfat_g": 0.02,
+   "sodium_mg": 0
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 medium (150 g)",
+    "grams": 150,
+    "isDefault": true
+   },
+   {
+    "label": "1 cup sliced (154 g)",
+    "grams": 154
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": true,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "peach-canned-juice",
+  "name": "Peaches, canned in juice, drained",
+  "brand": null,
+  "aliases": [],
+  "category": "fruit",
+  "per100g": {
+   "kcal": 54,
+   "protein_g": 0.79,
+   "carbs_g": 14.1,
+   "fat_g": 0.04,
+   "fiber_g": 1.6,
+   "sugar_g": 12.6,
+   "satfat_g": 0,
+   "sodium_mg": 5
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1/2 cup (124 g)",
+    "grams": 124,
+    "isDefault": true
+   },
+   {
+    "label": "1 cup (248 g)",
+    "grams": 248
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": true,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "nectarine-raw",
+  "name": "Nectarine",
+  "brand": null,
+  "aliases": [],
+  "category": "fruit",
+  "per100g": {
+   "kcal": 44,
+   "protein_g": 1.06,
+   "carbs_g": 10.6,
+   "fat_g": 0.32,
+   "fiber_g": 1.7,
+   "sugar_g": 7.89,
+   "satfat_g": 0.03,
+   "sodium_mg": 0
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 medium (142 g)",
+    "grams": 142,
+    "isDefault": true
+   },
+   {
+    "label": "1 cup sliced (143 g)",
+    "grams": 143
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": true,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "plum-raw",
+  "name": "Plum",
+  "brand": null,
+  "aliases": [],
+  "category": "fruit",
+  "per100g": {
+   "kcal": 46,
+   "protein_g": 0.7,
+   "carbs_g": 11.4,
+   "fat_g": 0.28,
+   "fiber_g": 1.4,
+   "sugar_g": 9.92,
+   "satfat_g": 0.02,
+   "sodium_mg": 0
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 medium (66 g)",
+    "grams": 66,
+    "isDefault": true
+   },
+   {
+    "label": "2 plums (132 g)",
+    "grams": 132
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": true,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "apricot-raw",
+  "name": "Apricot",
+  "brand": null,
+  "aliases": [],
+  "category": "fruit",
+  "per100g": {
+   "kcal": 48,
+   "protein_g": 1.4,
+   "carbs_g": 11.1,
+   "fat_g": 0.39,
+   "fiber_g": 2,
+   "sugar_g": 9.24,
+   "satfat_g": 0.03,
+   "sodium_mg": 1
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": 0,
+   "vitamin_a_carotenoid_mcg_rae": 96,
+   "folate_food_mcg": 9,
+   "folic_acid_mcg": 0,
+   "folate_dfe_mcg": 9
+  },
+  "servings": [
+   {
+    "label": "1 apricot (35 g)",
+    "grams": 35,
+    "isDefault": true
+   },
+   {
+    "label": "3 apricots (105 g)",
+    "grams": 105
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": true,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "apricot-dried",
+  "name": "Apricots, dried",
+  "brand": null,
+  "aliases": [],
+  "category": "fruit",
+  "per100g": {
+   "kcal": 241,
+   "protein_g": 3.39,
+   "carbs_g": 62.6,
+   "fat_g": 0.51,
+   "fiber_g": 7.3,
+   "sugar_g": 53.4,
+   "satfat_g": 0.02,
+   "sodium_mg": 10
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": 0,
+   "vitamin_a_carotenoid_mcg_rae": 180,
+   "folate_food_mcg": 10,
+   "folic_acid_mcg": 0,
+   "folate_dfe_mcg": 10
+  },
+  "servings": [
+   {
+    "label": "1/4 cup (33 g)",
+    "grams": 33,
+    "isDefault": true
+   },
+   {
+    "label": "5 halves (20 g)",
+    "grams": 20
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": true,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "cherries-sweet-raw",
+  "name": "Cherries, sweet, pitted",
+  "brand": null,
+  "aliases": [],
+  "category": "fruit",
+  "per100g": {
+   "kcal": 63,
+   "protein_g": 1.06,
+   "carbs_g": 16,
+   "fat_g": 0.2,
+   "fiber_g": 2.1,
+   "sugar_g": 12.8,
+   "satfat_g": 0.04,
+   "sodium_mg": 0
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 cup (154 g)",
+    "grams": 154,
+    "isDefault": true
+   },
+   {
+    "label": "10 cherries (68 g)",
+    "grams": 68
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": true,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "cherries-tart-dried",
+  "name": "Cherries, tart, dried",
+  "brand": null,
+  "aliases": [],
+  "category": "fruit",
+  "per100g": {
+   "kcal": 330,
+   "protein_g": 1.5,
+   "carbs_g": 80,
+   "fat_g": 1,
+   "fiber_g": 3,
+   "sugar_g": 65,
+   "satfat_g": 0.2,
+   "sodium_mg": 10
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1/4 cup (40 g)",
+    "grams": 40,
+    "isDefault": true
+   },
+   {
+    "label": "100 g",
+    "grams": 100
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": false,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "prunes-dried",
+  "name": "Prunes, dried plums",
+  "brand": null,
+  "aliases": [],
+  "category": "fruit",
+  "per100g": {
+   "kcal": 240,
+   "protein_g": 2.18,
+   "carbs_g": 63.9,
+   "fat_g": 0.38,
+   "fiber_g": 7.1,
+   "sugar_g": 38.1,
+   "satfat_g": 0.09,
+   "sodium_mg": 2
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1/4 cup (44 g)",
+    "grams": 44,
+    "isDefault": true
+   },
+   {
+    "label": "5 prunes (42 g)",
+    "grams": 42
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": true,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "strawberries-raw",
+  "name": "Strawberries",
+  "brand": null,
+  "aliases": [],
+  "category": "fruit",
+  "per100g": {
+   "kcal": 32,
+   "protein_g": 0.67,
+   "carbs_g": 7.68,
+   "fat_g": 0.3,
+   "fiber_g": 2,
+   "sugar_g": 4.89,
+   "satfat_g": 0.02,
+   "sodium_mg": 1
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": 0,
+   "vitamin_a_carotenoid_mcg_rae": 1,
+   "folate_food_mcg": 24,
+   "folic_acid_mcg": 0,
+   "folate_dfe_mcg": 24
+  },
+  "servings": [
+   {
+    "label": "1 cup halves (152 g)",
+    "grams": 152,
+    "isDefault": true
+   },
+   {
+    "label": "1 cup whole (144 g)",
+    "grams": 144
+   },
+   {
+    "label": "1 medium (12 g)",
+    "grams": 12
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": true,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "strawberries-frozen",
+  "name": "Strawberries, frozen, unsweetened",
+  "brand": null,
+  "aliases": [],
+  "category": "fruit",
+  "per100g": {
+   "kcal": 35,
+   "protein_g": 0.43,
+   "carbs_g": 9.13,
+   "fat_g": 0.11,
+   "fiber_g": 2.1,
+   "sugar_g": 4.56,
+   "satfat_g": 0.01,
+   "sodium_mg": 2
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 cup (149 g)",
+    "grams": 149,
+    "isDefault": true
+   },
+   {
+    "label": "100 g",
+    "grams": 100
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": true,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "blueberries-raw",
+  "name": "Blueberries",
+  "brand": null,
+  "aliases": [],
+  "category": "fruit",
+  "per100g": {
+   "kcal": 57,
+   "protein_g": 0.74,
+   "carbs_g": 14.5,
+   "fat_g": 0.33,
+   "fiber_g": 2.4,
+   "sugar_g": 9.96,
+   "satfat_g": 0.03,
+   "sodium_mg": 1
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 cup (148 g)",
+    "grams": 148,
+    "isDefault": true
+   },
+   {
+    "label": "1/2 cup (74 g)",
+    "grams": 74
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": true,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "blueberries-frozen",
+  "name": "Blueberries, frozen, unsweetened",
+  "brand": null,
+  "aliases": [],
+  "category": "fruit",
+  "per100g": {
+   "kcal": 51,
+   "protein_g": 0.42,
+   "carbs_g": 12.2,
+   "fat_g": 0.64,
+   "fiber_g": 2.7,
+   "sugar_g": 8.79,
+   "satfat_g": 0.05,
+   "sodium_mg": 1
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 cup (155 g)",
+    "grams": 155,
+    "isDefault": true
+   },
+   {
+    "label": "100 g",
+    "grams": 100
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": true,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "raspberries-raw",
+  "name": "Raspberries",
+  "brand": null,
+  "aliases": [],
+  "category": "fruit",
+  "per100g": {
+   "kcal": 52,
+   "protein_g": 1.2,
+   "carbs_g": 11.9,
+   "fat_g": 0.65,
+   "fiber_g": 6.5,
+   "sugar_g": 4.42,
+   "satfat_g": 0.02,
+   "sodium_mg": 1
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 cup (123 g)",
+    "grams": 123,
+    "isDefault": true
+   },
+   {
+    "label": "1/2 cup (62 g)",
+    "grams": 62
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": true,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "blackberries-raw",
+  "name": "Blackberries",
+  "brand": null,
+  "aliases": [],
+  "category": "fruit",
+  "per100g": {
+   "kcal": 43,
+   "protein_g": 1.39,
+   "carbs_g": 9.61,
+   "fat_g": 0.49,
+   "fiber_g": 5.3,
+   "sugar_g": 4.88,
+   "satfat_g": 0.01,
+   "sodium_mg": 1
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 cup (144 g)",
+    "grams": 144,
+    "isDefault": true
+   },
+   {
+    "label": "1/2 cup (72 g)",
+    "grams": 72
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": true,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "cranberries-raw",
+  "name": "Cranberries, fresh",
+  "brand": null,
+  "aliases": [],
+  "category": "fruit",
+  "per100g": {
+   "kcal": 46,
+   "protein_g": 0.39,
+   "carbs_g": 12.2,
+   "fat_g": 0.13,
+   "fiber_g": 4.6,
+   "sugar_g": 4.04,
+   "satfat_g": 0.01,
+   "sodium_mg": 2
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 cup (100 g)",
+    "grams": 100,
+    "isDefault": true
+   },
+   {
+    "label": "100 g",
+    "grams": 100
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": true,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "cranberries-dried",
+  "name": "Cranberries, dried, sweetened",
+  "brand": null,
+  "aliases": [
+   "craisins"
+  ],
+  "category": "fruit",
+  "per100g": {
+   "kcal": 308,
+   "protein_g": 0.17,
+   "carbs_g": 82.4,
+   "fat_g": 1.37,
+   "fiber_g": 5.7,
+   "sugar_g": 65,
+   "satfat_g": 0.11,
+   "sodium_mg": 3
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1/4 cup (40 g)",
+    "grams": 40,
+    "isDefault": true
+   },
+   {
+    "label": "1 oz (28 g)",
+    "grams": 28
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": true,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "cranberry-sauce-canned",
+  "name": "Cranberry sauce, jellied, canned",
+  "brand": null,
+  "aliases": [],
+  "category": "fruit",
+  "per100g": {
+   "kcal": 151,
+   "protein_g": 0.19,
+   "carbs_g": 39,
+   "fat_g": 0.14,
+   "fiber_g": 1,
+   "sugar_g": 36.2,
+   "satfat_g": 0.01,
+   "sodium_mg": 29
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1/4 cup (69 g)",
+    "grams": 69,
+    "isDefault": true
+   },
+   {
+    "label": "100 g",
+    "grams": 100
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": true,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "gooseberries-raw",
+  "name": "Gooseberries",
+  "brand": null,
+  "aliases": [],
+  "category": "fruit",
+  "per100g": {
+   "kcal": 44,
+   "protein_g": 0.88,
+   "carbs_g": 10.2,
+   "fat_g": 0.58,
+   "fiber_g": 4.3,
+   "sugar_g": 0,
+   "satfat_g": 0.04,
+   "sodium_mg": 1
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 cup (150 g)",
+    "grams": 150,
+    "isDefault": true
+   },
+   {
+    "label": "100 g",
+    "grams": 100
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": true,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "currants-black-raw",
+  "name": "Black currants",
+  "brand": null,
+  "aliases": [],
+  "category": "fruit",
+  "per100g": {
+   "kcal": 63,
+   "protein_g": 1.4,
+   "carbs_g": 15.4,
+   "fat_g": 0.41,
+   "fiber_g": 4.3,
+   "sugar_g": 0,
+   "satfat_g": 0.03,
+   "sodium_mg": 2
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 cup (112 g)",
+    "grams": 112,
+    "isDefault": true
+   },
+   {
+    "label": "100 g",
+    "grams": 100
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": false,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "currants-dried",
+  "name": "Currants, dried",
+  "brand": null,
+  "aliases": [],
+  "category": "fruit",
+  "per100g": {
+   "kcal": 283,
+   "protein_g": 4.08,
+   "carbs_g": 74.1,
+   "fat_g": 0.27,
+   "fiber_g": 6.8,
+   "sugar_g": 67.3,
+   "satfat_g": 0.03,
+   "sodium_mg": 8
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1/4 cup (36 g)",
+    "grams": 36,
+    "isDefault": true
+   },
+   {
+    "label": "100 g",
+    "grams": 100
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": true,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "acai-puree-unsweetened",
+  "name": "Açaí puree, unsweetened, frozen",
+  "brand": null,
+  "aliases": [],
+  "category": "fruit",
+  "per100g": {
+   "kcal": 70,
+   "protein_g": 1,
+   "carbs_g": 4,
+   "fat_g": 5,
+   "fiber_g": 2,
+   "sugar_g": 0,
+   "satfat_g": 1.5,
+   "sodium_mg": 10
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 packet (100 g)",
+    "grams": 100,
+    "isDefault": true
+   },
+   {
+    "label": "100 g",
+    "grams": 100
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": false,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "goji-berries-dried",
+  "name": "Goji berries, dried",
+  "brand": null,
+  "aliases": [],
+  "category": "fruit",
+  "per100g": {
+   "kcal": 349,
+   "protein_g": 14.3,
+   "carbs_g": 77.1,
+   "fat_g": 0.4,
+   "fiber_g": 13,
+   "sugar_g": 45.6,
+   "satfat_g": 0,
+   "sodium_mg": 298
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1/4 cup (28 g)",
+    "grams": 28,
+    "isDefault": true
+   },
+   {
+    "label": "100 g",
+    "grams": 100
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": false,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "mulberries-raw",
+  "name": "Mulberries",
+  "brand": null,
+  "aliases": [],
+  "category": "fruit",
+  "per100g": {
+   "kcal": 43,
+   "protein_g": 1.44,
+   "carbs_g": 9.8,
+   "fat_g": 0.39,
+   "fiber_g": 1.7,
+   "sugar_g": 8.1,
+   "satfat_g": 0.03,
+   "sodium_mg": 10
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 cup (140 g)",
+    "grams": 140,
+    "isDefault": true
+   },
+   {
+    "label": "100 g",
+    "grams": 100
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": true,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "orange-raw",
+  "name": "Orange, navel",
+  "brand": null,
+  "aliases": [],
+  "category": "fruit",
+  "per100g": {
+   "kcal": 47,
+   "protein_g": 0.94,
+   "carbs_g": 11.8,
+   "fat_g": 0.12,
+   "fiber_g": 2.4,
+   "sugar_g": 9.35,
+   "satfat_g": 0.02,
+   "sodium_mg": 0
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": 0,
+   "vitamin_a_carotenoid_mcg_rae": 11,
+   "folate_food_mcg": 30,
+   "folic_acid_mcg": 0,
+   "folate_dfe_mcg": 30
+  },
+  "servings": [
+   {
+    "label": "1 medium (131 g)",
+    "grams": 131,
+    "isDefault": true
+   },
+   {
+    "label": "1 large (184 g)",
+    "grams": 184
+   },
+   {
+    "label": "1 cup sections (180 g)",
+    "grams": 180
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": true,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "tangerine-raw",
+  "name": "Tangerine",
+  "brand": null,
+  "aliases": [
+   "mandarin",
+   "clementine",
+   "cutie"
+  ],
+  "category": "fruit",
+  "per100g": {
+   "kcal": 53,
+   "protein_g": 0.81,
+   "carbs_g": 13.3,
+   "fat_g": 0.31,
+   "fiber_g": 1.8,
+   "sugar_g": 10.6,
+   "satfat_g": 0.04,
+   "sodium_mg": 2
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 medium (88 g)",
+    "grams": 88,
+    "isDefault": true
+   },
+   {
+    "label": "1 clementine (74 g)",
+    "grams": 74
+   },
+   {
+    "label": "2 clementines (148 g)",
+    "grams": 148
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": true,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "grapefruit-raw",
+  "name": "Grapefruit, pink or red",
+  "brand": null,
+  "aliases": [],
+  "category": "fruit",
+  "per100g": {
+   "kcal": 42,
+   "protein_g": 0.77,
+   "carbs_g": 10.7,
+   "fat_g": 0.14,
+   "fiber_g": 1.6,
+   "sugar_g": 6.89,
+   "satfat_g": 0.02,
+   "sodium_mg": 0
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": 0,
+   "vitamin_a_carotenoid_mcg_rae": 58,
+   "folate_food_mcg": 13,
+   "folic_acid_mcg": 0,
+   "folate_dfe_mcg": 13
+  },
+  "servings": [
+   {
+    "label": "1/2 grapefruit (123 g)",
+    "grams": 123,
+    "isDefault": true
+   },
+   {
+    "label": "1 whole (246 g)",
+    "grams": 246
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": true,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "lemon-raw",
+  "name": "Lemon, without peel",
+  "brand": null,
+  "aliases": [],
+  "category": "fruit",
+  "per100g": {
+   "kcal": 29,
+   "protein_g": 1.1,
+   "carbs_g": 9.32,
+   "fat_g": 0.3,
+   "fiber_g": 2.8,
+   "sugar_g": 2.5,
+   "satfat_g": 0.04,
+   "sodium_mg": 2
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 lemon (58 g)",
+    "grams": 58,
+    "isDefault": true
+   },
+   {
+    "label": "100 g",
+    "grams": 100
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": true,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "lemon-juice",
+  "name": "Lemon juice, fresh",
+  "brand": null,
+  "aliases": [],
+  "category": "fruit",
+  "per100g": {
+   "kcal": 22,
+   "protein_g": 0.35,
+   "carbs_g": 6.9,
+   "fat_g": 0.24,
+   "fiber_g": 0.3,
+   "sugar_g": 2.52,
+   "satfat_g": 0.04,
+   "sodium_mg": 1
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 tbsp (15 ml)",
+    "grams": 15,
+    "isDefault": true
+   },
+   {
+    "label": "1 lemon yields (48 ml)",
+    "grams": 48
+   },
+   {
+    "label": "1/4 cup (60 ml)",
+    "grams": 61
+   }
+  ],
+  "density_g_per_ml": 1.02,
+  "verified": true,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "lime-raw",
+  "name": "Lime",
+  "brand": null,
+  "aliases": [],
+  "category": "fruit",
+  "per100g": {
+   "kcal": 30,
+   "protein_g": 0.7,
+   "carbs_g": 10.5,
+   "fat_g": 0.2,
+   "fiber_g": 2.8,
+   "sugar_g": 1.69,
+   "satfat_g": 0.02,
+   "sodium_mg": 2
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 lime (67 g)",
+    "grams": 67,
+    "isDefault": true
+   },
+   {
+    "label": "100 g",
+    "grams": 100
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": true,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "lime-juice",
+  "name": "Lime juice, fresh",
+  "brand": null,
+  "aliases": [],
+  "category": "fruit",
+  "per100g": {
+   "kcal": 25,
+   "protein_g": 0.42,
+   "carbs_g": 8.42,
+   "fat_g": 0.07,
+   "fiber_g": 0.4,
+   "sugar_g": 1.69,
+   "satfat_g": 0.01,
+   "sodium_mg": 2
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 tbsp (15 ml)",
+    "grams": 15,
+    "isDefault": true
+   },
+   {
+    "label": "1 lime yields (30 ml)",
+    "grams": 31
+   }
+  ],
+  "density_g_per_ml": 1.02,
+  "verified": true,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "mandarin-canned-juice",
+  "name": "Mandarin oranges, canned in juice",
+  "brand": null,
+  "aliases": [],
+  "category": "fruit",
+  "per100g": {
+   "kcal": 61,
+   "protein_g": 0.62,
+   "carbs_g": 15.9,
+   "fat_g": 0.04,
+   "fiber_g": 0.9,
+   "sugar_g": 13.6,
+   "satfat_g": 0.01,
+   "sodium_mg": 6
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1/2 cup (125 g)",
+    "grams": 125,
+    "isDefault": true
+   },
+   {
+    "label": "100 g",
+    "grams": 100
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": false,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "blood-orange",
+  "name": "Blood orange",
+  "brand": null,
+  "aliases": [],
+  "category": "fruit",
+  "per100g": {
+   "kcal": 47,
+   "protein_g": 0.94,
+   "carbs_g": 11.8,
+   "fat_g": 0.12,
+   "fiber_g": 2.4,
+   "sugar_g": 9.35,
+   "satfat_g": 0.02,
+   "sodium_mg": 0
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 medium (131 g)",
+    "grams": 131,
+    "isDefault": true
+   },
+   {
+    "label": "100 g",
+    "grams": 100
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": false,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "banana-raw",
+  "name": "Banana",
+  "brand": null,
+  "aliases": [
+   "bananas"
+  ],
+  "category": "fruit",
+  "per100g": {
+   "kcal": 89,
+   "protein_g": 1.09,
+   "carbs_g": 22.8,
+   "fat_g": 0.33,
+   "fiber_g": 2.6,
+   "sugar_g": 12.2,
+   "satfat_g": 0.11,
+   "sodium_mg": 1
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": 0,
+   "vitamin_a_carotenoid_mcg_rae": 3,
+   "folate_food_mcg": 20,
+   "folic_acid_mcg": 0,
+   "folate_dfe_mcg": 20
+  },
+  "servings": [
+   {
+    "label": "1 medium, 7-8 in (118 g)",
+    "grams": 118,
+    "isDefault": true
+   },
+   {
+    "label": "1 small (101 g)",
+    "grams": 101
+   },
+   {
+    "label": "1 large (136 g)",
+    "grams": 136
+   },
+   {
+    "label": "1 cup sliced (150 g)",
+    "grams": 150
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": true,
+  "source": "USDA FoodData Central SR Legacy FDC 173944, release 2018-04, reviewed 2026-08-01"
+ },
+ {
+  "id": "banana-chips",
+  "name": "Banana chips, fried",
+  "brand": null,
+  "aliases": [],
+  "category": "fruit",
+  "per100g": {
+   "kcal": 519,
+   "protein_g": 2.3,
+   "carbs_g": 58.4,
+   "fat_g": 33.6,
+   "fiber_g": 7.7,
+   "sugar_g": 35.3,
+   "satfat_g": 29,
+   "sodium_mg": 6
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 oz (28 g)",
+    "grams": 28,
+    "isDefault": true
+   },
+   {
+    "label": "1/4 cup (18 g)",
+    "grams": 18
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": true,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "plantain-raw",
+  "name": "Plantain, raw",
+  "brand": null,
+  "aliases": [],
+  "category": "fruit",
+  "per100g": {
+   "kcal": 122,
+   "protein_g": 1.3,
+   "carbs_g": 31.9,
+   "fat_g": 0.37,
+   "fiber_g": 2.3,
+   "sugar_g": 15,
+   "satfat_g": 0.14,
+   "sodium_mg": 4
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 medium (179 g)",
+    "grams": 179,
+    "isDefault": true
+   },
+   {
+    "label": "1 cup sliced (148 g)",
+    "grams": 148
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": true,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "plantain-fried",
+  "name": "Plantain, fried",
+  "brand": null,
+  "aliases": [
+   "tostones",
+   "maduros"
+  ],
+  "category": "fruit",
+  "per100g": {
+   "kcal": 285,
+   "protein_g": 1.97,
+   "carbs_g": 47.4,
+   "fat_g": 11,
+   "fiber_g": 3.5,
+   "sugar_g": 21.2,
+   "satfat_g": 4.6,
+   "sodium_mg": 6
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 cup (118 g)",
+    "grams": 118,
+    "isDefault": true
+   },
+   {
+    "label": "100 g",
+    "grams": 100
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": true,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "mango-raw",
+  "name": "Mango",
+  "brand": null,
+  "aliases": [],
+  "category": "fruit",
+  "per100g": {
+   "kcal": 60,
+   "protein_g": 0.82,
+   "carbs_g": 15,
+   "fat_g": 0.38,
+   "fiber_g": 1.6,
+   "sugar_g": 13.7,
+   "satfat_g": 0.09,
+   "sodium_mg": 1
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": 0,
+   "vitamin_a_carotenoid_mcg_rae": 54,
+   "folate_food_mcg": 43,
+   "folic_acid_mcg": 0,
+   "folate_dfe_mcg": 43
+  },
+  "servings": [
+   {
+    "label": "1 cup diced (165 g)",
+    "grams": 165,
+    "isDefault": true
+   },
+   {
+    "label": "1 whole (336 g)",
+    "grams": 207
+   },
+   {
+    "label": "1/2 cup (83 g)",
+    "grams": 83
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": true,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "mango-dried",
+  "name": "Mango, dried",
+  "brand": null,
+  "aliases": [],
+  "category": "fruit",
+  "per100g": {
+   "kcal": 319,
+   "protein_g": 2.45,
+   "carbs_g": 78.6,
+   "fat_g": 1.18,
+   "fiber_g": 2.4,
+   "sugar_g": 66.3,
+   "satfat_g": 0.29,
+   "sodium_mg": 43
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1/4 cup (40 g)",
+    "grams": 40,
+    "isDefault": true
+   },
+   {
+    "label": "1 oz (28 g)",
+    "grams": 28
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": false,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "pineapple-raw",
+  "name": "Pineapple",
+  "brand": null,
+  "aliases": [],
+  "category": "fruit",
+  "per100g": {
+   "kcal": 50,
+   "protein_g": 0.54,
+   "carbs_g": 13.1,
+   "fat_g": 0.12,
+   "fiber_g": 1.4,
+   "sugar_g": 9.85,
+   "satfat_g": 0.01,
+   "sodium_mg": 1
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 cup chunks (165 g)",
+    "grams": 165,
+    "isDefault": true
+   },
+   {
+    "label": "1 slice (84 g)",
+    "grams": 84
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": true,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "pineapple-canned-juice",
+  "name": "Pineapple, canned in juice, drained",
+  "brand": null,
+  "aliases": [],
+  "category": "fruit",
+  "per100g": {
+   "kcal": 60,
+   "protein_g": 0.42,
+   "carbs_g": 15.7,
+   "fat_g": 0.09,
+   "fiber_g": 1,
+   "sugar_g": 14.4,
+   "satfat_g": 0.01,
+   "sodium_mg": 1
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1/2 cup (91 g)",
+    "grams": 91,
+    "isDefault": true
+   },
+   {
+    "label": "1 cup (181 g)",
+    "grams": 181
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": true,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "papaya-raw",
+  "name": "Papaya",
+  "brand": null,
+  "aliases": [],
+  "category": "fruit",
+  "per100g": {
+   "kcal": 43,
+   "protein_g": 0.47,
+   "carbs_g": 10.8,
+   "fat_g": 0.26,
+   "fiber_g": 1.7,
+   "sugar_g": 7.82,
+   "satfat_g": 0.08,
+   "sodium_mg": 8
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": 0,
+   "vitamin_a_carotenoid_mcg_rae": 47,
+   "folate_food_mcg": 37,
+   "folic_acid_mcg": 0,
+   "folate_dfe_mcg": 37
+  },
+  "servings": [
+   {
+    "label": "1 cup cubed (145 g)",
+    "grams": 145,
+    "isDefault": true
+   },
+   {
+    "label": "1 small (157 g)",
+    "grams": 157
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": true,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "kiwi-raw",
+  "name": "Kiwi fruit",
+  "brand": null,
+  "aliases": [
+   "kiwifruit"
+  ],
+  "category": "fruit",
+  "per100g": {
+   "kcal": 61,
+   "protein_g": 1.14,
+   "carbs_g": 14.7,
+   "fat_g": 0.52,
+   "fiber_g": 3,
+   "sugar_g": 8.99,
+   "satfat_g": 0.03,
+   "sodium_mg": 3
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 medium (69 g)",
+    "grams": 69,
+    "isDefault": true
+   },
+   {
+    "label": "2 kiwis (138 g)",
+    "grams": 138
+   },
+   {
+    "label": "1 cup sliced (180 g)",
+    "grams": 180
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": true,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "guava-raw",
+  "name": "Guava",
+  "brand": null,
+  "aliases": [],
+  "category": "fruit",
+  "per100g": {
+   "kcal": 68,
+   "protein_g": 2.55,
+   "carbs_g": 14.3,
+   "fat_g": 0.95,
+   "fiber_g": 5.4,
+   "sugar_g": 8.92,
+   "satfat_g": 0.27,
+   "sodium_mg": 2
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 fruit (55 g)",
+    "grams": 55,
+    "isDefault": true
+   },
+   {
+    "label": "1 cup (165 g)",
+    "grams": 165
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": true,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "passion-fruit-raw",
+  "name": "Passion fruit",
+  "brand": null,
+  "aliases": [],
+  "category": "fruit",
+  "per100g": {
+   "kcal": 97,
+   "protein_g": 2.2,
+   "carbs_g": 23.4,
+   "fat_g": 0.7,
+   "fiber_g": 10.4,
+   "sugar_g": 11.2,
+   "satfat_g": 0.06,
+   "sodium_mg": 28
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 fruit (18 g)",
+    "grams": 18,
+    "isDefault": true
+   },
+   {
+    "label": "1 cup (236 g)",
+    "grams": 236
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": true,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "dragon-fruit-raw",
+  "name": "Dragon fruit",
+  "brand": null,
+  "aliases": [
+   "pitaya"
+  ],
+  "category": "fruit",
+  "per100g": {
+   "kcal": 60,
+   "protein_g": 1.2,
+   "carbs_g": 13,
+   "fat_g": 0.4,
+   "fiber_g": 3,
+   "sugar_g": 8,
+   "satfat_g": 0,
+   "sodium_mg": 0
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 cup (227 g)",
+    "grams": 227,
+    "isDefault": true
+   },
+   {
+    "label": "1 fruit (227 g)",
+    "grams": 227
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": false,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "lychee-raw",
+  "name": "Lychee",
+  "brand": null,
+  "aliases": [],
+  "category": "fruit",
+  "per100g": {
+   "kcal": 66,
+   "protein_g": 0.83,
+   "carbs_g": 16.5,
+   "fat_g": 0.44,
+   "fiber_g": 1.3,
+   "sugar_g": 15.2,
+   "satfat_g": 0.1,
+   "sodium_mg": 1
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 cup (190 g)",
+    "grams": 190,
+    "isDefault": true
+   },
+   {
+    "label": "10 lychees (96 g)",
+    "grams": 96
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": true,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "jackfruit-raw",
+  "name": "Jackfruit, raw",
+  "brand": null,
+  "aliases": [],
+  "category": "fruit",
+  "per100g": {
+   "kcal": 95,
+   "protein_g": 1.72,
+   "carbs_g": 23.2,
+   "fat_g": 0.64,
+   "fiber_g": 1.5,
+   "sugar_g": 19.1,
+   "satfat_g": 0.2,
+   "sodium_mg": 2
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 cup sliced (165 g)",
+    "grams": 165,
+    "isDefault": true
+   },
+   {
+    "label": "100 g",
+    "grams": 100
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": true,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "jackfruit-canned-brine",
+  "name": "Jackfruit, young, canned in brine",
+  "brand": null,
+  "aliases": [],
+  "category": "fruit",
+  "per100g": {
+   "kcal": 25,
+   "protein_g": 1,
+   "carbs_g": 5,
+   "fat_g": 0.2,
+   "fiber_g": 3,
+   "sugar_g": 1,
+   "satfat_g": 0,
+   "sodium_mg": 280
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1/2 cup (85 g)",
+    "grams": 85,
+    "isDefault": true
+   },
+   {
+    "label": "100 g",
+    "grams": 100
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": false,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "starfruit-raw",
+  "name": "Star fruit",
+  "brand": null,
+  "aliases": [
+   "carambola"
+  ],
+  "category": "fruit",
+  "per100g": {
+   "kcal": 31,
+   "protein_g": 1.04,
+   "carbs_g": 6.73,
+   "fat_g": 0.33,
+   "fiber_g": 2.8,
+   "sugar_g": 3.98,
+   "satfat_g": 0.02,
+   "sodium_mg": 2
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 fruit (91 g)",
+    "grams": 91,
+    "isDefault": true
+   },
+   {
+    "label": "1 cup sliced (108 g)",
+    "grams": 108
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": true,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "persimmon-raw",
+  "name": "Persimmon, Japanese",
+  "brand": null,
+  "aliases": [],
+  "category": "fruit",
+  "per100g": {
+   "kcal": 70,
+   "protein_g": 0.58,
+   "carbs_g": 18.6,
+   "fat_g": 0.19,
+   "fiber_g": 3.6,
+   "sugar_g": 12.5,
+   "satfat_g": 0.02,
+   "sodium_mg": 1
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 fruit (168 g)",
+    "grams": 168,
+    "isDefault": true
+   },
+   {
+    "label": "100 g",
+    "grams": 100
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": true,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "pomegranate-arils",
+  "name": "Pomegranate arils",
+  "brand": null,
+  "aliases": [
+   "pomegranate seeds"
+  ],
+  "category": "fruit",
+  "per100g": {
+   "kcal": 83,
+   "protein_g": 1.67,
+   "carbs_g": 18.7,
+   "fat_g": 1.17,
+   "fiber_g": 4,
+   "sugar_g": 13.7,
+   "satfat_g": 0.12,
+   "sodium_mg": 3
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1/2 cup (87 g)",
+    "grams": 87,
+    "isDefault": true
+   },
+   {
+    "label": "1 cup (174 g)",
+    "grams": 174
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": true,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "coconut-water",
+  "name": "Coconut water, unsweetened",
+  "brand": null,
+  "aliases": [],
+  "category": "fruit",
+  "per100g": {
+   "kcal": 19,
+   "protein_g": 0.72,
+   "carbs_g": 3.71,
+   "fat_g": 0.2,
+   "fiber_g": 1.1,
+   "sugar_g": 2.61,
+   "satfat_g": 0.18,
+   "sodium_mg": 105
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 cup (240 ml)",
+    "grams": 240,
+    "isDefault": true
+   },
+   {
+    "label": "1 bottle (330 ml)",
+    "grams": 330
+   }
+  ],
+  "density_g_per_ml": 1,
+  "verified": true,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "watermelon-raw",
+  "name": "Watermelon",
+  "brand": null,
+  "aliases": [],
+  "category": "fruit",
+  "per100g": {
+   "kcal": 30,
+   "protein_g": 0.61,
+   "carbs_g": 7.55,
+   "fat_g": 0.15,
+   "fiber_g": 0.4,
+   "sugar_g": 6.2,
+   "satfat_g": 0.02,
+   "sodium_mg": 1
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": 0,
+   "vitamin_a_carotenoid_mcg_rae": 28,
+   "folate_food_mcg": 3,
+   "folic_acid_mcg": 0,
+   "folate_dfe_mcg": 3
+  },
+  "servings": [
+   {
+    "label": "1 cup diced (152 g)",
+    "grams": 152,
+    "isDefault": true
+   },
+   {
+    "label": "1 wedge (286 g)",
+    "grams": 286
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": true,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "cantaloupe-raw",
+  "name": "Cantaloupe",
+  "brand": null,
+  "aliases": [
+   "muskmelon"
+  ],
+  "category": "fruit",
+  "per100g": {
+   "kcal": 34,
+   "protein_g": 0.84,
+   "carbs_g": 8.16,
+   "fat_g": 0.19,
+   "fiber_g": 0.9,
+   "sugar_g": 7.86,
+   "satfat_g": 0.05,
+   "sodium_mg": 16
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": 0,
+   "vitamin_a_carotenoid_mcg_rae": 169,
+   "folate_food_mcg": 21,
+   "folic_acid_mcg": 0,
+   "folate_dfe_mcg": 21
+  },
+  "servings": [
+   {
+    "label": "1 cup cubed (160 g)",
+    "grams": 160,
+    "isDefault": true
+   },
+   {
+    "label": "1/4 melon (138 g)",
+    "grams": 138
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": true,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "honeydew-raw",
+  "name": "Honeydew melon",
+  "brand": null,
+  "aliases": [],
+  "category": "fruit",
+  "per100g": {
+   "kcal": 36,
+   "protein_g": 0.54,
+   "carbs_g": 9.09,
+   "fat_g": 0.14,
+   "fiber_g": 0.8,
+   "sugar_g": 8.12,
+   "satfat_g": 0.04,
+   "sodium_mg": 18
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 cup diced (170 g)",
+    "grams": 170,
+    "isDefault": true
+   },
+   {
+    "label": "1/8 melon (160 g)",
+    "grams": 160
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": true,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "grapes-red-raw",
+  "name": "Grapes, red or green, seedless",
+  "brand": null,
+  "aliases": [],
+  "category": "fruit",
+  "per100g": {
+   "kcal": 69,
+   "protein_g": 0.72,
+   "carbs_g": 18.1,
+   "fat_g": 0.16,
+   "fiber_g": 0.9,
+   "sugar_g": 15.5,
+   "satfat_g": 0.05,
+   "sodium_mg": 2
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 cup (151 g)",
+    "grams": 151,
+    "isDefault": true
+   },
+   {
+    "label": "10 grapes (49 g)",
+    "grams": 49
+   },
+   {
+    "label": "1/2 cup (76 g)",
+    "grams": 76
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": true,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "grapes-frozen",
+  "name": "Grapes, frozen",
+  "brand": null,
+  "aliases": [],
+  "category": "fruit",
+  "per100g": {
+   "kcal": 69,
+   "protein_g": 0.72,
+   "carbs_g": 18.1,
+   "fat_g": 0.16,
+   "fiber_g": 0.9,
+   "sugar_g": 15.5,
+   "satfat_g": 0.05,
+   "sodium_mg": 2
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 cup (151 g)",
+    "grams": 151,
+    "isDefault": true
+   },
+   {
+    "label": "100 g",
+    "grams": 100
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": false,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "raisins-seedless",
+  "name": "Raisins, seedless",
+  "brand": null,
+  "aliases": [],
+  "category": "fruit",
+  "per100g": {
+   "kcal": 299,
+   "protein_g": 3.07,
+   "carbs_g": 79.2,
+   "fat_g": 0.46,
+   "fiber_g": 3.7,
+   "sugar_g": 59.2,
+   "satfat_g": 0.06,
+   "sodium_mg": 11
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1/4 cup (41 g)",
+    "grams": 41,
+    "isDefault": true
+   },
+   {
+    "label": "1 small box (43 g)",
+    "grams": 43
+   },
+   {
+    "label": "1 tbsp (10 g)",
+    "grams": 10
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": true,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "raisins-golden",
+  "name": "Golden raisins",
+  "brand": null,
+  "aliases": [],
+  "category": "fruit",
+  "per100g": {
+   "kcal": 302,
+   "protein_g": 3.39,
+   "carbs_g": 79.5,
+   "fat_g": 0.46,
+   "fiber_g": 3.3,
+   "sugar_g": 59.2,
+   "satfat_g": 0.06,
+   "sodium_mg": 12
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1/4 cup (41 g)",
+    "grams": 41,
+    "isDefault": true
+   },
+   {
+    "label": "100 g",
+    "grams": 100
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": true,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "dates-medjool",
+  "name": "Dates, Medjool",
+  "brand": null,
+  "aliases": [],
+  "category": "fruit",
+  "per100g": {
+   "kcal": 277,
+   "protein_g": 1.81,
+   "carbs_g": 75,
+   "fat_g": 0.15,
+   "fiber_g": 6.7,
+   "sugar_g": 66.5,
+   "satfat_g": 0.03,
+   "sodium_mg": 1
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 date (24 g)",
+    "grams": 24,
+    "isDefault": true
+   },
+   {
+    "label": "3 dates (72 g)",
+    "grams": 72
+   },
+   {
+    "label": "1 cup pitted (178 g)",
+    "grams": 178
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": true,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "dates-deglet-noor",
+  "name": "Dates, Deglet Noor",
+  "brand": null,
+  "aliases": [],
+  "category": "fruit",
+  "per100g": {
+   "kcal": 282,
+   "protein_g": 2.45,
+   "carbs_g": 75,
+   "fat_g": 0.39,
+   "fiber_g": 8,
+   "sugar_g": 63.4,
+   "satfat_g": 0.03,
+   "sodium_mg": 2
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 date (7 g)",
+    "grams": 7,
+    "isDefault": true
+   },
+   {
+    "label": "1/4 cup (37 g)",
+    "grams": 37
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": true,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "figs-fresh",
+  "name": "Figs, fresh",
+  "brand": null,
+  "aliases": [],
+  "category": "fruit",
+  "per100g": {
+   "kcal": 74,
+   "protein_g": 0.75,
+   "carbs_g": 19.2,
+   "fat_g": 0.3,
+   "fiber_g": 2.9,
+   "sugar_g": 16.3,
+   "satfat_g": 0.06,
+   "sodium_mg": 1
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 medium (50 g)",
+    "grams": 50,
+    "isDefault": true
+   },
+   {
+    "label": "2 figs (100 g)",
+    "grams": 100
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": true,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "figs-dried",
+  "name": "Figs, dried",
+  "brand": null,
+  "aliases": [],
+  "category": "fruit",
+  "per100g": {
+   "kcal": 249,
+   "protein_g": 3.3,
+   "carbs_g": 63.9,
+   "fat_g": 0.93,
+   "fiber_g": 9.8,
+   "sugar_g": 47.9,
+   "satfat_g": 0.14,
+   "sodium_mg": 10
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1/4 cup (37 g)",
+    "grams": 37,
+    "isDefault": true
+   },
+   {
+    "label": "2 figs (34 g)",
+    "grams": 34
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": true,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "rhubarb-raw",
+  "name": "Rhubarb, raw",
+  "brand": null,
+  "aliases": [],
+  "category": "fruit",
+  "per100g": {
+   "kcal": 21,
+   "protein_g": 0.9,
+   "carbs_g": 4.54,
+   "fat_g": 0.2,
+   "fiber_g": 1.8,
+   "sugar_g": 1.1,
+   "satfat_g": 0.05,
+   "sodium_mg": 4
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 cup diced (122 g)",
+    "grams": 122,
+    "isDefault": true
+   },
+   {
+    "label": "100 g",
+    "grams": 100
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": true,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "fruit-cocktail-juice",
+  "name": "Fruit cocktail, canned in juice",
+  "brand": null,
+  "aliases": [],
+  "category": "fruit",
+  "per100g": {
+   "kcal": 55,
+   "protein_g": 0.53,
+   "carbs_g": 14.1,
+   "fat_g": 0.02,
+   "fiber_g": 1.2,
+   "sugar_g": 12.9,
+   "satfat_g": 0,
+   "sodium_mg": 4
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1/2 cup (119 g)",
+    "grams": 119,
+    "isDefault": true
+   },
+   {
+    "label": "1 cup (237 g)",
+    "grams": 237
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": true,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "fruit-cup-peaches-syrup",
+  "name": "Peaches, canned in light syrup",
+  "brand": null,
+  "aliases": [],
+  "category": "fruit",
+  "per100g": {
+   "kcal": 54,
+   "protein_g": 0.44,
+   "carbs_g": 14.5,
+   "fat_g": 0.03,
+   "fiber_g": 1.3,
+   "sugar_g": 13,
+   "satfat_g": 0,
+   "sodium_mg": 6
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 cup snack size (113 g)",
+    "grams": 113,
+    "isDefault": true
+   },
+   {
+    "label": "1/2 cup (125 g)",
+    "grams": 125
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": false,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "fruit-leather",
+  "name": "Fruit leather strip",
+  "brand": null,
+  "aliases": [],
+  "category": "fruit",
+  "per100g": {
+   "kcal": 350,
+   "protein_g": 0.5,
+   "carbs_g": 82,
+   "fat_g": 2,
+   "fiber_g": 1.5,
+   "sugar_g": 55,
+   "satfat_g": 0.5,
+   "sodium_mg": 130
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 strip (14 g)",
+    "grams": 14,
+    "isDefault": true
+   },
+   {
+    "label": "100 g",
+    "grams": 100
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": false,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "freeze-dried-strawberries",
+  "name": "Strawberries, freeze dried",
+  "brand": null,
+  "aliases": [],
+  "category": "fruit",
+  "per100g": {
+   "kcal": 375,
+   "protein_g": 6.5,
+   "carbs_g": 85,
+   "fat_g": 3,
+   "fiber_g": 22,
+   "sugar_g": 55,
+   "satfat_g": 0.2,
+   "sodium_mg": 20
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 cup (12 g)",
+    "grams": 12,
+    "isDefault": true
+   },
+   {
+    "label": "1 oz (28 g)",
+    "grams": 28
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": false,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "fruit-smoothie-mixed-berry",
+  "name": "Smoothie, mixed berry, no added sugar",
+  "brand": null,
+  "aliases": [],
+  "category": "fruit",
+  "per100g": {
+   "kcal": 58,
+   "protein_g": 1,
+   "carbs_g": 13.5,
+   "fat_g": 0.4,
+   "fiber_g": 2.5,
+   "sugar_g": 10,
+   "satfat_g": 0.1,
+   "sodium_mg": 10
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 cup (240 ml)",
+    "grams": 245,
+    "isDefault": true
+   },
+   {
+    "label": "16 oz (480 ml)",
+    "grams": 490
+   }
+  ],
+  "density_g_per_ml": 1.02,
+  "verified": false,
+  "source": "USDA FoodData Central (SR Legacy)"
+ }
+]

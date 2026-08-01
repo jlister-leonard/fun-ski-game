@@ -1,0 +1,116 @@
+#category: restaurant
+#source: restaurant published nutrition, converted to per-100 g
+#verified: 0
+#servings: 1 item (100 g)@100*;100 g@100
+# IMPORTANT — HOW TO READ THIS FILE
+# Restaurants publish per-ITEM nutrition, not per-100 g. Every row here was
+# derived by dividing the published panel by the published item weight, so the
+# per-100 g figures inherit any error in that weight. ALWAYS log these using the
+# named item serving (the default), never by typing grams.
+# The whole category is verified:false: it was reconstructed from the author's
+# knowledge of published panels without live verification, and chains reformulate.
+# id|name|aliases|kcal|protein|carbs|fat|fiber|sugar|satfat|sodium|servings|extra
+
+# --- McDonald's ----------------------------------------------------------
+mcd-big-mac|Big Mac||257|11.9|20.5|15.1|1.4|4.1|5.0|461|1 burger (219 g)@219*;100 g@100|brand=McDonald's
+mcd-quarter-pounder-cheese|Quarter Pounder with Cheese||257|14.9|20.8|12.9|1.0|5.0|6.4|564|1 burger (202 g)@202*;100 g@100|brand=McDonald's
+mcd-mcdouble|McDouble||265|14.6|21.9|13.2|1.3|4.6|6.0|609|1 burger (151 g)@151*;100 g@100|brand=McDonald's
+mcd-hamburger|Hamburger||255|12.6|30.7|8.4|1.2|5.9|3.1|468|1 burger (103 g)@103*;100 g@100|brand=McDonald's
+mcd-mcchicken|McChicken||280|9.8|27.3|14.7|1.4|3.5|2.4|392|1 sandwich (143 g)@143*;100 g@100|brand=McDonald's
+mcd-nuggets-10|Chicken McNuggets, 10 piece||253|14.2|15.4|14.8|0.9|0.3|2.5|494|10 pieces (162 g)@162*;6 pieces (97 g)@97;4 pieces (65 g)@65|brand=McDonald's
+mcd-fries-medium|French fries, medium||288|3.6|38.7|13.5|3.6|0.3|1.8|234|1 medium (111 g)@111*;1 small (71 g)@71;1 large (154 g)@154|brand=McDonald's
+mcd-hash-brown|Hash brown||272|1.9|28.3|17.0|3.8|0|2.8|585|1 hash brown (53 g)@53*;100 g@100|brand=McDonald's
+mcd-egg-mcmuffin|Egg McMuffin||193|10.6|18.6|8.1|1.2|1.9|3.7|478|1 sandwich (161 g)@161*;100 g@100|brand=McDonald's
+mcd-sausage-mcmuffin-egg|Sausage McMuffin with Egg||294|12.3|18.4|19.0|1.2|1.2|7.4|509|1 sandwich (163 g)@163*;100 g@100|brand=McDonald's
+mcd-mcflurry-oreo|McFlurry with Oreo cookies||179|4.2|28.1|5.6|0.4|20.4|3.2|98|1 regular (285 g)@285*;100 g@100|brand=McDonald's
+mcd-vanilla-cone|Vanilla soft serve cone||180|4.5|28.8|4.5|0.9|21.6|2.7|90|1 cone (111 g)@111*;100 g@100|brand=McDonald's
+
+# --- Burger King / Wendy's / other burgers --------------------------------
+bk-whopper|Whopper||230|10.7|17.5|13.7|0.7|3.8|4.1|351|1 burger (291 g)@291*;100 g@100|brand=Burger King
+bk-chicken-fries|Chicken fries, 9 piece||265|13.0|21.0|14.5|1.5|0.5|2.5|750|9 pieces (128 g)@128*;100 g@100|brand=Burger King
+wendys-daves-single|Dave's Single||229|11.2|15.1|13.2|0.8|3.1|5.4|453|1 burger (258 g)@258*;100 g@100|brand=Wendy's
+wendys-baconator|Baconator||325|20.3|13.2|21.0|0.7|3.1|8.5|563|1 burger (295 g)@295*;100 g@100|brand=Wendy's
+wendys-chili-small|Chili, small||106|9.3|10.1|3.1|2.6|3.1|1.3|432|1 small (227 g)@227*;1 large (340 g)@340|brand=Wendy's
+wendys-frosty-small|Frosty, chocolate, small||140|3.5|24.0|3.5|0.5|20.0|2.2|75|1 small (227 g)@227*;100 g@100|brand=Wendy's
+in-n-out-double-double|Double-Double burger||203|11.2|11.8|12.4|0.9|3.0|5.5|436|1 burger (330 g)@330*;100 g@100|brand=In-N-Out
+in-n-out-hamburger|Hamburger with onion||160|6.6|16.0|7.8|1.2|4.1|1.9|267|1 burger (243 g)@243*;100 g@100|brand=In-N-Out
+in-n-out-fries|French fries||316|5.6|43.2|14.4|2.4|0|3.2|196|1 order (125 g)@125*;100 g@100|brand=In-N-Out
+shake-shack-shackburger|ShackBurger, single||227|12.9|17.6|11.6|0.4|3.4|5.2|472|1 burger (233 g)@233*;100 g@100|brand=Shake Shack
+five-guys-little-hamburger|Little Hamburger||225|10.8|18.3|12.2|0.9|3.8|5.2|178|1 burger (213 g)@213*;100 g@100|brand=Five Guys
+five-guys-fries-regular|French fries, regular||232|3.2|31.9|10.0|1.0|0|1.8|234|1 regular (411 g)@411*;100 g@100|brand=Five Guys
+
+# --- Chick-fil-A / Popeyes / KFC ------------------------------------------
+cfa-chicken-sandwich|Chick-fil-A Chicken Sandwich||240|15.3|21.9|10.4|1.1|3.3|2.2|765|1 sandwich (183 g)@183*;100 g@100|brand=Chick-fil-A
+cfa-grilled-chicken-sandwich|Grilled Chicken Sandwich||186|13.3|21.0|5.7|1.4|5.2|1.0|367|1 sandwich (210 g)@210*;100 g@100|brand=Chick-fil-A
+cfa-nuggets-8|Chicken nuggets, 8 count||221|23.9|9.7|9.7|0.4|0.9|2.2|1071|8 count (113 g)@113*;12 count (170 g)@170;5 count (71 g)@71|brand=Chick-fil-A
+cfa-grilled-nuggets-8|Grilled chicken nuggets, 8 count||115|22.1|2.7|2.7|0|1.8|0.4|389|8 count (113 g)@113*;12 count (170 g)@170|brand=Chick-fil-A
+cfa-waffle-fries-medium|Waffle fries, medium||336|4.0|36.0|19.2|4.0|0|3.2|192|1 medium (125 g)@125*;1 small (85 g)@85|brand=Chick-fil-A
+cfa-sauce|Chick-fil-A Sauce packet||500|0|21.4|46.4|0|17.9|7.1|643|1 packet (28 g)@28*;100 g@100|brand=Chick-fil-A
+popeyes-chicken-sandwich|Popeyes Chicken Sandwich||286|11.4|20.4|17.1|0.8|2.0|3.3|589|1 sandwich (245 g)@245*;100 g@100|brand=Popeyes
+kfc-original-breast|Original Recipe chicken breast||242|24.2|6.8|13.0|0.6|0|3.1|739|1 breast (161 g)@161*;100 g@100|brand=KFC
+kfc-coleslaw|Coleslaw, individual||190|1.0|21.0|11.0|2.4|17.0|1.7|170|1 individual (130 g)@130*;100 g@100|brand=KFC
+
+# --- Chipotle (build-your-own components) ---------------------------------
+chipotle-chicken|Chipotle chicken||159|28.3|0|6.2|0|0|1.8|274|1 serving, 4 oz (113 g)@113*;double (226 g)@226|brand=Chipotle
+chipotle-steak|Chipotle steak||133|18.6|0.9|5.3|0|0|1.8|292|1 serving, 4 oz (113 g)@113*;double (226 g)@226|brand=Chipotle
+chipotle-barbacoa|Chipotle barbacoa||150|21.2|1.8|6.2|0|0|2.2|469|1 serving, 4 oz (113 g)@113*;100 g@100|brand=Chipotle
+chipotle-carnitas|Chipotle carnitas||186|20.4|0|10.6|0|0|2.7|398|1 serving, 4 oz (113 g)@113*;100 g@100|brand=Chipotle
+chipotle-sofritas|Chipotle sofritas||133|7.1|8.0|8.8|2.7|3.5|1.3|496|1 serving, 4 oz (113 g)@113*;100 g@100|brand=Chipotle
+chipotle-white-rice|Chipotle white rice||186|3.5|35.4|3.5|0.9|0|0.4|310|1 serving, 4 oz (113 g)@113*;double (226 g)@226|brand=Chipotle
+chipotle-brown-rice|Chipotle brown rice||186|3.5|31.9|5.3|2.7|0|0.9|168|1 serving, 4 oz (113 g)@113*;100 g@100|brand=Chipotle
+chipotle-black-beans|Chipotle black beans||115|7.1|19.5|1.3|6.2|0.9|0|186|1 serving, 4 oz (113 g)@113*;100 g@100|brand=Chipotle
+chipotle-pinto-beans|Chipotle pinto beans||115|7.1|18.6|1.3|7.1|0.9|0|186|1 serving, 4 oz (113 g)@113*;100 g@100|brand=Chipotle
+chipotle-fajita-veggies|Chipotle fajita vegetables||28|1.4|5.6|0|1.4|2.8|0|211|1 serving (71 g)@71*;100 g@100|brand=Chipotle
+chipotle-guacamole|Chipotle guacamole||204|1.8|7.1|19.5|5.3|0.9|2.7|332|1 serving, 4 oz (113 g)@113*;100 g@100|brand=Chipotle
+chipotle-cheese|Chipotle shredded cheese||393|21.4|3.6|32.1|0|0|17.9|679|1 serving, 1 oz (28 g)@28*;100 g@100|brand=Chipotle
+chipotle-sour-cream|Chipotle sour cream||193|3.5|3.5|15.8|0|3.5|12.3|53|1 serving, 2 oz (57 g)@57*;100 g@100|brand=Chipotle;fl=rounding
+chipotle-tomato-salsa|Chipotle fresh tomato salsa||25|1.0|4.0|0|1.0|2.0|0|556|1 serving (99 g)@99*;100 g@100|brand=Chipotle
+chipotle-corn-salsa|Chipotle roasted chili corn salsa||81|3.0|16.2|1.5|3.0|4.0|0|414|1 serving (99 g)@99*;100 g@100|brand=Chipotle
+chipotle-queso-blanco|Chipotle queso blanco||211|10.5|7.0|15.8|0|3.5|8.8|596|1 serving, 2 oz (57 g)@57*;100 g@100|brand=Chipotle
+chipotle-chips|Chipotle tortilla chips||478|6.2|64.6|22.1|4.4|0|3.1|345|1 bag, 4 oz (113 g)@113*;1/2 bag (57 g)@57|brand=Chipotle
+chipotle-flour-tortilla|Chipotle flour tortilla, burrito||320|8.0|50.0|9.0|3.0|0|4.0|600|1 tortilla (100 g)@100*;100 g@100|brand=Chipotle
+
+# --- Taco Bell ------------------------------------------------------------
+tb-crunchy-taco|Crunchy Taco||218|10.3|16.7|12.8|3.8|0|4.5|397|1 taco (78 g)@78*;3 tacos (234 g)@234|brand=Taco Bell
+tb-soft-taco-beef|Soft Taco, beef||182|9.1|18.2|9.1|3.0|1.0|4.0|505|1 taco (99 g)@99*;100 g@100|brand=Taco Bell
+tb-bean-burrito|Bean Burrito||177|6.6|27.3|4.5|4.5|1.5|2.0|505|1 burrito (198 g)@198*;100 g@100|brand=Taco Bell
+tb-crunchwrap-supreme|Crunchwrap Supreme||209|6.3|23.6|9.4|1.6|1.6|3.1|472|1 crunchwrap (254 g)@254*;100 g@100|brand=Taco Bell
+tb-chicken-quesadilla|Chicken Quesadilla||282|14.4|21.0|14.9|1.7|1.7|7.2|685|1 quesadilla (181 g)@181*;100 g@100|brand=Taco Bell
+
+# --- Subway / Panera / pizza ----------------------------------------------
+subway-turkey-6in|6 inch Turkey Breast sub||128|8.2|21.0|1.6|2.3|2.7|0.5|347|6 inch sub (219 g)@219*;footlong (438 g)@438|brand=Subway
+subway-italian-bmt-6in|6 inch Italian B.M.T. sub||162|7.9|18.7|6.6|1.7|3.3|2.5|539|6 inch sub (241 g)@241*;footlong (482 g)@482|brand=Subway
+subway-oven-roasted-chicken-6in|6 inch Oven Roasted Chicken sub||138|10.8|19.4|2.2|2.2|3.0|0.6|284|6 inch sub (232 g)@232*;100 g@100|brand=Subway
+panera-broccoli-cheddar-soup|Broccoli Cheddar Soup, cup||101|3.5|6.6|6.6|1.3|1.8|3.5|445|1 cup (227 g)@227*;1 bowl (340 g)@340|brand=Panera
+panera-greek-salad-half|Greek Salad, half||140|3.5|5.5|12.0|2.0|2.5|3.0|400|1 half salad (200 g)@200*;100 g@100|brand=Panera
+dominos-pepperoni-slice|Pepperoni pizza slice, hand tossed||266|11.4|31.6|11.4|1.3|2.5|5.1|595|1 slice (79 g)@79*;2 slices (158 g)@158|brand=Domino's
+dominos-cheese-slice|Cheese pizza slice, hand tossed||253|10.8|33.0|8.9|1.3|2.5|4.4|519|1 slice (79 g)@79*;2 slices (158 g)@158|brand=Domino's
+pizza-hut-pan-cheese-slice|Pan pizza slice, cheese||262|11.2|28.0|11.2|1.4|2.8|5.1|533|1 slice (107 g)@107*;2 slices (214 g)@214|brand=Pizza Hut
+
+# --- Panda Express / other -----------------------------------------------
+panda-orange-chicken|Orange Chicken||302|15.4|31.5|14.2|1.2|11.7|3.1|506|1 serving, 5.7 oz (162 g)@162*;100 g@100|brand=Panda Express
+panda-beijing-beef|Beijing Beef||303|8.4|29.7|16.8|1.3|13.5|3.2|426|1 serving (155 g)@155*;100 g@100|brand=Panda Express
+panda-broccoli-beef|Broccoli Beef||94|5.7|8.2|4.4|1.9|4.4|0.9|327|1 serving (159 g)@159*;100 g@100|brand=Panda Express
+panda-teriyaki-chicken|Grilled Teriyaki Chicken||175|21.1|4.7|7.6|0|4.1|2.0|368|1 serving (171 g)@171*;100 g@100|brand=Panda Express
+panda-fried-rice|Fried Rice||195|4.1|32.0|6.0|1.1|1.5|1.1|320|1 serving (266 g)@266*;100 g@100|brand=Panda Express
+panda-chow-mein|Chow Mein||183|4.7|28.8|7.2|1.4|3.2|1.1|309|1 serving (278 g)@278*;100 g@100|brand=Panda Express
+
+# --- Starbucks (grande = 16 fl oz) ---------------------------------------
+sbux-caffe-latte-grande-2pct|Caffè Latte, grande, 2% milk||39|2.7|3.9|1.4|0|3.7|0.9|31|1 grande (473 ml)@487*;1 tall (355 ml)@365;1 venti (591 ml)@609|brand=Starbucks;d=1.03
+sbux-cappuccino-grande-2pct|Cappuccino, grande, 2% milk||33|2.1|3.3|1.2|0|2.8|0.7|25|1 grande (473 ml)@426*;1 tall (355 ml)@320|brand=Starbucks;d=0.9
+sbux-americano-grande|Caffè Americano, grande||3|0.2|0.4|0|0|0|0|3|1 grande (473 ml)@473*;1 venti (591 ml)@591|brand=Starbucks;d=1.0
+sbux-cold-brew-grande|Cold Brew coffee, grande, black||1|0.2|0|0|0|0|0|3|1 grande (473 ml)@473*;1 venti (710 ml)@710|brand=Starbucks;d=1.0
+sbux-caramel-macchiato-grande|Caramel Macchiato, grande, 2% milk||51|2.1|7.2|1.4|0|6.8|0.9|31|1 grande (473 ml)@487*;1 tall (355 ml)@365|brand=Starbucks;d=1.03
+sbux-vanilla-latte-grande|Vanilla Latte, grande, 2% milk||51|2.5|7.6|1.2|0|7.2|0.7|29|1 grande (473 ml)@487*;100 g@100|brand=Starbucks;d=1.03
+sbux-mocha-grande|Caffè Mocha, grande, 2% milk||76|2.9|9.0|3.1|0.6|7.2|1.8|31|1 grande (473 ml)@487*;100 g@100|brand=Starbucks;d=1.03
+sbux-psl-grande|Pumpkin Spice Latte, grande, 2% milk||80|2.9|10.7|2.9|0|10.3|1.6|49|1 grande (473 ml)@487*;100 g@100|brand=Starbucks;d=1.03
+sbux-matcha-latte-grande|Matcha Green Tea Latte, grande, 2% milk||49|2.5|7.0|1.4|0.2|6.6|0.8|31|1 grande (473 ml)@487*;100 g@100|brand=Starbucks;d=1.03
+sbux-chai-latte-grande|Chai Tea Latte, grande, 2% milk||49|1.6|9.2|0.9|0|8.6|0.6|24|1 grande (473 ml)@487*;100 g@100|brand=Starbucks;d=1.03
+sbux-egg-bites-bacon-gruyere|Bacon and Gruyère Egg Bites||231|14.6|6.9|15.4|0|1.5|8.5|523|2 bites (130 g)@130*;1 bite (65 g)@65|brand=Starbucks
+sbux-egg-white-pepper-bites|Egg White and Red Pepper Egg Bites||131|9.2|8.5|6.2|0|3.1|3.5|362|2 bites (130 g)@130*;100 g@100|brand=Starbucks
+sbux-cake-pop|Birthday Cake Pop||452|3.2|71.0|16.1|0|54.8|9.7|194|1 cake pop (31 g)@31*;100 g@100|brand=Starbucks
+sbux-blueberry-muffin|Blueberry Muffin||319|5.3|46.9|12.4|1.8|27.4|2.7|336|1 muffin (113 g)@113*;100 g@100|brand=Starbucks
+dunkin-glazed-donut|Glazed donut||400|6.7|46.7|20.0|1.7|18.3|8.3|550|1 donut (60 g)@60*;100 g@100|brand=Dunkin'
+dunkin-iced-coffee-cream-sugar-md|Iced coffee, medium, cream and sugar||36|0.8|6.5|1.0|0|6.0|0.6|12|1 medium (710 ml)@725*;100 g@100|brand=Dunkin';d=1.02
+costco-hot-dog|Hot dog with bun, food court||270|10.5|22.5|15.0|1.0|4.5|5.5|780|1 hot dog (200 g)@200*;100 g@100|brand=Costco
+dq-blizzard-oreo-small|Oreo Blizzard, small||213|4.3|29.5|8.5|0.6|22.0|4.3|160|1 small (326 g)@326*;100 g@100|brand=Dairy Queen

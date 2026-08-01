@@ -1,0 +1,2044 @@
+[
+ {
+  "id": "chicken-breast-raw",
+  "name": "Chicken breast, boneless skinless, raw",
+  "brand": null,
+  "aliases": [
+   "chicken fillet",
+   "boneless skinless chicken breast"
+  ],
+  "category": "poultry",
+  "per100g": {
+   "kcal": 120,
+   "protein_g": 22.5,
+   "carbs_g": 0,
+   "fat_g": 2.6,
+   "fiber_g": 0,
+   "sugar_g": 0,
+   "satfat_g": 0.6,
+   "sodium_mg": 45
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "4 oz (113 g)",
+    "grams": 113,
+    "isDefault": true
+   },
+   {
+    "label": "6 oz (170 g)",
+    "grams": 170
+   },
+   {
+    "label": "1 breast (174 g)",
+    "grams": 174
+   },
+   {
+    "label": "100 g",
+    "grams": 100
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": true,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "chicken-breast-cooked",
+  "name": "Chicken breast, skinless, roasted",
+  "brand": null,
+  "aliases": [
+   "grilled chicken breast",
+   "baked chicken breast"
+  ],
+  "category": "poultry",
+  "per100g": {
+   "kcal": 165,
+   "protein_g": 31,
+   "carbs_g": 0,
+   "fat_g": 3.6,
+   "fiber_g": 0,
+   "sugar_g": 0,
+   "satfat_g": 1,
+   "sodium_mg": 74
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "4 oz (113 g)",
+    "grams": 113,
+    "isDefault": true
+   },
+   {
+    "label": "3 oz (85 g)",
+    "grams": 85
+   },
+   {
+    "label": "1 breast half (172 g)",
+    "grams": 172
+   },
+   {
+    "label": "1 cup diced (140 g)",
+    "grams": 140
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": true,
+  "source": "USDA FoodData Central SR Legacy FDC 171477, release 2018-04, reviewed 2026-08-01"
+ },
+ {
+  "id": "chicken-breast-skin-cooked",
+  "name": "Chicken breast with skin, roasted",
+  "brand": null,
+  "aliases": [],
+  "category": "poultry",
+  "per100g": {
+   "kcal": 197,
+   "protein_g": 29.8,
+   "carbs_g": 0,
+   "fat_g": 7.8,
+   "fiber_g": 0,
+   "sugar_g": 0,
+   "satfat_g": 2.2,
+   "sodium_mg": 71
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "4 oz (113 g)",
+    "grams": 113,
+    "isDefault": true
+   },
+   {
+    "label": "6 oz (170 g)",
+    "grams": 170
+   },
+   {
+    "label": "3 oz (85 g)",
+    "grams": 85
+   },
+   {
+    "label": "1 oz (28 g)",
+    "grams": 28
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": true,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "chicken-breast-grilled-seasoned",
+  "name": "Chicken breast, grilled, seasoned",
+  "brand": null,
+  "aliases": [],
+  "category": "poultry",
+  "per100g": {
+   "kcal": 175,
+   "protein_g": 30.5,
+   "carbs_g": 1,
+   "fat_g": 4.5,
+   "fiber_g": 0,
+   "sugar_g": 0,
+   "satfat_g": 1.2,
+   "sodium_mg": 420
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "4 oz (113 g)",
+    "grams": 113,
+    "isDefault": true
+   },
+   {
+    "label": "3 oz (85 g)",
+    "grams": 85
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": false,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "chicken-tenderloin-raw",
+  "name": "Chicken tenderloin, raw",
+  "brand": null,
+  "aliases": [
+   "chicken tenders raw",
+   "chicken strips"
+  ],
+  "category": "poultry",
+  "per100g": {
+   "kcal": 109,
+   "protein_g": 22.5,
+   "carbs_g": 0,
+   "fat_g": 1.3,
+   "fiber_g": 0,
+   "sugar_g": 0,
+   "satfat_g": 0.3,
+   "sodium_mg": 60
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "4 oz (113 g)",
+    "grams": 113,
+    "isDefault": true
+   },
+   {
+    "label": "1 tenderloin (30 g)",
+    "grams": 30
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": true,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "chicken-tenderloin-cooked",
+  "name": "Chicken tenderloin, cooked",
+  "brand": null,
+  "aliases": [],
+  "category": "poultry",
+  "per100g": {
+   "kcal": 150,
+   "protein_g": 30.9,
+   "carbs_g": 0,
+   "fat_g": 1.8,
+   "fiber_g": 0,
+   "sugar_g": 0,
+   "satfat_g": 0.4,
+   "sodium_mg": 82
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "4 oz (113 g)",
+    "grams": 113,
+    "isDefault": true
+   },
+   {
+    "label": "1 tenderloin (22 g)",
+    "grams": 22
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": true,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "chicken-thigh-raw",
+  "name": "Chicken thigh, boneless skinless, raw",
+  "brand": null,
+  "aliases": [],
+  "category": "poultry",
+  "per100g": {
+   "kcal": 121,
+   "protein_g": 20,
+   "carbs_g": 0,
+   "fat_g": 3.9,
+   "fiber_g": 0,
+   "sugar_g": 0,
+   "satfat_g": 1,
+   "sodium_mg": 84
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "4 oz (113 g)",
+    "grams": 113,
+    "isDefault": true
+   },
+   {
+    "label": "1 thigh (86 g)",
+    "grams": 86
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": true,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "chicken-thigh-cooked",
+  "name": "Chicken thigh, skinless, roasted",
+  "brand": null,
+  "aliases": [],
+  "category": "poultry",
+  "per100g": {
+   "kcal": 179,
+   "protein_g": 24.8,
+   "carbs_g": 0,
+   "fat_g": 8.2,
+   "fiber_g": 0,
+   "sugar_g": 0,
+   "satfat_g": 2.2,
+   "sodium_mg": 88
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "4 oz (113 g)",
+    "grams": 113,
+    "isDefault": true
+   },
+   {
+    "label": "1 thigh (52 g)",
+    "grams": 52
+   },
+   {
+    "label": "3 oz (85 g)",
+    "grams": 85
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": true,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "chicken-thigh-skin-cooked",
+  "name": "Chicken thigh with skin, roasted",
+  "brand": null,
+  "aliases": [],
+  "category": "poultry",
+  "per100g": {
+   "kcal": 232,
+   "protein_g": 23.3,
+   "carbs_g": 0,
+   "fat_g": 14.7,
+   "fiber_g": 0,
+   "sugar_g": 0,
+   "satfat_g": 4.1,
+   "sodium_mg": 75
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 thigh (62 g)",
+    "grams": 62,
+    "isDefault": true
+   },
+   {
+    "label": "4 oz (113 g)",
+    "grams": 113
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": true,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "chicken-drumstick-cooked",
+  "name": "Chicken drumstick, skinless, roasted",
+  "brand": null,
+  "aliases": [],
+  "category": "poultry",
+  "per100g": {
+   "kcal": 172,
+   "protein_g": 28.3,
+   "carbs_g": 0,
+   "fat_g": 5.7,
+   "fiber_g": 0,
+   "sugar_g": 0,
+   "satfat_g": 1.5,
+   "sodium_mg": 95
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 drumstick (44 g)",
+    "grams": 44,
+    "isDefault": true
+   },
+   {
+    "label": "2 drumsticks (88 g)",
+    "grams": 88
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": true,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "chicken-drumstick-skin-cooked",
+  "name": "Chicken drumstick with skin, roasted",
+  "brand": null,
+  "aliases": [],
+  "category": "poultry",
+  "per100g": {
+   "kcal": 216,
+   "protein_g": 27,
+   "carbs_g": 0,
+   "fat_g": 11.2,
+   "fiber_g": 0,
+   "sugar_g": 0,
+   "satfat_g": 3.1,
+   "sodium_mg": 85
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 drumstick (71 g)",
+    "grams": 71,
+    "isDefault": true
+   },
+   {
+    "label": "100 g",
+    "grams": 100
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": true,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "chicken-wing-cooked",
+  "name": "Chicken wing with skin, roasted",
+  "brand": null,
+  "aliases": [],
+  "category": "poultry",
+  "per100g": {
+   "kcal": 290,
+   "protein_g": 26.9,
+   "carbs_g": 0,
+   "fat_g": 19.5,
+   "fiber_g": 0,
+   "sugar_g": 0,
+   "satfat_g": 5.5,
+   "sodium_mg": 82
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 wing (34 g)",
+    "grams": 34,
+    "isDefault": true
+   },
+   {
+    "label": "6 wings (204 g)",
+    "grams": 204
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": true,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "chicken-wing-buffalo",
+  "name": "Buffalo wings, fried with sauce",
+  "brand": null,
+  "aliases": [
+   "hot wings"
+  ],
+  "category": "poultry",
+  "per100g": {
+   "kcal": 315,
+   "protein_g": 22,
+   "carbs_g": 4,
+   "fat_g": 23,
+   "fiber_g": 0.3,
+   "sugar_g": 1.5,
+   "satfat_g": 6.5,
+   "sodium_mg": 900
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 wing (32 g)",
+    "grams": 32,
+    "isDefault": true
+   },
+   {
+    "label": "6 wings (192 g)",
+    "grams": 192
+   },
+   {
+    "label": "10 wings (320 g)",
+    "grams": 320
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": false,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "chicken-ground-raw",
+  "name": "Ground chicken, raw",
+  "brand": null,
+  "aliases": [],
+  "category": "poultry",
+  "per100g": {
+   "kcal": 143,
+   "protein_g": 17.4,
+   "carbs_g": 0,
+   "fat_g": 8.1,
+   "fiber_g": 0,
+   "sugar_g": 0,
+   "satfat_g": 2.3,
+   "sodium_mg": 60
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "4 oz (113 g)",
+    "grams": 113,
+    "isDefault": true
+   },
+   {
+    "label": "1 lb (454 g)",
+    "grams": 454
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": true,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "chicken-ground-cooked",
+  "name": "Ground chicken, cooked",
+  "brand": null,
+  "aliases": [],
+  "category": "poultry",
+  "per100g": {
+   "kcal": 189,
+   "protein_g": 23.8,
+   "carbs_g": 0,
+   "fat_g": 10.9,
+   "fiber_g": 0,
+   "sugar_g": 0,
+   "satfat_g": 3,
+   "sodium_mg": 79
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "4 oz (113 g)",
+    "grams": 113,
+    "isDefault": true
+   },
+   {
+    "label": "1 cup crumbles (110 g)",
+    "grams": 110
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": true,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "chicken-ground-breast-raw",
+  "name": "Ground chicken breast, 99% lean, raw",
+  "brand": null,
+  "aliases": [],
+  "category": "poultry",
+  "per100g": {
+   "kcal": 110,
+   "protein_g": 23,
+   "carbs_g": 0,
+   "fat_g": 1.5,
+   "fiber_g": 0,
+   "sugar_g": 0,
+   "satfat_g": 0.4,
+   "sodium_mg": 65
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "4 oz (113 g)",
+    "grams": 113,
+    "isDefault": true
+   },
+   {
+    "label": "1 lb (454 g)",
+    "grams": 454
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": false,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "chicken-rotisserie-breast",
+  "name": "Rotisserie chicken, breast meat, no skin",
+  "brand": null,
+  "aliases": [],
+  "category": "poultry",
+  "per100g": {
+   "kcal": 184,
+   "protein_g": 28,
+   "carbs_g": 0.5,
+   "fat_g": 7.5,
+   "fiber_g": 0,
+   "sugar_g": 0,
+   "satfat_g": 2.1,
+   "sodium_mg": 450
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "3 oz (85 g)",
+    "grams": 85,
+    "isDefault": true
+   },
+   {
+    "label": "1 cup shredded (140 g)",
+    "grams": 140
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": false,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "chicken-rotisserie-dark",
+  "name": "Rotisserie chicken, dark meat, no skin",
+  "brand": null,
+  "aliases": [],
+  "category": "poultry",
+  "per100g": {
+   "kcal": 205,
+   "protein_g": 25,
+   "carbs_g": 0.5,
+   "fat_g": 11,
+   "fiber_g": 0,
+   "sugar_g": 0,
+   "satfat_g": 3.2,
+   "sodium_mg": 470
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "3 oz (85 g)",
+    "grams": 85,
+    "isDefault": true
+   },
+   {
+    "label": "1 cup shredded (140 g)",
+    "grams": 140
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": false,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "chicken-whole-roasted",
+  "name": "Chicken, whole, roasted, meat and skin",
+  "brand": null,
+  "aliases": [],
+  "category": "poultry",
+  "per100g": {
+   "kcal": 239,
+   "protein_g": 27.3,
+   "carbs_g": 0,
+   "fat_g": 13.6,
+   "fiber_g": 0,
+   "sugar_g": 0,
+   "satfat_g": 3.8,
+   "sodium_mg": 82
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "3 oz (85 g)",
+    "grams": 85,
+    "isDefault": true
+   },
+   {
+    "label": "100 g",
+    "grams": 100
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": true,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "chicken-canned",
+  "name": "Chicken, canned, drained",
+  "brand": null,
+  "aliases": [],
+  "category": "poultry",
+  "per100g": {
+   "kcal": 157,
+   "protein_g": 25,
+   "carbs_g": 0,
+   "fat_g": 5.9,
+   "fiber_g": 0,
+   "sugar_g": 0,
+   "satfat_g": 1.7,
+   "sodium_mg": 450
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 can (142 g)",
+    "grams": 142,
+    "isDefault": true
+   },
+   {
+    "label": "100 g",
+    "grams": 100
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": false,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "chicken-liver-cooked",
+  "name": "Chicken liver, simmered",
+  "brand": null,
+  "aliases": [],
+  "category": "poultry",
+  "per100g": {
+   "kcal": 167,
+   "protein_g": 24.5,
+   "carbs_g": 0.9,
+   "fat_g": 6.5,
+   "fiber_g": 0,
+   "sugar_g": 0,
+   "satfat_g": 2.1,
+   "sodium_mg": 76
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": 3296,
+   "vitamin_a_carotenoid_mcg_rae": 0,
+   "folate_food_mcg": 578,
+   "folic_acid_mcg": 0,
+   "folate_dfe_mcg": 578
+  },
+  "servings": [
+   {
+    "label": "3 oz (85 g)",
+    "grams": 85,
+    "isDefault": true
+   },
+   {
+    "label": "100 g",
+    "grams": 100
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": true,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "chicken-nuggets",
+  "name": "Chicken nuggets, breaded, fried",
+  "brand": null,
+  "aliases": [],
+  "category": "poultry",
+  "per100g": {
+   "kcal": 296,
+   "protein_g": 15.5,
+   "carbs_g": 15.4,
+   "fat_g": 19,
+   "fiber_g": 1,
+   "sugar_g": 0.4,
+   "satfat_g": 3.9,
+   "sodium_mg": 557
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "6 nuggets (96 g)",
+    "grams": 96,
+    "isDefault": true
+   },
+   {
+    "label": "1 nugget (16 g)",
+    "grams": 16
+   },
+   {
+    "label": "10 nuggets (160 g)",
+    "grams": 160
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": true,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "chicken-tenders-breaded",
+  "name": "Chicken tenders, breaded, fried",
+  "brand": null,
+  "aliases": [],
+  "category": "poultry",
+  "per100g": {
+   "kcal": 280,
+   "protein_g": 18,
+   "carbs_g": 17,
+   "fat_g": 15,
+   "fiber_g": 1,
+   "sugar_g": 0.5,
+   "satfat_g": 3,
+   "sodium_mg": 590
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "3 tenders (105 g)",
+    "grams": 105,
+    "isDefault": true
+   },
+   {
+    "label": "100 g",
+    "grams": 100
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": false,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "chicken-fried-breast",
+  "name": "Fried chicken breast, batter-dipped",
+  "brand": null,
+  "aliases": [],
+  "category": "poultry",
+  "per100g": {
+   "kcal": 260,
+   "protein_g": 22.4,
+   "carbs_g": 8.6,
+   "fat_g": 13.7,
+   "fiber_g": 0.4,
+   "sugar_g": 0,
+   "satfat_g": 3.7,
+   "sodium_mg": 385
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 breast half (140 g)",
+    "grams": 140,
+    "isDefault": true
+   },
+   {
+    "label": "100 g",
+    "grams": 100
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": true,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "chicken-patty-breaded",
+  "name": "Chicken patty, breaded, cooked",
+  "brand": null,
+  "aliases": [],
+  "category": "poultry",
+  "per100g": {
+   "kcal": 280,
+   "protein_g": 14,
+   "carbs_g": 16,
+   "fat_g": 17,
+   "fiber_g": 1,
+   "sugar_g": 1,
+   "satfat_g": 3.5,
+   "sodium_mg": 610
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 patty (85 g)",
+    "grams": 85,
+    "isDefault": true
+   },
+   {
+    "label": "100 g",
+    "grams": 100
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": false,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "chicken-sausage",
+  "name": "Chicken sausage, cooked",
+  "brand": null,
+  "aliases": [],
+  "category": "poultry",
+  "per100g": {
+   "kcal": 185,
+   "protein_g": 16,
+   "carbs_g": 3,
+   "fat_g": 11.5,
+   "fiber_g": 0,
+   "sugar_g": 2,
+   "satfat_g": 3.3,
+   "sodium_mg": 730
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 link (85 g)",
+    "grams": 85,
+    "isDefault": true
+   },
+   {
+    "label": "100 g",
+    "grams": 100
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": false,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "chicken-deli-breast",
+  "name": "Chicken breast, deli sliced",
+  "brand": null,
+  "aliases": [
+   "lunch meat chicken"
+  ],
+  "category": "poultry",
+  "per100g": {
+   "kcal": 104,
+   "protein_g": 17,
+   "carbs_g": 2.5,
+   "fat_g": 2.5,
+   "fiber_g": 0,
+   "sugar_g": 1.5,
+   "satfat_g": 0.7,
+   "sodium_mg": 1030
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "2 oz (57 g)",
+    "grams": 57,
+    "isDefault": true
+   },
+   {
+    "label": "1 slice (28 g)",
+    "grams": 28
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": false,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "chicken-shawarma",
+  "name": "Chicken shawarma meat, cooked",
+  "brand": null,
+  "aliases": [],
+  "category": "poultry",
+  "per100g": {
+   "kcal": 225,
+   "protein_g": 25,
+   "carbs_g": 2,
+   "fat_g": 13,
+   "fiber_g": 0.3,
+   "sugar_g": 0.5,
+   "satfat_g": 3,
+   "sodium_mg": 620
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "4 oz (113 g)",
+    "grams": 113,
+    "isDefault": true
+   },
+   {
+    "label": "100 g",
+    "grams": 100
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": false,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "chicken-skin-roasted",
+  "name": "Chicken skin, roasted",
+  "brand": null,
+  "aliases": [],
+  "category": "poultry",
+  "per100g": {
+   "kcal": 454,
+   "protein_g": 20.4,
+   "carbs_g": 0,
+   "fat_g": 40.7,
+   "fiber_g": 0,
+   "sugar_g": 0,
+   "satfat_g": 11.4,
+   "sodium_mg": 70
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 oz (28 g)",
+    "grams": 28,
+    "isDefault": true
+   },
+   {
+    "label": "100 g",
+    "grams": 100
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": false,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "turkey-breast-raw",
+  "name": "Turkey breast, boneless skinless, raw",
+  "brand": null,
+  "aliases": [],
+  "category": "poultry",
+  "per100g": {
+   "kcal": 111,
+   "protein_g": 23.7,
+   "carbs_g": 0,
+   "fat_g": 1,
+   "fiber_g": 0,
+   "sugar_g": 0,
+   "satfat_g": 0.3,
+   "sodium_mg": 58
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "4 oz (113 g)",
+    "grams": 113,
+    "isDefault": true
+   },
+   {
+    "label": "6 oz (170 g)",
+    "grams": 170
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": true,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "turkey-breast-cooked",
+  "name": "Turkey breast, skinless, roasted",
+  "brand": null,
+  "aliases": [],
+  "category": "poultry",
+  "per100g": {
+   "kcal": 147,
+   "protein_g": 29.9,
+   "carbs_g": 0,
+   "fat_g": 2.1,
+   "fiber_g": 0,
+   "sugar_g": 0,
+   "satfat_g": 0.7,
+   "sodium_mg": 64
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "4 oz (113 g)",
+    "grams": 113,
+    "isDefault": true
+   },
+   {
+    "label": "3 oz (85 g)",
+    "grams": 85
+   },
+   {
+    "label": "1 cup diced (140 g)",
+    "grams": 140
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": true,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "turkey-breast-skin-cooked",
+  "name": "Turkey breast with skin, roasted",
+  "brand": null,
+  "aliases": [],
+  "category": "poultry",
+  "per100g": {
+   "kcal": 189,
+   "protein_g": 28.7,
+   "carbs_g": 0,
+   "fat_g": 7.4,
+   "fiber_g": 0,
+   "sugar_g": 0,
+   "satfat_g": 2.1,
+   "sodium_mg": 63
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "4 oz (113 g)",
+    "grams": 113,
+    "isDefault": true
+   },
+   {
+    "label": "6 oz (170 g)",
+    "grams": 170
+   },
+   {
+    "label": "3 oz (85 g)",
+    "grams": 85
+   },
+   {
+    "label": "1 oz (28 g)",
+    "grams": 28
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": true,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "turkey-thigh-cooked",
+  "name": "Turkey thigh, skinless, roasted",
+  "brand": null,
+  "aliases": [],
+  "category": "poultry",
+  "per100g": {
+   "kcal": 170,
+   "protein_g": 28,
+   "carbs_g": 0,
+   "fat_g": 5.9,
+   "fiber_g": 0,
+   "sugar_g": 0,
+   "satfat_g": 1.9,
+   "sodium_mg": 76
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "4 oz (113 g)",
+    "grams": 113,
+    "isDefault": true
+   },
+   {
+    "label": "3 oz (85 g)",
+    "grams": 85
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": false,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "turkey-dark-cooked",
+  "name": "Turkey, dark meat, roasted, no skin",
+  "brand": null,
+  "aliases": [],
+  "category": "poultry",
+  "per100g": {
+   "kcal": 187,
+   "protein_g": 28.6,
+   "carbs_g": 0,
+   "fat_g": 7.2,
+   "fiber_g": 0,
+   "sugar_g": 0,
+   "satfat_g": 2.4,
+   "sodium_mg": 79
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "4 oz (113 g)",
+    "grams": 113,
+    "isDefault": true
+   },
+   {
+    "label": "6 oz (170 g)",
+    "grams": 170
+   },
+   {
+    "label": "3 oz (85 g)",
+    "grams": 85
+   },
+   {
+    "label": "1 oz (28 g)",
+    "grams": 28
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": true,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "turkey-ground-93-raw",
+  "name": "Ground turkey, 93% lean, raw",
+  "brand": null,
+  "aliases": [],
+  "category": "poultry",
+  "per100g": {
+   "kcal": 150,
+   "protein_g": 18.9,
+   "carbs_g": 0,
+   "fat_g": 8.3,
+   "fiber_g": 0,
+   "sugar_g": 0,
+   "satfat_g": 2.2,
+   "sodium_mg": 75
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "4 oz (113 g)",
+    "grams": 113,
+    "isDefault": true
+   },
+   {
+    "label": "1 lb (454 g)",
+    "grams": 454
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": true,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "turkey-ground-93-cooked",
+  "name": "Ground turkey, 93% lean, cooked",
+  "brand": null,
+  "aliases": [],
+  "category": "poultry",
+  "per100g": {
+   "kcal": 203,
+   "protein_g": 27.4,
+   "carbs_g": 0,
+   "fat_g": 10.4,
+   "fiber_g": 0,
+   "sugar_g": 0,
+   "satfat_g": 2.7,
+   "sodium_mg": 89
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "4 oz (113 g)",
+    "grams": 113,
+    "isDefault": true
+   },
+   {
+    "label": "1 cup crumbles (110 g)",
+    "grams": 110
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": true,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "turkey-ground-99-raw",
+  "name": "Ground turkey breast, 99% lean, raw",
+  "brand": null,
+  "aliases": [],
+  "category": "poultry",
+  "per100g": {
+   "kcal": 111,
+   "protein_g": 23.5,
+   "carbs_g": 0,
+   "fat_g": 1.5,
+   "fiber_g": 0,
+   "sugar_g": 0,
+   "satfat_g": 0.4,
+   "sodium_mg": 65
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "4 oz (113 g)",
+    "grams": 113,
+    "isDefault": true
+   },
+   {
+    "label": "1 lb (454 g)",
+    "grams": 454
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": false,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "turkey-ground-99-cooked",
+  "name": "Ground turkey breast, 99% lean, cooked",
+  "brand": null,
+  "aliases": [],
+  "category": "poultry",
+  "per100g": {
+   "kcal": 147,
+   "protein_g": 31,
+   "carbs_g": 0,
+   "fat_g": 2,
+   "fiber_g": 0,
+   "sugar_g": 0,
+   "satfat_g": 0.6,
+   "sodium_mg": 86
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "4 oz (113 g)",
+    "grams": 113,
+    "isDefault": true
+   },
+   {
+    "label": "1 cup crumbles (110 g)",
+    "grams": 110
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": false,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "turkey-deli-breast",
+  "name": "Turkey breast, deli sliced",
+  "brand": null,
+  "aliases": [
+   "lunch meat turkey",
+   "turkey lunch meat"
+  ],
+  "category": "poultry",
+  "per100g": {
+   "kcal": 104,
+   "protein_g": 17,
+   "carbs_g": 3,
+   "fat_g": 2,
+   "fiber_g": 0,
+   "sugar_g": 2,
+   "satfat_g": 0.6,
+   "sodium_mg": 1000
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "2 oz (57 g)",
+    "grams": 57,
+    "isDefault": true
+   },
+   {
+    "label": "1 slice (28 g)",
+    "grams": 28
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": true,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "turkey-bacon-cooked",
+  "name": "Turkey bacon, cooked",
+  "brand": null,
+  "aliases": [],
+  "category": "poultry",
+  "per100g": {
+   "kcal": 368,
+   "protein_g": 29.5,
+   "carbs_g": 3.6,
+   "fat_g": 26,
+   "fiber_g": 0,
+   "sugar_g": 0,
+   "satfat_g": 7.6,
+   "sodium_mg": 1940
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 slice (11 g)",
+    "grams": 11,
+    "isDefault": true
+   },
+   {
+    "label": "3 slices (33 g)",
+    "grams": 33
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": true,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "turkey-sausage-cooked",
+  "name": "Turkey breakfast sausage, cooked",
+  "brand": null,
+  "aliases": [],
+  "category": "poultry",
+  "per100g": {
+   "kcal": 196,
+   "protein_g": 18,
+   "carbs_g": 1.5,
+   "fat_g": 13,
+   "fiber_g": 0,
+   "sugar_g": 0,
+   "satfat_g": 3.6,
+   "sodium_mg": 760
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "2 links (56 g)",
+    "grams": 56,
+    "isDefault": true
+   },
+   {
+    "label": "1 patty (38 g)",
+    "grams": 38
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": false,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "turkey-jerky",
+  "name": "Turkey jerky",
+  "brand": null,
+  "aliases": [],
+  "category": "poultry",
+  "per100g": {
+   "kcal": 295,
+   "protein_g": 39,
+   "carbs_g": 20,
+   "fat_g": 4,
+   "fiber_g": 0.5,
+   "sugar_g": 17,
+   "satfat_g": 1.2,
+   "sodium_mg": 1600
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 oz (28 g)",
+    "grams": 28,
+    "isDefault": true
+   },
+   {
+    "label": "100 g",
+    "grams": 100
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": false,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "turkey-whole-roasted",
+  "name": "Turkey, whole, roasted, meat and skin",
+  "brand": null,
+  "aliases": [],
+  "category": "poultry",
+  "per100g": {
+   "kcal": 208,
+   "protein_g": 28.1,
+   "carbs_g": 0,
+   "fat_g": 9.7,
+   "fiber_g": 0,
+   "sugar_g": 0,
+   "satfat_g": 2.8,
+   "sodium_mg": 68
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "3 oz (85 g)",
+    "grams": 85,
+    "isDefault": true
+   },
+   {
+    "label": "100 g",
+    "grams": 100
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": true,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "duck-breast-skinless-cooked",
+  "name": "Duck breast, skinless, roasted",
+  "brand": null,
+  "aliases": [],
+  "category": "poultry",
+  "per100g": {
+   "kcal": 201,
+   "protein_g": 23.5,
+   "carbs_g": 0,
+   "fat_g": 11.2,
+   "fiber_g": 0,
+   "sugar_g": 0,
+   "satfat_g": 4.2,
+   "sodium_mg": 89
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "4 oz (113 g)",
+    "grams": 113,
+    "isDefault": true
+   },
+   {
+    "label": "1 breast (95 g)",
+    "grams": 95
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": true,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "duck-whole-cooked",
+  "name": "Duck, roasted, meat and skin",
+  "brand": null,
+  "aliases": [],
+  "category": "poultry",
+  "per100g": {
+   "kcal": 337,
+   "protein_g": 19,
+   "carbs_g": 0,
+   "fat_g": 28.4,
+   "fiber_g": 0,
+   "sugar_g": 0,
+   "satfat_g": 9.7,
+   "sodium_mg": 59
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "3 oz (85 g)",
+    "grams": 85,
+    "isDefault": true
+   },
+   {
+    "label": "100 g",
+    "grams": 100
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": true,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "duck-confit",
+  "name": "Duck confit leg",
+  "brand": null,
+  "aliases": [],
+  "category": "poultry",
+  "per100g": {
+   "kcal": 290,
+   "protein_g": 24,
+   "carbs_g": 0,
+   "fat_g": 21.5,
+   "fiber_g": 0,
+   "sugar_g": 0,
+   "satfat_g": 7,
+   "sodium_mg": 620
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 leg (110 g)",
+    "grams": 110,
+    "isDefault": true
+   },
+   {
+    "label": "100 g",
+    "grams": 100
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": false,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "goose-cooked",
+  "name": "Goose, roasted, meat only",
+  "brand": null,
+  "aliases": [],
+  "category": "poultry",
+  "per100g": {
+   "kcal": 238,
+   "protein_g": 29,
+   "carbs_g": 0,
+   "fat_g": 12.7,
+   "fiber_g": 0,
+   "sugar_g": 0,
+   "satfat_g": 4.6,
+   "sodium_mg": 76
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "4 oz (113 g)",
+    "grams": 113,
+    "isDefault": true
+   },
+   {
+    "label": "6 oz (170 g)",
+    "grams": 170
+   },
+   {
+    "label": "3 oz (85 g)",
+    "grams": 85
+   },
+   {
+    "label": "1 oz (28 g)",
+    "grams": 28
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": true,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "cornish-hen-cooked",
+  "name": "Cornish game hen, roasted, meat only",
+  "brand": null,
+  "aliases": [],
+  "category": "poultry",
+  "per100g": {
+   "kcal": 175,
+   "protein_g": 25,
+   "carbs_g": 0,
+   "fat_g": 7.8,
+   "fiber_g": 0,
+   "sugar_g": 0,
+   "satfat_g": 2.1,
+   "sodium_mg": 66
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1/2 hen (110 g)",
+    "grams": 110,
+    "isDefault": true
+   },
+   {
+    "label": "100 g",
+    "grams": 100
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": false,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "quail-cooked",
+  "name": "Quail, cooked, meat only",
+  "brand": null,
+  "aliases": [],
+  "category": "poultry",
+  "per100g": {
+   "kcal": 168,
+   "protein_g": 25.1,
+   "carbs_g": 0,
+   "fat_g": 7,
+   "fiber_g": 0,
+   "sugar_g": 0,
+   "satfat_g": 2,
+   "sodium_mg": 52
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "4 oz (113 g)",
+    "grams": 113,
+    "isDefault": true
+   },
+   {
+    "label": "6 oz (170 g)",
+    "grams": 170
+   },
+   {
+    "label": "3 oz (85 g)",
+    "grams": 85
+   },
+   {
+    "label": "1 oz (28 g)",
+    "grams": 28
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": false,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "pheasant-cooked",
+  "name": "Pheasant, roasted, meat only",
+  "brand": null,
+  "aliases": [],
+  "category": "poultry",
+  "per100g": {
+   "kcal": 239,
+   "protein_g": 32.4,
+   "carbs_g": 0,
+   "fat_g": 12.1,
+   "fiber_g": 0,
+   "sugar_g": 0,
+   "satfat_g": 4.1,
+   "sodium_mg": 43
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "4 oz (113 g)",
+    "grams": 113,
+    "isDefault": true
+   },
+   {
+    "label": "6 oz (170 g)",
+    "grams": 170
+   },
+   {
+    "label": "3 oz (85 g)",
+    "grams": 85
+   },
+   {
+    "label": "1 oz (28 g)",
+    "grams": 28
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": false,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "ostrich-cooked",
+  "name": "Ostrich, ground, cooked",
+  "brand": null,
+  "aliases": [],
+  "category": "poultry",
+  "per100g": {
+   "kcal": 175,
+   "protein_g": 28,
+   "carbs_g": 0,
+   "fat_g": 6.5,
+   "fiber_g": 0,
+   "sugar_g": 0,
+   "satfat_g": 2.2,
+   "sodium_mg": 75
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "4 oz (113 g)",
+    "grams": 113,
+    "isDefault": true
+   },
+   {
+    "label": "6 oz (170 g)",
+    "grams": 170
+   },
+   {
+    "label": "3 oz (85 g)",
+    "grams": 85
+   },
+   {
+    "label": "1 oz (28 g)",
+    "grams": 28
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": false,
+  "source": "USDA FoodData Central (SR Legacy)"
+ }
+]

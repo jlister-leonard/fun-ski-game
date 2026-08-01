@@ -1,0 +1,422 @@
+[
+ {
+  "id": "allulose",
+  "flags": [
+   "polyol"
+  ]
+ },
+ {
+  "id": "beer-ipa",
+  "flags": [
+   "alcohol"
+  ]
+ },
+ {
+  "id": "beer-light",
+  "flags": [
+   "alcohol"
+  ]
+ },
+ {
+  "id": "beer-pilsner",
+  "flags": [
+   "alcohol"
+  ]
+ },
+ {
+  "id": "beer-regular",
+  "flags": [
+   "alcohol"
+  ]
+ },
+ {
+  "id": "beer-sour",
+  "flags": [
+   "alcohol"
+  ]
+ },
+ {
+  "id": "beer-stout",
+  "flags": [
+   "alcohol"
+  ]
+ },
+ {
+  "id": "beer-wheat",
+  "flags": [
+   "alcohol"
+  ]
+ },
+ {
+  "id": "brandy-80-proof",
+  "flags": [
+   "alcohol"
+  ]
+ },
+ {
+  "id": "cereal-all-bran",
+  "flags": [
+   "fiber"
+  ]
+ },
+ {
+  "id": "chipotle-sour-cream",
+  "flags": [
+   "rounding"
+  ]
+ },
+ {
+  "id": "cocktail-aperol-spritz",
+  "flags": [
+   "alcohol"
+  ]
+ },
+ {
+  "id": "cocktail-bloody-mary",
+  "flags": [
+   "alcohol"
+  ]
+ },
+ {
+  "id": "cocktail-cosmopolitan",
+  "flags": [
+   "alcohol"
+  ]
+ },
+ {
+  "id": "cocktail-daiquiri",
+  "flags": [
+   "alcohol"
+  ]
+ },
+ {
+  "id": "cocktail-espresso-martini",
+  "flags": [
+   "alcohol"
+  ]
+ },
+ {
+  "id": "cocktail-gin-tonic",
+  "flags": [
+   "alcohol"
+  ]
+ },
+ {
+  "id": "cocktail-long-island",
+  "flags": [
+   "alcohol"
+  ]
+ },
+ {
+  "id": "cocktail-margarita",
+  "flags": [
+   "alcohol"
+  ]
+ },
+ {
+  "id": "cocktail-martini",
+  "flags": [
+   "alcohol"
+  ]
+ },
+ {
+  "id": "cocktail-michelada",
+  "flags": [
+   "alcohol"
+  ]
+ },
+ {
+  "id": "cocktail-mimosa",
+  "flags": [
+   "alcohol"
+  ]
+ },
+ {
+  "id": "cocktail-mojito",
+  "flags": [
+   "alcohol"
+  ]
+ },
+ {
+  "id": "cocktail-moscow-mule",
+  "flags": [
+   "alcohol"
+  ]
+ },
+ {
+  "id": "cocktail-negroni",
+  "flags": [
+   "alcohol"
+  ]
+ },
+ {
+  "id": "cocktail-old-fashioned",
+  "flags": [
+   "alcohol"
+  ]
+ },
+ {
+  "id": "cocktail-pina-colada",
+  "flags": [
+   "alcohol"
+  ]
+ },
+ {
+  "id": "cocktail-vodka-soda",
+  "flags": [
+   "alcohol"
+  ]
+ },
+ {
+  "id": "cocktail-whiskey-sour",
+  "flags": [
+   "alcohol"
+  ]
+ },
+ {
+  "id": "cocktail-white-russian",
+  "flags": [
+   "alcohol"
+  ]
+ },
+ {
+  "id": "cocoa-powder-unsweetened",
+  "flags": [
+   "fiber"
+  ]
+ },
+ {
+  "id": "erythritol",
+  "flags": [
+   "polyol"
+  ]
+ },
+ {
+  "id": "gin-80-proof",
+  "flags": [
+   "alcohol"
+  ]
+ },
+ {
+  "id": "hard-cider",
+  "flags": [
+   "alcohol"
+  ]
+ },
+ {
+  "id": "hard-seltzer",
+  "flags": [
+   "alcohol"
+  ]
+ },
+ {
+  "id": "liqueur-amaretto",
+  "flags": [
+   "alcohol"
+  ]
+ },
+ {
+  "id": "liqueur-aperol",
+  "flags": [
+   "alcohol"
+  ]
+ },
+ {
+  "id": "liqueur-baileys",
+  "flags": [
+   "alcohol"
+  ]
+ },
+ {
+  "id": "liqueur-campari",
+  "flags": [
+   "alcohol"
+  ]
+ },
+ {
+  "id": "liqueur-jagermeister",
+  "flags": [
+   "alcohol"
+  ]
+ },
+ {
+  "id": "liqueur-kahlua",
+  "flags": [
+   "alcohol"
+  ]
+ },
+ {
+  "id": "liqueur-limoncello",
+  "flags": [
+   "alcohol"
+  ]
+ },
+ {
+  "id": "liqueur-triple-sec",
+  "flags": [
+   "alcohol"
+  ]
+ },
+ {
+  "id": "mezcal",
+  "flags": [
+   "alcohol"
+  ]
+ },
+ {
+  "id": "monk-fruit-sweetener",
+  "flags": [
+   "polyol"
+  ]
+ },
+ {
+  "id": "rum-80-proof",
+  "flags": [
+   "alcohol"
+  ]
+ },
+ {
+  "id": "sake",
+  "flags": [
+   "alcohol"
+  ]
+ },
+ {
+  "id": "soju",
+  "flags": [
+   "alcohol"
+  ]
+ },
+ {
+  "id": "spirits-100-proof",
+  "flags": [
+   "alcohol"
+  ]
+ },
+ {
+  "id": "spirits-90-proof",
+  "flags": [
+   "alcohol"
+  ]
+ },
+ {
+  "id": "stevia-packet",
+  "flags": [
+   "polyol"
+  ]
+ },
+ {
+  "id": "syrup-pancake-sugar-free",
+  "flags": [
+   "polyol"
+  ]
+ },
+ {
+  "id": "tequila-80-proof",
+  "flags": [
+   "alcohol"
+  ]
+ },
+ {
+  "id": "vanilla-extract",
+  "flags": [
+   "alcohol"
+  ]
+ },
+ {
+  "id": "vermouth-dry",
+  "flags": [
+   "alcohol"
+  ]
+ },
+ {
+  "id": "vermouth-sweet",
+  "flags": [
+   "alcohol"
+  ]
+ },
+ {
+  "id": "vinegar-apple-cider",
+  "flags": [
+   "acid"
+  ]
+ },
+ {
+  "id": "vinegar-balsamic",
+  "flags": [
+   "acid"
+  ]
+ },
+ {
+  "id": "vinegar-red-wine",
+  "flags": [
+   "acid"
+  ]
+ },
+ {
+  "id": "vinegar-white-distilled",
+  "flags": [
+   "acid"
+  ]
+ },
+ {
+  "id": "vodka-80-proof",
+  "flags": [
+   "alcohol"
+  ]
+ },
+ {
+  "id": "whiskey-80-proof",
+  "flags": [
+   "alcohol"
+  ]
+ },
+ {
+  "id": "wine-dessert-sweet",
+  "flags": [
+   "alcohol"
+  ]
+ },
+ {
+  "id": "wine-port",
+  "flags": [
+   "alcohol"
+  ]
+ },
+ {
+  "id": "wine-red",
+  "flags": [
+   "alcohol"
+  ]
+ },
+ {
+  "id": "wine-riesling-sweet",
+  "flags": [
+   "alcohol"
+  ]
+ },
+ {
+  "id": "wine-rose",
+  "flags": [
+   "alcohol"
+  ]
+ },
+ {
+  "id": "wine-sparkling",
+  "flags": [
+   "alcohol"
+  ]
+ },
+ {
+  "id": "wine-white-dry",
+  "flags": [
+   "alcohol"
+  ]
+ },
+ {
+  "id": "xylitol",
+  "flags": [
+   "polyol"
+  ]
+ }
+]

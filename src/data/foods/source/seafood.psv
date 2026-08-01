@@ -1,0 +1,87 @@
+#category: seafood
+#source: USDA FoodData Central (SR Legacy)
+#servings: 6 oz (170 g)@170*;4 oz (113 g)@113;3 oz (85 g)@85;100 g@100
+# id|name|aliases|kcal|protein|carbs|fat|fiber|sugar|satfat|sodium|servings|extra
+
+# --- salmon --------------------------------------------------------------
+salmon-atlantic-farmed-raw|Salmon, Atlantic, farmed, raw||208|20.4|0|13.4|0|0|3.1|59|6 oz (170 g)@170*;1 fillet (198 g)@198;4 oz (113 g)@113
+salmon-atlantic-farmed-cooked|Salmon, Atlantic, farmed, cooked|baked salmon;grilled salmon|206|22.1|0|12.4|0|0|2.4|61|6 oz (170 g)@170*;1 fillet (159 g)@159;4 oz (113 g)@113;3 oz (85 g)@85|ret=13;car=0;ffol=5;fac=0;dfe=5;src=USDA FoodData Central SR Legacy FDC 175168, release 2018-04, reviewed 2026-08-01
+salmon-atlantic-wild-cooked|Salmon, Atlantic, wild, cooked||182|25.4|0|8.1|0|0|1.3|56|
+salmon-sockeye-raw|Salmon, sockeye, raw|red salmon|131|22.3|0|4.0|0|0|0.7|64|
+salmon-sockeye-cooked|Salmon, sockeye, cooked|red salmon|156|26.5|0|5.0|0|0|0.9|75|
+salmon-coho-cooked|Salmon, coho, wild, cooked|silver salmon|139|23.5|0|4.3|0|0|1.0|58|
+salmon-king-cooked|Salmon, chinook, cooked|king salmon|231|25.7|0|13.4|0|0|3.2|60||v=0
+salmon-pink-canned|Salmon, pink, canned, drained||139|19.8|0|6.0|0|0|1.5|400|1 can (156 g)@156*;100 g@100
+salmon-smoked|Salmon, smoked|lox;nova|117|18.3|0|4.3|0|0|0.9|1880|2 oz (57 g)@57*;3 oz (85 g)@85;100 g@100
+salmon-burger|Salmon burger patty, cooked||190|20.0|4.0|10.0|0.5|0.5|2.0|380|1 patty (85 g)@85*;100 g@100|v=0
+
+# --- tuna ----------------------------------------------------------------
+tuna-canned-water|Tuna, light, canned in water, drained|canned tuna;chunk light tuna|116|25.5|0|0.8|0|0|0.2|247|1 can (142 g)@142*;1 pouch (74 g)@74;100 g@100|ret=5;car=0;ffol=4;fac=0;dfe=4
+tuna-albacore-canned-water|Tuna, albacore, canned in water, drained|white tuna|128|23.6|0|2.5|0|0|0.7|338|1 can (142 g)@142*;1 pouch (74 g)@74;100 g@100
+tuna-canned-oil|Tuna, canned in oil, drained||198|29.1|0|8.2|0|0|1.5|354|1 can (142 g)@142*;100 g@100
+tuna-yellowfin-raw|Tuna, yellowfin, raw|ahi tuna|109|24.4|0|0.5|0|0|0.2|45|6 oz (170 g)@170*;4 oz (113 g)@113
+tuna-yellowfin-cooked|Tuna, yellowfin, cooked|seared ahi|139|29.9|0|1.0|0|0|0.3|54|
+tuna-bluefin-raw|Tuna, bluefin, raw|toro|144|23.3|0|4.9|0|0|1.3|39||v=0
+tuna-steak-grilled|Tuna steak, grilled||184|29.9|0|6.3|0|0|1.6|50||v=0
+
+# --- white fish ----------------------------------------------------------
+cod-raw|Cod, Atlantic, raw||82|17.8|0|0.7|0|0|0.1|54|6 oz (170 g)@170*;1 fillet (231 g)@231;4 oz (113 g)@113
+cod-cooked|Cod, Atlantic, cooked||105|22.8|0|0.9|0|0|0.2|78|6 oz (170 g)@170*;1 fillet (180 g)@180;3 oz (85 g)@85
+haddock-cooked|Haddock, cooked||112|24.2|0|0.9|0|0|0.2|261|
+pollock-cooked|Pollock, Alaska, cooked||111|23.5|0|1.2|0|0|0.2|420|
+halibut-raw|Halibut, raw||111|20.8|0|2.3|0|0|0.3|54|
+halibut-cooked|Halibut, cooked||140|26.7|0|2.9|0|0|0.4|68|
+tilapia-raw|Tilapia, raw||96|20.1|0|1.7|0|0|0.6|52|
+tilapia-cooked|Tilapia, cooked||128|26.2|0|2.7|0|0|0.9|56|6 oz (170 g)@170*;1 fillet (87 g)@87;4 oz (113 g)@113
+flounder-cooked|Flounder, cooked|sole|86|17.8|0|1.1|0|0|0.3|89||v=0
+snapper-cooked|Red snapper, cooked||128|26.3|0|1.7|0|0|0.4|57|
+sea-bass-cooked|Sea bass, cooked||124|23.6|0|2.6|0|0|0.7|87|
+mahi-mahi-cooked|Mahi mahi, cooked|dolphinfish|109|23.7|0|0.9|0|0|0.2|113|
+grouper-cooked|Grouper, cooked||118|24.8|0|1.3|0|0|0.3|53||v=0
+catfish-cooked|Catfish, farmed, cooked||152|18.7|0|8.0|0|0|1.8|119|
+swordfish-cooked|Swordfish, cooked||172|23.5|0|7.9|0|0|2.1|115||v=0
+trout-rainbow-cooked|Rainbow trout, farmed, cooked||168|23.8|0|7.2|0|0|2.1|51|6 oz (170 g)@170*;1 fillet (71 g)@71;4 oz (113 g)@113
+tuna-white-fish-branzino|Branzino, cooked|european sea bass|124|23.5|0|2.6|0|0|0.7|87||v=0
+walleye-cooked|Walleye, cooked||119|24.5|0|1.6|0|0|0.3|65||v=0
+perch-cooked|Perch, cooked||117|25.0|0|1.2|0|0|0.2|82||v=0
+monkfish-cooked|Monkfish, cooked||97|18.6|0|1.9|0|0|0.4|23||v=0
+skate-cooked|Skate wing, cooked||110|23.0|0|1.2|0|0|0.3|110||v=0
+
+# --- oily fish -----------------------------------------------------------
+mackerel-atlantic-cooked|Mackerel, Atlantic, cooked||262|23.9|0|17.8|0|0|4.2|83||ret=54;car=0;ffol=2;fac=0;dfe=2
+mackerel-canned|Mackerel, canned, drained||156|23.2|0|6.3|0|0|1.8|420|1 can (125 g)@125*;100 g@100|v=0
+sardines-oil-drained|Sardines, canned in oil, drained||208|24.6|0|11.5|0|0|1.5|505|1 can (92 g)@92*;2 sardines (24 g)@24;100 g@100|ret=32;car=0;ffol=10;fac=0;dfe=10
+sardines-water|Sardines, canned in water, drained||185|22.7|0|10.0|0|0|1.3|380|1 can (92 g)@92*;100 g@100|v=0
+anchovies-oil|Anchovies, canned in oil, drained||210|28.9|0|9.7|0|0|2.2|3668|1 fillet (4 g)@4*;1 oz (28 g)@28
+herring-cooked|Herring, Atlantic, cooked||203|23.0|0|11.6|0|0|2.6|115|
+herring-pickled|Herring, pickled||262|14.2|9.6|18.0|0|9.6|2.4|870|1 oz (28 g)@28*;100 g@100
+smelt-cooked|Smelt, cooked||124|22.6|0|3.1|0|0|0.6|77||v=0
+
+# --- shellfish -----------------------------------------------------------
+shrimp-raw|Shrimp, raw|prawns|85|20.1|0|0.5|0|0|0.1|119|4 oz (113 g)@113*;6 oz (170 g)@170;1 large shrimp (12 g)@12
+shrimp-cooked|Shrimp, cooked|prawns;boiled shrimp|99|20.9|0.2|1.1|0|0|0.3|111|4 oz (113 g)@113*;3 oz (85 g)@85;1 large shrimp (9 g)@9;1 cup (145 g)@145
+shrimp-breaded-fried|Shrimp, breaded and fried|popcorn shrimp;coconut shrimp|242|15.5|17.9|12.2|0.6|0.5|2.1|556|4 oz (113 g)@113*;6 shrimp (60 g)@60
+crab-blue-cooked|Crab, blue, cooked||87|17.2|0|1.1|0|0|0.2|293|3 oz (85 g)@85*;1 cup (135 g)@135
+crab-king-cooked|King crab, cooked||97|19.4|0|1.5|0|0|0.1|1072|3 oz (85 g)@85*;1 leg (134 g)@134
+crab-imitation|Imitation crab, surimi|krab;surimi|95|7.6|15.0|0.4|0.5|5.0|0.1|841|3 oz (85 g)@85*;1 stick (17 g)@17
+lobster-cooked|Lobster, cooked||89|19.0|0|0.9|0|0|0.2|486|3 oz (85 g)@85*;1 cup (145 g)@145;1 tail (145 g)@145
+scallops-raw|Scallops, raw||69|12.1|3.2|0.5|0|0|0.1|392|4 oz (113 g)@113*;3 large (45 g)@45
+scallops-cooked|Scallops, cooked||111|20.5|5.4|0.8|0|0|0.1|667|4 oz (113 g)@113*;3 large (45 g)@45|v=0
+mussels-cooked|Mussels, blue, cooked||172|23.8|7.4|4.5|0|0|0.9|369|3 oz (85 g)@85*;1 cup (150 g)@150
+oysters-raw|Oysters, eastern, raw||68|7.1|3.9|2.5|0|0|0.6|106|6 oysters (84 g)@84*;1 oyster (14 g)@14|ret=24;car=0;ffol=10;fac=0;dfe=10
+oysters-cooked|Oysters, cooked||137|14.1|8.3|4.9|0|0|1.3|206|6 oysters (84 g)@84*;100 g@100|v=0
+clams-cooked|Clams, cooked||148|25.5|5.1|2.0|0|0|0.2|1202|3 oz (85 g)@85*;1 cup (160 g)@160
+clams-canned|Clams, canned, drained||142|24.5|4.9|1.9|0|0|0.2|1020|1 can (95 g)@95*;100 g@100|v=0
+squid-raw|Squid, raw|calamari|92|15.6|3.1|1.4|0|0|0.4|44||v=0
+calamari-fried|Calamari, breaded and fried||175|15.3|7.8|7.5|0.3|0.3|1.9|306|4 oz (113 g)@113*;100 g@100
+octopus-cooked|Octopus, cooked||164|29.8|4.4|2.1|0|0|0.5|460||v=0
+crawfish-cooked|Crawfish, cooked|crayfish|82|16.8|0|1.2|0|0|0.2|82|3 oz (85 g)@85*;100 g@100|v=0
+
+# --- other ---------------------------------------------------------------
+fish-sticks-breaded|Fish sticks, breaded, baked||290|13.5|24.0|15.5|1.0|1.5|3.5|590|4 sticks (114 g)@114*;1 stick (28 g)@28|v=0
+fish-fillet-fried-fast-food|Fried fish fillet, fast-food style||265|12.0|20.0|15.0|1.0|1.0|3.0|500|1 fillet (91 g)@91*;100 g@100|v=0
+caviar|Caviar, black or red||264|24.6|4.0|17.9|0|0|4.1|1500|1 tbsp (16 g)@16*;1 oz (28 g)@28
+roe-salmon|Salmon roe|ikura|250|28.0|3.0|14.0|0|0|3.0|1500|1 tbsp (16 g)@16*;1 oz (28 g)@28|v=0
+seaweed-nori|Nori, dried seaweed|sushi seaweed|35|5.8|5.1|0.3|3.0|0.5|0.1|48|1 sheet (3 g)@3*;10 sheets (30 g)@30
+seaweed-wakame|Wakame, raw||45|3.0|9.1|0.6|0.5|0.6|0.1|872|1 cup (80 g)@80*;100 g@100
+seaweed-kelp|Kelp, raw||43|1.7|9.6|0.6|1.3|0.6|0.2|233|1 cup (80 g)@80*;100 g@100

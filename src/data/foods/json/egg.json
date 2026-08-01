@@ -1,0 +1,804 @@
+[
+ {
+  "id": "egg-whole-raw",
+  "name": "Egg, whole, raw",
+  "brand": null,
+  "aliases": [
+   "eggs",
+   "chicken egg"
+  ],
+  "category": "egg",
+  "per100g": {
+   "kcal": 143,
+   "protein_g": 12.6,
+   "carbs_g": 0.7,
+   "fat_g": 9.5,
+   "fiber_g": 0,
+   "sugar_g": 0.4,
+   "satfat_g": 3.1,
+   "sodium_mg": 142
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": 160,
+   "vitamin_a_carotenoid_mcg_rae": 0,
+   "folate_food_mcg": 47,
+   "folic_acid_mcg": 0,
+   "folate_dfe_mcg": 47
+  },
+  "servings": [
+   {
+    "label": "1 large (50 g)",
+    "grams": 50,
+    "isDefault": true
+   },
+   {
+    "label": "1 medium (44 g)",
+    "grams": 44
+   },
+   {
+    "label": "1 extra large (56 g)",
+    "grams": 56
+   },
+   {
+    "label": "1 jumbo (63 g)",
+    "grams": 63
+   },
+   {
+    "label": "2 large (100 g)",
+    "grams": 100
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": true,
+  "source": "USDA FoodData Central SR Legacy FDC 171287, release 2018-04, reviewed 2026-08-01"
+ },
+ {
+  "id": "egg-white-raw",
+  "name": "Egg white, raw",
+  "brand": null,
+  "aliases": [],
+  "category": "egg",
+  "per100g": {
+   "kcal": 52,
+   "protein_g": 10.9,
+   "carbs_g": 0.7,
+   "fat_g": 0.2,
+   "fiber_g": 0,
+   "sugar_g": 0.7,
+   "satfat_g": 0,
+   "sodium_mg": 166
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": 0,
+   "vitamin_a_carotenoid_mcg_rae": 0,
+   "folate_food_mcg": 4,
+   "folic_acid_mcg": 0,
+   "folate_dfe_mcg": 4
+  },
+  "servings": [
+   {
+    "label": "1 large white (33 g)",
+    "grams": 33,
+    "isDefault": true
+   },
+   {
+    "label": "3 whites (99 g)",
+    "grams": 99
+   },
+   {
+    "label": "100 g",
+    "grams": 100
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": true,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "egg-yolk-raw",
+  "name": "Egg yolk, raw",
+  "brand": null,
+  "aliases": [],
+  "category": "egg",
+  "per100g": {
+   "kcal": 322,
+   "protein_g": 15.9,
+   "carbs_g": 3.6,
+   "fat_g": 26.5,
+   "fiber_g": 0,
+   "sugar_g": 0.6,
+   "satfat_g": 9.6,
+   "sodium_mg": 48
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": 371,
+   "vitamin_a_carotenoid_mcg_rae": 10,
+   "folate_food_mcg": 146,
+   "folic_acid_mcg": 0,
+   "folate_dfe_mcg": 146
+  },
+  "servings": [
+   {
+    "label": "1 large yolk (17 g)",
+    "grams": 17,
+    "isDefault": true
+   },
+   {
+    "label": "100 g",
+    "grams": 100
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": true,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "egg-hard-boiled",
+  "name": "Egg, hard-boiled",
+  "brand": null,
+  "aliases": [
+   "boiled egg",
+   "hard cooked egg"
+  ],
+  "category": "egg",
+  "per100g": {
+   "kcal": 155,
+   "protein_g": 12.6,
+   "carbs_g": 1.1,
+   "fat_g": 10.6,
+   "fiber_g": 0,
+   "sugar_g": 1.1,
+   "satfat_g": 3.3,
+   "sodium_mg": 124
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": 149,
+   "vitamin_a_carotenoid_mcg_rae": 0,
+   "folate_food_mcg": 44,
+   "folic_acid_mcg": 0,
+   "folate_dfe_mcg": 44
+  },
+  "servings": [
+   {
+    "label": "1 large (50 g)",
+    "grams": 50,
+    "isDefault": true
+   },
+   {
+    "label": "2 large (100 g)",
+    "grams": 100
+   },
+   {
+    "label": "1 cup chopped (136 g)",
+    "grams": 136
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": true,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "egg-poached",
+  "name": "Egg, poached",
+  "brand": null,
+  "aliases": [],
+  "category": "egg",
+  "per100g": {
+   "kcal": 143,
+   "protein_g": 12.5,
+   "carbs_g": 0.7,
+   "fat_g": 9.5,
+   "fiber_g": 0,
+   "sugar_g": 0.4,
+   "satfat_g": 3.1,
+   "sodium_mg": 297
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 large (50 g)",
+    "grams": 50,
+    "isDefault": true
+   },
+   {
+    "label": "2 large (100 g)",
+    "grams": 100
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": true,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "egg-fried",
+  "name": "Egg, fried in butter or oil",
+  "brand": null,
+  "aliases": [],
+  "category": "egg",
+  "per100g": {
+   "kcal": 196,
+   "protein_g": 13.6,
+   "carbs_g": 0.8,
+   "fat_g": 14.8,
+   "fiber_g": 0,
+   "sugar_g": 0.4,
+   "satfat_g": 4,
+   "sodium_mg": 207
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 large (46 g)",
+    "grams": 46,
+    "isDefault": true
+   },
+   {
+    "label": "2 large (92 g)",
+    "grams": 92
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": true,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "egg-scrambled",
+  "name": "Egg, scrambled with milk and fat",
+  "brand": null,
+  "aliases": [],
+  "category": "egg",
+  "per100g": {
+   "kcal": 149,
+   "protein_g": 10,
+   "carbs_g": 1.6,
+   "fat_g": 11,
+   "fiber_g": 0,
+   "sugar_g": 1.5,
+   "satfat_g": 3.5,
+   "sodium_mg": 145
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 large egg (61 g)",
+    "grams": 61,
+    "isDefault": true
+   },
+   {
+    "label": "2 eggs (122 g)",
+    "grams": 122
+   },
+   {
+    "label": "1 cup (220 g)",
+    "grams": 220
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": true,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "egg-omelet",
+  "name": "Omelet, plain",
+  "brand": null,
+  "aliases": [],
+  "category": "egg",
+  "per100g": {
+   "kcal": 154,
+   "protein_g": 10.6,
+   "carbs_g": 0.6,
+   "fat_g": 11.7,
+   "fiber_g": 0,
+   "sugar_g": 0.5,
+   "satfat_g": 3.4,
+   "sodium_mg": 155
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 two-egg omelet (122 g)",
+    "grams": 122,
+    "isDefault": true
+   },
+   {
+    "label": "100 g",
+    "grams": 100
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": true,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "egg-whites-liquid",
+  "name": "Egg whites, liquid, carton",
+  "brand": null,
+  "aliases": [
+   "liquid egg whites",
+   "egg white carton"
+  ],
+  "category": "egg",
+  "per100g": {
+   "kcal": 48,
+   "protein_g": 10.1,
+   "carbs_g": 0.7,
+   "fat_g": 0.2,
+   "fiber_g": 0,
+   "sugar_g": 0.7,
+   "satfat_g": 0,
+   "sodium_mg": 160
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1/4 cup (60 ml)",
+    "grams": 61,
+    "isDefault": true
+   },
+   {
+    "label": "1 cup (240 ml)",
+    "grams": 243
+   },
+   {
+    "label": "3 tbsp (46 g)",
+    "grams": 46
+   }
+  ],
+  "density_g_per_ml": 1.015,
+  "verified": true,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "egg-substitute-liquid",
+  "name": "Egg substitute, liquid",
+  "brand": "Egg Beaters",
+  "aliases": [
+   "egg beaters"
+  ],
+  "category": "egg",
+  "per100g": {
+   "kcal": 48,
+   "protein_g": 10,
+   "carbs_g": 0.4,
+   "fat_g": 0,
+   "fiber_g": 0,
+   "sugar_g": 0.4,
+   "satfat_g": 0,
+   "sodium_mg": 191
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1/4 cup (60 ml)",
+    "grams": 61,
+    "isDefault": true
+   },
+   {
+    "label": "1 cup (240 ml)",
+    "grams": 243
+   }
+  ],
+  "density_g_per_ml": 1.015,
+  "verified": true,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "egg-deviled",
+  "name": "Deviled egg",
+  "brand": null,
+  "aliases": [],
+  "category": "egg",
+  "per100g": {
+   "kcal": 208,
+   "protein_g": 9.6,
+   "carbs_g": 1,
+   "fat_g": 18,
+   "fiber_g": 0,
+   "sugar_g": 0.8,
+   "satfat_g": 4,
+   "sodium_mg": 280
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 half (28 g)",
+    "grams": 28,
+    "isDefault": true
+   },
+   {
+    "label": "2 halves (56 g)",
+    "grams": 56
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": false,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "egg-salad",
+  "name": "Egg salad",
+  "brand": null,
+  "aliases": [],
+  "category": "egg",
+  "per100g": {
+   "kcal": 240,
+   "protein_g": 10,
+   "carbs_g": 2,
+   "fat_g": 21,
+   "fiber_g": 0,
+   "sugar_g": 1.5,
+   "satfat_g": 4.4,
+   "sodium_mg": 380
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1/2 cup (110 g)",
+    "grams": 110,
+    "isDefault": true
+   },
+   {
+    "label": "100 g",
+    "grams": 100
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": false,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "egg-duck-raw",
+  "name": "Duck egg, raw",
+  "brand": null,
+  "aliases": [],
+  "category": "egg",
+  "per100g": {
+   "kcal": 185,
+   "protein_g": 12.8,
+   "carbs_g": 1.5,
+   "fat_g": 13.8,
+   "fiber_g": 0,
+   "sugar_g": 0.9,
+   "satfat_g": 3.7,
+   "sodium_mg": 146
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 egg (70 g)",
+    "grams": 70,
+    "isDefault": true
+   },
+   {
+    "label": "100 g",
+    "grams": 100
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": true,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "egg-quail-raw",
+  "name": "Quail egg, raw",
+  "brand": null,
+  "aliases": [],
+  "category": "egg",
+  "per100g": {
+   "kcal": 158,
+   "protein_g": 13,
+   "carbs_g": 0.4,
+   "fat_g": 11.1,
+   "fiber_g": 0,
+   "sugar_g": 0.4,
+   "satfat_g": 3.6,
+   "sodium_mg": 141
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 egg (9 g)",
+    "grams": 9,
+    "isDefault": true
+   },
+   {
+    "label": "5 eggs (45 g)",
+    "grams": 45
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": true,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "egg-goose-raw",
+  "name": "Goose egg, raw",
+  "brand": null,
+  "aliases": [],
+  "category": "egg",
+  "per100g": {
+   "kcal": 185,
+   "protein_g": 13.9,
+   "carbs_g": 1.4,
+   "fat_g": 13.3,
+   "fiber_g": 0,
+   "sugar_g": 0.9,
+   "satfat_g": 3.6,
+   "sodium_mg": 138
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 egg (144 g)",
+    "grams": 144,
+    "isDefault": true
+   },
+   {
+    "label": "100 g",
+    "grams": 100
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": false,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "egg-frittata",
+  "name": "Frittata, vegetable",
+  "brand": null,
+  "aliases": [],
+  "category": "egg",
+  "per100g": {
+   "kcal": 150,
+   "protein_g": 10,
+   "carbs_g": 3.5,
+   "fat_g": 10.5,
+   "fiber_g": 0.6,
+   "sugar_g": 1.8,
+   "satfat_g": 3.5,
+   "sodium_mg": 300
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 slice (120 g)",
+    "grams": 120,
+    "isDefault": true
+   },
+   {
+    "label": "100 g",
+    "grams": 100
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": false,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "egg-quiche-lorraine",
+  "name": "Quiche Lorraine",
+  "brand": null,
+  "aliases": [],
+  "category": "egg",
+  "per100g": {
+   "kcal": 291,
+   "protein_g": 10.4,
+   "carbs_g": 15,
+   "fat_g": 21.5,
+   "fiber_g": 0.6,
+   "sugar_g": 2.5,
+   "satfat_g": 9.8,
+   "sodium_mg": 420
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 slice (155 g)",
+    "grams": 155,
+    "isDefault": true
+   },
+   {
+    "label": "100 g",
+    "grams": 100
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": false,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "egg-benedict",
+  "name": "Eggs Benedict, one",
+  "brand": null,
+  "aliases": [],
+  "category": "egg",
+  "per100g": {
+   "kcal": 245,
+   "protein_g": 12,
+   "carbs_g": 13,
+   "fat_g": 16,
+   "fiber_g": 0.8,
+   "sugar_g": 1.5,
+   "satfat_g": 6.5,
+   "sodium_mg": 620
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 serving (150 g)",
+    "grams": 150,
+    "isDefault": true
+   },
+   {
+    "label": "100 g",
+    "grams": 100
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": false,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "egg-whites-powder",
+  "name": "Egg white protein powder",
+  "brand": null,
+  "aliases": [],
+  "category": "egg",
+  "per100g": {
+   "kcal": 382,
+   "protein_g": 81,
+   "carbs_g": 7.8,
+   "fat_g": 0.1,
+   "fiber_g": 0,
+   "sugar_g": 5.5,
+   "satfat_g": 0,
+   "sodium_mg": 1280
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 scoop (30 g)",
+    "grams": 30,
+    "isDefault": true
+   },
+   {
+    "label": "100 g",
+    "grams": 100
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": false,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "egg-century",
+  "name": "Century egg",
+  "brand": null,
+  "aliases": [
+   "preserved egg",
+   "pidan"
+  ],
+  "category": "egg",
+  "per100g": {
+   "kcal": 171,
+   "protein_g": 13.6,
+   "carbs_g": 4.2,
+   "fat_g": 11,
+   "fiber_g": 0,
+   "sugar_g": 0,
+   "satfat_g": 2.7,
+   "sodium_mg": 540
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 egg (60 g)",
+    "grams": 60,
+    "isDefault": true
+   },
+   {
+    "label": "100 g",
+    "grams": 100
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": false,
+  "source": "USDA FoodData Central (SR Legacy)"
+ }
+]

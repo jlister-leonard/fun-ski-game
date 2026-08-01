@@ -1,0 +1,78 @@
+#category: alcohol
+#source: USDA FoodData Central (SR Legacy)
+#servings: 1 drink (150 ml)@150*;100 g@100
+#density: 0.99
+# ETHANOL IS 6.93 kcal/g AND IS NOT A MACRONUTRIENT FIELD.
+# Every row here therefore fails a naive 4/4/9 energy check by design, and every
+# row carries the `alcohol` exception. validate.mjs back-computes the implied
+# ethanol content from the calorie gap and asserts it is physically plausible
+# for the drink — that is a stronger check than 4/4/9 would have been.
+# US standard drinks: beer 12 fl oz, wine 5 fl oz, spirits 1.5 fl oz.
+# id|name|aliases|kcal|protein|carbs|fat|fiber|sugar|satfat|sodium|servings|extra
+
+# --- beer ----------------------------------------------------------------
+beer-regular|Beer, regular, 4.5% ABV|lager;beer|43|0.46|3.55|0|0|0|0|4|1 can or bottle (355 ml)@359*;1 pint (473 ml)@478;1 can (473 ml)@478|d=1.01;fl=alcohol
+beer-light|Beer, light, 4.2% ABV|light beer;michelob ultra|29|0.24|1.64|0|0|0.09|0|4|1 can or bottle (355 ml)@358*;1 pint (473 ml)@477|d=1.01;fl=alcohol
+beer-ipa|Beer, IPA, 7% ABV|india pale ale|62|0.60|5.50|0|0|0|0|5|1 can (355 ml)@359*;1 pint (473 ml)@478|d=1.01;v=0;fl=alcohol
+beer-stout|Beer, stout, 4.2% ABV|guinness|36|0.30|3.00|0|0|0|0|6|1 pint (473 ml)@478*;1 can (440 ml)@444|d=1.01;v=0;fl=alcohol
+beer-wheat|Beer, wheat or hefeweizen, 5% ABV||48|0.55|4.30|0|0|0|0|5|1 can (355 ml)@359*;1 pint (473 ml)@478|d=1.01;v=0;fl=alcohol
+beer-pilsner|Beer, pilsner, 5% ABV||45|0.46|3.60|0|0|0|0|4|1 can (355 ml)@359*;1 pint (473 ml)@478|d=1.01;v=0;fl=alcohol
+beer-sour|Beer, sour, 5% ABV||45|0.40|4.00|0|0|1.5|0|6|1 can (355 ml)@359*;100 g@100|d=1.01;v=0;fl=alcohol
+beer-non-alcoholic|Beer, non-alcoholic||13|0.42|2.80|0|0|1.5|0|5|1 can (355 ml)@358*;100 g@100|d=1.01;v=0
+hard-seltzer|Hard seltzer, 5% ABV|white claw;truly|28|0|0.56|0|0|0.56|0|6|1 can (355 ml)@357*;2 cans (710 ml)@714|d=1.005;v=0;fl=alcohol
+hard-cider|Hard cider, 5% ABV||50|0|5.00|0|0|4.50|0|7|1 can or bottle (355 ml)@359*;1 pint (473 ml)@478|d=1.01;v=0;fl=alcohol
+
+# --- wine ----------------------------------------------------------------
+wine-red|Wine, red, 13.5% ABV|cabernet;merlot;pinot noir;red wine|85|0.07|2.61|0|0|0.62|0|4|1 glass, 5 fl oz (148 ml)@146*;1 large pour (177 ml)@175;1 bottle (750 ml)@743|d=0.99;fl=alcohol
+wine-white-dry|Wine, white, dry, 12% ABV|sauvignon blanc;pinot grigio;chardonnay|82|0.07|2.60|0|0|1.00|0|5|1 glass, 5 fl oz (148 ml)@146*;1 bottle (750 ml)@743|d=0.99;fl=alcohol
+wine-rose|Wine, rosé, 12% ABV||83|0.07|2.90|0|0|1.20|0|5|1 glass, 5 fl oz (148 ml)@146*;1 bottle (750 ml)@743|d=0.99;v=0;fl=alcohol
+wine-sparkling|Champagne or prosecco, 12% ABV|sparkling wine|76|0.07|1.60|0|0|1.00|0|5|1 flute, 4 fl oz (118 ml)@117*;1 glass (148 ml)@146|d=0.99;v=0;fl=alcohol
+wine-riesling-sweet|Wine, Riesling, off-dry, 11% ABV||90|0.07|5.50|0|0|4.50|0|5|1 glass, 5 fl oz (148 ml)@147*;100 g@100|d=0.99;v=0;fl=alcohol
+wine-dessert-sweet|Dessert wine, sweet, 15% ABV|sauternes;ice wine|160|0.20|12.2|0|0|11.0|0|9|1 pour, 3 fl oz (89 ml)@88*;100 g@100|d=1.0;fl=alcohol
+wine-port|Port wine, 20% ABV||165|0.10|12.0|0|0|10.0|0|9|1 pour, 3 fl oz (89 ml)@89*;100 g@100|d=1.0;v=0;fl=alcohol
+sake|Sake, 16% ABV|rice wine|134|0.50|5.00|0|0|0|0|2|1 pour, 3 fl oz (89 ml)@88*;1 cup (180 ml)@178|d=0.99;fl=alcohol
+vermouth-dry|Vermouth, dry, 18% ABV||105|0|3.00|0|0|2.50|0|8|1 pour, 1.5 fl oz (44 ml)@44*;100 g@100|d=0.99;v=0;fl=alcohol
+vermouth-sweet|Vermouth, sweet, 16% ABV||158|0|15.9|0|0|14.0|0|10|1 pour, 1.5 fl oz (44 ml)@44*;100 g@100|d=1.01;v=0;fl=alcohol
+
+# --- spirits -------------------------------------------------------------
+vodka-80-proof|Vodka, 80 proof, 40% ABV||231|0|0|0|0|0|0|1|1 shot, 1.5 fl oz (44 ml)@42*;1 double (89 ml)@83|d=0.94;fl=alcohol
+gin-80-proof|Gin, 80 proof, 40% ABV||231|0|0|0|0|0|0|1|1 shot, 1.5 fl oz (44 ml)@42*;1 double (89 ml)@83|d=0.94;fl=alcohol
+rum-80-proof|Rum, 80 proof, 40% ABV||231|0|0|0|0|0|0|1|1 shot, 1.5 fl oz (44 ml)@42*;1 double (89 ml)@83|d=0.94;fl=alcohol
+whiskey-80-proof|Whiskey, 80 proof, 40% ABV|bourbon;scotch;rye|231|0|0|0|0|0|0|1|1 shot, 1.5 fl oz (44 ml)@42*;1 double (89 ml)@83;1 pour, 2 oz (59 ml)@55|d=0.94;fl=alcohol
+tequila-80-proof|Tequila, 80 proof, 40% ABV||231|0|0|0|0|0|0|1|1 shot, 1.5 fl oz (44 ml)@42*;1 double (89 ml)@83|d=0.94;fl=alcohol
+brandy-80-proof|Brandy or cognac, 80 proof||231|0|0|0|0|0|0|1|1 shot, 1.5 fl oz (44 ml)@42*;100 g@100|d=0.94;fl=alcohol
+spirits-90-proof|Distilled spirits, 90 proof, 45% ABV||263|0|0|0|0|0|0|1|1 shot, 1.5 fl oz (44 ml)@41*;100 g@100|d=0.93;fl=alcohol
+spirits-100-proof|Distilled spirits, 100 proof, 50% ABV||295|0|0|0|0|0|0|1|1 shot, 1.5 fl oz (44 ml)@41*;100 g@100|d=0.92;fl=alcohol
+mezcal|Mezcal, 40% ABV||231|0|0|0|0|0|0|1|1 shot, 1.5 fl oz (44 ml)@42*;100 g@100|d=0.94;v=0;fl=alcohol
+soju|Soju, 17% ABV||106|0|3.00|0|0|3.00|0|2|1 shot (50 ml)@49*;1 bottle (360 ml)@353|d=0.98;v=0;fl=alcohol
+
+# --- liqueurs ------------------------------------------------------------
+liqueur-baileys|Irish cream liqueur, 17% ABV|baileys|327|3.00|24.0|13.0|0|22.0|8.0|60|1 shot, 1.5 fl oz (44 ml)@46*;100 g@100|d=1.05;v=0;fl=alcohol
+liqueur-kahlua|Coffee liqueur, 20% ABV|kahlua|336|0.10|45.0|0.30|0|41.0|0.10|10|1 shot, 1.5 fl oz (44 ml)@48*;100 g@100|d=1.09;v=0;fl=alcohol
+liqueur-triple-sec|Triple sec or Cointreau, 40% ABV||300|0|30.0|0|0|30.0|0|3|1 shot, 1.5 fl oz (44 ml)@45*;1/2 oz (15 ml)@15|d=1.02;v=0;fl=alcohol
+liqueur-amaretto|Amaretto, 28% ABV||280|0|35.0|0|0|35.0|0|3|1 shot, 1.5 fl oz (44 ml)@47*;100 g@100|d=1.07;v=0;fl=alcohol
+liqueur-aperol|Aperol, 11% ABV||156|0|24.0|0|0|24.0|0|5|1 pour, 1.5 fl oz (44 ml)@48*;100 g@100|d=1.09;v=0;fl=alcohol
+liqueur-campari|Campari, 25% ABV||240|0|24.0|0|0|24.0|0|4|1 pour, 1.5 fl oz (44 ml)@47*;100 g@100|d=1.06;v=0;fl=alcohol
+liqueur-jagermeister|Jägermeister, 35% ABV||250|0|15.0|0|0|15.0|0|5|1 shot, 1.5 fl oz (44 ml)@47*;100 g@100|d=1.06;v=0;fl=alcohol
+liqueur-limoncello|Limoncello, 28% ABV||320|0|45.0|0|0|45.0|0|3|1 pour, 1.5 fl oz (44 ml)@48*;100 g@100|d=1.09;v=0;fl=alcohol
+
+# --- mixed drinks --------------------------------------------------------
+cocktail-margarita|Margarita||154|0|11.9|0|0|11.0|0|8|1 drink, 4 fl oz (118 ml)@118*;1 large (240 ml)@240|d=1.0;v=0;fl=alcohol
+cocktail-mojito|Mojito||92|0|10.0|0|0|9.5|0|4|1 drink, 8 fl oz (237 ml)@237*;100 g@100|d=1.0;v=0;fl=alcohol
+cocktail-old-fashioned|Old Fashioned||150|0|6.00|0|0|6.0|0|3|1 drink, 3.5 fl oz (104 ml)@100*;100 g@100|d=0.96;v=0;fl=alcohol
+cocktail-martini|Martini, gin or vodka||197|0|0.30|0|0|0.2|0|2|1 drink, 3 fl oz (89 ml)@85*;100 g@100|d=0.95;v=0;fl=alcohol
+cocktail-gin-tonic|Gin and tonic||75|0|6.50|0|0|6.5|0|5|1 drink, 8 fl oz (237 ml)@240*;100 g@100|d=1.01;v=0;fl=alcohol
+cocktail-vodka-soda|Vodka soda||36|0|0|0|0|0|0|5|1 drink, 8 fl oz (237 ml)@237*;100 g@100|d=1.0;v=0;fl=alcohol
+cocktail-moscow-mule|Moscow mule||78|0|9.50|0|0|9.0|0|8|1 drink, 8 fl oz (237 ml)@240*;100 g@100|d=1.01;v=0;fl=alcohol
+cocktail-mimosa|Mimosa||71|0.20|7.50|0|0|6.5|0|4|1 drink, 6 fl oz (177 ml)@178*;100 g@100|d=1.0;v=0;fl=alcohol
+cocktail-bloody-mary|Bloody Mary||52|0.60|5.00|0.05|0.4|3.0|0|300|1 drink, 8 fl oz (237 ml)@240*;100 g@100|d=1.01;v=0;fl=alcohol
+cocktail-pina-colada|Piña colada||204|0.50|25.0|6.50|0.4|22.0|5.5|10|1 drink, 8 fl oz (237 ml)@245*;100 g@100|d=1.03;v=0;fl=alcohol
+cocktail-whiskey-sour|Whiskey sour||135|0|9.00|0|0|8.5|0|4|1 drink, 4 fl oz (118 ml)@118*;100 g@100|d=1.0;v=0;fl=alcohol
+cocktail-espresso-martini|Espresso martini||186|0.30|13.0|0|0|12.0|0|5|1 drink, 4 fl oz (118 ml)@120*;100 g@100|d=1.02;v=0;fl=alcohol
+cocktail-cosmopolitan|Cosmopolitan||169|0|11.0|0|0|10.5|0|4|1 drink, 4 fl oz (118 ml)@118*;100 g@100|d=1.0;v=0;fl=alcohol
+cocktail-negroni|Negroni||220|0|13.0|0|0|12.5|0|5|1 drink, 3 fl oz (89 ml)@90*;100 g@100|d=1.01;v=0;fl=alcohol
+cocktail-aperol-spritz|Aperol spritz||70|0|8.50|0|0|8.0|0|6|1 drink, 6 fl oz (177 ml)@179*;100 g@100|d=1.01;v=0;fl=alcohol
+cocktail-long-island|Long Island iced tea||169|0|14.0|0|0|13.0|0|10|1 drink, 8 fl oz (237 ml)@240*;100 g@100|d=1.01;v=0;fl=alcohol
+cocktail-white-russian|White Russian||245|1.00|17.0|8.00|0|16.0|5.0|15|1 drink, 5 fl oz (148 ml)@152*;100 g@100|d=1.03;v=0;fl=alcohol
+cocktail-daiquiri|Daiquiri, classic||145|0|10.0|0|0|9.5|0|3|1 drink, 4 fl oz (118 ml)@118*;100 g@100|d=1.0;v=0;fl=alcohol
+cocktail-michelada|Michelada||36|0.40|3.50|0|0.2|1.0|0|280|1 drink, 12 fl oz (355 ml)@359*;100 g@100|d=1.01;v=0;fl=alcohol

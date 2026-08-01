@@ -1,0 +1,2832 @@
+[
+ {
+  "id": "chips-potato-plain",
+  "name": "Potato chips, plain, salted",
+  "brand": null,
+  "aliases": [],
+  "category": "snack",
+  "per100g": {
+   "kcal": 536,
+   "protein_g": 6.56,
+   "carbs_g": 53,
+   "fat_g": 34.6,
+   "fiber_g": 4.4,
+   "sugar_g": 0.32,
+   "satfat_g": 3.11,
+   "sodium_mg": 525
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 oz (28 g)",
+    "grams": 28,
+    "isDefault": true
+   },
+   {
+    "label": "1 small bag (43 g)",
+    "grams": 43
+   },
+   {
+    "label": "1 cup (25 g)",
+    "grams": 25
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": true,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "chips-potato-kettle",
+  "name": "Potato chips, kettle cooked",
+  "brand": null,
+  "aliases": [],
+  "category": "snack",
+  "per100g": {
+   "kcal": 500,
+   "protein_g": 6.7,
+   "carbs_g": 60,
+   "fat_g": 26.7,
+   "fiber_g": 4,
+   "sugar_g": 0,
+   "satfat_g": 3.3,
+   "sodium_mg": 450
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 oz (28 g)",
+    "grams": 28,
+    "isDefault": true
+   },
+   {
+    "label": "1 small bag (43 g)",
+    "grams": 43
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": false,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "chips-potato-bbq",
+  "name": "Potato chips, barbecue",
+  "brand": null,
+  "aliases": [],
+  "category": "snack",
+  "per100g": {
+   "kcal": 500,
+   "protein_g": 6,
+   "carbs_g": 57,
+   "fat_g": 28,
+   "fiber_g": 4,
+   "sugar_g": 4,
+   "satfat_g": 3.5,
+   "sodium_mg": 750
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 oz (28 g)",
+    "grams": 28,
+    "isDefault": true
+   },
+   {
+    "label": "1 small bag (43 g)",
+    "grams": 43
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": false,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "chips-tortilla-plain",
+  "name": "Tortilla chips, plain",
+  "brand": null,
+  "aliases": [],
+  "category": "snack",
+  "per100g": {
+   "kcal": 489,
+   "protein_g": 7,
+   "carbs_g": 65,
+   "fat_g": 23.4,
+   "fiber_g": 4.4,
+   "sugar_g": 0.9,
+   "satfat_g": 3,
+   "sodium_mg": 400
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 oz (28 g)",
+    "grams": 28,
+    "isDefault": true
+   },
+   {
+    "label": "12 chips (28 g)",
+    "grams": 28
+   },
+   {
+    "label": "1 basket (85 g)",
+    "grams": 85
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": true,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "chips-tortilla-restaurant",
+  "name": "Tortilla chips, restaurant style, salted",
+  "brand": null,
+  "aliases": [],
+  "category": "snack",
+  "per100g": {
+   "kcal": 500,
+   "protein_g": 6.5,
+   "carbs_g": 63,
+   "fat_g": 25,
+   "fiber_g": 4.5,
+   "sugar_g": 0.5,
+   "satfat_g": 3.3,
+   "sodium_mg": 500
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 oz (28 g)",
+    "grams": 28,
+    "isDefault": true
+   },
+   {
+    "label": "1 basket (85 g)",
+    "grams": 85
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": false,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "chips-doritos-nacho",
+  "name": "Doritos Nacho Cheese",
+  "brand": "Doritos",
+  "aliases": [],
+  "category": "snack",
+  "per100g": {
+   "kcal": 500,
+   "protein_g": 7.1,
+   "carbs_g": 60.7,
+   "fat_g": 25,
+   "fiber_g": 3.6,
+   "sugar_g": 0,
+   "satfat_g": 3.6,
+   "sodium_mg": 750
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 oz (28 g)",
+    "grams": 28,
+    "isDefault": true
+   },
+   {
+    "label": "1 bag (92 g)",
+    "grams": 92
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": true,
+  "source": "manufacturer label"
+ },
+ {
+  "id": "chips-cheetos-crunchy",
+  "name": "Cheetos, crunchy",
+  "brand": "Cheetos",
+  "aliases": [],
+  "category": "snack",
+  "per100g": {
+   "kcal": 571,
+   "protein_g": 7.1,
+   "carbs_g": 57.1,
+   "fat_g": 35.7,
+   "fiber_g": 3.6,
+   "sugar_g": 3.6,
+   "satfat_g": 5.4,
+   "sodium_mg": 1071
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 oz (28 g)",
+    "grams": 28,
+    "isDefault": true
+   },
+   {
+    "label": "1 bag (57 g)",
+    "grams": 57
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": true,
+  "source": "manufacturer label"
+ },
+ {
+  "id": "chips-fritos",
+  "name": "Fritos corn chips",
+  "brand": "Fritos",
+  "aliases": [],
+  "category": "snack",
+  "per100g": {
+   "kcal": 571,
+   "protein_g": 7.1,
+   "carbs_g": 57.1,
+   "fat_g": 35.7,
+   "fiber_g": 3.6,
+   "sugar_g": 0,
+   "satfat_g": 5.4,
+   "sodium_mg": 643
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 oz (28 g)",
+    "grams": 28,
+    "isDefault": true
+   },
+   {
+    "label": "1 bag (57 g)",
+    "grams": 57
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": true,
+  "source": "manufacturer label"
+ },
+ {
+  "id": "chips-sun-chips",
+  "name": "SunChips, harvest cheddar",
+  "brand": "SunChips",
+  "aliases": [],
+  "category": "snack",
+  "per100g": {
+   "kcal": 464,
+   "protein_g": 7.1,
+   "carbs_g": 64.3,
+   "fat_g": 19.6,
+   "fiber_g": 5.4,
+   "sugar_g": 3.6,
+   "satfat_g": 2.7,
+   "sodium_mg": 500
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 oz (28 g)",
+    "grams": 28,
+    "isDefault": true
+   },
+   {
+    "label": "1 bag (43 g)",
+    "grams": 43
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": true,
+  "source": "manufacturer label"
+ },
+ {
+  "id": "chips-pita",
+  "name": "Pita chips, sea salt",
+  "brand": null,
+  "aliases": [],
+  "category": "snack",
+  "per100g": {
+   "kcal": 464,
+   "protein_g": 10.7,
+   "carbs_g": 64.3,
+   "fat_g": 17.9,
+   "fiber_g": 3.6,
+   "sugar_g": 1.8,
+   "satfat_g": 1.8,
+   "sodium_mg": 714
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 oz (28 g)",
+    "grams": 28,
+    "isDefault": true
+   },
+   {
+    "label": "100 g",
+    "grams": 100
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": false,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "chips-veggie-straws",
+  "name": "Veggie straws",
+  "brand": null,
+  "aliases": [],
+  "category": "snack",
+  "per100g": {
+   "kcal": 500,
+   "protein_g": 3.6,
+   "carbs_g": 64.3,
+   "fat_g": 25,
+   "fiber_g": 3.6,
+   "sugar_g": 3.6,
+   "satfat_g": 2.2,
+   "sodium_mg": 571
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 oz (28 g)",
+    "grams": 28,
+    "isDefault": true
+   },
+   {
+    "label": "100 g",
+    "grams": 100
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": false,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "chips-plantain",
+  "name": "Plantain chips",
+  "brand": null,
+  "aliases": [],
+  "category": "snack",
+  "per100g": {
+   "kcal": 519,
+   "protein_g": 2,
+   "carbs_g": 58,
+   "fat_g": 31,
+   "fiber_g": 4,
+   "sugar_g": 3,
+   "satfat_g": 13,
+   "sodium_mg": 180
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 oz (28 g)",
+    "grams": 28,
+    "isDefault": true
+   },
+   {
+    "label": "100 g",
+    "grams": 100
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": false,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "pretzels-hard",
+  "name": "Pretzels, hard, salted",
+  "brand": null,
+  "aliases": [],
+  "category": "snack",
+  "per100g": {
+   "kcal": 384,
+   "protein_g": 10,
+   "carbs_g": 80.4,
+   "fat_g": 2.9,
+   "fiber_g": 3,
+   "sugar_g": 2.6,
+   "satfat_g": 0.6,
+   "sodium_mg": 1240
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 oz (28 g)",
+    "grams": 28,
+    "isDefault": true
+   },
+   {
+    "label": "10 twists (60 g)",
+    "grams": 60
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": true,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "pretzels-soft",
+  "name": "Soft pretzel",
+  "brand": null,
+  "aliases": [],
+  "category": "snack",
+  "per100g": {
+   "kcal": 338,
+   "protein_g": 8.2,
+   "carbs_g": 69.4,
+   "fat_g": 3.1,
+   "fiber_g": 1.7,
+   "sugar_g": 1,
+   "satfat_g": 0.68,
+   "sodium_mg": 900
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 pretzel (115 g)",
+    "grams": 115,
+    "isDefault": true
+   },
+   {
+    "label": "100 g",
+    "grams": 100
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": true,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "popcorn-air-popped",
+  "name": "Popcorn, air popped, plain",
+  "brand": null,
+  "aliases": [],
+  "category": "snack",
+  "per100g": {
+   "kcal": 387,
+   "protein_g": 12.9,
+   "carbs_g": 77.8,
+   "fat_g": 4.54,
+   "fiber_g": 14.5,
+   "sugar_g": 0.87,
+   "satfat_g": 0.63,
+   "sodium_mg": 8
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 cup (8 g)",
+    "grams": 8,
+    "isDefault": true
+   },
+   {
+    "label": "3 cups (24 g)",
+    "grams": 24
+   },
+   {
+    "label": "1 oz (28 g)",
+    "grams": 28
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": true,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "popcorn-microwave-butter",
+  "name": "Popcorn, microwave, butter flavored",
+  "brand": null,
+  "aliases": [],
+  "category": "snack",
+  "per100g": {
+   "kcal": 500,
+   "protein_g": 9,
+   "carbs_g": 57,
+   "fat_g": 28,
+   "fiber_g": 10,
+   "sugar_g": 0.5,
+   "satfat_g": 5.5,
+   "sodium_mg": 800
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 bag popped (32 g)",
+    "grams": 32,
+    "isDefault": true
+   },
+   {
+    "label": "3 cups (24 g)",
+    "grams": 24
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": false,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "popcorn-movie-theater",
+  "name": "Popcorn, movie theater, with topping",
+  "brand": null,
+  "aliases": [],
+  "category": "snack",
+  "per100g": {
+   "kcal": 550,
+   "protein_g": 7,
+   "carbs_g": 55,
+   "fat_g": 35,
+   "fiber_g": 9,
+   "sugar_g": 0.5,
+   "satfat_g": 17,
+   "sodium_mg": 750
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 small (90 g)",
+    "grams": 90,
+    "isDefault": true
+   },
+   {
+    "label": "1 medium (170 g)",
+    "grams": 170
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": false,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "popcorn-skinny-pop",
+  "name": "SkinnyPop popcorn, original",
+  "brand": "SkinnyPop",
+  "aliases": [],
+  "category": "snack",
+  "per100g": {
+   "kcal": 500,
+   "protein_g": 7.1,
+   "carbs_g": 57.1,
+   "fat_g": 28.6,
+   "fiber_g": 10.7,
+   "sugar_g": 0,
+   "satfat_g": 2.7,
+   "sodium_mg": 250
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 oz (28 g)",
+    "grams": 28,
+    "isDefault": true
+   },
+   {
+    "label": "1 bag (128 g)",
+    "grams": 128
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": true,
+  "source": "manufacturer label"
+ },
+ {
+  "id": "popcorn-caramel",
+  "name": "Caramel corn",
+  "brand": null,
+  "aliases": [],
+  "category": "snack",
+  "per100g": {
+   "kcal": 430,
+   "protein_g": 4,
+   "carbs_g": 76,
+   "fat_g": 13,
+   "fiber_g": 4,
+   "sugar_g": 46,
+   "satfat_g": 3,
+   "sodium_mg": 280
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 oz (28 g)",
+    "grams": 28,
+    "isDefault": true
+   },
+   {
+    "label": "1 cup (35 g)",
+    "grams": 35
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": false,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "snack-mix-chex",
+  "name": "Chex Mix, traditional",
+  "brand": "Chex",
+  "aliases": [],
+  "category": "snack",
+  "per100g": {
+   "kcal": 450,
+   "protein_g": 7.1,
+   "carbs_g": 71.4,
+   "fat_g": 14.3,
+   "fiber_g": 3.6,
+   "sugar_g": 3.6,
+   "satfat_g": 2.7,
+   "sodium_mg": 1000
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 oz (28 g)",
+    "grams": 28,
+    "isDefault": true
+   },
+   {
+    "label": "1/2 cup (30 g)",
+    "grams": 30
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": true,
+  "source": "manufacturer label"
+ },
+ {
+  "id": "seaweed-snack-roasted",
+  "name": "Seaweed snack, roasted, salted",
+  "brand": null,
+  "aliases": [],
+  "category": "snack",
+  "per100g": {
+   "kcal": 500,
+   "protein_g": 30,
+   "carbs_g": 30,
+   "fat_g": 30,
+   "fiber_g": 20,
+   "sugar_g": 0,
+   "satfat_g": 4,
+   "sodium_mg": 1400
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 pack (5 g)",
+    "grams": 5,
+    "isDefault": true
+   },
+   {
+    "label": "100 g",
+    "grams": 100
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": false,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "crackers-saltine",
+  "name": "Saltine crackers",
+  "brand": null,
+  "aliases": [],
+  "category": "snack",
+  "per100g": {
+   "kcal": 421,
+   "protein_g": 9.5,
+   "carbs_g": 71.5,
+   "fat_g": 10.6,
+   "fiber_g": 2.8,
+   "sugar_g": 0.9,
+   "satfat_g": 2.1,
+   "sodium_mg": 1100
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "5 crackers (15 g)",
+    "grams": 15,
+    "isDefault": true
+   },
+   {
+    "label": "1 oz (28 g)",
+    "grams": 28
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": true,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "crackers-ritz",
+  "name": "Ritz crackers",
+  "brand": "Ritz",
+  "aliases": [],
+  "category": "snack",
+  "per100g": {
+   "kcal": 500,
+   "protein_g": 6.2,
+   "carbs_g": 62.5,
+   "fat_g": 25,
+   "fiber_g": 3.1,
+   "sugar_g": 9.4,
+   "satfat_g": 3.1,
+   "sodium_mg": 812
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "5 crackers (16 g)",
+    "grams": 16,
+    "isDefault": true
+   },
+   {
+    "label": "1 oz (28 g)",
+    "grams": 28
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": true,
+  "source": "manufacturer label"
+ },
+ {
+  "id": "crackers-wheat-thins",
+  "name": "Wheat Thins, original",
+  "brand": "Wheat Thins",
+  "aliases": [],
+  "category": "snack",
+  "per100g": {
+   "kcal": 464,
+   "protein_g": 7.1,
+   "carbs_g": 71.4,
+   "fat_g": 17.9,
+   "fiber_g": 7.1,
+   "sugar_g": 17.9,
+   "satfat_g": 1.8,
+   "sodium_mg": 750
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "16 crackers (31 g)",
+    "grams": 31,
+    "isDefault": true
+   },
+   {
+    "label": "1 oz (28 g)",
+    "grams": 28
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": true,
+  "source": "manufacturer label"
+ },
+ {
+  "id": "crackers-triscuit",
+  "name": "Triscuit, original",
+  "brand": "Triscuit",
+  "aliases": [],
+  "category": "snack",
+  "per100g": {
+   "kcal": 429,
+   "protein_g": 10.7,
+   "carbs_g": 71.4,
+   "fat_g": 14.3,
+   "fiber_g": 10.7,
+   "sugar_g": 0,
+   "satfat_g": 2.7,
+   "sodium_mg": 393
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "6 crackers (28 g)",
+    "grams": 28,
+    "isDefault": true
+   },
+   {
+    "label": "1 oz (28 g)",
+    "grams": 28
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": true,
+  "source": "manufacturer label"
+ },
+ {
+  "id": "crackers-cheez-it",
+  "name": "Cheez-It, original",
+  "brand": "Cheez-It",
+  "aliases": [],
+  "category": "snack",
+  "per100g": {
+   "kcal": 526,
+   "protein_g": 12.3,
+   "carbs_g": 59.6,
+   "fat_g": 26.3,
+   "fiber_g": 3.5,
+   "sugar_g": 0,
+   "satfat_g": 7,
+   "sodium_mg": 1053
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "27 crackers (30 g)",
+    "grams": 30,
+    "isDefault": true
+   },
+   {
+    "label": "1 oz (28 g)",
+    "grams": 28
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": true,
+  "source": "manufacturer label"
+ },
+ {
+  "id": "crackers-goldfish",
+  "name": "Goldfish crackers, cheddar",
+  "brand": "Goldfish",
+  "aliases": [],
+  "category": "snack",
+  "per100g": {
+   "kcal": 500,
+   "protein_g": 10,
+   "carbs_g": 66.7,
+   "fat_g": 20,
+   "fiber_g": 3.3,
+   "sugar_g": 3.3,
+   "satfat_g": 3.3,
+   "sodium_mg": 833
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "55 pieces (30 g)",
+    "grams": 30,
+    "isDefault": true
+   },
+   {
+    "label": "1 oz (28 g)",
+    "grams": 28
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": true,
+  "source": "manufacturer label"
+ },
+ {
+  "id": "crackers-graham",
+  "name": "Graham crackers",
+  "brand": null,
+  "aliases": [],
+  "category": "snack",
+  "per100g": {
+   "kcal": 423,
+   "protein_g": 6.7,
+   "carbs_g": 77.7,
+   "fat_g": 10.1,
+   "fiber_g": 3,
+   "sugar_g": 24.3,
+   "satfat_g": 1.4,
+   "sodium_mg": 596
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "2 sheets (28 g)",
+    "grams": 28,
+    "isDefault": true
+   },
+   {
+    "label": "1 sheet (14 g)",
+    "grams": 14
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": true,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "crackers-animal",
+  "name": "Animal crackers",
+  "brand": null,
+  "aliases": [],
+  "category": "snack",
+  "per100g": {
+   "kcal": 446,
+   "protein_g": 6.6,
+   "carbs_g": 74,
+   "fat_g": 13.8,
+   "fiber_g": 1,
+   "sugar_g": 21.7,
+   "satfat_g": 3.1,
+   "sodium_mg": 420
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 oz (28 g)",
+    "grams": 28,
+    "isDefault": true
+   },
+   {
+    "label": "1 box (57 g)",
+    "grams": 57
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": true,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "crackers-water",
+  "name": "Water crackers",
+  "brand": null,
+  "aliases": [],
+  "category": "snack",
+  "per100g": {
+   "kcal": 400,
+   "protein_g": 10,
+   "carbs_g": 80,
+   "fat_g": 3,
+   "fiber_g": 3,
+   "sugar_g": 1,
+   "satfat_g": 0.5,
+   "sodium_mg": 500
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "5 crackers (17 g)",
+    "grams": 17,
+    "isDefault": true
+   },
+   {
+    "label": "1 oz (28 g)",
+    "grams": 28
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": false,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "crackers-rice-cake-plain",
+  "name": "Rice cakes, plain",
+  "brand": null,
+  "aliases": [],
+  "category": "snack",
+  "per100g": {
+   "kcal": 387,
+   "protein_g": 8.2,
+   "carbs_g": 81.5,
+   "fat_g": 2.8,
+   "fiber_g": 4.2,
+   "sugar_g": 0.6,
+   "satfat_g": 0.56,
+   "sodium_mg": 26
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 cake (9 g)",
+    "grams": 9,
+    "isDefault": true
+   },
+   {
+    "label": "2 cakes (18 g)",
+    "grams": 18
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": true,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "crackers-rice-cake-caramel",
+  "name": "Rice cakes, caramel",
+  "brand": null,
+  "aliases": [],
+  "category": "snack",
+  "per100g": {
+   "kcal": 390,
+   "protein_g": 5,
+   "carbs_g": 85,
+   "fat_g": 2.5,
+   "fiber_g": 2,
+   "sugar_g": 18,
+   "satfat_g": 0.5,
+   "sodium_mg": 180
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 cake (12 g)",
+    "grams": 12,
+    "isDefault": true
+   },
+   {
+    "label": "100 g",
+    "grams": 100
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": false,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "crackers-melba-toast",
+  "name": "Melba toast",
+  "brand": null,
+  "aliases": [],
+  "category": "snack",
+  "per100g": {
+   "kcal": 390,
+   "protein_g": 12,
+   "carbs_g": 76,
+   "fat_g": 3.2,
+   "fiber_g": 6.5,
+   "sugar_g": 3,
+   "satfat_g": 0.5,
+   "sodium_mg": 700
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "4 pieces (20 g)",
+    "grams": 20,
+    "isDefault": true
+   },
+   {
+    "label": "1 oz (28 g)",
+    "grams": 28
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": false,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "chocolate-milk-bar",
+  "name": "Milk chocolate bar",
+  "brand": null,
+  "aliases": [],
+  "category": "snack",
+  "per100g": {
+   "kcal": 535,
+   "protein_g": 7.65,
+   "carbs_g": 59.4,
+   "fat_g": 29.7,
+   "fiber_g": 3.4,
+   "sugar_g": 51.5,
+   "satfat_g": 18.5,
+   "sodium_mg": 79
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 bar (43 g)",
+    "grams": 43,
+    "isDefault": true
+   },
+   {
+    "label": "1 oz (28 g)",
+    "grams": 28
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": true,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "chocolate-dark-70",
+  "name": "Dark chocolate, 70-85% cacao",
+  "brand": null,
+  "aliases": [],
+  "category": "snack",
+  "per100g": {
+   "kcal": 598,
+   "protein_g": 7.79,
+   "carbs_g": 45.9,
+   "fat_g": 42.6,
+   "fiber_g": 10.9,
+   "sugar_g": 24,
+   "satfat_g": 24.5,
+   "sodium_mg": 20
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 oz (28 g)",
+    "grams": 28,
+    "isDefault": true
+   },
+   {
+    "label": "1 square (10 g)",
+    "grams": 10
+   },
+   {
+    "label": "1 bar (85 g)",
+    "grams": 85
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": true,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "chocolate-dark-55",
+  "name": "Dark chocolate, 45-59% cacao",
+  "brand": null,
+  "aliases": [],
+  "category": "snack",
+  "per100g": {
+   "kcal": 546,
+   "protein_g": 4.88,
+   "carbs_g": 61.2,
+   "fat_g": 31.3,
+   "fiber_g": 7,
+   "sugar_g": 47.9,
+   "satfat_g": 18.5,
+   "sodium_mg": 24
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 oz (28 g)",
+    "grams": 28,
+    "isDefault": true
+   },
+   {
+    "label": "1 square (10 g)",
+    "grams": 10
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": true,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "chocolate-white",
+  "name": "White chocolate",
+  "brand": null,
+  "aliases": [],
+  "category": "snack",
+  "per100g": {
+   "kcal": 539,
+   "protein_g": 5.87,
+   "carbs_g": 59.2,
+   "fat_g": 32.1,
+   "fiber_g": 0.2,
+   "sugar_g": 59,
+   "satfat_g": 19.4,
+   "sodium_mg": 90
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 oz (28 g)",
+    "grams": 28,
+    "isDefault": true
+   },
+   {
+    "label": "1 bar (43 g)",
+    "grams": 43
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": true,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "chocolate-chips-semisweet",
+  "name": "Chocolate chips, semisweet",
+  "brand": null,
+  "aliases": [],
+  "category": "snack",
+  "per100g": {
+   "kcal": 480,
+   "protein_g": 4.2,
+   "carbs_g": 63.1,
+   "fat_g": 30,
+   "fiber_g": 5.9,
+   "sugar_g": 54.5,
+   "satfat_g": 17.8,
+   "sodium_mg": 11
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 tbsp (11 g)",
+    "grams": 11,
+    "isDefault": true
+   },
+   {
+    "label": "1/4 cup (43 g)",
+    "grams": 43
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": true,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "candy-mms-plain",
+  "name": "M&M's, milk chocolate",
+  "brand": "M&M's",
+  "aliases": [],
+  "category": "snack",
+  "per100g": {
+   "kcal": 492,
+   "protein_g": 4.3,
+   "carbs_g": 71,
+   "fat_g": 21.1,
+   "fiber_g": 2.6,
+   "sugar_g": 64,
+   "satfat_g": 13,
+   "sodium_mg": 61
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 fun size (17 g)",
+    "grams": 17,
+    "isDefault": true
+   },
+   {
+    "label": "1 regular bag (47 g)",
+    "grams": 47
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": true,
+  "source": "manufacturer label"
+ },
+ {
+  "id": "candy-mms-peanut",
+  "name": "M&M's, peanut",
+  "brand": "M&M's",
+  "aliases": [],
+  "category": "snack",
+  "per100g": {
+   "kcal": 515,
+   "protein_g": 9.4,
+   "carbs_g": 59.4,
+   "fat_g": 26.4,
+   "fiber_g": 3.8,
+   "sugar_g": 51,
+   "satfat_g": 10.4,
+   "sodium_mg": 108
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 fun size (18 g)",
+    "grams": 18,
+    "isDefault": true
+   },
+   {
+    "label": "1 regular bag (49 g)",
+    "grams": 49
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": true,
+  "source": "manufacturer label"
+ },
+ {
+  "id": "candy-snickers",
+  "name": "Snickers bar",
+  "brand": "Snickers",
+  "aliases": [],
+  "category": "snack",
+  "per100g": {
+   "kcal": 484,
+   "protein_g": 8.1,
+   "carbs_g": 59.7,
+   "fat_g": 24.2,
+   "fiber_g": 2.4,
+   "sugar_g": 48.4,
+   "satfat_g": 8.9,
+   "sodium_mg": 242
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 bar (52.7 g)",
+    "grams": 52.7,
+    "isDefault": true
+   },
+   {
+    "label": "1 fun size (17 g)",
+    "grams": 17
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": true,
+  "source": "manufacturer label"
+ },
+ {
+  "id": "candy-reeses-cups",
+  "name": "Reese's Peanut Butter Cups",
+  "brand": "Reese's",
+  "aliases": [],
+  "category": "snack",
+  "per100g": {
+   "kcal": 515,
+   "protein_g": 10.6,
+   "carbs_g": 51.5,
+   "fat_g": 30.3,
+   "fiber_g": 3,
+   "sugar_g": 45.5,
+   "satfat_g": 10.6,
+   "sodium_mg": 424
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "2 cups (42 g)",
+    "grams": 42,
+    "isDefault": true
+   },
+   {
+    "label": "1 cup (21 g)",
+    "grams": 21
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": true,
+  "source": "manufacturer label"
+ },
+ {
+  "id": "candy-kit-kat",
+  "name": "Kit Kat bar",
+  "brand": "Kit Kat",
+  "aliases": [],
+  "category": "snack",
+  "per100g": {
+   "kcal": 518,
+   "protein_g": 5.6,
+   "carbs_g": 65.3,
+   "fat_g": 25.9,
+   "fiber_g": 1.2,
+   "sugar_g": 48.9,
+   "satfat_g": 17.6,
+   "sodium_mg": 59
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 bar, 4 pieces (42 g)",
+    "grams": 42,
+    "isDefault": true
+   },
+   {
+    "label": "100 g",
+    "grams": 100
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": true,
+  "source": "manufacturer label"
+ },
+ {
+  "id": "candy-twix",
+  "name": "Twix bar",
+  "brand": "Twix",
+  "aliases": [],
+  "category": "snack",
+  "per100g": {
+   "kcal": 495,
+   "protein_g": 4.7,
+   "carbs_g": 64.7,
+   "fat_g": 24.5,
+   "fiber_g": 1,
+   "sugar_g": 47.1,
+   "satfat_g": 17.6,
+   "sodium_mg": 188
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 package (50.7 g)",
+    "grams": 50.7,
+    "isDefault": true
+   },
+   {
+    "label": "100 g",
+    "grams": 100
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": true,
+  "source": "manufacturer label"
+ },
+ {
+  "id": "candy-milky-way",
+  "name": "Milky Way bar",
+  "brand": "Milky Way",
+  "aliases": [],
+  "category": "snack",
+  "per100g": {
+   "kcal": 449,
+   "protein_g": 3.9,
+   "carbs_g": 71.3,
+   "fat_g": 16.7,
+   "fiber_g": 0.9,
+   "sugar_g": 59.6,
+   "satfat_g": 11.7,
+   "sodium_mg": 171
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 bar (52.2 g)",
+    "grams": 52.2,
+    "isDefault": true
+   },
+   {
+    "label": "100 g",
+    "grams": 100
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": true,
+  "source": "manufacturer label"
+ },
+ {
+  "id": "candy-butterfinger",
+  "name": "Butterfinger bar",
+  "brand": "Butterfinger",
+  "aliases": [],
+  "category": "snack",
+  "per100g": {
+   "kcal": 474,
+   "protein_g": 4.4,
+   "carbs_g": 72.6,
+   "fat_g": 18.3,
+   "fiber_g": 1.5,
+   "sugar_g": 56.1,
+   "satfat_g": 9.6,
+   "sodium_mg": 166
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 bar (54 g)",
+    "grams": 54,
+    "isDefault": true
+   },
+   {
+    "label": "100 g",
+    "grams": 100
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": true,
+  "source": "manufacturer label"
+ },
+ {
+  "id": "candy-gummy-bears",
+  "name": "Gummy bears",
+  "brand": null,
+  "aliases": [],
+  "category": "snack",
+  "per100g": {
+   "kcal": 350,
+   "protein_g": 6.9,
+   "carbs_g": 77.4,
+   "fat_g": 0.2,
+   "fiber_g": 0,
+   "sugar_g": 46,
+   "satfat_g": 0,
+   "sodium_mg": 30
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 oz (28 g)",
+    "grams": 28,
+    "isDefault": true
+   },
+   {
+    "label": "1 bag (43 g)",
+    "grams": 43
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": true,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "candy-sour-patch-kids",
+  "name": "Sour Patch Kids",
+  "brand": "Sour Patch",
+  "aliases": [],
+  "category": "snack",
+  "per100g": {
+   "kcal": 350,
+   "protein_g": 0,
+   "carbs_g": 85,
+   "fat_g": 0,
+   "fiber_g": 0,
+   "sugar_g": 65,
+   "satfat_g": 0,
+   "sodium_mg": 75
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 oz (28 g)",
+    "grams": 28,
+    "isDefault": true
+   },
+   {
+    "label": "1 bag (56 g)",
+    "grams": 56
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": true,
+  "source": "manufacturer label"
+ },
+ {
+  "id": "candy-skittles",
+  "name": "Skittles",
+  "brand": "Skittles",
+  "aliases": [],
+  "category": "snack",
+  "per100g": {
+   "kcal": 405,
+   "protein_g": 0,
+   "carbs_g": 90.9,
+   "fat_g": 4.4,
+   "fiber_g": 0,
+   "sugar_g": 75.8,
+   "satfat_g": 4.1,
+   "sodium_mg": 20
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 fun size (18 g)",
+    "grams": 18,
+    "isDefault": true
+   },
+   {
+    "label": "1 bag (61.5 g)",
+    "grams": 61.5
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": true,
+  "source": "manufacturer label"
+ },
+ {
+  "id": "candy-starburst",
+  "name": "Starburst",
+  "brand": "Starburst",
+  "aliases": [],
+  "category": "snack",
+  "per100g": {
+   "kcal": 400,
+   "protein_g": 0,
+   "carbs_g": 82.5,
+   "fat_g": 7.5,
+   "fiber_g": 0,
+   "sugar_g": 67.5,
+   "satfat_g": 6.5,
+   "sodium_mg": 60
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 fun size (18 g)",
+    "grams": 18,
+    "isDefault": true
+   },
+   {
+    "label": "1 pack (58.7 g)",
+    "grams": 58.7
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": true,
+  "source": "manufacturer label"
+ },
+ {
+  "id": "candy-twizzlers",
+  "name": "Twizzlers, strawberry",
+  "brand": "Twizzlers",
+  "aliases": [],
+  "category": "snack",
+  "per100g": {
+   "kcal": 350,
+   "protein_g": 2.4,
+   "carbs_g": 80,
+   "fat_g": 2.4,
+   "fiber_g": 0,
+   "sugar_g": 43,
+   "satfat_g": 0,
+   "sodium_mg": 280
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "4 twists (45 g)",
+    "grams": 45,
+    "isDefault": true
+   },
+   {
+    "label": "1 oz (28 g)",
+    "grams": 28
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": true,
+  "source": "manufacturer label"
+ },
+ {
+  "id": "candy-jelly-beans",
+  "name": "Jelly beans",
+  "brand": null,
+  "aliases": [],
+  "category": "snack",
+  "per100g": {
+   "kcal": 375,
+   "protein_g": 0,
+   "carbs_g": 93.6,
+   "fat_g": 0.05,
+   "fiber_g": 0.2,
+   "sugar_g": 70,
+   "satfat_g": 0,
+   "sodium_mg": 50
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 oz (28 g)",
+    "grams": 28,
+    "isDefault": true
+   },
+   {
+    "label": "10 beans (28 g)",
+    "grams": 28
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": true,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "candy-candy-corn",
+  "name": "Candy corn",
+  "brand": null,
+  "aliases": [],
+  "category": "snack",
+  "per100g": {
+   "kcal": 375,
+   "protein_g": 0.1,
+   "carbs_g": 91,
+   "fat_g": 0,
+   "fiber_g": 0,
+   "sugar_g": 84,
+   "satfat_g": 0,
+   "sodium_mg": 250
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 oz (28 g)",
+    "grams": 28,
+    "isDefault": true
+   },
+   {
+    "label": "100 g",
+    "grams": 100
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": false,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "candy-marshmallows",
+  "name": "Marshmallows",
+  "brand": null,
+  "aliases": [],
+  "category": "snack",
+  "per100g": {
+   "kcal": 318,
+   "protein_g": 1.8,
+   "carbs_g": 81.3,
+   "fat_g": 0.2,
+   "fiber_g": 0.1,
+   "sugar_g": 57.6,
+   "satfat_g": 0.05,
+   "sodium_mg": 80
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "4 large (29 g)",
+    "grams": 29,
+    "isDefault": true
+   },
+   {
+    "label": "1 cup mini (50 g)",
+    "grams": 50
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": true,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "candy-licorice-black",
+  "name": "Black licorice",
+  "brand": null,
+  "aliases": [],
+  "category": "snack",
+  "per100g": {
+   "kcal": 375,
+   "protein_g": 3,
+   "carbs_g": 82,
+   "fat_g": 1.5,
+   "fiber_g": 0,
+   "sugar_g": 40,
+   "satfat_g": 0.5,
+   "sodium_mg": 100
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 oz (28 g)",
+    "grams": 28,
+    "isDefault": true
+   },
+   {
+    "label": "100 g",
+    "grams": 100
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": false,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "candy-peanut-butter-cup-dark",
+  "name": "Dark chocolate peanut butter cups",
+  "brand": null,
+  "aliases": [],
+  "category": "snack",
+  "per100g": {
+   "kcal": 530,
+   "protein_g": 12,
+   "carbs_g": 45,
+   "fat_g": 34,
+   "fiber_g": 5,
+   "sugar_g": 32,
+   "satfat_g": 13,
+   "sodium_mg": 300
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "2 cups (40 g)",
+    "grams": 40,
+    "isDefault": true
+   },
+   {
+    "label": "100 g",
+    "grams": 100
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": false,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "cookie-oreo",
+  "name": "Oreo cookies",
+  "brand": "Oreo",
+  "aliases": [],
+  "category": "snack",
+  "per100g": {
+   "kcal": 480,
+   "protein_g": 4.4,
+   "carbs_g": 71.1,
+   "fat_g": 20,
+   "fiber_g": 3.3,
+   "sugar_g": 38.9,
+   "satfat_g": 6.7,
+   "sodium_mg": 400
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "3 cookies (34 g)",
+    "grams": 34,
+    "isDefault": true
+   },
+   {
+    "label": "1 cookie (11 g)",
+    "grams": 11
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": true,
+  "source": "manufacturer label"
+ },
+ {
+  "id": "cookie-chips-ahoy",
+  "name": "Chips Ahoy! chocolate chip cookies",
+  "brand": "Chips Ahoy",
+  "aliases": [],
+  "category": "snack",
+  "per100g": {
+   "kcal": 500,
+   "protein_g": 5,
+   "carbs_g": 66.7,
+   "fat_g": 23.3,
+   "fiber_g": 3.3,
+   "sugar_g": 33.3,
+   "satfat_g": 8.3,
+   "sodium_mg": 400
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "3 cookies (33 g)",
+    "grams": 33,
+    "isDefault": true
+   },
+   {
+    "label": "1 cookie (11 g)",
+    "grams": 11
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": true,
+  "source": "manufacturer label"
+ },
+ {
+  "id": "cookie-chocolate-chip",
+  "name": "Chocolate chip cookie, homemade",
+  "brand": null,
+  "aliases": [],
+  "category": "snack",
+  "per100g": {
+   "kcal": 488,
+   "protein_g": 5.4,
+   "carbs_g": 63.9,
+   "fat_g": 24.4,
+   "fiber_g": 2.4,
+   "sugar_g": 35,
+   "satfat_g": 8.6,
+   "sodium_mg": 350
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 cookie (16 g)",
+    "grams": 16,
+    "isDefault": true
+   },
+   {
+    "label": "1 large cookie (40 g)",
+    "grams": 40
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": true,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "cookie-oatmeal-raisin",
+  "name": "Oatmeal raisin cookie",
+  "brand": null,
+  "aliases": [],
+  "category": "snack",
+  "per100g": {
+   "kcal": 445,
+   "protein_g": 6.2,
+   "carbs_g": 72.6,
+   "fat_g": 15.4,
+   "fiber_g": 2.8,
+   "sugar_g": 34,
+   "satfat_g": 3.9,
+   "sodium_mg": 383
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 cookie (25 g)",
+    "grams": 25,
+    "isDefault": true
+   },
+   {
+    "label": "100 g",
+    "grams": 100
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": true,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "cookie-peanut-butter",
+  "name": "Peanut butter cookie",
+  "brand": null,
+  "aliases": [],
+  "category": "snack",
+  "per100g": {
+   "kcal": 480,
+   "protein_g": 8.5,
+   "carbs_g": 59,
+   "fat_g": 24,
+   "fiber_g": 1.9,
+   "sugar_g": 34,
+   "satfat_g": 4.6,
+   "sodium_mg": 400
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 cookie (20 g)",
+    "grams": 20,
+    "isDefault": true
+   },
+   {
+    "label": "100 g",
+    "grams": 100
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": true,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "cookie-sugar",
+  "name": "Sugar cookie",
+  "brand": null,
+  "aliases": [],
+  "category": "snack",
+  "per100g": {
+   "kcal": 474,
+   "protein_g": 5.1,
+   "carbs_g": 65,
+   "fat_g": 21.5,
+   "fiber_g": 0.8,
+   "sugar_g": 32,
+   "satfat_g": 5.3,
+   "sodium_mg": 350
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 cookie (22 g)",
+    "grams": 22,
+    "isDefault": true
+   },
+   {
+    "label": "100 g",
+    "grams": 100
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": true,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "cookie-shortbread",
+  "name": "Shortbread cookie",
+  "brand": null,
+  "aliases": [],
+  "category": "snack",
+  "per100g": {
+   "kcal": 502,
+   "protein_g": 5.6,
+   "carbs_g": 63.6,
+   "fat_g": 24.1,
+   "fiber_g": 1.7,
+   "sugar_g": 18,
+   "satfat_g": 6.6,
+   "sodium_mg": 450
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "4 cookies (32 g)",
+    "grams": 32,
+    "isDefault": true
+   },
+   {
+    "label": "100 g",
+    "grams": 100
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": true,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "cookie-biscotti",
+  "name": "Biscotti, almond",
+  "brand": null,
+  "aliases": [],
+  "category": "snack",
+  "per100g": {
+   "kcal": 420,
+   "protein_g": 8,
+   "carbs_g": 64,
+   "fat_g": 14,
+   "fiber_g": 2.5,
+   "sugar_g": 30,
+   "satfat_g": 3,
+   "sodium_mg": 180
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 biscotti (28 g)",
+    "grams": 28,
+    "isDefault": true
+   },
+   {
+    "label": "100 g",
+    "grams": 100
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": false,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "cookie-fig-bar",
+  "name": "Fig bar",
+  "brand": null,
+  "aliases": [],
+  "category": "snack",
+  "per100g": {
+   "kcal": 350,
+   "protein_g": 3.5,
+   "carbs_g": 72,
+   "fat_g": 6,
+   "fiber_g": 4.5,
+   "sugar_g": 38,
+   "satfat_g": 1,
+   "sodium_mg": 280
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "2 bars (33 g)",
+    "grams": 33,
+    "isDefault": true
+   },
+   {
+    "label": "100 g",
+    "grams": 100
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": false,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "snack-poptart-frosted-strawberry",
+  "name": "Pop-Tart, frosted strawberry",
+  "brand": "Pop-Tarts",
+  "aliases": [],
+  "category": "snack",
+  "per100g": {
+   "kcal": 400,
+   "protein_g": 4,
+   "carbs_g": 72,
+   "fat_g": 10,
+   "fiber_g": 2,
+   "sugar_g": 32,
+   "satfat_g": 3,
+   "sodium_mg": 350
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 pastry (52 g)",
+    "grams": 52,
+    "isDefault": true
+   },
+   {
+    "label": "2 pastries (104 g)",
+    "grams": 104
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": true,
+  "source": "manufacturer label"
+ },
+ {
+  "id": "snack-nutrigrain-bar",
+  "name": "Nutri-Grain breakfast bar",
+  "brand": "Nutri-Grain",
+  "aliases": [],
+  "category": "snack",
+  "per100g": {
+   "kcal": 351,
+   "protein_g": 3.6,
+   "carbs_g": 71,
+   "fat_g": 6,
+   "fiber_g": 3,
+   "sugar_g": 29,
+   "satfat_g": 1,
+   "sodium_mg": 300
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 bar (37 g)",
+    "grams": 37,
+    "isDefault": true
+   },
+   {
+    "label": "100 g",
+    "grams": 100
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": true,
+  "source": "manufacturer label"
+ },
+ {
+  "id": "snack-rice-krispie-treat",
+  "name": "Rice Krispies Treats bar",
+  "brand": "Kellogg's",
+  "aliases": [],
+  "category": "snack",
+  "per100g": {
+   "kcal": 409,
+   "protein_g": 2.3,
+   "carbs_g": 81.8,
+   "fat_g": 9.1,
+   "fiber_g": 0,
+   "sugar_g": 36.4,
+   "satfat_g": 2.3,
+   "sodium_mg": 318
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 bar (22 g)",
+    "grams": 22,
+    "isDefault": true
+   },
+   {
+    "label": "100 g",
+    "grams": 100
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": true,
+  "source": "manufacturer label"
+ },
+ {
+  "id": "snack-fruit-snacks",
+  "name": "Fruit snacks, gummy pouch",
+  "brand": null,
+  "aliases": [],
+  "category": "snack",
+  "per100g": {
+   "kcal": 320,
+   "protein_g": 0,
+   "carbs_g": 80,
+   "fat_g": 0,
+   "fiber_g": 0,
+   "sugar_g": 52,
+   "satfat_g": 0,
+   "sodium_mg": 60
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 pouch (23 g)",
+    "grams": 23,
+    "isDefault": true
+   },
+   {
+    "label": "100 g",
+    "grams": 100
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": false,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "snack-jello-prepared",
+  "name": "Gelatin dessert, prepared",
+  "brand": null,
+  "aliases": [
+   "jello"
+  ],
+  "category": "snack",
+  "per100g": {
+   "kcal": 62,
+   "protein_g": 1.2,
+   "carbs_g": 14.2,
+   "fat_g": 0,
+   "fiber_g": 0,
+   "sugar_g": 12.5,
+   "satfat_g": 0,
+   "sodium_mg": 75
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1/2 cup (135 g)",
+    "grams": 135,
+    "isDefault": true
+   },
+   {
+    "label": "1 cup (270 g)",
+    "grams": 270
+   }
+  ],
+  "density_g_per_ml": 1.03,
+  "verified": true,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "snack-jello-sugar-free",
+  "name": "Gelatin dessert, sugar free, prepared",
+  "brand": null,
+  "aliases": [],
+  "category": "snack",
+  "per100g": {
+   "kcal": 8,
+   "protein_g": 1.3,
+   "carbs_g": 0.6,
+   "fat_g": 0,
+   "fiber_g": 0,
+   "sugar_g": 0,
+   "satfat_g": 0,
+   "sodium_mg": 56
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1/2 cup (117 g)",
+    "grams": 117,
+    "isDefault": true
+   },
+   {
+    "label": "1 cup (234 g)",
+    "grams": 234
+   }
+  ],
+  "density_g_per_ml": 1.02,
+  "verified": true,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "snack-pudding-cup-chocolate",
+  "name": "Pudding cup, chocolate",
+  "brand": null,
+  "aliases": [],
+  "category": "snack",
+  "per100g": {
+   "kcal": 130,
+   "protein_g": 2.5,
+   "carbs_g": 22,
+   "fat_g": 3.5,
+   "fiber_g": 0.8,
+   "sugar_g": 18,
+   "satfat_g": 1.2,
+   "sodium_mg": 150
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 cup (113 g)",
+    "grams": 113,
+    "isDefault": true
+   },
+   {
+    "label": "100 g",
+    "grams": 100
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": false,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "snack-applesauce-pouch",
+  "name": "Applesauce pouch, unsweetened",
+  "brand": null,
+  "aliases": [],
+  "category": "snack",
+  "per100g": {
+   "kcal": 42,
+   "protein_g": 0.17,
+   "carbs_g": 11.3,
+   "fat_g": 0.1,
+   "fiber_g": 1.1,
+   "sugar_g": 9.4,
+   "satfat_g": 0.02,
+   "sodium_mg": 2
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 pouch (90 g)",
+    "grams": 90,
+    "isDefault": true
+   },
+   {
+    "label": "100 g",
+    "grams": 100
+   }
+  ],
+  "density_g_per_ml": 1.05,
+  "verified": true,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "snack-freeze-dried-fruit",
+  "name": "Freeze-dried fruit snack, mixed",
+  "brand": null,
+  "aliases": [],
+  "category": "snack",
+  "per100g": {
+   "kcal": 360,
+   "protein_g": 3,
+   "carbs_g": 85,
+   "fat_g": 1.5,
+   "fiber_g": 10,
+   "sugar_g": 58,
+   "satfat_g": 0.3,
+   "sodium_mg": 15
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 pack (28 g)",
+    "grams": 28,
+    "isDefault": true
+   },
+   {
+    "label": "100 g",
+    "grams": 100
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": false,
+  "source": "USDA FoodData Central (SR Legacy)"
+ }
+]

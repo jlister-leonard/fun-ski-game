@@ -1,0 +1,89 @@
+#category: snack
+#source: USDA FoodData Central (SR Legacy)
+#servings: 1 oz (28 g)@28*;100 g@100
+# Chips, crackers, candy and sweets. The default serving is deliberately the
+# labelled 1 oz portion, not the bag — but bag servings are provided because
+# people eat bags.
+# id|name|aliases|kcal|protein|carbs|fat|fiber|sugar|satfat|sodium|servings|extra
+
+# --- salty snacks --------------------------------------------------------
+chips-potato-plain|Potato chips, plain, salted||536|6.56|53.0|34.6|4.4|0.32|3.11|525|1 oz (28 g)@28*;1 small bag (43 g)@43;1 cup (25 g)@25
+chips-potato-kettle|Potato chips, kettle cooked||500|6.7|60.0|26.7|4.0|0|3.3|450|1 oz (28 g)@28*;1 small bag (43 g)@43|v=0
+chips-potato-bbq|Potato chips, barbecue||500|6.0|57.0|28.0|4.0|4.0|3.5|750|1 oz (28 g)@28*;1 small bag (43 g)@43|v=0
+chips-tortilla-plain|Tortilla chips, plain||489|7.00|65.0|23.4|4.4|0.9|3.0|400|1 oz (28 g)@28*;12 chips (28 g)@28;1 basket (85 g)@85
+chips-tortilla-restaurant|Tortilla chips, restaurant style, salted||500|6.5|63.0|25.0|4.5|0.5|3.3|500|1 oz (28 g)@28*;1 basket (85 g)@85|v=0
+chips-doritos-nacho|Doritos Nacho Cheese||500|7.1|60.7|25.0|3.6|0|3.6|750|1 oz (28 g)@28*;1 bag (92 g)@92|brand=Doritos;src=manufacturer label
+chips-cheetos-crunchy|Cheetos, crunchy||571|7.1|57.1|35.7|3.6|3.6|5.4|1071|1 oz (28 g)@28*;1 bag (57 g)@57|brand=Cheetos;src=manufacturer label
+chips-fritos|Fritos corn chips||571|7.1|57.1|35.7|3.6|0|5.4|643|1 oz (28 g)@28*;1 bag (57 g)@57|brand=Fritos;src=manufacturer label
+chips-sun-chips|SunChips, harvest cheddar||464|7.1|64.3|19.6|5.4|3.6|2.7|500|1 oz (28 g)@28*;1 bag (43 g)@43|brand=SunChips;src=manufacturer label
+chips-pita|Pita chips, sea salt||464|10.7|64.3|17.9|3.6|1.8|1.8|714|1 oz (28 g)@28*;100 g@100|v=0
+chips-veggie-straws|Veggie straws||500|3.6|64.3|25.0|3.6|3.6|2.2|571|1 oz (28 g)@28*;100 g@100|v=0
+chips-plantain|Plantain chips||519|2.0|58.0|31.0|4.0|3.0|13.0|180|1 oz (28 g)@28*;100 g@100|v=0
+pretzels-hard|Pretzels, hard, salted||384|10.0|80.4|2.90|3.0|2.6|0.60|1240|1 oz (28 g)@28*;10 twists (60 g)@60
+pretzels-soft|Soft pretzel||338|8.20|69.4|3.10|1.7|1.0|0.68|900|1 pretzel (115 g)@115*;100 g@100
+popcorn-air-popped|Popcorn, air popped, plain||387|12.9|77.8|4.54|14.5|0.87|0.63|8|1 cup (8 g)@8*;3 cups (24 g)@24;1 oz (28 g)@28
+popcorn-microwave-butter|Popcorn, microwave, butter flavored||500|9.0|57.0|28.0|10.0|0.5|5.5|800|1 bag popped (32 g)@32*;3 cups (24 g)@24|v=0
+popcorn-movie-theater|Popcorn, movie theater, with topping||550|7.0|55.0|35.0|9.0|0.5|17.0|750|1 small (90 g)@90*;1 medium (170 g)@170|v=0
+popcorn-skinny-pop|SkinnyPop popcorn, original||500|7.1|57.1|28.6|10.7|0|2.7|250|1 oz (28 g)@28*;1 bag (128 g)@128|brand=SkinnyPop;src=manufacturer label
+popcorn-caramel|Caramel corn||430|4.0|76.0|13.0|4.0|46.0|3.0|280|1 oz (28 g)@28*;1 cup (35 g)@35|v=0
+snack-mix-chex|Chex Mix, traditional||450|7.1|71.4|14.3|3.6|3.6|2.7|1000|1 oz (28 g)@28*;1/2 cup (30 g)@30|brand=Chex;src=manufacturer label
+seaweed-snack-roasted|Seaweed snack, roasted, salted||500|30.0|30.0|30.0|20.0|0|4.0|1400|1 pack (5 g)@5*;100 g@100|v=0
+
+# --- crackers ------------------------------------------------------------
+crackers-saltine|Saltine crackers||421|9.50|71.5|10.6|2.8|0.9|2.10|1100|5 crackers (15 g)@15*;1 oz (28 g)@28
+crackers-ritz|Ritz crackers||500|6.2|62.5|25.0|3.1|9.4|3.1|812|5 crackers (16 g)@16*;1 oz (28 g)@28|brand=Ritz;src=manufacturer label
+crackers-wheat-thins|Wheat Thins, original||464|7.1|71.4|17.9|7.1|17.9|1.8|750|16 crackers (31 g)@31*;1 oz (28 g)@28|brand=Wheat Thins;src=manufacturer label
+crackers-triscuit|Triscuit, original||429|10.7|71.4|14.3|10.7|0|2.7|393|6 crackers (28 g)@28*;1 oz (28 g)@28|brand=Triscuit;src=manufacturer label
+crackers-cheez-it|Cheez-It, original||526|12.3|59.6|26.3|3.5|0|7.0|1053|27 crackers (30 g)@30*;1 oz (28 g)@28|brand=Cheez-It;src=manufacturer label
+crackers-goldfish|Goldfish crackers, cheddar||500|10.0|66.7|20.0|3.3|3.3|3.3|833|55 pieces (30 g)@30*;1 oz (28 g)@28|brand=Goldfish;src=manufacturer label
+crackers-graham|Graham crackers||423|6.70|77.7|10.1|3.0|24.3|1.40|596|2 sheets (28 g)@28*;1 sheet (14 g)@14
+crackers-animal|Animal crackers||446|6.60|74.0|13.8|1.0|21.7|3.10|420|1 oz (28 g)@28*;1 box (57 g)@57
+crackers-water|Water crackers||400|10.0|80.0|3.0|3.0|1.0|0.5|500|5 crackers (17 g)@17*;1 oz (28 g)@28|v=0
+crackers-rice-cake-plain|Rice cakes, plain||387|8.20|81.5|2.80|4.2|0.6|0.56|26|1 cake (9 g)@9*;2 cakes (18 g)@18
+crackers-rice-cake-caramel|Rice cakes, caramel||390|5.0|85.0|2.5|2.0|18.0|0.5|180|1 cake (12 g)@12*;100 g@100|v=0
+crackers-melba-toast|Melba toast||390|12.0|76.0|3.2|6.5|3.0|0.5|700|4 pieces (20 g)@20*;1 oz (28 g)@28|v=0
+
+# --- chocolate & candy ---------------------------------------------------
+chocolate-milk-bar|Milk chocolate bar||535|7.65|59.4|29.7|3.4|51.5|18.5|79|1 bar (43 g)@43*;1 oz (28 g)@28
+chocolate-dark-70|Dark chocolate, 70-85% cacao||598|7.79|45.9|42.6|10.9|24.0|24.5|20|1 oz (28 g)@28*;1 square (10 g)@10;1 bar (85 g)@85
+chocolate-dark-55|Dark chocolate, 45-59% cacao||546|4.88|61.2|31.3|7.0|47.9|18.5|24|1 oz (28 g)@28*;1 square (10 g)@10
+chocolate-white|White chocolate||539|5.87|59.2|32.1|0.2|59.0|19.4|90|1 oz (28 g)@28*;1 bar (43 g)@43
+chocolate-chips-semisweet|Chocolate chips, semisweet||480|4.20|63.1|30.0|5.9|54.5|17.8|11|1 tbsp (11 g)@11*;1/4 cup (43 g)@43
+candy-mms-plain|M&M's, milk chocolate||492|4.3|71.0|21.1|2.6|64.0|13.0|61|1 fun size (17 g)@17*;1 regular bag (47 g)@47|brand=M&M's;src=manufacturer label
+candy-mms-peanut|M&M's, peanut||515|9.4|59.4|26.4|3.8|51.0|10.4|108|1 fun size (18 g)@18*;1 regular bag (49 g)@49|brand=M&M's;src=manufacturer label
+candy-snickers|Snickers bar||484|8.1|59.7|24.2|2.4|48.4|8.9|242|1 bar (52.7 g)@52.7*;1 fun size (17 g)@17|brand=Snickers;src=manufacturer label
+candy-reeses-cups|Reese's Peanut Butter Cups||515|10.6|51.5|30.3|3.0|45.5|10.6|424|2 cups (42 g)@42*;1 cup (21 g)@21|brand=Reese's;src=manufacturer label
+candy-kit-kat|Kit Kat bar||518|5.6|65.3|25.9|1.2|48.9|17.6|59|1 bar, 4 pieces (42 g)@42*;100 g@100|brand=Kit Kat;src=manufacturer label
+candy-twix|Twix bar||495|4.7|64.7|24.5|1.0|47.1|17.6|188|1 package (50.7 g)@50.7*;100 g@100|brand=Twix;src=manufacturer label
+candy-milky-way|Milky Way bar||449|3.9|71.3|16.7|0.9|59.6|11.7|171|1 bar (52.2 g)@52.2*;100 g@100|brand=Milky Way;src=manufacturer label
+candy-butterfinger|Butterfinger bar||474|4.4|72.6|18.3|1.5|56.1|9.6|166|1 bar (54 g)@54*;100 g@100|brand=Butterfinger;src=manufacturer label
+candy-gummy-bears|Gummy bears||350|6.90|77.4|0.20|0|46.0|0|30|1 oz (28 g)@28*;1 bag (43 g)@43
+candy-sour-patch-kids|Sour Patch Kids||350|0|85.0|0|0|65.0|0|75|1 oz (28 g)@28*;1 bag (56 g)@56|brand=Sour Patch;src=manufacturer label
+candy-skittles|Skittles||405|0|90.9|4.40|0|75.8|4.10|20|1 fun size (18 g)@18*;1 bag (61.5 g)@61.5|brand=Skittles;src=manufacturer label
+candy-starburst|Starburst||400|0|82.5|7.50|0|67.5|6.5|60|1 fun size (18 g)@18*;1 pack (58.7 g)@58.7|brand=Starburst;src=manufacturer label
+candy-twizzlers|Twizzlers, strawberry||350|2.4|80.0|2.4|0|43.0|0|280|4 twists (45 g)@45*;1 oz (28 g)@28|brand=Twizzlers;src=manufacturer label
+candy-jelly-beans|Jelly beans||375|0|93.6|0.05|0.2|70.0|0|50|1 oz (28 g)@28*;10 beans (28 g)@28
+candy-candy-corn|Candy corn||375|0.1|91.0|0|0|84.0|0|250|1 oz (28 g)@28*;100 g@100|v=0
+candy-marshmallows|Marshmallows||318|1.80|81.3|0.20|0.1|57.6|0.05|80|4 large (29 g)@29*;1 cup mini (50 g)@50
+candy-licorice-black|Black licorice||375|3.0|82.0|1.5|0|40.0|0.5|100|1 oz (28 g)@28*;100 g@100|v=0
+candy-peanut-butter-cup-dark|Dark chocolate peanut butter cups||530|12.0|45.0|34.0|5.0|32.0|13.0|300|2 cups (40 g)@40*;100 g@100|v=0
+
+# --- cookies & sweet packaged --------------------------------------------
+cookie-oreo|Oreo cookies||480|4.4|71.1|20.0|3.3|38.9|6.7|400|3 cookies (34 g)@34*;1 cookie (11 g)@11|brand=Oreo;src=manufacturer label
+cookie-chips-ahoy|Chips Ahoy! chocolate chip cookies||500|5.0|66.7|23.3|3.3|33.3|8.3|400|3 cookies (33 g)@33*;1 cookie (11 g)@11|brand=Chips Ahoy;src=manufacturer label
+cookie-chocolate-chip|Chocolate chip cookie, homemade||488|5.40|63.9|24.4|2.4|35.0|8.60|350|1 cookie (16 g)@16*;1 large cookie (40 g)@40
+cookie-oatmeal-raisin|Oatmeal raisin cookie||445|6.20|72.6|15.4|2.8|34.0|3.90|383|1 cookie (25 g)@25*;100 g@100
+cookie-peanut-butter|Peanut butter cookie||480|8.50|59.0|24.0|1.9|34.0|4.60|400|1 cookie (20 g)@20*;100 g@100
+cookie-sugar|Sugar cookie||474|5.10|65.0|21.5|0.8|32.0|5.30|350|1 cookie (22 g)@22*;100 g@100
+cookie-shortbread|Shortbread cookie||502|5.60|63.6|24.1|1.7|18.0|6.60|450|4 cookies (32 g)@32*;100 g@100
+cookie-biscotti|Biscotti, almond||420|8.0|64.0|14.0|2.5|30.0|3.0|180|1 biscotti (28 g)@28*;100 g@100|v=0
+cookie-fig-bar|Fig bar||350|3.5|72.0|6.0|4.5|38.0|1.0|280|2 bars (33 g)@33*;100 g@100|v=0
+snack-poptart-frosted-strawberry|Pop-Tart, frosted strawberry||400|4.0|72.0|10.0|2.0|32.0|3.0|350|1 pastry (52 g)@52*;2 pastries (104 g)@104|brand=Pop-Tarts;src=manufacturer label
+snack-nutrigrain-bar|Nutri-Grain breakfast bar||351|3.6|71.0|6.0|3.0|29.0|1.0|300|1 bar (37 g)@37*;100 g@100|brand=Nutri-Grain;src=manufacturer label
+snack-rice-krispie-treat|Rice Krispies Treats bar||409|2.3|81.8|9.1|0|36.4|2.3|318|1 bar (22 g)@22*;100 g@100|brand=Kellogg's;src=manufacturer label
+snack-fruit-snacks|Fruit snacks, gummy pouch||320|0|80.0|0|0|52.0|0|60|1 pouch (23 g)@23*;100 g@100|v=0
+snack-jello-prepared|Gelatin dessert, prepared|jello|62|1.20|14.2|0|0|12.5|0|75|1/2 cup (135 g)@135*;1 cup (270 g)@270|d=1.03
+snack-jello-sugar-free|Gelatin dessert, sugar free, prepared||8|1.30|0.60|0|0|0|0|56|1/2 cup (117 g)@117*;1 cup (234 g)@234|d=1.02
+snack-pudding-cup-chocolate|Pudding cup, chocolate||130|2.5|22.0|3.5|0.8|18.0|1.2|150|1 cup (113 g)@113*;100 g@100|v=0
+snack-applesauce-pouch|Applesauce pouch, unsweetened||42|0.17|11.3|0.10|1.1|9.4|0.02|2|1 pouch (90 g)@90*;100 g@100|d=1.05
+snack-freeze-dried-fruit|Freeze-dried fruit snack, mixed||360|3.0|85.0|1.5|10.0|58.0|0.3|15|1 pack (28 g)@28*;100 g@100|v=0

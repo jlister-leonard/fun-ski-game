@@ -1,0 +1,3362 @@
+[
+ {
+  "id": "mcd-big-mac",
+  "name": "Big Mac",
+  "brand": "McDonald's",
+  "aliases": [],
+  "category": "restaurant",
+  "per100g": {
+   "kcal": 257,
+   "protein_g": 11.9,
+   "carbs_g": 20.5,
+   "fat_g": 15.1,
+   "fiber_g": 1.4,
+   "sugar_g": 4.1,
+   "satfat_g": 5,
+   "sodium_mg": 461
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 burger (219 g)",
+    "grams": 219,
+    "isDefault": true
+   },
+   {
+    "label": "100 g",
+    "grams": 100
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": false,
+  "source": "restaurant published nutrition, converted to per-100 g"
+ },
+ {
+  "id": "mcd-quarter-pounder-cheese",
+  "name": "Quarter Pounder with Cheese",
+  "brand": "McDonald's",
+  "aliases": [],
+  "category": "restaurant",
+  "per100g": {
+   "kcal": 257,
+   "protein_g": 14.9,
+   "carbs_g": 20.8,
+   "fat_g": 12.9,
+   "fiber_g": 1,
+   "sugar_g": 5,
+   "satfat_g": 6.4,
+   "sodium_mg": 564
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 burger (202 g)",
+    "grams": 202,
+    "isDefault": true
+   },
+   {
+    "label": "100 g",
+    "grams": 100
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": false,
+  "source": "restaurant published nutrition, converted to per-100 g"
+ },
+ {
+  "id": "mcd-mcdouble",
+  "name": "McDouble",
+  "brand": "McDonald's",
+  "aliases": [],
+  "category": "restaurant",
+  "per100g": {
+   "kcal": 265,
+   "protein_g": 14.6,
+   "carbs_g": 21.9,
+   "fat_g": 13.2,
+   "fiber_g": 1.3,
+   "sugar_g": 4.6,
+   "satfat_g": 6,
+   "sodium_mg": 609
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 burger (151 g)",
+    "grams": 151,
+    "isDefault": true
+   },
+   {
+    "label": "100 g",
+    "grams": 100
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": false,
+  "source": "restaurant published nutrition, converted to per-100 g"
+ },
+ {
+  "id": "mcd-hamburger",
+  "name": "Hamburger",
+  "brand": "McDonald's",
+  "aliases": [],
+  "category": "restaurant",
+  "per100g": {
+   "kcal": 255,
+   "protein_g": 12.6,
+   "carbs_g": 30.7,
+   "fat_g": 8.4,
+   "fiber_g": 1.2,
+   "sugar_g": 5.9,
+   "satfat_g": 3.1,
+   "sodium_mg": 468
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 burger (103 g)",
+    "grams": 103,
+    "isDefault": true
+   },
+   {
+    "label": "100 g",
+    "grams": 100
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": false,
+  "source": "restaurant published nutrition, converted to per-100 g"
+ },
+ {
+  "id": "mcd-mcchicken",
+  "name": "McChicken",
+  "brand": "McDonald's",
+  "aliases": [],
+  "category": "restaurant",
+  "per100g": {
+   "kcal": 280,
+   "protein_g": 9.8,
+   "carbs_g": 27.3,
+   "fat_g": 14.7,
+   "fiber_g": 1.4,
+   "sugar_g": 3.5,
+   "satfat_g": 2.4,
+   "sodium_mg": 392
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 sandwich (143 g)",
+    "grams": 143,
+    "isDefault": true
+   },
+   {
+    "label": "100 g",
+    "grams": 100
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": false,
+  "source": "restaurant published nutrition, converted to per-100 g"
+ },
+ {
+  "id": "mcd-nuggets-10",
+  "name": "Chicken McNuggets, 10 piece",
+  "brand": "McDonald's",
+  "aliases": [],
+  "category": "restaurant",
+  "per100g": {
+   "kcal": 253,
+   "protein_g": 14.2,
+   "carbs_g": 15.4,
+   "fat_g": 14.8,
+   "fiber_g": 0.9,
+   "sugar_g": 0.3,
+   "satfat_g": 2.5,
+   "sodium_mg": 494
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "10 pieces (162 g)",
+    "grams": 162,
+    "isDefault": true
+   },
+   {
+    "label": "6 pieces (97 g)",
+    "grams": 97
+   },
+   {
+    "label": "4 pieces (65 g)",
+    "grams": 65
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": false,
+  "source": "restaurant published nutrition, converted to per-100 g"
+ },
+ {
+  "id": "mcd-fries-medium",
+  "name": "French fries, medium",
+  "brand": "McDonald's",
+  "aliases": [],
+  "category": "restaurant",
+  "per100g": {
+   "kcal": 288,
+   "protein_g": 3.6,
+   "carbs_g": 38.7,
+   "fat_g": 13.5,
+   "fiber_g": 3.6,
+   "sugar_g": 0.3,
+   "satfat_g": 1.8,
+   "sodium_mg": 234
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 medium (111 g)",
+    "grams": 111,
+    "isDefault": true
+   },
+   {
+    "label": "1 small (71 g)",
+    "grams": 71
+   },
+   {
+    "label": "1 large (154 g)",
+    "grams": 154
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": false,
+  "source": "restaurant published nutrition, converted to per-100 g"
+ },
+ {
+  "id": "mcd-hash-brown",
+  "name": "Hash brown",
+  "brand": "McDonald's",
+  "aliases": [],
+  "category": "restaurant",
+  "per100g": {
+   "kcal": 272,
+   "protein_g": 1.9,
+   "carbs_g": 28.3,
+   "fat_g": 17,
+   "fiber_g": 3.8,
+   "sugar_g": 0,
+   "satfat_g": 2.8,
+   "sodium_mg": 585
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 hash brown (53 g)",
+    "grams": 53,
+    "isDefault": true
+   },
+   {
+    "label": "100 g",
+    "grams": 100
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": false,
+  "source": "restaurant published nutrition, converted to per-100 g"
+ },
+ {
+  "id": "mcd-egg-mcmuffin",
+  "name": "Egg McMuffin",
+  "brand": "McDonald's",
+  "aliases": [],
+  "category": "restaurant",
+  "per100g": {
+   "kcal": 193,
+   "protein_g": 10.6,
+   "carbs_g": 18.6,
+   "fat_g": 8.1,
+   "fiber_g": 1.2,
+   "sugar_g": 1.9,
+   "satfat_g": 3.7,
+   "sodium_mg": 478
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 sandwich (161 g)",
+    "grams": 161,
+    "isDefault": true
+   },
+   {
+    "label": "100 g",
+    "grams": 100
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": false,
+  "source": "restaurant published nutrition, converted to per-100 g"
+ },
+ {
+  "id": "mcd-sausage-mcmuffin-egg",
+  "name": "Sausage McMuffin with Egg",
+  "brand": "McDonald's",
+  "aliases": [],
+  "category": "restaurant",
+  "per100g": {
+   "kcal": 294,
+   "protein_g": 12.3,
+   "carbs_g": 18.4,
+   "fat_g": 19,
+   "fiber_g": 1.2,
+   "sugar_g": 1.2,
+   "satfat_g": 7.4,
+   "sodium_mg": 509
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 sandwich (163 g)",
+    "grams": 163,
+    "isDefault": true
+   },
+   {
+    "label": "100 g",
+    "grams": 100
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": false,
+  "source": "restaurant published nutrition, converted to per-100 g"
+ },
+ {
+  "id": "mcd-mcflurry-oreo",
+  "name": "McFlurry with Oreo cookies",
+  "brand": "McDonald's",
+  "aliases": [],
+  "category": "restaurant",
+  "per100g": {
+   "kcal": 179,
+   "protein_g": 4.2,
+   "carbs_g": 28.1,
+   "fat_g": 5.6,
+   "fiber_g": 0.4,
+   "sugar_g": 20.4,
+   "satfat_g": 3.2,
+   "sodium_mg": 98
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 regular (285 g)",
+    "grams": 285,
+    "isDefault": true
+   },
+   {
+    "label": "100 g",
+    "grams": 100
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": false,
+  "source": "restaurant published nutrition, converted to per-100 g"
+ },
+ {
+  "id": "mcd-vanilla-cone",
+  "name": "Vanilla soft serve cone",
+  "brand": "McDonald's",
+  "aliases": [],
+  "category": "restaurant",
+  "per100g": {
+   "kcal": 180,
+   "protein_g": 4.5,
+   "carbs_g": 28.8,
+   "fat_g": 4.5,
+   "fiber_g": 0.9,
+   "sugar_g": 21.6,
+   "satfat_g": 2.7,
+   "sodium_mg": 90
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 cone (111 g)",
+    "grams": 111,
+    "isDefault": true
+   },
+   {
+    "label": "100 g",
+    "grams": 100
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": false,
+  "source": "restaurant published nutrition, converted to per-100 g"
+ },
+ {
+  "id": "bk-whopper",
+  "name": "Whopper",
+  "brand": "Burger King",
+  "aliases": [],
+  "category": "restaurant",
+  "per100g": {
+   "kcal": 230,
+   "protein_g": 10.7,
+   "carbs_g": 17.5,
+   "fat_g": 13.7,
+   "fiber_g": 0.7,
+   "sugar_g": 3.8,
+   "satfat_g": 4.1,
+   "sodium_mg": 351
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 burger (291 g)",
+    "grams": 291,
+    "isDefault": true
+   },
+   {
+    "label": "100 g",
+    "grams": 100
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": false,
+  "source": "restaurant published nutrition, converted to per-100 g"
+ },
+ {
+  "id": "bk-chicken-fries",
+  "name": "Chicken fries, 9 piece",
+  "brand": "Burger King",
+  "aliases": [],
+  "category": "restaurant",
+  "per100g": {
+   "kcal": 265,
+   "protein_g": 13,
+   "carbs_g": 21,
+   "fat_g": 14.5,
+   "fiber_g": 1.5,
+   "sugar_g": 0.5,
+   "satfat_g": 2.5,
+   "sodium_mg": 750
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "9 pieces (128 g)",
+    "grams": 128,
+    "isDefault": true
+   },
+   {
+    "label": "100 g",
+    "grams": 100
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": false,
+  "source": "restaurant published nutrition, converted to per-100 g"
+ },
+ {
+  "id": "wendys-daves-single",
+  "name": "Dave's Single",
+  "brand": "Wendy's",
+  "aliases": [],
+  "category": "restaurant",
+  "per100g": {
+   "kcal": 229,
+   "protein_g": 11.2,
+   "carbs_g": 15.1,
+   "fat_g": 13.2,
+   "fiber_g": 0.8,
+   "sugar_g": 3.1,
+   "satfat_g": 5.4,
+   "sodium_mg": 453
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 burger (258 g)",
+    "grams": 258,
+    "isDefault": true
+   },
+   {
+    "label": "100 g",
+    "grams": 100
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": false,
+  "source": "restaurant published nutrition, converted to per-100 g"
+ },
+ {
+  "id": "wendys-baconator",
+  "name": "Baconator",
+  "brand": "Wendy's",
+  "aliases": [],
+  "category": "restaurant",
+  "per100g": {
+   "kcal": 325,
+   "protein_g": 20.3,
+   "carbs_g": 13.2,
+   "fat_g": 21,
+   "fiber_g": 0.7,
+   "sugar_g": 3.1,
+   "satfat_g": 8.5,
+   "sodium_mg": 563
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 burger (295 g)",
+    "grams": 295,
+    "isDefault": true
+   },
+   {
+    "label": "100 g",
+    "grams": 100
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": false,
+  "source": "restaurant published nutrition, converted to per-100 g"
+ },
+ {
+  "id": "wendys-chili-small",
+  "name": "Chili, small",
+  "brand": "Wendy's",
+  "aliases": [],
+  "category": "restaurant",
+  "per100g": {
+   "kcal": 106,
+   "protein_g": 9.3,
+   "carbs_g": 10.1,
+   "fat_g": 3.1,
+   "fiber_g": 2.6,
+   "sugar_g": 3.1,
+   "satfat_g": 1.3,
+   "sodium_mg": 432
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 small (227 g)",
+    "grams": 227,
+    "isDefault": true
+   },
+   {
+    "label": "1 large (340 g)",
+    "grams": 340
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": false,
+  "source": "restaurant published nutrition, converted to per-100 g"
+ },
+ {
+  "id": "wendys-frosty-small",
+  "name": "Frosty, chocolate, small",
+  "brand": "Wendy's",
+  "aliases": [],
+  "category": "restaurant",
+  "per100g": {
+   "kcal": 140,
+   "protein_g": 3.5,
+   "carbs_g": 24,
+   "fat_g": 3.5,
+   "fiber_g": 0.5,
+   "sugar_g": 20,
+   "satfat_g": 2.2,
+   "sodium_mg": 75
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 small (227 g)",
+    "grams": 227,
+    "isDefault": true
+   },
+   {
+    "label": "100 g",
+    "grams": 100
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": false,
+  "source": "restaurant published nutrition, converted to per-100 g"
+ },
+ {
+  "id": "in-n-out-double-double",
+  "name": "Double-Double burger",
+  "brand": "In-N-Out",
+  "aliases": [],
+  "category": "restaurant",
+  "per100g": {
+   "kcal": 203,
+   "protein_g": 11.2,
+   "carbs_g": 11.8,
+   "fat_g": 12.4,
+   "fiber_g": 0.9,
+   "sugar_g": 3,
+   "satfat_g": 5.5,
+   "sodium_mg": 436
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 burger (330 g)",
+    "grams": 330,
+    "isDefault": true
+   },
+   {
+    "label": "100 g",
+    "grams": 100
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": false,
+  "source": "restaurant published nutrition, converted to per-100 g"
+ },
+ {
+  "id": "in-n-out-hamburger",
+  "name": "Hamburger with onion",
+  "brand": "In-N-Out",
+  "aliases": [],
+  "category": "restaurant",
+  "per100g": {
+   "kcal": 160,
+   "protein_g": 6.6,
+   "carbs_g": 16,
+   "fat_g": 7.8,
+   "fiber_g": 1.2,
+   "sugar_g": 4.1,
+   "satfat_g": 1.9,
+   "sodium_mg": 267
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 burger (243 g)",
+    "grams": 243,
+    "isDefault": true
+   },
+   {
+    "label": "100 g",
+    "grams": 100
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": false,
+  "source": "restaurant published nutrition, converted to per-100 g"
+ },
+ {
+  "id": "in-n-out-fries",
+  "name": "French fries",
+  "brand": "In-N-Out",
+  "aliases": [],
+  "category": "restaurant",
+  "per100g": {
+   "kcal": 316,
+   "protein_g": 5.6,
+   "carbs_g": 43.2,
+   "fat_g": 14.4,
+   "fiber_g": 2.4,
+   "sugar_g": 0,
+   "satfat_g": 3.2,
+   "sodium_mg": 196
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 order (125 g)",
+    "grams": 125,
+    "isDefault": true
+   },
+   {
+    "label": "100 g",
+    "grams": 100
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": false,
+  "source": "restaurant published nutrition, converted to per-100 g"
+ },
+ {
+  "id": "shake-shack-shackburger",
+  "name": "ShackBurger, single",
+  "brand": "Shake Shack",
+  "aliases": [],
+  "category": "restaurant",
+  "per100g": {
+   "kcal": 227,
+   "protein_g": 12.9,
+   "carbs_g": 17.6,
+   "fat_g": 11.6,
+   "fiber_g": 0.4,
+   "sugar_g": 3.4,
+   "satfat_g": 5.2,
+   "sodium_mg": 472
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 burger (233 g)",
+    "grams": 233,
+    "isDefault": true
+   },
+   {
+    "label": "100 g",
+    "grams": 100
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": false,
+  "source": "restaurant published nutrition, converted to per-100 g"
+ },
+ {
+  "id": "five-guys-little-hamburger",
+  "name": "Little Hamburger",
+  "brand": "Five Guys",
+  "aliases": [],
+  "category": "restaurant",
+  "per100g": {
+   "kcal": 225,
+   "protein_g": 10.8,
+   "carbs_g": 18.3,
+   "fat_g": 12.2,
+   "fiber_g": 0.9,
+   "sugar_g": 3.8,
+   "satfat_g": 5.2,
+   "sodium_mg": 178
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 burger (213 g)",
+    "grams": 213,
+    "isDefault": true
+   },
+   {
+    "label": "100 g",
+    "grams": 100
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": false,
+  "source": "restaurant published nutrition, converted to per-100 g"
+ },
+ {
+  "id": "five-guys-fries-regular",
+  "name": "French fries, regular",
+  "brand": "Five Guys",
+  "aliases": [],
+  "category": "restaurant",
+  "per100g": {
+   "kcal": 232,
+   "protein_g": 3.2,
+   "carbs_g": 31.9,
+   "fat_g": 10,
+   "fiber_g": 1,
+   "sugar_g": 0,
+   "satfat_g": 1.8,
+   "sodium_mg": 234
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 regular (411 g)",
+    "grams": 411,
+    "isDefault": true
+   },
+   {
+    "label": "100 g",
+    "grams": 100
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": false,
+  "source": "restaurant published nutrition, converted to per-100 g"
+ },
+ {
+  "id": "cfa-chicken-sandwich",
+  "name": "Chick-fil-A Chicken Sandwich",
+  "brand": "Chick-fil-A",
+  "aliases": [],
+  "category": "restaurant",
+  "per100g": {
+   "kcal": 240,
+   "protein_g": 15.3,
+   "carbs_g": 21.9,
+   "fat_g": 10.4,
+   "fiber_g": 1.1,
+   "sugar_g": 3.3,
+   "satfat_g": 2.2,
+   "sodium_mg": 765
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 sandwich (183 g)",
+    "grams": 183,
+    "isDefault": true
+   },
+   {
+    "label": "100 g",
+    "grams": 100
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": false,
+  "source": "restaurant published nutrition, converted to per-100 g"
+ },
+ {
+  "id": "cfa-grilled-chicken-sandwich",
+  "name": "Grilled Chicken Sandwich",
+  "brand": "Chick-fil-A",
+  "aliases": [],
+  "category": "restaurant",
+  "per100g": {
+   "kcal": 186,
+   "protein_g": 13.3,
+   "carbs_g": 21,
+   "fat_g": 5.7,
+   "fiber_g": 1.4,
+   "sugar_g": 5.2,
+   "satfat_g": 1,
+   "sodium_mg": 367
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 sandwich (210 g)",
+    "grams": 210,
+    "isDefault": true
+   },
+   {
+    "label": "100 g",
+    "grams": 100
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": false,
+  "source": "restaurant published nutrition, converted to per-100 g"
+ },
+ {
+  "id": "cfa-nuggets-8",
+  "name": "Chicken nuggets, 8 count",
+  "brand": "Chick-fil-A",
+  "aliases": [],
+  "category": "restaurant",
+  "per100g": {
+   "kcal": 221,
+   "protein_g": 23.9,
+   "carbs_g": 9.7,
+   "fat_g": 9.7,
+   "fiber_g": 0.4,
+   "sugar_g": 0.9,
+   "satfat_g": 2.2,
+   "sodium_mg": 1071
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "8 count (113 g)",
+    "grams": 113,
+    "isDefault": true
+   },
+   {
+    "label": "12 count (170 g)",
+    "grams": 170
+   },
+   {
+    "label": "5 count (71 g)",
+    "grams": 71
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": false,
+  "source": "restaurant published nutrition, converted to per-100 g"
+ },
+ {
+  "id": "cfa-grilled-nuggets-8",
+  "name": "Grilled chicken nuggets, 8 count",
+  "brand": "Chick-fil-A",
+  "aliases": [],
+  "category": "restaurant",
+  "per100g": {
+   "kcal": 115,
+   "protein_g": 22.1,
+   "carbs_g": 2.7,
+   "fat_g": 2.7,
+   "fiber_g": 0,
+   "sugar_g": 1.8,
+   "satfat_g": 0.4,
+   "sodium_mg": 389
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "8 count (113 g)",
+    "grams": 113,
+    "isDefault": true
+   },
+   {
+    "label": "12 count (170 g)",
+    "grams": 170
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": false,
+  "source": "restaurant published nutrition, converted to per-100 g"
+ },
+ {
+  "id": "cfa-waffle-fries-medium",
+  "name": "Waffle fries, medium",
+  "brand": "Chick-fil-A",
+  "aliases": [],
+  "category": "restaurant",
+  "per100g": {
+   "kcal": 336,
+   "protein_g": 4,
+   "carbs_g": 36,
+   "fat_g": 19.2,
+   "fiber_g": 4,
+   "sugar_g": 0,
+   "satfat_g": 3.2,
+   "sodium_mg": 192
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 medium (125 g)",
+    "grams": 125,
+    "isDefault": true
+   },
+   {
+    "label": "1 small (85 g)",
+    "grams": 85
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": false,
+  "source": "restaurant published nutrition, converted to per-100 g"
+ },
+ {
+  "id": "cfa-sauce",
+  "name": "Chick-fil-A Sauce packet",
+  "brand": "Chick-fil-A",
+  "aliases": [],
+  "category": "restaurant",
+  "per100g": {
+   "kcal": 500,
+   "protein_g": 0,
+   "carbs_g": 21.4,
+   "fat_g": 46.4,
+   "fiber_g": 0,
+   "sugar_g": 17.9,
+   "satfat_g": 7.1,
+   "sodium_mg": 643
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 packet (28 g)",
+    "grams": 28,
+    "isDefault": true
+   },
+   {
+    "label": "100 g",
+    "grams": 100
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": false,
+  "source": "restaurant published nutrition, converted to per-100 g"
+ },
+ {
+  "id": "popeyes-chicken-sandwich",
+  "name": "Popeyes Chicken Sandwich",
+  "brand": "Popeyes",
+  "aliases": [],
+  "category": "restaurant",
+  "per100g": {
+   "kcal": 286,
+   "protein_g": 11.4,
+   "carbs_g": 20.4,
+   "fat_g": 17.1,
+   "fiber_g": 0.8,
+   "sugar_g": 2,
+   "satfat_g": 3.3,
+   "sodium_mg": 589
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 sandwich (245 g)",
+    "grams": 245,
+    "isDefault": true
+   },
+   {
+    "label": "100 g",
+    "grams": 100
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": false,
+  "source": "restaurant published nutrition, converted to per-100 g"
+ },
+ {
+  "id": "kfc-original-breast",
+  "name": "Original Recipe chicken breast",
+  "brand": "KFC",
+  "aliases": [],
+  "category": "restaurant",
+  "per100g": {
+   "kcal": 242,
+   "protein_g": 24.2,
+   "carbs_g": 6.8,
+   "fat_g": 13,
+   "fiber_g": 0.6,
+   "sugar_g": 0,
+   "satfat_g": 3.1,
+   "sodium_mg": 739
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 breast (161 g)",
+    "grams": 161,
+    "isDefault": true
+   },
+   {
+    "label": "100 g",
+    "grams": 100
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": false,
+  "source": "restaurant published nutrition, converted to per-100 g"
+ },
+ {
+  "id": "kfc-coleslaw",
+  "name": "Coleslaw, individual",
+  "brand": "KFC",
+  "aliases": [],
+  "category": "restaurant",
+  "per100g": {
+   "kcal": 190,
+   "protein_g": 1,
+   "carbs_g": 21,
+   "fat_g": 11,
+   "fiber_g": 2.4,
+   "sugar_g": 17,
+   "satfat_g": 1.7,
+   "sodium_mg": 170
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 individual (130 g)",
+    "grams": 130,
+    "isDefault": true
+   },
+   {
+    "label": "100 g",
+    "grams": 100
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": false,
+  "source": "restaurant published nutrition, converted to per-100 g"
+ },
+ {
+  "id": "chipotle-chicken",
+  "name": "Chipotle chicken",
+  "brand": "Chipotle",
+  "aliases": [],
+  "category": "restaurant",
+  "per100g": {
+   "kcal": 159,
+   "protein_g": 28.3,
+   "carbs_g": 0,
+   "fat_g": 6.2,
+   "fiber_g": 0,
+   "sugar_g": 0,
+   "satfat_g": 1.8,
+   "sodium_mg": 274
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 serving, 4 oz (113 g)",
+    "grams": 113,
+    "isDefault": true
+   },
+   {
+    "label": "double (226 g)",
+    "grams": 226
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": false,
+  "source": "restaurant published nutrition, converted to per-100 g"
+ },
+ {
+  "id": "chipotle-steak",
+  "name": "Chipotle steak",
+  "brand": "Chipotle",
+  "aliases": [],
+  "category": "restaurant",
+  "per100g": {
+   "kcal": 133,
+   "protein_g": 18.6,
+   "carbs_g": 0.9,
+   "fat_g": 5.3,
+   "fiber_g": 0,
+   "sugar_g": 0,
+   "satfat_g": 1.8,
+   "sodium_mg": 292
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 serving, 4 oz (113 g)",
+    "grams": 113,
+    "isDefault": true
+   },
+   {
+    "label": "double (226 g)",
+    "grams": 226
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": false,
+  "source": "restaurant published nutrition, converted to per-100 g"
+ },
+ {
+  "id": "chipotle-barbacoa",
+  "name": "Chipotle barbacoa",
+  "brand": "Chipotle",
+  "aliases": [],
+  "category": "restaurant",
+  "per100g": {
+   "kcal": 150,
+   "protein_g": 21.2,
+   "carbs_g": 1.8,
+   "fat_g": 6.2,
+   "fiber_g": 0,
+   "sugar_g": 0,
+   "satfat_g": 2.2,
+   "sodium_mg": 469
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 serving, 4 oz (113 g)",
+    "grams": 113,
+    "isDefault": true
+   },
+   {
+    "label": "100 g",
+    "grams": 100
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": false,
+  "source": "restaurant published nutrition, converted to per-100 g"
+ },
+ {
+  "id": "chipotle-carnitas",
+  "name": "Chipotle carnitas",
+  "brand": "Chipotle",
+  "aliases": [],
+  "category": "restaurant",
+  "per100g": {
+   "kcal": 186,
+   "protein_g": 20.4,
+   "carbs_g": 0,
+   "fat_g": 10.6,
+   "fiber_g": 0,
+   "sugar_g": 0,
+   "satfat_g": 2.7,
+   "sodium_mg": 398
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 serving, 4 oz (113 g)",
+    "grams": 113,
+    "isDefault": true
+   },
+   {
+    "label": "100 g",
+    "grams": 100
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": false,
+  "source": "restaurant published nutrition, converted to per-100 g"
+ },
+ {
+  "id": "chipotle-sofritas",
+  "name": "Chipotle sofritas",
+  "brand": "Chipotle",
+  "aliases": [],
+  "category": "restaurant",
+  "per100g": {
+   "kcal": 133,
+   "protein_g": 7.1,
+   "carbs_g": 8,
+   "fat_g": 8.8,
+   "fiber_g": 2.7,
+   "sugar_g": 3.5,
+   "satfat_g": 1.3,
+   "sodium_mg": 496
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 serving, 4 oz (113 g)",
+    "grams": 113,
+    "isDefault": true
+   },
+   {
+    "label": "100 g",
+    "grams": 100
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": false,
+  "source": "restaurant published nutrition, converted to per-100 g"
+ },
+ {
+  "id": "chipotle-white-rice",
+  "name": "Chipotle white rice",
+  "brand": "Chipotle",
+  "aliases": [],
+  "category": "restaurant",
+  "per100g": {
+   "kcal": 186,
+   "protein_g": 3.5,
+   "carbs_g": 35.4,
+   "fat_g": 3.5,
+   "fiber_g": 0.9,
+   "sugar_g": 0,
+   "satfat_g": 0.4,
+   "sodium_mg": 310
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 serving, 4 oz (113 g)",
+    "grams": 113,
+    "isDefault": true
+   },
+   {
+    "label": "double (226 g)",
+    "grams": 226
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": false,
+  "source": "restaurant published nutrition, converted to per-100 g"
+ },
+ {
+  "id": "chipotle-brown-rice",
+  "name": "Chipotle brown rice",
+  "brand": "Chipotle",
+  "aliases": [],
+  "category": "restaurant",
+  "per100g": {
+   "kcal": 186,
+   "protein_g": 3.5,
+   "carbs_g": 31.9,
+   "fat_g": 5.3,
+   "fiber_g": 2.7,
+   "sugar_g": 0,
+   "satfat_g": 0.9,
+   "sodium_mg": 168
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 serving, 4 oz (113 g)",
+    "grams": 113,
+    "isDefault": true
+   },
+   {
+    "label": "100 g",
+    "grams": 100
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": false,
+  "source": "restaurant published nutrition, converted to per-100 g"
+ },
+ {
+  "id": "chipotle-black-beans",
+  "name": "Chipotle black beans",
+  "brand": "Chipotle",
+  "aliases": [],
+  "category": "restaurant",
+  "per100g": {
+   "kcal": 115,
+   "protein_g": 7.1,
+   "carbs_g": 19.5,
+   "fat_g": 1.3,
+   "fiber_g": 6.2,
+   "sugar_g": 0.9,
+   "satfat_g": 0,
+   "sodium_mg": 186
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 serving, 4 oz (113 g)",
+    "grams": 113,
+    "isDefault": true
+   },
+   {
+    "label": "100 g",
+    "grams": 100
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": false,
+  "source": "restaurant published nutrition, converted to per-100 g"
+ },
+ {
+  "id": "chipotle-pinto-beans",
+  "name": "Chipotle pinto beans",
+  "brand": "Chipotle",
+  "aliases": [],
+  "category": "restaurant",
+  "per100g": {
+   "kcal": 115,
+   "protein_g": 7.1,
+   "carbs_g": 18.6,
+   "fat_g": 1.3,
+   "fiber_g": 7.1,
+   "sugar_g": 0.9,
+   "satfat_g": 0,
+   "sodium_mg": 186
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 serving, 4 oz (113 g)",
+    "grams": 113,
+    "isDefault": true
+   },
+   {
+    "label": "100 g",
+    "grams": 100
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": false,
+  "source": "restaurant published nutrition, converted to per-100 g"
+ },
+ {
+  "id": "chipotle-fajita-veggies",
+  "name": "Chipotle fajita vegetables",
+  "brand": "Chipotle",
+  "aliases": [],
+  "category": "restaurant",
+  "per100g": {
+   "kcal": 28,
+   "protein_g": 1.4,
+   "carbs_g": 5.6,
+   "fat_g": 0,
+   "fiber_g": 1.4,
+   "sugar_g": 2.8,
+   "satfat_g": 0,
+   "sodium_mg": 211
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 serving (71 g)",
+    "grams": 71,
+    "isDefault": true
+   },
+   {
+    "label": "100 g",
+    "grams": 100
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": false,
+  "source": "restaurant published nutrition, converted to per-100 g"
+ },
+ {
+  "id": "chipotle-guacamole",
+  "name": "Chipotle guacamole",
+  "brand": "Chipotle",
+  "aliases": [],
+  "category": "restaurant",
+  "per100g": {
+   "kcal": 204,
+   "protein_g": 1.8,
+   "carbs_g": 7.1,
+   "fat_g": 19.5,
+   "fiber_g": 5.3,
+   "sugar_g": 0.9,
+   "satfat_g": 2.7,
+   "sodium_mg": 332
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 serving, 4 oz (113 g)",
+    "grams": 113,
+    "isDefault": true
+   },
+   {
+    "label": "100 g",
+    "grams": 100
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": false,
+  "source": "restaurant published nutrition, converted to per-100 g"
+ },
+ {
+  "id": "chipotle-cheese",
+  "name": "Chipotle shredded cheese",
+  "brand": "Chipotle",
+  "aliases": [],
+  "category": "restaurant",
+  "per100g": {
+   "kcal": 393,
+   "protein_g": 21.4,
+   "carbs_g": 3.6,
+   "fat_g": 32.1,
+   "fiber_g": 0,
+   "sugar_g": 0,
+   "satfat_g": 17.9,
+   "sodium_mg": 679
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 serving, 1 oz (28 g)",
+    "grams": 28,
+    "isDefault": true
+   },
+   {
+    "label": "100 g",
+    "grams": 100
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": false,
+  "source": "restaurant published nutrition, converted to per-100 g"
+ },
+ {
+  "id": "chipotle-sour-cream",
+  "name": "Chipotle sour cream",
+  "brand": "Chipotle",
+  "aliases": [],
+  "category": "restaurant",
+  "per100g": {
+   "kcal": 193,
+   "protein_g": 3.5,
+   "carbs_g": 3.5,
+   "fat_g": 15.8,
+   "fiber_g": 0,
+   "sugar_g": 3.5,
+   "satfat_g": 12.3,
+   "sodium_mg": 53
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 serving, 2 oz (57 g)",
+    "grams": 57,
+    "isDefault": true
+   },
+   {
+    "label": "100 g",
+    "grams": 100
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": false,
+  "source": "restaurant published nutrition, converted to per-100 g"
+ },
+ {
+  "id": "chipotle-tomato-salsa",
+  "name": "Chipotle fresh tomato salsa",
+  "brand": "Chipotle",
+  "aliases": [],
+  "category": "restaurant",
+  "per100g": {
+   "kcal": 25,
+   "protein_g": 1,
+   "carbs_g": 4,
+   "fat_g": 0,
+   "fiber_g": 1,
+   "sugar_g": 2,
+   "satfat_g": 0,
+   "sodium_mg": 556
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 serving (99 g)",
+    "grams": 99,
+    "isDefault": true
+   },
+   {
+    "label": "100 g",
+    "grams": 100
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": false,
+  "source": "restaurant published nutrition, converted to per-100 g"
+ },
+ {
+  "id": "chipotle-corn-salsa",
+  "name": "Chipotle roasted chili corn salsa",
+  "brand": "Chipotle",
+  "aliases": [],
+  "category": "restaurant",
+  "per100g": {
+   "kcal": 81,
+   "protein_g": 3,
+   "carbs_g": 16.2,
+   "fat_g": 1.5,
+   "fiber_g": 3,
+   "sugar_g": 4,
+   "satfat_g": 0,
+   "sodium_mg": 414
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 serving (99 g)",
+    "grams": 99,
+    "isDefault": true
+   },
+   {
+    "label": "100 g",
+    "grams": 100
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": false,
+  "source": "restaurant published nutrition, converted to per-100 g"
+ },
+ {
+  "id": "chipotle-queso-blanco",
+  "name": "Chipotle queso blanco",
+  "brand": "Chipotle",
+  "aliases": [],
+  "category": "restaurant",
+  "per100g": {
+   "kcal": 211,
+   "protein_g": 10.5,
+   "carbs_g": 7,
+   "fat_g": 15.8,
+   "fiber_g": 0,
+   "sugar_g": 3.5,
+   "satfat_g": 8.8,
+   "sodium_mg": 596
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 serving, 2 oz (57 g)",
+    "grams": 57,
+    "isDefault": true
+   },
+   {
+    "label": "100 g",
+    "grams": 100
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": false,
+  "source": "restaurant published nutrition, converted to per-100 g"
+ },
+ {
+  "id": "chipotle-chips",
+  "name": "Chipotle tortilla chips",
+  "brand": "Chipotle",
+  "aliases": [],
+  "category": "restaurant",
+  "per100g": {
+   "kcal": 478,
+   "protein_g": 6.2,
+   "carbs_g": 64.6,
+   "fat_g": 22.1,
+   "fiber_g": 4.4,
+   "sugar_g": 0,
+   "satfat_g": 3.1,
+   "sodium_mg": 345
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 bag, 4 oz (113 g)",
+    "grams": 113,
+    "isDefault": true
+   },
+   {
+    "label": "1/2 bag (57 g)",
+    "grams": 57
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": false,
+  "source": "restaurant published nutrition, converted to per-100 g"
+ },
+ {
+  "id": "chipotle-flour-tortilla",
+  "name": "Chipotle flour tortilla, burrito",
+  "brand": "Chipotle",
+  "aliases": [],
+  "category": "restaurant",
+  "per100g": {
+   "kcal": 320,
+   "protein_g": 8,
+   "carbs_g": 50,
+   "fat_g": 9,
+   "fiber_g": 3,
+   "sugar_g": 0,
+   "satfat_g": 4,
+   "sodium_mg": 600
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 tortilla (100 g)",
+    "grams": 100,
+    "isDefault": true
+   },
+   {
+    "label": "100 g",
+    "grams": 100
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": false,
+  "source": "restaurant published nutrition, converted to per-100 g"
+ },
+ {
+  "id": "tb-crunchy-taco",
+  "name": "Crunchy Taco",
+  "brand": "Taco Bell",
+  "aliases": [],
+  "category": "restaurant",
+  "per100g": {
+   "kcal": 218,
+   "protein_g": 10.3,
+   "carbs_g": 16.7,
+   "fat_g": 12.8,
+   "fiber_g": 3.8,
+   "sugar_g": 0,
+   "satfat_g": 4.5,
+   "sodium_mg": 397
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 taco (78 g)",
+    "grams": 78,
+    "isDefault": true
+   },
+   {
+    "label": "3 tacos (234 g)",
+    "grams": 234
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": false,
+  "source": "restaurant published nutrition, converted to per-100 g"
+ },
+ {
+  "id": "tb-soft-taco-beef",
+  "name": "Soft Taco, beef",
+  "brand": "Taco Bell",
+  "aliases": [],
+  "category": "restaurant",
+  "per100g": {
+   "kcal": 182,
+   "protein_g": 9.1,
+   "carbs_g": 18.2,
+   "fat_g": 9.1,
+   "fiber_g": 3,
+   "sugar_g": 1,
+   "satfat_g": 4,
+   "sodium_mg": 505
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 taco (99 g)",
+    "grams": 99,
+    "isDefault": true
+   },
+   {
+    "label": "100 g",
+    "grams": 100
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": false,
+  "source": "restaurant published nutrition, converted to per-100 g"
+ },
+ {
+  "id": "tb-bean-burrito",
+  "name": "Bean Burrito",
+  "brand": "Taco Bell",
+  "aliases": [],
+  "category": "restaurant",
+  "per100g": {
+   "kcal": 177,
+   "protein_g": 6.6,
+   "carbs_g": 27.3,
+   "fat_g": 4.5,
+   "fiber_g": 4.5,
+   "sugar_g": 1.5,
+   "satfat_g": 2,
+   "sodium_mg": 505
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 burrito (198 g)",
+    "grams": 198,
+    "isDefault": true
+   },
+   {
+    "label": "100 g",
+    "grams": 100
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": false,
+  "source": "restaurant published nutrition, converted to per-100 g"
+ },
+ {
+  "id": "tb-crunchwrap-supreme",
+  "name": "Crunchwrap Supreme",
+  "brand": "Taco Bell",
+  "aliases": [],
+  "category": "restaurant",
+  "per100g": {
+   "kcal": 209,
+   "protein_g": 6.3,
+   "carbs_g": 23.6,
+   "fat_g": 9.4,
+   "fiber_g": 1.6,
+   "sugar_g": 1.6,
+   "satfat_g": 3.1,
+   "sodium_mg": 472
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 crunchwrap (254 g)",
+    "grams": 254,
+    "isDefault": true
+   },
+   {
+    "label": "100 g",
+    "grams": 100
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": false,
+  "source": "restaurant published nutrition, converted to per-100 g"
+ },
+ {
+  "id": "tb-chicken-quesadilla",
+  "name": "Chicken Quesadilla",
+  "brand": "Taco Bell",
+  "aliases": [],
+  "category": "restaurant",
+  "per100g": {
+   "kcal": 282,
+   "protein_g": 14.4,
+   "carbs_g": 21,
+   "fat_g": 14.9,
+   "fiber_g": 1.7,
+   "sugar_g": 1.7,
+   "satfat_g": 7.2,
+   "sodium_mg": 685
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 quesadilla (181 g)",
+    "grams": 181,
+    "isDefault": true
+   },
+   {
+    "label": "100 g",
+    "grams": 100
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": false,
+  "source": "restaurant published nutrition, converted to per-100 g"
+ },
+ {
+  "id": "subway-turkey-6in",
+  "name": "6 inch Turkey Breast sub",
+  "brand": "Subway",
+  "aliases": [],
+  "category": "restaurant",
+  "per100g": {
+   "kcal": 128,
+   "protein_g": 8.2,
+   "carbs_g": 21,
+   "fat_g": 1.6,
+   "fiber_g": 2.3,
+   "sugar_g": 2.7,
+   "satfat_g": 0.5,
+   "sodium_mg": 347
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "6 inch sub (219 g)",
+    "grams": 219,
+    "isDefault": true
+   },
+   {
+    "label": "footlong (438 g)",
+    "grams": 438
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": false,
+  "source": "restaurant published nutrition, converted to per-100 g"
+ },
+ {
+  "id": "subway-italian-bmt-6in",
+  "name": "6 inch Italian B.M.T. sub",
+  "brand": "Subway",
+  "aliases": [],
+  "category": "restaurant",
+  "per100g": {
+   "kcal": 162,
+   "protein_g": 7.9,
+   "carbs_g": 18.7,
+   "fat_g": 6.6,
+   "fiber_g": 1.7,
+   "sugar_g": 3.3,
+   "satfat_g": 2.5,
+   "sodium_mg": 539
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "6 inch sub (241 g)",
+    "grams": 241,
+    "isDefault": true
+   },
+   {
+    "label": "footlong (482 g)",
+    "grams": 482
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": false,
+  "source": "restaurant published nutrition, converted to per-100 g"
+ },
+ {
+  "id": "subway-oven-roasted-chicken-6in",
+  "name": "6 inch Oven Roasted Chicken sub",
+  "brand": "Subway",
+  "aliases": [],
+  "category": "restaurant",
+  "per100g": {
+   "kcal": 138,
+   "protein_g": 10.8,
+   "carbs_g": 19.4,
+   "fat_g": 2.2,
+   "fiber_g": 2.2,
+   "sugar_g": 3,
+   "satfat_g": 0.6,
+   "sodium_mg": 284
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "6 inch sub (232 g)",
+    "grams": 232,
+    "isDefault": true
+   },
+   {
+    "label": "100 g",
+    "grams": 100
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": false,
+  "source": "restaurant published nutrition, converted to per-100 g"
+ },
+ {
+  "id": "panera-broccoli-cheddar-soup",
+  "name": "Broccoli Cheddar Soup, cup",
+  "brand": "Panera",
+  "aliases": [],
+  "category": "restaurant",
+  "per100g": {
+   "kcal": 101,
+   "protein_g": 3.5,
+   "carbs_g": 6.6,
+   "fat_g": 6.6,
+   "fiber_g": 1.3,
+   "sugar_g": 1.8,
+   "satfat_g": 3.5,
+   "sodium_mg": 445
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 cup (227 g)",
+    "grams": 227,
+    "isDefault": true
+   },
+   {
+    "label": "1 bowl (340 g)",
+    "grams": 340
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": false,
+  "source": "restaurant published nutrition, converted to per-100 g"
+ },
+ {
+  "id": "panera-greek-salad-half",
+  "name": "Greek Salad, half",
+  "brand": "Panera",
+  "aliases": [],
+  "category": "restaurant",
+  "per100g": {
+   "kcal": 140,
+   "protein_g": 3.5,
+   "carbs_g": 5.5,
+   "fat_g": 12,
+   "fiber_g": 2,
+   "sugar_g": 2.5,
+   "satfat_g": 3,
+   "sodium_mg": 400
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 half salad (200 g)",
+    "grams": 200,
+    "isDefault": true
+   },
+   {
+    "label": "100 g",
+    "grams": 100
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": false,
+  "source": "restaurant published nutrition, converted to per-100 g"
+ },
+ {
+  "id": "dominos-pepperoni-slice",
+  "name": "Pepperoni pizza slice, hand tossed",
+  "brand": "Domino's",
+  "aliases": [],
+  "category": "restaurant",
+  "per100g": {
+   "kcal": 266,
+   "protein_g": 11.4,
+   "carbs_g": 31.6,
+   "fat_g": 11.4,
+   "fiber_g": 1.3,
+   "sugar_g": 2.5,
+   "satfat_g": 5.1,
+   "sodium_mg": 595
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 slice (79 g)",
+    "grams": 79,
+    "isDefault": true
+   },
+   {
+    "label": "2 slices (158 g)",
+    "grams": 158
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": false,
+  "source": "restaurant published nutrition, converted to per-100 g"
+ },
+ {
+  "id": "dominos-cheese-slice",
+  "name": "Cheese pizza slice, hand tossed",
+  "brand": "Domino's",
+  "aliases": [],
+  "category": "restaurant",
+  "per100g": {
+   "kcal": 253,
+   "protein_g": 10.8,
+   "carbs_g": 33,
+   "fat_g": 8.9,
+   "fiber_g": 1.3,
+   "sugar_g": 2.5,
+   "satfat_g": 4.4,
+   "sodium_mg": 519
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 slice (79 g)",
+    "grams": 79,
+    "isDefault": true
+   },
+   {
+    "label": "2 slices (158 g)",
+    "grams": 158
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": false,
+  "source": "restaurant published nutrition, converted to per-100 g"
+ },
+ {
+  "id": "pizza-hut-pan-cheese-slice",
+  "name": "Pan pizza slice, cheese",
+  "brand": "Pizza Hut",
+  "aliases": [],
+  "category": "restaurant",
+  "per100g": {
+   "kcal": 262,
+   "protein_g": 11.2,
+   "carbs_g": 28,
+   "fat_g": 11.2,
+   "fiber_g": 1.4,
+   "sugar_g": 2.8,
+   "satfat_g": 5.1,
+   "sodium_mg": 533
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 slice (107 g)",
+    "grams": 107,
+    "isDefault": true
+   },
+   {
+    "label": "2 slices (214 g)",
+    "grams": 214
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": false,
+  "source": "restaurant published nutrition, converted to per-100 g"
+ },
+ {
+  "id": "panda-orange-chicken",
+  "name": "Orange Chicken",
+  "brand": "Panda Express",
+  "aliases": [],
+  "category": "restaurant",
+  "per100g": {
+   "kcal": 302,
+   "protein_g": 15.4,
+   "carbs_g": 31.5,
+   "fat_g": 14.2,
+   "fiber_g": 1.2,
+   "sugar_g": 11.7,
+   "satfat_g": 3.1,
+   "sodium_mg": 506
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 serving, 5.7 oz (162 g)",
+    "grams": 162,
+    "isDefault": true
+   },
+   {
+    "label": "100 g",
+    "grams": 100
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": false,
+  "source": "restaurant published nutrition, converted to per-100 g"
+ },
+ {
+  "id": "panda-beijing-beef",
+  "name": "Beijing Beef",
+  "brand": "Panda Express",
+  "aliases": [],
+  "category": "restaurant",
+  "per100g": {
+   "kcal": 303,
+   "protein_g": 8.4,
+   "carbs_g": 29.7,
+   "fat_g": 16.8,
+   "fiber_g": 1.3,
+   "sugar_g": 13.5,
+   "satfat_g": 3.2,
+   "sodium_mg": 426
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 serving (155 g)",
+    "grams": 155,
+    "isDefault": true
+   },
+   {
+    "label": "100 g",
+    "grams": 100
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": false,
+  "source": "restaurant published nutrition, converted to per-100 g"
+ },
+ {
+  "id": "panda-broccoli-beef",
+  "name": "Broccoli Beef",
+  "brand": "Panda Express",
+  "aliases": [],
+  "category": "restaurant",
+  "per100g": {
+   "kcal": 94,
+   "protein_g": 5.7,
+   "carbs_g": 8.2,
+   "fat_g": 4.4,
+   "fiber_g": 1.9,
+   "sugar_g": 4.4,
+   "satfat_g": 0.9,
+   "sodium_mg": 327
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 serving (159 g)",
+    "grams": 159,
+    "isDefault": true
+   },
+   {
+    "label": "100 g",
+    "grams": 100
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": false,
+  "source": "restaurant published nutrition, converted to per-100 g"
+ },
+ {
+  "id": "panda-teriyaki-chicken",
+  "name": "Grilled Teriyaki Chicken",
+  "brand": "Panda Express",
+  "aliases": [],
+  "category": "restaurant",
+  "per100g": {
+   "kcal": 175,
+   "protein_g": 21.1,
+   "carbs_g": 4.7,
+   "fat_g": 7.6,
+   "fiber_g": 0,
+   "sugar_g": 4.1,
+   "satfat_g": 2,
+   "sodium_mg": 368
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 serving (171 g)",
+    "grams": 171,
+    "isDefault": true
+   },
+   {
+    "label": "100 g",
+    "grams": 100
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": false,
+  "source": "restaurant published nutrition, converted to per-100 g"
+ },
+ {
+  "id": "panda-fried-rice",
+  "name": "Fried Rice",
+  "brand": "Panda Express",
+  "aliases": [],
+  "category": "restaurant",
+  "per100g": {
+   "kcal": 195,
+   "protein_g": 4.1,
+   "carbs_g": 32,
+   "fat_g": 6,
+   "fiber_g": 1.1,
+   "sugar_g": 1.5,
+   "satfat_g": 1.1,
+   "sodium_mg": 320
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 serving (266 g)",
+    "grams": 266,
+    "isDefault": true
+   },
+   {
+    "label": "100 g",
+    "grams": 100
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": false,
+  "source": "restaurant published nutrition, converted to per-100 g"
+ },
+ {
+  "id": "panda-chow-mein",
+  "name": "Chow Mein",
+  "brand": "Panda Express",
+  "aliases": [],
+  "category": "restaurant",
+  "per100g": {
+   "kcal": 183,
+   "protein_g": 4.7,
+   "carbs_g": 28.8,
+   "fat_g": 7.2,
+   "fiber_g": 1.4,
+   "sugar_g": 3.2,
+   "satfat_g": 1.1,
+   "sodium_mg": 309
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 serving (278 g)",
+    "grams": 278,
+    "isDefault": true
+   },
+   {
+    "label": "100 g",
+    "grams": 100
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": false,
+  "source": "restaurant published nutrition, converted to per-100 g"
+ },
+ {
+  "id": "sbux-caffe-latte-grande-2pct",
+  "name": "Caffè Latte, grande, 2% milk",
+  "brand": "Starbucks",
+  "aliases": [],
+  "category": "restaurant",
+  "per100g": {
+   "kcal": 39,
+   "protein_g": 2.7,
+   "carbs_g": 3.9,
+   "fat_g": 1.4,
+   "fiber_g": 0,
+   "sugar_g": 3.7,
+   "satfat_g": 0.9,
+   "sodium_mg": 31
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 grande (473 ml)",
+    "grams": 487,
+    "isDefault": true
+   },
+   {
+    "label": "1 tall (355 ml)",
+    "grams": 365
+   },
+   {
+    "label": "1 venti (591 ml)",
+    "grams": 609
+   }
+  ],
+  "density_g_per_ml": 1.03,
+  "verified": false,
+  "source": "restaurant published nutrition, converted to per-100 g"
+ },
+ {
+  "id": "sbux-cappuccino-grande-2pct",
+  "name": "Cappuccino, grande, 2% milk",
+  "brand": "Starbucks",
+  "aliases": [],
+  "category": "restaurant",
+  "per100g": {
+   "kcal": 33,
+   "protein_g": 2.1,
+   "carbs_g": 3.3,
+   "fat_g": 1.2,
+   "fiber_g": 0,
+   "sugar_g": 2.8,
+   "satfat_g": 0.7,
+   "sodium_mg": 25
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 grande (473 ml)",
+    "grams": 426,
+    "isDefault": true
+   },
+   {
+    "label": "1 tall (355 ml)",
+    "grams": 320
+   }
+  ],
+  "density_g_per_ml": 0.9,
+  "verified": false,
+  "source": "restaurant published nutrition, converted to per-100 g"
+ },
+ {
+  "id": "sbux-americano-grande",
+  "name": "Caffè Americano, grande",
+  "brand": "Starbucks",
+  "aliases": [],
+  "category": "restaurant",
+  "per100g": {
+   "kcal": 3,
+   "protein_g": 0.2,
+   "carbs_g": 0.4,
+   "fat_g": 0,
+   "fiber_g": 0,
+   "sugar_g": 0,
+   "satfat_g": 0,
+   "sodium_mg": 3
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 grande (473 ml)",
+    "grams": 473,
+    "isDefault": true
+   },
+   {
+    "label": "1 venti (591 ml)",
+    "grams": 591
+   }
+  ],
+  "density_g_per_ml": 1,
+  "verified": false,
+  "source": "restaurant published nutrition, converted to per-100 g"
+ },
+ {
+  "id": "sbux-cold-brew-grande",
+  "name": "Cold Brew coffee, grande, black",
+  "brand": "Starbucks",
+  "aliases": [],
+  "category": "restaurant",
+  "per100g": {
+   "kcal": 1,
+   "protein_g": 0.2,
+   "carbs_g": 0,
+   "fat_g": 0,
+   "fiber_g": 0,
+   "sugar_g": 0,
+   "satfat_g": 0,
+   "sodium_mg": 3
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 grande (473 ml)",
+    "grams": 473,
+    "isDefault": true
+   },
+   {
+    "label": "1 venti (710 ml)",
+    "grams": 710
+   }
+  ],
+  "density_g_per_ml": 1,
+  "verified": false,
+  "source": "restaurant published nutrition, converted to per-100 g"
+ },
+ {
+  "id": "sbux-caramel-macchiato-grande",
+  "name": "Caramel Macchiato, grande, 2% milk",
+  "brand": "Starbucks",
+  "aliases": [],
+  "category": "restaurant",
+  "per100g": {
+   "kcal": 51,
+   "protein_g": 2.1,
+   "carbs_g": 7.2,
+   "fat_g": 1.4,
+   "fiber_g": 0,
+   "sugar_g": 6.8,
+   "satfat_g": 0.9,
+   "sodium_mg": 31
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 grande (473 ml)",
+    "grams": 487,
+    "isDefault": true
+   },
+   {
+    "label": "1 tall (355 ml)",
+    "grams": 365
+   }
+  ],
+  "density_g_per_ml": 1.03,
+  "verified": false,
+  "source": "restaurant published nutrition, converted to per-100 g"
+ },
+ {
+  "id": "sbux-vanilla-latte-grande",
+  "name": "Vanilla Latte, grande, 2% milk",
+  "brand": "Starbucks",
+  "aliases": [],
+  "category": "restaurant",
+  "per100g": {
+   "kcal": 51,
+   "protein_g": 2.5,
+   "carbs_g": 7.6,
+   "fat_g": 1.2,
+   "fiber_g": 0,
+   "sugar_g": 7.2,
+   "satfat_g": 0.7,
+   "sodium_mg": 29
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 grande (473 ml)",
+    "grams": 487,
+    "isDefault": true
+   },
+   {
+    "label": "100 g",
+    "grams": 100
+   }
+  ],
+  "density_g_per_ml": 1.03,
+  "verified": false,
+  "source": "restaurant published nutrition, converted to per-100 g"
+ },
+ {
+  "id": "sbux-mocha-grande",
+  "name": "Caffè Mocha, grande, 2% milk",
+  "brand": "Starbucks",
+  "aliases": [],
+  "category": "restaurant",
+  "per100g": {
+   "kcal": 76,
+   "protein_g": 2.9,
+   "carbs_g": 9,
+   "fat_g": 3.1,
+   "fiber_g": 0.6,
+   "sugar_g": 7.2,
+   "satfat_g": 1.8,
+   "sodium_mg": 31
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 grande (473 ml)",
+    "grams": 487,
+    "isDefault": true
+   },
+   {
+    "label": "100 g",
+    "grams": 100
+   }
+  ],
+  "density_g_per_ml": 1.03,
+  "verified": false,
+  "source": "restaurant published nutrition, converted to per-100 g"
+ },
+ {
+  "id": "sbux-psl-grande",
+  "name": "Pumpkin Spice Latte, grande, 2% milk",
+  "brand": "Starbucks",
+  "aliases": [],
+  "category": "restaurant",
+  "per100g": {
+   "kcal": 80,
+   "protein_g": 2.9,
+   "carbs_g": 10.7,
+   "fat_g": 2.9,
+   "fiber_g": 0,
+   "sugar_g": 10.3,
+   "satfat_g": 1.6,
+   "sodium_mg": 49
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 grande (473 ml)",
+    "grams": 487,
+    "isDefault": true
+   },
+   {
+    "label": "100 g",
+    "grams": 100
+   }
+  ],
+  "density_g_per_ml": 1.03,
+  "verified": false,
+  "source": "restaurant published nutrition, converted to per-100 g"
+ },
+ {
+  "id": "sbux-matcha-latte-grande",
+  "name": "Matcha Green Tea Latte, grande, 2% milk",
+  "brand": "Starbucks",
+  "aliases": [],
+  "category": "restaurant",
+  "per100g": {
+   "kcal": 49,
+   "protein_g": 2.5,
+   "carbs_g": 7,
+   "fat_g": 1.4,
+   "fiber_g": 0.2,
+   "sugar_g": 6.6,
+   "satfat_g": 0.8,
+   "sodium_mg": 31
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 grande (473 ml)",
+    "grams": 487,
+    "isDefault": true
+   },
+   {
+    "label": "100 g",
+    "grams": 100
+   }
+  ],
+  "density_g_per_ml": 1.03,
+  "verified": false,
+  "source": "restaurant published nutrition, converted to per-100 g"
+ },
+ {
+  "id": "sbux-chai-latte-grande",
+  "name": "Chai Tea Latte, grande, 2% milk",
+  "brand": "Starbucks",
+  "aliases": [],
+  "category": "restaurant",
+  "per100g": {
+   "kcal": 49,
+   "protein_g": 1.6,
+   "carbs_g": 9.2,
+   "fat_g": 0.9,
+   "fiber_g": 0,
+   "sugar_g": 8.6,
+   "satfat_g": 0.6,
+   "sodium_mg": 24
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 grande (473 ml)",
+    "grams": 487,
+    "isDefault": true
+   },
+   {
+    "label": "100 g",
+    "grams": 100
+   }
+  ],
+  "density_g_per_ml": 1.03,
+  "verified": false,
+  "source": "restaurant published nutrition, converted to per-100 g"
+ },
+ {
+  "id": "sbux-egg-bites-bacon-gruyere",
+  "name": "Bacon and Gruyère Egg Bites",
+  "brand": "Starbucks",
+  "aliases": [],
+  "category": "restaurant",
+  "per100g": {
+   "kcal": 231,
+   "protein_g": 14.6,
+   "carbs_g": 6.9,
+   "fat_g": 15.4,
+   "fiber_g": 0,
+   "sugar_g": 1.5,
+   "satfat_g": 8.5,
+   "sodium_mg": 523
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "2 bites (130 g)",
+    "grams": 130,
+    "isDefault": true
+   },
+   {
+    "label": "1 bite (65 g)",
+    "grams": 65
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": false,
+  "source": "restaurant published nutrition, converted to per-100 g"
+ },
+ {
+  "id": "sbux-egg-white-pepper-bites",
+  "name": "Egg White and Red Pepper Egg Bites",
+  "brand": "Starbucks",
+  "aliases": [],
+  "category": "restaurant",
+  "per100g": {
+   "kcal": 131,
+   "protein_g": 9.2,
+   "carbs_g": 8.5,
+   "fat_g": 6.2,
+   "fiber_g": 0,
+   "sugar_g": 3.1,
+   "satfat_g": 3.5,
+   "sodium_mg": 362
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "2 bites (130 g)",
+    "grams": 130,
+    "isDefault": true
+   },
+   {
+    "label": "100 g",
+    "grams": 100
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": false,
+  "source": "restaurant published nutrition, converted to per-100 g"
+ },
+ {
+  "id": "sbux-cake-pop",
+  "name": "Birthday Cake Pop",
+  "brand": "Starbucks",
+  "aliases": [],
+  "category": "restaurant",
+  "per100g": {
+   "kcal": 452,
+   "protein_g": 3.2,
+   "carbs_g": 71,
+   "fat_g": 16.1,
+   "fiber_g": 0,
+   "sugar_g": 54.8,
+   "satfat_g": 9.7,
+   "sodium_mg": 194
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 cake pop (31 g)",
+    "grams": 31,
+    "isDefault": true
+   },
+   {
+    "label": "100 g",
+    "grams": 100
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": false,
+  "source": "restaurant published nutrition, converted to per-100 g"
+ },
+ {
+  "id": "sbux-blueberry-muffin",
+  "name": "Blueberry Muffin",
+  "brand": "Starbucks",
+  "aliases": [],
+  "category": "restaurant",
+  "per100g": {
+   "kcal": 319,
+   "protein_g": 5.3,
+   "carbs_g": 46.9,
+   "fat_g": 12.4,
+   "fiber_g": 1.8,
+   "sugar_g": 27.4,
+   "satfat_g": 2.7,
+   "sodium_mg": 336
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 muffin (113 g)",
+    "grams": 113,
+    "isDefault": true
+   },
+   {
+    "label": "100 g",
+    "grams": 100
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": false,
+  "source": "restaurant published nutrition, converted to per-100 g"
+ },
+ {
+  "id": "dunkin-glazed-donut",
+  "name": "Glazed donut",
+  "brand": "Dunkin'",
+  "aliases": [],
+  "category": "restaurant",
+  "per100g": {
+   "kcal": 400,
+   "protein_g": 6.7,
+   "carbs_g": 46.7,
+   "fat_g": 20,
+   "fiber_g": 1.7,
+   "sugar_g": 18.3,
+   "satfat_g": 8.3,
+   "sodium_mg": 550
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 donut (60 g)",
+    "grams": 60,
+    "isDefault": true
+   },
+   {
+    "label": "100 g",
+    "grams": 100
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": false,
+  "source": "restaurant published nutrition, converted to per-100 g"
+ },
+ {
+  "id": "dunkin-iced-coffee-cream-sugar-md",
+  "name": "Iced coffee, medium, cream and sugar",
+  "brand": "Dunkin'",
+  "aliases": [],
+  "category": "restaurant",
+  "per100g": {
+   "kcal": 36,
+   "protein_g": 0.8,
+   "carbs_g": 6.5,
+   "fat_g": 1,
+   "fiber_g": 0,
+   "sugar_g": 6,
+   "satfat_g": 0.6,
+   "sodium_mg": 12
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 medium (710 ml)",
+    "grams": 725,
+    "isDefault": true
+   },
+   {
+    "label": "100 g",
+    "grams": 100
+   }
+  ],
+  "density_g_per_ml": 1.02,
+  "verified": false,
+  "source": "restaurant published nutrition, converted to per-100 g"
+ },
+ {
+  "id": "costco-hot-dog",
+  "name": "Hot dog with bun, food court",
+  "brand": "Costco",
+  "aliases": [],
+  "category": "restaurant",
+  "per100g": {
+   "kcal": 270,
+   "protein_g": 10.5,
+   "carbs_g": 22.5,
+   "fat_g": 15,
+   "fiber_g": 1,
+   "sugar_g": 4.5,
+   "satfat_g": 5.5,
+   "sodium_mg": 780
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 hot dog (200 g)",
+    "grams": 200,
+    "isDefault": true
+   },
+   {
+    "label": "100 g",
+    "grams": 100
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": false,
+  "source": "restaurant published nutrition, converted to per-100 g"
+ },
+ {
+  "id": "dq-blizzard-oreo-small",
+  "name": "Oreo Blizzard, small",
+  "brand": "Dairy Queen",
+  "aliases": [],
+  "category": "restaurant",
+  "per100g": {
+   "kcal": 213,
+   "protein_g": 4.3,
+   "carbs_g": 29.5,
+   "fat_g": 8.5,
+   "fiber_g": 0.6,
+   "sugar_g": 22,
+   "satfat_g": 4.3,
+   "sodium_mg": 160
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 small (326 g)",
+    "grams": 326,
+    "isDefault": true
+   },
+   {
+    "label": "100 g",
+    "grams": 100
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": false,
+  "source": "restaurant published nutrition, converted to per-100 g"
+ }
+]

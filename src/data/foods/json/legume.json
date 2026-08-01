@@ -1,0 +1,2055 @@
+[
+ {
+  "id": "beans-black-cooked",
+  "name": "Black beans, cooked from dry",
+  "brand": null,
+  "aliases": [
+   "frijoles negros"
+  ],
+  "category": "legume",
+  "per100g": {
+   "kcal": 132,
+   "protein_g": 8.86,
+   "carbs_g": 23.7,
+   "fat_g": 0.54,
+   "fiber_g": 8.7,
+   "sugar_g": 0.32,
+   "satfat_g": 0.14,
+   "sodium_mg": 1
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": 0,
+   "vitamin_a_carotenoid_mcg_rae": 0,
+   "folate_food_mcg": 149,
+   "folic_acid_mcg": 0,
+   "folate_dfe_mcg": 149
+  },
+  "servings": [
+   {
+    "label": "1 cup (172 g)",
+    "grams": 172,
+    "isDefault": true
+   },
+   {
+    "label": "1/2 cup (86 g)",
+    "grams": 86
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": true,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "beans-black-canned",
+  "name": "Black beans, canned, drained",
+  "brand": null,
+  "aliases": [],
+  "category": "legume",
+  "per100g": {
+   "kcal": 91,
+   "protein_g": 6.03,
+   "carbs_g": 16.6,
+   "fat_g": 0.36,
+   "fiber_g": 6.4,
+   "sugar_g": 0.28,
+   "satfat_g": 0.09,
+   "sodium_mg": 265
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1/2 cup (120 g)",
+    "grams": 120,
+    "isDefault": true
+   },
+   {
+    "label": "1 cup (240 g)",
+    "grams": 240
+   },
+   {
+    "label": "1 can (240 g)",
+    "grams": 240
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": true,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "beans-kidney-cooked",
+  "name": "Kidney beans, red, cooked",
+  "brand": null,
+  "aliases": [],
+  "category": "legume",
+  "per100g": {
+   "kcal": 127,
+   "protein_g": 8.67,
+   "carbs_g": 22.8,
+   "fat_g": 0.5,
+   "fiber_g": 6.4,
+   "sugar_g": 0.32,
+   "satfat_g": 0.07,
+   "sodium_mg": 1
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": 0,
+   "vitamin_a_carotenoid_mcg_rae": 0,
+   "folate_food_mcg": 130,
+   "folic_acid_mcg": 0,
+   "folate_dfe_mcg": 130
+  },
+  "servings": [
+   {
+    "label": "1 cup (177 g)",
+    "grams": 177,
+    "isDefault": true
+   },
+   {
+    "label": "1/2 cup (89 g)",
+    "grams": 89
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": true,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "beans-kidney-canned",
+  "name": "Kidney beans, canned, drained",
+  "brand": null,
+  "aliases": [],
+  "category": "legume",
+  "per100g": {
+   "kcal": 100,
+   "protein_g": 6.71,
+   "carbs_g": 18.1,
+   "fat_g": 0.36,
+   "fiber_g": 6.3,
+   "sugar_g": 0.26,
+   "satfat_g": 0.05,
+   "sodium_mg": 300
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1/2 cup (128 g)",
+    "grams": 128,
+    "isDefault": true
+   },
+   {
+    "label": "1 cup (256 g)",
+    "grams": 256
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": true,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "beans-pinto-cooked",
+  "name": "Pinto beans, cooked",
+  "brand": null,
+  "aliases": [],
+  "category": "legume",
+  "per100g": {
+   "kcal": 143,
+   "protein_g": 9.01,
+   "carbs_g": 26.2,
+   "fat_g": 0.65,
+   "fiber_g": 9,
+   "sugar_g": 0.34,
+   "satfat_g": 0.14,
+   "sodium_mg": 1
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": 0,
+   "vitamin_a_carotenoid_mcg_rae": 0,
+   "folate_food_mcg": 172,
+   "folic_acid_mcg": 0,
+   "folate_dfe_mcg": 172
+  },
+  "servings": [
+   {
+    "label": "1 cup (171 g)",
+    "grams": 171,
+    "isDefault": true
+   },
+   {
+    "label": "1/2 cup (86 g)",
+    "grams": 86
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": true,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "beans-pinto-canned",
+  "name": "Pinto beans, canned, drained",
+  "brand": null,
+  "aliases": [],
+  "category": "legume",
+  "per100g": {
+   "kcal": 114,
+   "protein_g": 6.99,
+   "carbs_g": 20.5,
+   "fat_g": 0.94,
+   "fiber_g": 5.5,
+   "sugar_g": 0.4,
+   "satfat_g": 0.2,
+   "sodium_mg": 287
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1/2 cup (120 g)",
+    "grams": 120,
+    "isDefault": true
+   },
+   {
+    "label": "1 cup (240 g)",
+    "grams": 240
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": true,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "beans-navy-cooked",
+  "name": "Navy beans, cooked",
+  "brand": null,
+  "aliases": [],
+  "category": "legume",
+  "per100g": {
+   "kcal": 140,
+   "protein_g": 8.23,
+   "carbs_g": 26.1,
+   "fat_g": 0.62,
+   "fiber_g": 10.5,
+   "sugar_g": 0.35,
+   "satfat_g": 0.16,
+   "sodium_mg": 0
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": 0,
+   "vitamin_a_carotenoid_mcg_rae": 0,
+   "folate_food_mcg": 140,
+   "folic_acid_mcg": 0,
+   "folate_dfe_mcg": 140
+  },
+  "servings": [
+   {
+    "label": "1 cup (182 g)",
+    "grams": 182,
+    "isDefault": true
+   },
+   {
+    "label": "1/2 cup (91 g)",
+    "grams": 91
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": true,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "beans-great-northern-cooked",
+  "name": "Great northern beans, cooked",
+  "brand": null,
+  "aliases": [],
+  "category": "legume",
+  "per100g": {
+   "kcal": 118,
+   "protein_g": 8.33,
+   "carbs_g": 21.1,
+   "fat_g": 0.45,
+   "fiber_g": 7,
+   "sugar_g": 0.6,
+   "satfat_g": 0.14,
+   "sodium_mg": 2
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 cup (177 g)",
+    "grams": 177,
+    "isDefault": true
+   },
+   {
+    "label": "1/2 cup (89 g)",
+    "grams": 89
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": true,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "beans-cannellini-canned",
+  "name": "Cannellini beans, canned, drained",
+  "brand": null,
+  "aliases": [
+   "white kidney beans"
+  ],
+  "category": "legume",
+  "per100g": {
+   "kcal": 114,
+   "protein_g": 8,
+   "carbs_g": 20,
+   "fat_g": 0.5,
+   "fiber_g": 5.5,
+   "sugar_g": 0.4,
+   "satfat_g": 0.1,
+   "sodium_mg": 280
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1/2 cup (120 g)",
+    "grams": 120,
+    "isDefault": true
+   },
+   {
+    "label": "1 cup (240 g)",
+    "grams": 240
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": false,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "beans-lima-cooked",
+  "name": "Lima beans, cooked",
+  "brand": null,
+  "aliases": [
+   "butter beans"
+  ],
+  "category": "legume",
+  "per100g": {
+   "kcal": 115,
+   "protein_g": 7.8,
+   "carbs_g": 20.9,
+   "fat_g": 0.38,
+   "fiber_g": 7,
+   "sugar_g": 1.4,
+   "satfat_g": 0.09,
+   "sodium_mg": 2
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 cup (188 g)",
+    "grams": 188,
+    "isDefault": true
+   },
+   {
+    "label": "1/2 cup (94 g)",
+    "grams": 94
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": true,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "beans-butter-canned",
+  "name": "Butter beans, canned, drained",
+  "brand": null,
+  "aliases": [],
+  "category": "legume",
+  "per100g": {
+   "kcal": 79,
+   "protein_g": 4.9,
+   "carbs_g": 14.2,
+   "fat_g": 0.25,
+   "fiber_g": 4.3,
+   "sugar_g": 0.9,
+   "satfat_g": 0.06,
+   "sodium_mg": 290
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1/2 cup (120 g)",
+    "grams": 120,
+    "isDefault": true
+   },
+   {
+    "label": "100 g",
+    "grams": 100
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": false,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "beans-fava-cooked",
+  "name": "Fava beans, cooked",
+  "brand": null,
+  "aliases": [
+   "broad beans"
+  ],
+  "category": "legume",
+  "per100g": {
+   "kcal": 110,
+   "protein_g": 7.6,
+   "carbs_g": 19.6,
+   "fat_g": 0.4,
+   "fiber_g": 5.4,
+   "sugar_g": 1.8,
+   "satfat_g": 0.07,
+   "sodium_mg": 5
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 cup (170 g)",
+    "grams": 170,
+    "isDefault": true
+   },
+   {
+    "label": "100 g",
+    "grams": 100
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": true,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "beans-mung-cooked",
+  "name": "Mung beans, cooked",
+  "brand": null,
+  "aliases": [],
+  "category": "legume",
+  "per100g": {
+   "kcal": 105,
+   "protein_g": 7.02,
+   "carbs_g": 19.2,
+   "fat_g": 0.38,
+   "fiber_g": 7.6,
+   "sugar_g": 2,
+   "satfat_g": 0.11,
+   "sodium_mg": 2
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 cup (202 g)",
+    "grams": 202,
+    "isDefault": true
+   },
+   {
+    "label": "100 g",
+    "grams": 100
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": true,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "beans-adzuki-cooked",
+  "name": "Adzuki beans, cooked",
+  "brand": null,
+  "aliases": [],
+  "category": "legume",
+  "per100g": {
+   "kcal": 128,
+   "protein_g": 7.52,
+   "carbs_g": 25,
+   "fat_g": 0.1,
+   "fiber_g": 7.3,
+   "sugar_g": 0.2,
+   "satfat_g": 0.03,
+   "sodium_mg": 8
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 cup (230 g)",
+    "grams": 230,
+    "isDefault": true
+   },
+   {
+    "label": "100 g",
+    "grams": 100
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": true,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "beans-black-eyed-peas-cooked",
+  "name": "Black-eyed peas, cooked",
+  "brand": null,
+  "aliases": [],
+  "category": "legume",
+  "per100g": {
+   "kcal": 116,
+   "protein_g": 7.73,
+   "carbs_g": 20.8,
+   "fat_g": 0.53,
+   "fiber_g": 6.5,
+   "sugar_g": 3.3,
+   "satfat_g": 0.14,
+   "sodium_mg": 4
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 cup (171 g)",
+    "grams": 171,
+    "isDefault": true
+   },
+   {
+    "label": "1/2 cup (86 g)",
+    "grams": 86
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": true,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "beans-cranberry-cooked",
+  "name": "Cranberry beans, cooked",
+  "brand": null,
+  "aliases": [
+   "borlotti"
+  ],
+  "category": "legume",
+  "per100g": {
+   "kcal": 136,
+   "protein_g": 9.34,
+   "carbs_g": 24.5,
+   "fat_g": 0.46,
+   "fiber_g": 9,
+   "sugar_g": 0.3,
+   "satfat_g": 0.12,
+   "sodium_mg": 1
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 cup (177 g)",
+    "grams": 177,
+    "isDefault": true
+   },
+   {
+    "label": "100 g",
+    "grams": 100
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": true,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "beans-refried",
+  "name": "Refried beans, canned",
+  "brand": null,
+  "aliases": [],
+  "category": "legume",
+  "per100g": {
+   "kcal": 90,
+   "protein_g": 5.5,
+   "carbs_g": 15,
+   "fat_g": 1.4,
+   "fiber_g": 5,
+   "sugar_g": 0.6,
+   "satfat_g": 0.5,
+   "sodium_mg": 400
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1/2 cup (120 g)",
+    "grams": 120,
+    "isDefault": true
+   },
+   {
+    "label": "1 cup (240 g)",
+    "grams": 240
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": true,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "beans-refried-fat-free",
+  "name": "Refried beans, fat free, canned",
+  "brand": null,
+  "aliases": [],
+  "category": "legume",
+  "per100g": {
+   "kcal": 75,
+   "protein_g": 5,
+   "carbs_g": 14,
+   "fat_g": 0.3,
+   "fiber_g": 5,
+   "sugar_g": 0.5,
+   "satfat_g": 0.1,
+   "sodium_mg": 380
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1/2 cup (120 g)",
+    "grams": 120,
+    "isDefault": true
+   },
+   {
+    "label": "100 g",
+    "grams": 100
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": false,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "beans-baked-canned",
+  "name": "Baked beans, canned, in sauce",
+  "brand": null,
+  "aliases": [],
+  "category": "legume",
+  "per100g": {
+   "kcal": 155,
+   "protein_g": 5.5,
+   "carbs_g": 29,
+   "fat_g": 0.6,
+   "fiber_g": 5.5,
+   "sugar_g": 11,
+   "satfat_g": 0.2,
+   "sodium_mg": 460
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1/2 cup (127 g)",
+    "grams": 127,
+    "isDefault": true
+   },
+   {
+    "label": "1 cup (254 g)",
+    "grams": 254
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": false,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "beans-lupini",
+  "name": "Lupini beans, cooked",
+  "brand": null,
+  "aliases": [],
+  "category": "legume",
+  "per100g": {
+   "kcal": 119,
+   "protein_g": 15.6,
+   "carbs_g": 9.88,
+   "fat_g": 2.92,
+   "fiber_g": 2.8,
+   "sugar_g": 0,
+   "satfat_g": 0.34,
+   "sodium_mg": 4
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1/2 cup (83 g)",
+    "grams": 83,
+    "isDefault": true
+   },
+   {
+    "label": "100 g",
+    "grams": 100
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": true,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "beans-sprouts-mung",
+  "name": "Mung bean sprouts, raw",
+  "brand": null,
+  "aliases": [
+   "bean sprouts"
+  ],
+  "category": "legume",
+  "per100g": {
+   "kcal": 30,
+   "protein_g": 3.04,
+   "carbs_g": 5.94,
+   "fat_g": 0.18,
+   "fiber_g": 1.8,
+   "sugar_g": 4.1,
+   "satfat_g": 0.05,
+   "sodium_mg": 6
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 cup (104 g)",
+    "grams": 104,
+    "isDefault": true
+   },
+   {
+    "label": "100 g",
+    "grams": 100
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": true,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "chickpeas-cooked",
+  "name": "Chickpeas, cooked from dry",
+  "brand": null,
+  "aliases": [
+   "garbanzo beans"
+  ],
+  "category": "legume",
+  "per100g": {
+   "kcal": 164,
+   "protein_g": 8.86,
+   "carbs_g": 27.4,
+   "fat_g": 2.59,
+   "fiber_g": 7.6,
+   "sugar_g": 4.8,
+   "satfat_g": 0.27,
+   "sodium_mg": 7
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": 0,
+   "vitamin_a_carotenoid_mcg_rae": 1,
+   "folate_food_mcg": 172,
+   "folic_acid_mcg": 0,
+   "folate_dfe_mcg": 172
+  },
+  "servings": [
+   {
+    "label": "1 cup (164 g)",
+    "grams": 164,
+    "isDefault": true
+   },
+   {
+    "label": "1/2 cup (82 g)",
+    "grams": 82
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": true,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "chickpeas-canned",
+  "name": "Chickpeas, canned, drained",
+  "brand": null,
+  "aliases": [
+   "garbanzo beans"
+  ],
+  "category": "legume",
+  "per100g": {
+   "kcal": 139,
+   "protein_g": 7.05,
+   "carbs_g": 22.6,
+   "fat_g": 2.6,
+   "fiber_g": 6.4,
+   "sugar_g": 0.4,
+   "satfat_g": 0.27,
+   "sodium_mg": 240
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": 0,
+   "vitamin_a_carotenoid_mcg_rae": 1,
+   "folate_food_mcg": 42,
+   "folic_acid_mcg": 0,
+   "folate_dfe_mcg": 42
+  },
+  "servings": [
+   {
+    "label": "1/2 cup (120 g)",
+    "grams": 120,
+    "isDefault": true
+   },
+   {
+    "label": "1 cup (240 g)",
+    "grams": 240
+   },
+   {
+    "label": "1 can (240 g)",
+    "grams": 240
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": true,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "chickpeas-roasted",
+  "name": "Chickpeas, roasted, crunchy",
+  "brand": null,
+  "aliases": [],
+  "category": "legume",
+  "per100g": {
+   "kcal": 382,
+   "protein_g": 19,
+   "carbs_g": 58,
+   "fat_g": 8,
+   "fiber_g": 12,
+   "sugar_g": 5,
+   "satfat_g": 1,
+   "sodium_mg": 380
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1/4 cup (35 g)",
+    "grams": 35,
+    "isDefault": true
+   },
+   {
+    "label": "1 oz (28 g)",
+    "grams": 28
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": false,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "lentils-cooked",
+  "name": "Lentils, brown or green, cooked",
+  "brand": null,
+  "aliases": [],
+  "category": "legume",
+  "per100g": {
+   "kcal": 116,
+   "protein_g": 9.02,
+   "carbs_g": 20.1,
+   "fat_g": 0.38,
+   "fiber_g": 7.9,
+   "sugar_g": 1.8,
+   "satfat_g": 0.05,
+   "sodium_mg": 2
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": 0,
+   "vitamin_a_carotenoid_mcg_rae": 0,
+   "folate_food_mcg": 181,
+   "folic_acid_mcg": 0,
+   "folate_dfe_mcg": 181
+  },
+  "servings": [
+   {
+    "label": "1 cup (198 g)",
+    "grams": 198,
+    "isDefault": true
+   },
+   {
+    "label": "1/2 cup (99 g)",
+    "grams": 99
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": true,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "lentils-red-cooked",
+  "name": "Red lentils, cooked",
+  "brand": null,
+  "aliases": [],
+  "category": "legume",
+  "per100g": {
+   "kcal": 110,
+   "protein_g": 8.5,
+   "carbs_g": 19.5,
+   "fat_g": 0.4,
+   "fiber_g": 5,
+   "sugar_g": 1.5,
+   "satfat_g": 0.06,
+   "sodium_mg": 2
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 cup (198 g)",
+    "grams": 198,
+    "isDefault": true
+   },
+   {
+    "label": "1/2 cup (99 g)",
+    "grams": 99
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": false,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "lentils-black-cooked",
+  "name": "Black lentils, cooked",
+  "brand": null,
+  "aliases": [
+   "beluga lentils"
+  ],
+  "category": "legume",
+  "per100g": {
+   "kcal": 120,
+   "protein_g": 9.5,
+   "carbs_g": 20.5,
+   "fat_g": 0.5,
+   "fiber_g": 8,
+   "sugar_g": 1.5,
+   "satfat_g": 0.07,
+   "sodium_mg": 2
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 cup (198 g)",
+    "grams": 198,
+    "isDefault": true
+   },
+   {
+    "label": "100 g",
+    "grams": 100
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": false,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "lentils-canned",
+  "name": "Lentils, canned, drained",
+  "brand": null,
+  "aliases": [],
+  "category": "legume",
+  "per100g": {
+   "kcal": 83,
+   "protein_g": 6.4,
+   "carbs_g": 14.3,
+   "fat_g": 0.3,
+   "fiber_g": 5,
+   "sugar_g": 1.2,
+   "satfat_g": 0.05,
+   "sodium_mg": 250
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1/2 cup (99 g)",
+    "grams": 99,
+    "isDefault": true
+   },
+   {
+    "label": "100 g",
+    "grams": 100
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": false,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "split-peas-cooked",
+  "name": "Split peas, cooked",
+  "brand": null,
+  "aliases": [],
+  "category": "legume",
+  "per100g": {
+   "kcal": 118,
+   "protein_g": 8.34,
+   "carbs_g": 21.1,
+   "fat_g": 0.39,
+   "fiber_g": 8.3,
+   "sugar_g": 2.9,
+   "satfat_g": 0.05,
+   "sodium_mg": 4
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": 0,
+   "vitamin_a_carotenoid_mcg_rae": 1,
+   "folate_food_mcg": 65,
+   "folic_acid_mcg": 0,
+   "folate_dfe_mcg": 65
+  },
+  "servings": [
+   {
+    "label": "1 cup (196 g)",
+    "grams": 196,
+    "isDefault": true
+   },
+   {
+    "label": "100 g",
+    "grams": 100
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": true,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "edamame-cooked",
+  "name": "Edamame, shelled, cooked",
+  "brand": null,
+  "aliases": [],
+  "category": "legume",
+  "per100g": {
+   "kcal": 121,
+   "protein_g": 11.9,
+   "carbs_g": 8.91,
+   "fat_g": 5.2,
+   "fiber_g": 5.2,
+   "sugar_g": 2.2,
+   "satfat_g": 0.62,
+   "sodium_mg": 6
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": 0,
+   "vitamin_a_carotenoid_mcg_rae": 8,
+   "folate_food_mcg": 311,
+   "folic_acid_mcg": 0,
+   "folate_dfe_mcg": 311
+  },
+  "servings": [
+   {
+    "label": "1 cup (155 g)",
+    "grams": 155,
+    "isDefault": true
+   },
+   {
+    "label": "1/2 cup (78 g)",
+    "grams": 78
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": true,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "edamame-in-pod",
+  "name": "Edamame, in pod, cooked",
+  "brand": null,
+  "aliases": [],
+  "category": "legume",
+  "per100g": {
+   "kcal": 121,
+   "protein_g": 11.9,
+   "carbs_g": 8.91,
+   "fat_g": 5.2,
+   "fiber_g": 5.2,
+   "sugar_g": 2.2,
+   "satfat_g": 0.62,
+   "sodium_mg": 6
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 cup shelled (155 g)",
+    "grams": 155,
+    "isDefault": true
+   },
+   {
+    "label": "1 cup pods (128 g)",
+    "grams": 60
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": false,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "soybeans-cooked",
+  "name": "Soybeans, cooked",
+  "brand": null,
+  "aliases": [],
+  "category": "legume",
+  "per100g": {
+   "kcal": 173,
+   "protein_g": 16.6,
+   "carbs_g": 9.93,
+   "fat_g": 8.97,
+   "fiber_g": 6,
+   "sugar_g": 3,
+   "satfat_g": 1.3,
+   "sodium_mg": 1
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 cup (172 g)",
+    "grams": 172,
+    "isDefault": true
+   },
+   {
+    "label": "100 g",
+    "grams": 100
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": true,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "tofu-firm",
+  "name": "Tofu, firm",
+  "brand": null,
+  "aliases": [],
+  "category": "legume",
+  "per100g": {
+   "kcal": 144,
+   "protein_g": 15.8,
+   "carbs_g": 4.27,
+   "fat_g": 8.72,
+   "fiber_g": 2.3,
+   "sugar_g": 0.6,
+   "satfat_g": 1.26,
+   "sodium_mg": 14
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": 0,
+   "vitamin_a_carotenoid_mcg_rae": 0,
+   "folate_food_mcg": 19,
+   "folic_acid_mcg": 0,
+   "folate_dfe_mcg": 19
+  },
+  "servings": [
+   {
+    "label": "1/2 block (126 g)",
+    "grams": 126,
+    "isDefault": true
+   },
+   {
+    "label": "3 oz (85 g)",
+    "grams": 85
+   },
+   {
+    "label": "1 cup cubed (252 g)",
+    "grams": 252
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": true,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "tofu-extra-firm",
+  "name": "Tofu, extra firm",
+  "brand": null,
+  "aliases": [],
+  "category": "legume",
+  "per100g": {
+   "kcal": 101,
+   "protein_g": 10.1,
+   "carbs_g": 2.53,
+   "fat_g": 5.7,
+   "fiber_g": 1.3,
+   "sugar_g": 0.5,
+   "satfat_g": 0.83,
+   "sodium_mg": 11
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 serving (79 g)",
+    "grams": 79,
+    "isDefault": true
+   },
+   {
+    "label": "1/2 block (140 g)",
+    "grams": 140
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": true,
+  "source": "manufacturer label"
+ },
+ {
+  "id": "tofu-silken",
+  "name": "Tofu, silken, soft",
+  "brand": null,
+  "aliases": [],
+  "category": "legume",
+  "per100g": {
+   "kcal": 55,
+   "protein_g": 4.8,
+   "carbs_g": 2,
+   "fat_g": 2.7,
+   "fiber_g": 0.2,
+   "sugar_g": 1,
+   "satfat_g": 0.4,
+   "sodium_mg": 4
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1/2 cup (124 g)",
+    "grams": 124,
+    "isDefault": true
+   },
+   {
+    "label": "100 g",
+    "grams": 100
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": true,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "tofu-baked-seasoned",
+  "name": "Tofu, baked, seasoned",
+  "brand": null,
+  "aliases": [],
+  "category": "legume",
+  "per100g": {
+   "kcal": 180,
+   "protein_g": 18,
+   "carbs_g": 8,
+   "fat_g": 9,
+   "fiber_g": 1.5,
+   "sugar_g": 3,
+   "satfat_g": 1.3,
+   "sodium_mg": 420
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 serving (85 g)",
+    "grams": 85,
+    "isDefault": true
+   },
+   {
+    "label": "100 g",
+    "grams": 100
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": false,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "tempeh",
+  "name": "Tempeh",
+  "brand": null,
+  "aliases": [],
+  "category": "legume",
+  "per100g": {
+   "kcal": 192,
+   "protein_g": 20.3,
+   "carbs_g": 7.64,
+   "fat_g": 10.8,
+   "fiber_g": 0,
+   "sugar_g": 0,
+   "satfat_g": 2.22,
+   "sodium_mg": 9
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "3 oz (85 g)",
+    "grams": 85,
+    "isDefault": true
+   },
+   {
+    "label": "1/2 cup (83 g)",
+    "grams": 83
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": true,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "natto",
+  "name": "Natto",
+  "brand": null,
+  "aliases": [],
+  "category": "legume",
+  "per100g": {
+   "kcal": 211,
+   "protein_g": 19.4,
+   "carbs_g": 12.7,
+   "fat_g": 11,
+   "fiber_g": 5.4,
+   "sugar_g": 4.9,
+   "satfat_g": 1.59,
+   "sodium_mg": 7
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1/2 cup (88 g)",
+    "grams": 88,
+    "isDefault": true
+   },
+   {
+    "label": "100 g",
+    "grams": 100
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": true,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "tvp-dry",
+  "name": "Textured vegetable protein, dry",
+  "brand": null,
+  "aliases": [
+   "tvp",
+   "soy crumbles"
+  ],
+  "category": "legume",
+  "per100g": {
+   "kcal": 327,
+   "protein_g": 51.5,
+   "carbs_g": 33.9,
+   "fat_g": 1.22,
+   "fiber_g": 17.5,
+   "sugar_g": 13.9,
+   "satfat_g": 0.18,
+   "sodium_mg": 3
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1/4 cup (24 g)",
+    "grams": 24,
+    "isDefault": true
+   },
+   {
+    "label": "100 g",
+    "grams": 100
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": true,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "soy-curls-dry",
+  "name": "Soy curls, dry",
+  "brand": null,
+  "aliases": [],
+  "category": "legume",
+  "per100g": {
+   "kcal": 390,
+   "protein_g": 35,
+   "carbs_g": 30,
+   "fat_g": 17,
+   "fiber_g": 12,
+   "sugar_g": 4,
+   "satfat_g": 2.5,
+   "sodium_mg": 10
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 cup (40 g)",
+    "grams": 40,
+    "isDefault": true
+   },
+   {
+    "label": "100 g",
+    "grams": 100
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": false,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "seitan",
+  "name": "Seitan, wheat gluten",
+  "brand": null,
+  "aliases": [
+   "wheat meat"
+  ],
+  "category": "legume",
+  "per100g": {
+   "kcal": 141,
+   "protein_g": 25,
+   "carbs_g": 5,
+   "fat_g": 2,
+   "fiber_g": 1,
+   "sugar_g": 0,
+   "satfat_g": 0.3,
+   "sodium_mg": 400
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "3 oz (85 g)",
+    "grams": 85,
+    "isDefault": true
+   },
+   {
+    "label": "100 g",
+    "grams": 100
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": false,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "beyond-burger-patty",
+  "name": "Beyond Burger patty, cooked",
+  "brand": "Beyond Meat",
+  "aliases": [],
+  "category": "legume",
+  "per100g": {
+   "kcal": 221,
+   "protein_g": 17.7,
+   "carbs_g": 4.4,
+   "fat_g": 15.9,
+   "fiber_g": 1.8,
+   "sugar_g": 0,
+   "satfat_g": 4.4,
+   "sodium_mg": 345
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 patty (113 g)",
+    "grams": 113,
+    "isDefault": true
+   },
+   {
+    "label": "100 g",
+    "grams": 100
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": true,
+  "source": "manufacturer label"
+ },
+ {
+  "id": "impossible-burger-patty",
+  "name": "Impossible Burger patty, cooked",
+  "brand": "Impossible Foods",
+  "aliases": [],
+  "category": "legume",
+  "per100g": {
+   "kcal": 195,
+   "protein_g": 16.8,
+   "carbs_g": 8,
+   "fat_g": 11.5,
+   "fiber_g": 4.4,
+   "sugar_g": 0.9,
+   "satfat_g": 5.3,
+   "sodium_mg": 327
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 patty (113 g)",
+    "grams": 113,
+    "isDefault": true
+   },
+   {
+    "label": "100 g",
+    "grams": 100
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": true,
+  "source": "manufacturer label"
+ },
+ {
+  "id": "beyond-sausage",
+  "name": "Beyond Sausage link, cooked",
+  "brand": "Beyond Meat",
+  "aliases": [],
+  "category": "legume",
+  "per100g": {
+   "kcal": 219,
+   "protein_g": 15.5,
+   "carbs_g": 5.3,
+   "fat_g": 15,
+   "fiber_g": 1.8,
+   "sugar_g": 0,
+   "satfat_g": 5.3,
+   "sodium_mg": 500
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 link (76 g)",
+    "grams": 76,
+    "isDefault": true
+   },
+   {
+    "label": "100 g",
+    "grams": 100
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": false,
+  "source": "manufacturer label"
+ },
+ {
+  "id": "plant-chicken-nuggets",
+  "name": "Plant-based chicken nuggets",
+  "brand": null,
+  "aliases": [],
+  "category": "legume",
+  "per100g": {
+   "kcal": 250,
+   "protein_g": 14,
+   "carbs_g": 18,
+   "fat_g": 13,
+   "fiber_g": 3,
+   "sugar_g": 1,
+   "satfat_g": 1.5,
+   "sodium_mg": 550
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "4 nuggets (85 g)",
+    "grams": 85,
+    "isDefault": true
+   },
+   {
+    "label": "100 g",
+    "grams": 100
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": false,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "veggie-burger-generic",
+  "name": "Veggie burger patty, grain and vegetable",
+  "brand": null,
+  "aliases": [],
+  "category": "legume",
+  "per100g": {
+   "kcal": 177,
+   "protein_g": 13,
+   "carbs_g": 17,
+   "fat_g": 6,
+   "fiber_g": 5,
+   "sugar_g": 2,
+   "satfat_g": 1,
+   "sodium_mg": 400
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 patty (70 g)",
+    "grams": 70,
+    "isDefault": true
+   },
+   {
+    "label": "100 g",
+    "grams": 100
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": false,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "hummus-plain",
+  "name": "Hummus, plain",
+  "brand": null,
+  "aliases": [],
+  "category": "legume",
+  "per100g": {
+   "kcal": 166,
+   "protein_g": 7.9,
+   "carbs_g": 14.3,
+   "fat_g": 9.6,
+   "fiber_g": 6,
+   "sugar_g": 0.3,
+   "satfat_g": 1.44,
+   "sodium_mg": 379
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "2 tbsp (30 g)",
+    "grams": 30,
+    "isDefault": true
+   },
+   {
+    "label": "1/4 cup (60 g)",
+    "grams": 60
+   },
+   {
+    "label": "1 cup (246 g)",
+    "grams": 246
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": true,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "hummus-roasted-red-pepper",
+  "name": "Hummus, roasted red pepper",
+  "brand": null,
+  "aliases": [],
+  "category": "legume",
+  "per100g": {
+   "kcal": 160,
+   "protein_g": 6.5,
+   "carbs_g": 14,
+   "fat_g": 9,
+   "fiber_g": 5,
+   "sugar_g": 1.5,
+   "satfat_g": 1.3,
+   "sodium_mg": 390
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "2 tbsp (30 g)",
+    "grams": 30,
+    "isDefault": true
+   },
+   {
+    "label": "1/4 cup (60 g)",
+    "grams": 60
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": false,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "falafel",
+  "name": "Falafel, fried",
+  "brand": null,
+  "aliases": [],
+  "category": "legume",
+  "per100g": {
+   "kcal": 333,
+   "protein_g": 13.3,
+   "carbs_g": 31.8,
+   "fat_g": 17.8,
+   "fiber_g": 4.9,
+   "sugar_g": 0,
+   "satfat_g": 2.38,
+   "sodium_mg": 294
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "3 pieces (51 g)",
+    "grams": 51,
+    "isDefault": true
+   },
+   {
+    "label": "1 piece (17 g)",
+    "grams": 17
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": true,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "bean-dip-black",
+  "name": "Black bean dip",
+  "brand": null,
+  "aliases": [],
+  "category": "legume",
+  "per100g": {
+   "kcal": 120,
+   "protein_g": 5,
+   "carbs_g": 18,
+   "fat_g": 2.5,
+   "fiber_g": 5,
+   "sugar_g": 1,
+   "satfat_g": 0.4,
+   "sodium_mg": 450
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "2 tbsp (32 g)",
+    "grams": 32,
+    "isDefault": true
+   },
+   {
+    "label": "100 g",
+    "grams": 100
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": false,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "peanut-legume-boiled",
+  "name": "Boiled peanuts, in shell",
+  "brand": null,
+  "aliases": [],
+  "category": "legume",
+  "per100g": {
+   "kcal": 318,
+   "protein_g": 13.5,
+   "carbs_g": 21.3,
+   "fat_g": 22,
+   "fiber_g": 8.8,
+   "sugar_g": 0,
+   "satfat_g": 3.1,
+   "sodium_mg": 750
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1/2 cup shelled (63 g)",
+    "grams": 63,
+    "isDefault": true
+   },
+   {
+    "label": "100 g",
+    "grams": 100
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": false,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "dal-cooked",
+  "name": "Dal, lentil curry, cooked",
+  "brand": null,
+  "aliases": [],
+  "category": "legume",
+  "per100g": {
+   "kcal": 120,
+   "protein_g": 6,
+   "carbs_g": 15,
+   "fat_g": 4,
+   "fiber_g": 4,
+   "sugar_g": 1.5,
+   "satfat_g": 1.5,
+   "sodium_mg": 350
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 cup (200 g)",
+    "grams": 200,
+    "isDefault": true
+   },
+   {
+    "label": "100 g",
+    "grams": 100
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": false,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "chili-vegetarian",
+  "name": "Chili, vegetarian, with beans",
+  "brand": null,
+  "aliases": [],
+  "category": "legume",
+  "per100g": {
+   "kcal": 110,
+   "protein_g": 5.5,
+   "carbs_g": 17,
+   "fat_g": 2,
+   "fiber_g": 5,
+   "sugar_g": 4,
+   "satfat_g": 0.4,
+   "sodium_mg": 450
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 cup (245 g)",
+    "grams": 245,
+    "isDefault": true
+   },
+   {
+    "label": "100 g",
+    "grams": 100
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": false,
+  "source": "USDA FoodData Central (SR Legacy)"
+ }
+]

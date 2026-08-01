@@ -1,0 +1,40 @@
+#category: dairy-alt
+#source: manufacturer label (typical US product)
+#verified: 0
+#servings: 1 cup (240 ml)@240*;1/2 cup (120 ml)@120
+#density: 1.01
+# Plant milks and dairy substitutes. Values are for the mainstream US product;
+# brands vary by up to 30% so most of these are deliberately verified:false.
+# id|name|aliases|kcal|protein|carbs|fat|fiber|sugar|satfat|sodium|servings|extra
+almond-milk-unsweetened|Almond milk, unsweetened|unsweetened almond milk|15|0.6|0.6|1.25|0.4|0|0|72|1 cup (240 ml)@242*;1/2 cup (120 ml)@121;1 tbsp (15 ml)@15
+almond-milk-sweetened-vanilla|Almond milk, sweetened vanilla||38|0.4|6.5|1.0|0.4|5.8|0|65|1 cup (240 ml)@242*;1/2 cup (120 ml)@121
+almond-milk-original|Almond milk, original sweetened||24|0.4|3.3|1.0|0.4|2.9|0|65|1 cup (240 ml)@242*;100 g@100
+soy-milk-unsweetened|Soy milk, unsweetened||33|2.9|1.7|1.6|0.4|0.5|0.2|38|1 cup (240 ml)@243*;1/2 cup (120 ml)@122|v=1;src=USDA FoodData Central (SR Legacy)
+soy-milk-original|Soy milk, original sweetened||43|2.8|4.2|1.8|0.4|3.5|0.2|46|1 cup (240 ml)@243*;100 g@100
+soy-milk-vanilla|Soy milk, vanilla||44|2.6|5.0|1.7|0.2|4.2|0.2|40|1 cup (240 ml)@243*;100 g@100
+oat-milk-original|Oat milk, original|oatly|50|1.25|6.7|2.1|0.8|3.1|0.2|42|1 cup (240 ml)@242*;1/2 cup (120 ml)@121
+oat-milk-barista|Oat milk, barista edition||59|1.25|6.7|3.1|0.8|3.1|0.3|42|1 cup (240 ml)@242*;2 oz (60 ml)@61
+oat-milk-unsweetened|Oat milk, unsweetened||40|1.25|6.7|1.5|0.8|1.7|0.2|42|1 cup (240 ml)@242*;100 g@100
+coconut-milk-beverage|Coconut milk beverage, unsweetened|coconut milk carton|20|0.2|1.0|1.9|0|0|1.7|18|1 cup (240 ml)@240*;100 g@100
+coconut-milk-canned|Coconut milk, canned, full fat||197|2.0|2.8|21.3|0|1.6|18.9|13|1/2 cup (120 ml)@120*;1 can (400 ml)@403;1 tbsp (15 ml)@15|d=1.01;v=1;src=USDA FoodData Central (SR Legacy)
+coconut-milk-light|Coconut milk, canned, light||73|0.8|2.0|7.0|0|1.5|6.2|13|1/2 cup (120 ml)@121*;1 can (400 ml)@403
+coconut-cream|Coconut cream, canned||330|3.6|6.7|34.7|2.2|4.9|30.7|4|2 tbsp (30 ml)@30*;1/2 cup (120 ml)@121|d=1.01
+cashew-milk-unsweetened|Cashew milk, unsweetened||10|0.4|0.4|0.8|0|0|0.2|68|1 cup (240 ml)@240*;100 g@100
+rice-milk|Rice milk, original||47|0.3|9.2|1.0|0.3|5.3|0|39|1 cup (240 ml)@240*;100 g@100
+pea-milk-unsweetened|Pea protein milk, unsweetened|ripple|30|3.3|0|1.9|0|0|0.2|50|1 cup (240 ml)@240*;100 g@100
+hemp-milk-unsweetened|Hemp milk, unsweetened||25|1.3|0.5|2.1|0|0|0.2|46|1 cup (240 ml)@240*;100 g@100
+macadamia-milk-unsweetened|Macadamia milk, unsweetened||21|0.4|0.4|2.1|0|0|0.4|58|1 cup (240 ml)@240*;100 g@100
+flax-milk-unsweetened|Flax milk, unsweetened||10|0|0|1.7|0|0|0|33|1 cup (240 ml)@240*;100 g@100
+creamer-nondairy-liquid|Coffee creamer, non-dairy, liquid||195|0|20.0|12.0|0|20.0|3.0|65|1 tbsp (15 ml)@15*;2 tbsp (30 ml)@30|d=1.03
+creamer-nondairy-powder|Coffee creamer, non-dairy, powdered||545|4.8|58.0|35.5|0|58.0|32.0|181|1 tsp (2 g)@2*;1 tbsp (6 g)@6|d=-
+creamer-oat|Coffee creamer, oat-based||125|0.5|17.5|6.0|0|10.0|0.5|50|1 tbsp (15 ml)@15*;2 tbsp (30 ml)@30|d=1.03
+creamer-almond|Coffee creamer, almond-based||100|0.5|13.0|5.0|0|10.0|0.5|60|1 tbsp (15 ml)@15*;2 tbsp (30 ml)@30|d=1.03
+yogurt-soy-plain|Soy yogurt, plain||60|3.0|8.0|1.8|0.5|4.0|0.3|30|1 container (150 g)@150*;100 g@100|d=-
+yogurt-coconut-plain|Coconut yogurt, plain||120|1.0|10.0|8.0|1.0|6.0|7.0|25|1 container (150 g)@150*;100 g@100|d=-
+yogurt-almond-vanilla|Almond milk yogurt, vanilla||90|2.0|13.0|3.5|1.5|9.0|0.3|30|1 container (150 g)@150*;100 g@100|d=-
+cheese-vegan-shreds|Vegan cheese shreds, cheddar style||285|0|24.0|20.0|0|0|18.0|750|1/4 cup (28 g)@28*;1 cup (113 g)@113|d=-
+cheese-vegan-cream|Vegan cream cheese||280|1.0|8.0|26.0|0|2.0|8.0|450|2 tbsp (30 g)@30*;100 g@100|d=-
+cheese-vegan-slices|Vegan cheese slices, American style||265|1.0|22.0|19.0|0|1.0|17.0|760|1 slice (19 g)@19*;100 g@100|d=-
+nutritional-yeast|Nutritional yeast flakes|nooch|325|45.0|37.0|5.0|25.0|1.5|0.8|30|1 tbsp (5 g)@5*;1/4 cup (20 g)@20|d=-
+ice-cream-nondairy-vanilla|Non-dairy frozen dessert, vanilla|vegan ice cream|205|2.0|24.0|11.0|1.5|20.0|7.0|75|1/2 cup (70 g)@70*;1 pint (280 g)@280|d=-
+butter-vegan|Vegan butter, plant-based sticks||717|0|0|81.0|0|0|24.0|700|1 tbsp (14 g)@14*;1 tsp (5 g)@5|d=0.91

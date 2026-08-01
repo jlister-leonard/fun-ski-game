@@ -1,0 +1,1798 @@
+[
+ {
+  "id": "croissant-butter",
+  "name": "Croissant, butter",
+  "brand": null,
+  "aliases": [],
+  "category": "baked-good",
+  "per100g": {
+   "kcal": 406,
+   "protein_g": 8.2,
+   "carbs_g": 45.8,
+   "fat_g": 21,
+   "fiber_g": 2.6,
+   "sugar_g": 11.4,
+   "satfat_g": 11.7,
+   "sodium_mg": 424
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 medium (57 g)",
+    "grams": 57,
+    "isDefault": true
+   },
+   {
+    "label": "1 large (67 g)",
+    "grams": 67
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": true,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "croissant-chocolate",
+  "name": "Chocolate croissant",
+  "brand": null,
+  "aliases": [
+   "pain au chocolat"
+  ],
+  "category": "baked-good",
+  "per100g": {
+   "kcal": 430,
+   "protein_g": 7.5,
+   "carbs_g": 46,
+   "fat_g": 24,
+   "fiber_g": 2.8,
+   "sugar_g": 17,
+   "satfat_g": 13,
+   "sodium_mg": 380
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 croissant (70 g)",
+    "grams": 70,
+    "isDefault": true
+   },
+   {
+    "label": "100 g",
+    "grams": 100
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": false,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "croissant-almond",
+  "name": "Almond croissant",
+  "brand": null,
+  "aliases": [],
+  "category": "baked-good",
+  "per100g": {
+   "kcal": 450,
+   "protein_g": 9,
+   "carbs_g": 44,
+   "fat_g": 27,
+   "fiber_g": 3,
+   "sugar_g": 20,
+   "satfat_g": 12,
+   "sodium_mg": 350
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 croissant (100 g)",
+    "grams": 100,
+    "isDefault": true
+   },
+   {
+    "label": "100 g",
+    "grams": 100
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": false,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "muffin-blueberry",
+  "name": "Blueberry muffin",
+  "brand": null,
+  "aliases": [],
+  "category": "baked-good",
+  "per100g": {
+   "kcal": 377,
+   "protein_g": 5,
+   "carbs_g": 52,
+   "fat_g": 17,
+   "fiber_g": 1.5,
+   "sugar_g": 28,
+   "satfat_g": 3.3,
+   "sodium_mg": 320
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 large (113 g)",
+    "grams": 113,
+    "isDefault": true
+   },
+   {
+    "label": "1 mini (25 g)",
+    "grams": 25
+   },
+   {
+    "label": "1 medium (57 g)",
+    "grams": 57
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": true,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "muffin-chocolate-chip",
+  "name": "Chocolate chip muffin",
+  "brand": null,
+  "aliases": [],
+  "category": "baked-good",
+  "per100g": {
+   "kcal": 420,
+   "protein_g": 5.5,
+   "carbs_g": 55,
+   "fat_g": 20,
+   "fiber_g": 2,
+   "sugar_g": 31,
+   "satfat_g": 5,
+   "sodium_mg": 330
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 large (113 g)",
+    "grams": 113,
+    "isDefault": true
+   },
+   {
+    "label": "1 medium (57 g)",
+    "grams": 57
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": false,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "muffin-bran",
+  "name": "Bran muffin",
+  "brand": null,
+  "aliases": [],
+  "category": "baked-good",
+  "per100g": {
+   "kcal": 340,
+   "protein_g": 6.8,
+   "carbs_g": 54,
+   "fat_g": 11.9,
+   "fiber_g": 6,
+   "sugar_g": 22,
+   "satfat_g": 1.8,
+   "sodium_mg": 450
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 medium (66 g)",
+    "grams": 66,
+    "isDefault": true
+   },
+   {
+    "label": "100 g",
+    "grams": 100
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": true,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "muffin-corn",
+  "name": "Corn muffin",
+  "brand": null,
+  "aliases": [],
+  "category": "baked-good",
+  "per100g": {
+   "kcal": 358,
+   "protein_g": 7,
+   "carbs_g": 54,
+   "fat_g": 12.5,
+   "fiber_g": 2.5,
+   "sugar_g": 18,
+   "satfat_g": 2.1,
+   "sodium_mg": 590
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 medium (57 g)",
+    "grams": 57,
+    "isDefault": true
+   },
+   {
+    "label": "100 g",
+    "grams": 100
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": true,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "muffin-english-protein",
+  "name": "Protein muffin, bakery style",
+  "brand": null,
+  "aliases": [],
+  "category": "baked-good",
+  "per100g": {
+   "kcal": 300,
+   "protein_g": 12,
+   "carbs_g": 38,
+   "fat_g": 11,
+   "fiber_g": 4,
+   "sugar_g": 14,
+   "satfat_g": 2.5,
+   "sodium_mg": 300
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 muffin (100 g)",
+    "grams": 100,
+    "isDefault": true
+   },
+   {
+    "label": "100 g",
+    "grams": 100
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": false,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "donut-glazed",
+  "name": "Donut, glazed yeast",
+  "brand": null,
+  "aliases": [],
+  "category": "baked-good",
+  "per100g": {
+   "kcal": 403,
+   "protein_g": 4.9,
+   "carbs_g": 45,
+   "fat_g": 22.9,
+   "fiber_g": 1.2,
+   "sugar_g": 20,
+   "satfat_g": 10.6,
+   "sodium_mg": 340
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 donut (60 g)",
+    "grams": 60,
+    "isDefault": true
+   },
+   {
+    "label": "2 donuts (120 g)",
+    "grams": 120
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": true,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "donut-cake-plain",
+  "name": "Donut, cake, plain",
+  "brand": null,
+  "aliases": [],
+  "category": "baked-good",
+  "per100g": {
+   "kcal": 421,
+   "protein_g": 4.9,
+   "carbs_g": 50.5,
+   "fat_g": 22.5,
+   "fiber_g": 1.4,
+   "sugar_g": 21,
+   "satfat_g": 5.6,
+   "sodium_mg": 450
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 donut (60 g)",
+    "grams": 60,
+    "isDefault": true
+   },
+   {
+    "label": "100 g",
+    "grams": 100
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": true,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "donut-jelly-filled",
+  "name": "Donut, jelly filled",
+  "brand": null,
+  "aliases": [],
+  "category": "baked-good",
+  "per100g": {
+   "kcal": 340,
+   "protein_g": 4.5,
+   "carbs_g": 46,
+   "fat_g": 15.5,
+   "fiber_g": 1,
+   "sugar_g": 20,
+   "satfat_g": 4,
+   "sodium_mg": 350
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 donut (85 g)",
+    "grams": 85,
+    "isDefault": true
+   },
+   {
+    "label": "100 g",
+    "grams": 100
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": true,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "donut-boston-cream",
+  "name": "Donut, Boston cream",
+  "brand": null,
+  "aliases": [],
+  "category": "baked-good",
+  "per100g": {
+   "kcal": 365,
+   "protein_g": 4,
+   "carbs_g": 46,
+   "fat_g": 18.5,
+   "fiber_g": 1.2,
+   "sugar_g": 24,
+   "satfat_g": 6,
+   "sodium_mg": 300
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 donut (92 g)",
+    "grams": 92,
+    "isDefault": true
+   },
+   {
+    "label": "100 g",
+    "grams": 100
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": false,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "donut-hole",
+  "name": "Donut holes, glazed",
+  "brand": null,
+  "aliases": [],
+  "category": "baked-good",
+  "per100g": {
+   "kcal": 420,
+   "protein_g": 4.5,
+   "carbs_g": 50,
+   "fat_g": 22,
+   "fiber_g": 1.3,
+   "sugar_g": 22,
+   "satfat_g": 9,
+   "sodium_mg": 400
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "4 holes (52 g)",
+    "grams": 52,
+    "isDefault": true
+   },
+   {
+    "label": "100 g",
+    "grams": 100
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": false,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "cinnamon-roll",
+  "name": "Cinnamon roll, with icing",
+  "brand": null,
+  "aliases": [],
+  "category": "baked-good",
+  "per100g": {
+   "kcal": 403,
+   "protein_g": 5.9,
+   "carbs_g": 54,
+   "fat_g": 18.5,
+   "fiber_g": 1.5,
+   "sugar_g": 25,
+   "satfat_g": 5,
+   "sodium_mg": 380
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 roll (85 g)",
+    "grams": 85,
+    "isDefault": true
+   },
+   {
+    "label": "1 large (140 g)",
+    "grams": 140
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": true,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "danish-cheese",
+  "name": "Danish pastry, cheese",
+  "brand": null,
+  "aliases": [],
+  "category": "baked-good",
+  "per100g": {
+   "kcal": 374,
+   "protein_g": 6.9,
+   "carbs_g": 38.6,
+   "fat_g": 21.5,
+   "fiber_g": 1,
+   "sugar_g": 15,
+   "satfat_g": 6.6,
+   "sodium_mg": 350
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 danish (71 g)",
+    "grams": 71,
+    "isDefault": true
+   },
+   {
+    "label": "100 g",
+    "grams": 100
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": true,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "scone-plain",
+  "name": "Scone, plain",
+  "brand": null,
+  "aliases": [],
+  "category": "baked-good",
+  "per100g": {
+   "kcal": 360,
+   "protein_g": 7.5,
+   "carbs_g": 53,
+   "fat_g": 13.5,
+   "fiber_g": 1.8,
+   "sugar_g": 14,
+   "satfat_g": 5.5,
+   "sodium_mg": 560
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 scone (75 g)",
+    "grams": 75,
+    "isDefault": true
+   },
+   {
+    "label": "100 g",
+    "grams": 100
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": true,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "biscuit-sweet-shortcake",
+  "name": "Shortcake biscuit",
+  "brand": null,
+  "aliases": [],
+  "category": "baked-good",
+  "per100g": {
+   "kcal": 360,
+   "protein_g": 5.5,
+   "carbs_g": 48,
+   "fat_g": 16,
+   "fiber_g": 1.2,
+   "sugar_g": 13,
+   "satfat_g": 5,
+   "sodium_mg": 450
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 biscuit (65 g)",
+    "grams": 65,
+    "isDefault": true
+   },
+   {
+    "label": "100 g",
+    "grams": 100
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": false,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "coffee-cake-crumb",
+  "name": "Coffee cake, crumb topping",
+  "brand": null,
+  "aliases": [],
+  "category": "baked-good",
+  "per100g": {
+   "kcal": 395,
+   "protein_g": 5.5,
+   "carbs_g": 55,
+   "fat_g": 17.5,
+   "fiber_g": 1.2,
+   "sugar_g": 30,
+   "satfat_g": 4.5,
+   "sodium_mg": 300
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 piece (63 g)",
+    "grams": 63,
+    "isDefault": true
+   },
+   {
+    "label": "100 g",
+    "grams": 100
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": true,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "pancake-plain",
+  "name": "Pancakes, plain, prepared",
+  "brand": null,
+  "aliases": [],
+  "category": "baked-good",
+  "per100g": {
+   "kcal": 227,
+   "protein_g": 6.4,
+   "carbs_g": 28.3,
+   "fat_g": 9.7,
+   "fiber_g": 1,
+   "sugar_g": 6.3,
+   "satfat_g": 2.1,
+   "sodium_mg": 542
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 pancake, 4 in (38 g)",
+    "grams": 38,
+    "isDefault": true
+   },
+   {
+    "label": "3 pancakes (114 g)",
+    "grams": 114
+   },
+   {
+    "label": "1 large (77 g)",
+    "grams": 77
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": true,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "pancake-protein",
+  "name": "Protein pancakes, prepared",
+  "brand": null,
+  "aliases": [],
+  "category": "baked-good",
+  "per100g": {
+   "kcal": 210,
+   "protein_g": 16,
+   "carbs_g": 24,
+   "fat_g": 5,
+   "fiber_g": 3,
+   "sugar_g": 4,
+   "satfat_g": 1.5,
+   "sodium_mg": 450
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "3 pancakes (120 g)",
+    "grams": 120,
+    "isDefault": true
+   },
+   {
+    "label": "100 g",
+    "grams": 100
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": false,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "waffle-plain",
+  "name": "Waffle, plain, prepared",
+  "brand": null,
+  "aliases": [],
+  "category": "baked-good",
+  "per100g": {
+   "kcal": 291,
+   "protein_g": 7.9,
+   "carbs_g": 32.9,
+   "fat_g": 14.1,
+   "fiber_g": 2,
+   "sugar_g": 5.3,
+   "satfat_g": 2.7,
+   "sodium_mg": 511
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 waffle, 7 in (75 g)",
+    "grams": 75,
+    "isDefault": true
+   },
+   {
+    "label": "1 frozen waffle (35 g)",
+    "grams": 35
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": true,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "waffle-belgian",
+  "name": "Belgian waffle, with topping",
+  "brand": null,
+  "aliases": [],
+  "category": "baked-good",
+  "per100g": {
+   "kcal": 310,
+   "protein_g": 7,
+   "carbs_g": 38,
+   "fat_g": 14.5,
+   "fiber_g": 1.5,
+   "sugar_g": 13,
+   "satfat_g": 4.5,
+   "sodium_mg": 450
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 waffle (100 g)",
+    "grams": 100,
+    "isDefault": true
+   },
+   {
+    "label": "100 g",
+    "grams": 100
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": false,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "french-toast",
+  "name": "French toast, prepared",
+  "brand": null,
+  "aliases": [],
+  "category": "baked-good",
+  "per100g": {
+   "kcal": 229,
+   "protein_g": 7.7,
+   "carbs_g": 25,
+   "fat_g": 10.8,
+   "fiber_g": 1.1,
+   "sugar_g": 6,
+   "satfat_g": 2.7,
+   "sodium_mg": 478
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 slice (65 g)",
+    "grams": 65,
+    "isDefault": true
+   },
+   {
+    "label": "2 slices (130 g)",
+    "grams": 130
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": true,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "crepe-plain",
+  "name": "Crepe, plain",
+  "brand": null,
+  "aliases": [],
+  "category": "baked-good",
+  "per100g": {
+   "kcal": 200,
+   "protein_g": 6.5,
+   "carbs_g": 24,
+   "fat_g": 8.5,
+   "fiber_g": 0.8,
+   "sugar_g": 4.5,
+   "satfat_g": 3.5,
+   "sodium_mg": 180
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 crepe (55 g)",
+    "grams": 55,
+    "isDefault": true
+   },
+   {
+    "label": "100 g",
+    "grams": 100
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": false,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "churro",
+  "name": "Churro, fried",
+  "brand": null,
+  "aliases": [],
+  "category": "baked-good",
+  "per100g": {
+   "kcal": 400,
+   "protein_g": 4.5,
+   "carbs_g": 43,
+   "fat_g": 23,
+   "fiber_g": 1.5,
+   "sugar_g": 13,
+   "satfat_g": 4.5,
+   "sodium_mg": 300
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 churro (45 g)",
+    "grams": 45,
+    "isDefault": true
+   },
+   {
+    "label": "100 g",
+    "grams": 100
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": false,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "beignet",
+  "name": "Beignet, fried with sugar",
+  "brand": null,
+  "aliases": [],
+  "category": "baked-good",
+  "per100g": {
+   "kcal": 395,
+   "protein_g": 5.5,
+   "carbs_g": 48,
+   "fat_g": 20,
+   "fiber_g": 1.3,
+   "sugar_g": 18,
+   "satfat_g": 4,
+   "sodium_mg": 280
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "3 beignets (85 g)",
+    "grams": 85,
+    "isDefault": true
+   },
+   {
+    "label": "100 g",
+    "grams": 100
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": false,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "brownie-fudge",
+  "name": "Brownie, fudge",
+  "brand": null,
+  "aliases": [],
+  "category": "baked-good",
+  "per100g": {
+   "kcal": 466,
+   "protein_g": 6,
+   "carbs_g": 60,
+   "fat_g": 22,
+   "fiber_g": 2.4,
+   "sugar_g": 38,
+   "satfat_g": 5.5,
+   "sodium_mg": 270
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 brownie (56 g)",
+    "grams": 56,
+    "isDefault": true
+   },
+   {
+    "label": "1 large (85 g)",
+    "grams": 85
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": true,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "blondie",
+  "name": "Blondie bar",
+  "brand": null,
+  "aliases": [],
+  "category": "baked-good",
+  "per100g": {
+   "kcal": 440,
+   "protein_g": 5,
+   "carbs_g": 62,
+   "fat_g": 19,
+   "fiber_g": 1.2,
+   "sugar_g": 40,
+   "satfat_g": 8,
+   "sodium_mg": 250
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 bar (56 g)",
+    "grams": 56,
+    "isDefault": true
+   },
+   {
+    "label": "100 g",
+    "grams": 100
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": false,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "cake-chocolate-frosted",
+  "name": "Chocolate cake, with frosting",
+  "brand": null,
+  "aliases": [],
+  "category": "baked-good",
+  "per100g": {
+   "kcal": 371,
+   "protein_g": 4.1,
+   "carbs_g": 50.7,
+   "fat_g": 16.4,
+   "fiber_g": 1.8,
+   "sugar_g": 37,
+   "satfat_g": 4.5,
+   "sodium_mg": 315
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 slice (95 g)",
+    "grams": 95,
+    "isDefault": true
+   },
+   {
+    "label": "100 g",
+    "grams": 100
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": true,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "cake-vanilla-frosted",
+  "name": "Vanilla cake, with frosting",
+  "brand": null,
+  "aliases": [],
+  "category": "baked-good",
+  "per100g": {
+   "kcal": 389,
+   "protein_g": 3.6,
+   "carbs_g": 54,
+   "fat_g": 18,
+   "fiber_g": 0.6,
+   "sugar_g": 40,
+   "satfat_g": 4.8,
+   "sodium_mg": 320
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 slice (95 g)",
+    "grams": 95,
+    "isDefault": true
+   },
+   {
+    "label": "100 g",
+    "grams": 100
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": true,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "cake-carrot-cream-cheese",
+  "name": "Carrot cake, cream cheese frosting",
+  "brand": null,
+  "aliases": [],
+  "category": "baked-good",
+  "per100g": {
+   "kcal": 415,
+   "protein_g": 4.5,
+   "carbs_g": 50,
+   "fat_g": 22,
+   "fiber_g": 1.5,
+   "sugar_g": 36,
+   "satfat_g": 4.5,
+   "sodium_mg": 330
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 slice (111 g)",
+    "grams": 111,
+    "isDefault": true
+   },
+   {
+    "label": "100 g",
+    "grams": 100
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": true,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "cake-pound",
+  "name": "Pound cake",
+  "brand": null,
+  "aliases": [],
+  "category": "baked-good",
+  "per100g": {
+   "kcal": 389,
+   "protein_g": 5.5,
+   "carbs_g": 53,
+   "fat_g": 17,
+   "fiber_g": 0.6,
+   "sugar_g": 30,
+   "satfat_g": 9.5,
+   "sodium_mg": 350
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 slice (57 g)",
+    "grams": 57,
+    "isDefault": true
+   },
+   {
+    "label": "100 g",
+    "grams": 100
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": true,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "cake-angel-food",
+  "name": "Angel food cake",
+  "brand": null,
+  "aliases": [],
+  "category": "baked-good",
+  "per100g": {
+   "kcal": 258,
+   "protein_g": 5.9,
+   "carbs_g": 57.8,
+   "fat_g": 0.8,
+   "fiber_g": 0.4,
+   "sugar_g": 38,
+   "satfat_g": 0.12,
+   "sodium_mg": 749
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 slice (50 g)",
+    "grams": 50,
+    "isDefault": true
+   },
+   {
+    "label": "100 g",
+    "grams": 100
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": true,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "cake-cheesecake",
+  "name": "Cheesecake, plain",
+  "brand": null,
+  "aliases": [],
+  "category": "baked-good",
+  "per100g": {
+   "kcal": 321,
+   "protein_g": 5.5,
+   "carbs_g": 25.5,
+   "fat_g": 22.5,
+   "fiber_g": 0.4,
+   "sugar_g": 22,
+   "satfat_g": 9.9,
+   "sodium_mg": 438
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 slice (125 g)",
+    "grams": 125,
+    "isDefault": true
+   },
+   {
+    "label": "1 small slice (80 g)",
+    "grams": 80
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": true,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "cake-red-velvet",
+  "name": "Red velvet cake, with frosting",
+  "brand": null,
+  "aliases": [],
+  "category": "baked-good",
+  "per100g": {
+   "kcal": 400,
+   "protein_g": 4,
+   "carbs_g": 53,
+   "fat_g": 20,
+   "fiber_g": 1,
+   "sugar_g": 40,
+   "satfat_g": 6,
+   "sodium_mg": 300
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 slice (95 g)",
+    "grams": 95,
+    "isDefault": true
+   },
+   {
+    "label": "100 g",
+    "grams": 100
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": false,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "cupcake-frosted",
+  "name": "Cupcake, frosted",
+  "brand": null,
+  "aliases": [],
+  "category": "baked-good",
+  "per100g": {
+   "kcal": 400,
+   "protein_g": 3.5,
+   "carbs_g": 55,
+   "fat_g": 19,
+   "fiber_g": 0.7,
+   "sugar_g": 40,
+   "satfat_g": 5,
+   "sodium_mg": 320
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 cupcake (60 g)",
+    "grams": 60,
+    "isDefault": true
+   },
+   {
+    "label": "1 mini (25 g)",
+    "grams": 25
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": false,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "pie-apple",
+  "name": "Apple pie",
+  "brand": null,
+  "aliases": [],
+  "category": "baked-good",
+  "per100g": {
+   "kcal": 265,
+   "protein_g": 2.4,
+   "carbs_g": 37.1,
+   "fat_g": 12.5,
+   "fiber_g": 1.6,
+   "sugar_g": 17,
+   "satfat_g": 4.3,
+   "sodium_mg": 266
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 slice (125 g)",
+    "grams": 125,
+    "isDefault": true
+   },
+   {
+    "label": "100 g",
+    "grams": 100
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": true,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "pie-pumpkin",
+  "name": "Pumpkin pie",
+  "brand": null,
+  "aliases": [],
+  "category": "baked-good",
+  "per100g": {
+   "kcal": 243,
+   "protein_g": 4.5,
+   "carbs_g": 30,
+   "fat_g": 11.5,
+   "fiber_g": 1.5,
+   "sugar_g": 17,
+   "satfat_g": 3.8,
+   "sodium_mg": 305
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 slice (109 g)",
+    "grams": 109,
+    "isDefault": true
+   },
+   {
+    "label": "100 g",
+    "grams": 100
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": true,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "pie-pecan",
+  "name": "Pecan pie",
+  "brand": null,
+  "aliases": [],
+  "category": "baked-good",
+  "per100g": {
+   "kcal": 412,
+   "protein_g": 4.5,
+   "carbs_g": 52,
+   "fat_g": 22,
+   "fiber_g": 2,
+   "sugar_g": 32,
+   "satfat_g": 3.7,
+   "sodium_mg": 320
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 slice (113 g)",
+    "grams": 113,
+    "isDefault": true
+   },
+   {
+    "label": "100 g",
+    "grams": 100
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": true,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "pie-cherry",
+  "name": "Cherry pie",
+  "brand": null,
+  "aliases": [],
+  "category": "baked-good",
+  "per100g": {
+   "kcal": 260,
+   "protein_g": 2.2,
+   "carbs_g": 39.8,
+   "fat_g": 11,
+   "fiber_g": 0.9,
+   "sugar_g": 16,
+   "satfat_g": 2.7,
+   "sodium_mg": 246
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 slice (125 g)",
+    "grams": 125,
+    "isDefault": true
+   },
+   {
+    "label": "100 g",
+    "grams": 100
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": true,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "pie-key-lime",
+  "name": "Key lime pie",
+  "brand": null,
+  "aliases": [],
+  "category": "baked-good",
+  "per100g": {
+   "kcal": 330,
+   "protein_g": 5.5,
+   "carbs_g": 44,
+   "fat_g": 15,
+   "fiber_g": 0.7,
+   "sugar_g": 33,
+   "satfat_g": 8,
+   "sodium_mg": 180
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 slice (115 g)",
+    "grams": 115,
+    "isDefault": true
+   },
+   {
+    "label": "100 g",
+    "grams": 100
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": false,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "tiramisu",
+  "name": "Tiramisu",
+  "brand": null,
+  "aliases": [],
+  "category": "baked-good",
+  "per100g": {
+   "kcal": 283,
+   "protein_g": 4.5,
+   "carbs_g": 25,
+   "fat_g": 18,
+   "fiber_g": 0.4,
+   "sugar_g": 18,
+   "satfat_g": 10,
+   "sodium_mg": 100
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 serving (125 g)",
+    "grams": 125,
+    "isDefault": true
+   },
+   {
+    "label": "100 g",
+    "grams": 100
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": false,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "baklava",
+  "name": "Baklava",
+  "brand": null,
+  "aliases": [],
+  "category": "baked-good",
+  "per100g": {
+   "kcal": 428,
+   "protein_g": 6.5,
+   "carbs_g": 46,
+   "fat_g": 25,
+   "fiber_g": 2.5,
+   "sugar_g": 30,
+   "satfat_g": 6.5,
+   "sodium_mg": 280
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 piece (60 g)",
+    "grams": 60,
+    "isDefault": true
+   },
+   {
+    "label": "100 g",
+    "grams": 100
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": false,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "cannoli",
+  "name": "Cannoli",
+  "brand": null,
+  "aliases": [],
+  "category": "baked-good",
+  "per100g": {
+   "kcal": 350,
+   "protein_g": 8,
+   "carbs_g": 38,
+   "fat_g": 18,
+   "fiber_g": 1,
+   "sugar_g": 24,
+   "satfat_g": 9,
+   "sodium_mg": 180
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 cannoli (85 g)",
+    "grams": 85,
+    "isDefault": true
+   },
+   {
+    "label": "100 g",
+    "grams": 100
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": false,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "eclair-chocolate",
+  "name": "Éclair, chocolate",
+  "brand": null,
+  "aliases": [],
+  "category": "baked-good",
+  "per100g": {
+   "kcal": 262,
+   "protein_g": 6.4,
+   "carbs_g": 24.2,
+   "fat_g": 15.7,
+   "fiber_g": 0.7,
+   "sugar_g": 14,
+   "satfat_g": 4.1,
+   "sodium_mg": 337
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 eclair (100 g)",
+    "grams": 100,
+    "isDefault": true
+   },
+   {
+    "label": "100 g",
+    "grams": 100
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": true,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "macaron-french",
+  "name": "Macaron, French",
+  "brand": null,
+  "aliases": [],
+  "category": "baked-good",
+  "per100g": {
+   "kcal": 400,
+   "protein_g": 8,
+   "carbs_g": 55,
+   "fat_g": 17,
+   "fiber_g": 3,
+   "sugar_g": 48,
+   "satfat_g": 2,
+   "sodium_mg": 60
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 macaron (20 g)",
+    "grams": 20,
+    "isDefault": true
+   },
+   {
+    "label": "3 macarons (60 g)",
+    "grams": 60
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": false,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "toaster-strudel",
+  "name": "Toaster strudel, frosted",
+  "brand": null,
+  "aliases": [],
+  "category": "baked-good",
+  "per100g": {
+   "kcal": 400,
+   "protein_g": 4,
+   "carbs_g": 50,
+   "fat_g": 20,
+   "fiber_g": 1,
+   "sugar_g": 17,
+   "satfat_g": 8,
+   "sodium_mg": 280
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 pastry (54 g)",
+    "grams": 54,
+    "isDefault": true
+   },
+   {
+    "label": "100 g",
+    "grams": 100
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": false,
+  "source": "USDA FoodData Central (SR Legacy)"
+ }
+]

@@ -1,0 +1,83 @@
+#category: grain
+#source: USDA FoodData Central (SR Legacy)
+#servings: 100 g@100*
+# Grains, flours and starches. DRY vs COOKED is the trap here — dry rice is
+# ~365 kcal/100 g, the same rice cooked is ~130 kcal/100 g because it absorbs
+# roughly 2x its weight in water.
+# id|name|aliases|kcal|protein|carbs|fat|fiber|sugar|satfat|sodium|servings|extra
+
+# --- rice ----------------------------------------------------------------
+rice-white-long-dry|White rice, long grain, dry|uncooked white rice|365|7.13|79.9|0.66|1.3|0.12|0.18|5|1/4 cup dry (46 g)@46*;1/2 cup dry (93 g)@93;100 g@100|ret=0;car=0;ffol=5;fac=133;dfe=231
+rice-white-long-cooked|White rice, long grain, cooked|steamed rice;cooked white rice|130|2.69|28.2|0.28|0.4|0.05|0.08|1|1 cup cooked (158 g)@158*;1/2 cup cooked (79 g)@79;3/4 cup (119 g)@119|ret=0;car=0;ffol=2;fac=33;dfe=58;src=USDA FoodData Central SR Legacy FDC 168878, release 2018-04, reviewed 2026-08-01
+rice-jasmine-cooked|Jasmine rice, cooked||129|2.7|28.0|0.3|0.4|0.05|0.08|1|1 cup cooked (158 g)@158*;1/2 cup (79 g)@79|v=0
+rice-basmati-cooked|Basmati rice, cooked||121|3.5|25.2|0.4|0.7|0.05|0.1|1|1 cup cooked (158 g)@158*;1/2 cup (79 g)@79|v=0
+rice-brown-long-dry|Brown rice, long grain, dry||370|7.94|77.2|2.92|3.5|0.85|0.58|7|1/4 cup dry (46 g)@46*;100 g@100
+rice-brown-long-cooked|Brown rice, long grain, cooked||123|2.74|25.6|0.97|1.6|0.24|0.19|4|1 cup cooked (195 g)@195*;1/2 cup (98 g)@98;3/4 cup (146 g)@146|ret=0;car=0;ffol=4;fac=0;dfe=4
+rice-wild-cooked|Wild rice, cooked||101|3.99|21.3|0.34|1.8|0.73|0.05|3|1 cup cooked (164 g)@164*;1/2 cup (82 g)@82
+rice-arborio-cooked|Arborio rice, cooked|risotto rice|130|2.4|28.9|0.2|0.4|0|0.05|1|1 cup cooked (158 g)@158*;100 g@100|v=0
+rice-sushi-cooked|Sushi rice, seasoned, cooked||150|2.5|33.0|0.3|0.4|4.5|0.08|250|1 cup (170 g)@170*;100 g@100|v=0
+rice-black-cooked|Black rice, cooked|forbidden rice|130|3.5|27.0|1.0|1.8|0.2|0.2|4|1 cup cooked (170 g)@170*;100 g@100|v=0
+rice-red-cooked|Red rice, cooked||124|3.0|26.0|1.0|2.0|0.2|0.2|4|1 cup cooked (170 g)@170*;100 g@100|v=0
+rice-cauliflower-frozen|Cauliflower rice, frozen|riced cauliflower|25|2.0|5.0|0.3|2.0|2.0|0.1|30|1 cup (85 g)@85*;100 g@100|v=0
+rice-instant-cooked|Instant white rice, cooked|minute rice|124|2.4|27.0|0.2|0.9|0|0.05|3|1 cup cooked (165 g)@165*;100 g@100|v=0
+rice-parboiled-cooked|Parboiled rice, cooked|converted rice|123|2.9|26.1|0.4|0.9|0|0.1|2|1 cup cooked (158 g)@158*;100 g@100
+
+# --- oats ----------------------------------------------------------------
+oats-rolled-dry|Rolled oats, dry|old fashioned oats;oatmeal dry|379|13.2|67.7|6.52|10.1|0.99|1.11|6|1/2 cup dry (40 g)@40*;1/4 cup dry (20 g)@20;1 cup dry (81 g)@81|ret=0;car=0;ffol=56;fac=0;dfe=56
+oats-steel-cut-dry|Steel cut oats, dry|irish oats|379|13.2|67.7|6.52|10.1|0.99|1.11|6|1/4 cup dry (40 g)@40*;100 g@100|
+oats-quick-dry|Quick oats, dry||379|13.2|67.7|6.52|10.1|0.99|1.11|6|1/2 cup dry (40 g)@40*;100 g@100|
+oatmeal-cooked-water|Oatmeal, cooked with water||71|2.54|12.0|1.52|1.7|0.3|0.26|4|1 cup cooked (234 g)@234*;1/2 cup (117 g)@117|d=1.0
+oatmeal-instant-plain-dry|Instant oatmeal, plain, dry packet||371|12.8|68.7|6.6|9.4|1.0|1.2|340|1 packet (28 g)@28*;100 g@100|
+oatmeal-instant-maple-dry|Instant oatmeal, maple brown sugar, dry packet||382|8.5|76.0|4.7|6.5|30.0|0.9|260|1 packet (43 g)@43*;100 g@100|v=0
+oats-overnight-prepared|Overnight oats, made with milk||115|4.5|17.0|3.2|2.2|4.0|1.0|30|1 jar (250 g)@250*;100 g@100|v=0
+oat-bran-dry|Oat bran, dry||375|17.3|66.2|7.03|15.4|1.45|1.33|4|1/4 cup (24 g)@24*;100 g@100|v=0
+
+# --- pseudocereals & ancient grains --------------------------------------
+quinoa-dry|Quinoa, dry||368|14.1|64.2|6.07|7.0|0|0.71|5|1/4 cup dry (43 g)@43*;100 g@100|
+quinoa-cooked|Quinoa, cooked||120|4.40|21.3|1.92|2.8|0.87|0.23|7|1 cup cooked (185 g)@185*;1/2 cup (93 g)@93|ret=0;car=1;ffol=42;fac=0;dfe=42
+buckwheat-cooked|Buckwheat groats, cooked|kasha|92|3.38|19.9|0.62|2.7|0.9|0.14|4|1 cup cooked (168 g)@168*;100 g@100
+amaranth-cooked|Amaranth, cooked||102|3.8|18.7|1.58|2.1|0|0.33|6|1 cup cooked (246 g)@246*;100 g@100
+millet-cooked|Millet, cooked||119|3.51|23.7|1.0|1.3|0.1|0.17|2|1 cup cooked (174 g)@174*;100 g@100
+teff-cooked|Teff, cooked||101|3.9|19.9|0.7|2.8|0.2|0.1|8|1 cup cooked (252 g)@252*;100 g@100|v=0
+sorghum-cooked|Sorghum, cooked||115|3.5|25.0|1.1|2.5|0.3|0.2|2|1 cup cooked (192 g)@192*;100 g@100|v=0
+farro-dry|Farro, dry|emmer wheat|340|14.0|71.0|2.0|11.0|2.0|0.4|4|1/4 cup dry (47 g)@47*;100 g@100|v=0
+farro-cooked|Farro, cooked||128|5.0|26.0|0.8|4.0|0.7|0.15|4|1 cup cooked (170 g)@170*;1/2 cup (85 g)@85|v=0
+freekeh-cooked|Freekeh, cooked||115|4.5|23.0|0.7|4.5|0.3|0.1|5|1 cup cooked (170 g)@170*;100 g@100|v=0
+barley-pearled-cooked|Pearl barley, cooked||123|2.26|28.2|0.44|3.8|0.28|0.09|3|1 cup cooked (157 g)@157*;1/2 cup (79 g)@79
+barley-pearled-dry|Pearl barley, dry||352|9.91|77.7|1.16|15.6|0.8|0.24|9|1/4 cup dry (50 g)@50*;100 g@100|
+bulgur-cooked|Bulgur wheat, cooked||83|3.08|18.6|0.24|4.5|0.1|0.04|5|1 cup cooked (182 g)@182*;1/2 cup (91 g)@91
+couscous-cooked|Couscous, cooked||112|3.79|23.2|0.16|1.4|0.1|0.03|5|1 cup cooked (157 g)@157*;1/2 cup (79 g)@79
+couscous-pearl-cooked|Pearl couscous, cooked|israeli couscous|130|4.5|26.0|0.3|1.5|0.1|0.05|5|1 cup cooked (157 g)@157*;100 g@100|v=0
+spelt-cooked|Spelt, cooked||127|5.5|26.4|0.85|3.9|0.2|0.14|5|1 cup cooked (194 g)@194*;100 g@100|v=0
+rye-berries-cooked|Rye berries, cooked||118|5.0|24.5|0.9|4.5|0.5|0.1|3|1 cup cooked (170 g)@170*;100 g@100|v=0
+kamut-cooked|Kamut, cooked|khorasan wheat|132|5.7|27.6|0.8|4.3|0.7|0.1|5|1 cup cooked (172 g)@172*;100 g@100|v=0
+
+# --- corn products -------------------------------------------------------
+cornmeal-dry|Cornmeal, degermed, yellow, dry||370|8.12|79.5|1.75|3.9|1.61|0.24|7|1/4 cup (34 g)@34*;100 g@100|ret=0;car=0;ffol=11;fac=137;dfe=244
+polenta-cooked|Polenta, cooked||70|1.6|15.0|0.3|0.9|0.2|0.05|240|1 cup (240 g)@240*;100 g@100|v=0
+grits-cooked|Grits, cooked with water|corn grits|59|1.4|12.9|0.19|0.7|0.1|0.03|180|1 cup cooked (233 g)@233*;100 g@100
+hominy-canned|Hominy, canned, drained|pozole|72|1.48|14.3|0.87|2.5|0|0.12|345|1 cup (165 g)@165*;100 g@100
+masa-harina-dry|Masa harina, dry|corn flour for tortillas|365|9.3|76.3|3.9|6.4|1.6|0.5|5|1/4 cup (30 g)@30*;100 g@100|
+cream-of-wheat-cooked|Cream of wheat, cooked|farina|63|1.8|13.1|0.24|0.7|0.1|0.04|97|1 cup cooked (241 g)@241*;100 g@100|v=0
+
+# --- flours & starches ---------------------------------------------------
+flour-all-purpose|All-purpose flour, white, enriched|white flour;plain flour|364|10.3|76.3|0.98|2.7|0.27|0.16|2|1/4 cup (31 g)@31*;1 cup (125 g)@125;1 tbsp (8 g)@8|ret=0;car=0;ffol=26;fac=154;dfe=291
+flour-bread|Bread flour, white||361|12.0|72.5|1.66|2.4|0.31|0.24|2|1/4 cup (34 g)@34*;1 cup (137 g)@137|ret=0;car=0;ffol=25;fac=150;dfe=280
+flour-cake|Cake flour||362|8.2|78.0|0.86|1.7|0.3|0.13|2|1/4 cup (28 g)@28*;1 cup (114 g)@114|v=0
+flour-whole-wheat|Whole wheat flour||340|13.2|72.0|2.5|10.7|0.41|0.43|2|1/4 cup (30 g)@30*;1 cup (120 g)@120|ret=0;car=0;ffol=44;fac=0;dfe=44
+flour-almond|Almond flour|almond meal|571|21.4|21.4|50.0|10.7|3.6|3.6|0|1/4 cup (28 g)@28*;1 cup (112 g)@112|
+flour-coconut|Coconut flour||400|18.0|60.0|13.0|39.0|10.0|11.0|63|2 tbsp (14 g)@14*;1/4 cup (28 g)@28|
+flour-oat|Oat flour||404|14.7|65.7|9.1|6.5|0.8|1.6|19|1/4 cup (30 g)@30*;1 cup (120 g)@120|v=0
+flour-chickpea|Chickpea flour|besan;gram flour|387|22.4|57.8|6.69|10.8|10.9|0.69|64|1/4 cup (23 g)@23*;1 cup (92 g)@92|
+flour-rice-white|White rice flour||366|5.95|80.1|1.42|2.4|0.12|0.39|0|1/4 cup (39 g)@39*;1 cup (158 g)@158
+flour-rye|Rye flour, dark||324|10.9|68.6|2.69|22.6|1.0|0.3|1|1/4 cup (32 g)@32*;1 cup (128 g)@128|
+flour-buckwheat|Buckwheat flour||335|12.6|70.6|3.1|10.0|2.6|0.68|11|1/4 cup (30 g)@30*;1 cup (120 g)@120|
+flour-semolina|Semolina flour, enriched||360|12.7|72.8|1.05|3.9|0|0.15|1|1/4 cup (42 g)@42*;1 cup (167 g)@167
+flour-tapioca|Tapioca starch|tapioca flour|358|0.19|88.7|0.02|0.9|3.35|0|1|1 tbsp (8 g)@8*;1/4 cup (30 g)@30
+flour-cornstarch|Cornstarch|corn flour uk|381|0.26|91.3|0.05|0.9|0|0.01|9|1 tbsp (8 g)@8*;1 tsp (2.5 g)@2.5
+flour-potato-starch|Potato starch||357|0.1|88.0|0.05|0|0|0|10|1 tbsp (10 g)@10*;100 g@100|v=0
+flour-arrowroot|Arrowroot starch||357|0.3|88.2|0.1|3.4|0|0|2|1 tbsp (8 g)@8*;100 g@100
+flour-vital-wheat-gluten|Vital wheat gluten||370|75.2|13.8|1.85|0.6|0|0.3|29|1/4 cup (30 g)@30*;100 g@100
+wheat-bran|Wheat bran, crude||216|15.6|64.5|4.25|42.8|0.41|0.63|2|1/4 cup (15 g)@15*;1 tbsp (4 g)@4|
+wheat-germ|Wheat germ, toasted||382|29.1|52.2|10.7|15.0|8.0|1.85|4|2 tbsp (14 g)@14*;1/4 cup (28 g)@28|
+psyllium-husk|Psyllium husk powder||200|1.6|88.0|0.5|80.0|0|0.1|30|1 tbsp (9 g)@9*;1 tsp (3 g)@3|

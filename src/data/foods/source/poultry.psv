@@ -1,0 +1,65 @@
+#category: poultry
+#source: USDA FoodData Central (SR Legacy)
+#servings: 4 oz (113 g)@113*;6 oz (170 g)@170;3 oz (85 g)@85;1 oz (28 g)@28
+# NOTE ON RAW vs COOKED — the single most-mislogged pair in any tracker.
+# Raw skinless chicken breast is 120 kcal/100 g; the same meat roasted is
+# 165 kcal/100 g because ~25% of the water is gone. If the user weighs it raw,
+# they must log the raw entry.
+# id|name|aliases|kcal|protein|carbs|fat|fiber|sugar|satfat|sodium|servings|extra
+
+# --- chicken -------------------------------------------------------------
+chicken-breast-raw|Chicken breast, boneless skinless, raw|chicken fillet;boneless skinless chicken breast|120|22.5|0|2.6|0|0|0.6|45|4 oz (113 g)@113*;6 oz (170 g)@170;1 breast (174 g)@174;100 g@100
+chicken-breast-cooked|Chicken breast, skinless, roasted|grilled chicken breast;baked chicken breast|165|31.0|0|3.6|0|0|1.0|74|4 oz (113 g)@113*;3 oz (85 g)@85;1 breast half (172 g)@172;1 cup diced (140 g)@140|src=USDA FoodData Central SR Legacy FDC 171477, release 2018-04, reviewed 2026-08-01
+chicken-breast-skin-cooked|Chicken breast with skin, roasted||197|29.8|0|7.8|0|0|2.2|71|
+chicken-breast-grilled-seasoned|Chicken breast, grilled, seasoned||175|30.5|1.0|4.5|0|0|1.2|420|4 oz (113 g)@113*;3 oz (85 g)@85|v=0
+chicken-tenderloin-raw|Chicken tenderloin, raw|chicken tenders raw;chicken strips|109|22.5|0|1.3|0|0|0.3|60|4 oz (113 g)@113*;1 tenderloin (30 g)@30
+chicken-tenderloin-cooked|Chicken tenderloin, cooked||150|30.9|0|1.8|0|0|0.4|82|4 oz (113 g)@113*;1 tenderloin (22 g)@22
+chicken-thigh-raw|Chicken thigh, boneless skinless, raw||121|20.0|0|3.9|0|0|1.0|84|4 oz (113 g)@113*;1 thigh (86 g)@86
+chicken-thigh-cooked|Chicken thigh, skinless, roasted||179|24.8|0|8.2|0|0|2.2|88|4 oz (113 g)@113*;1 thigh (52 g)@52;3 oz (85 g)@85
+chicken-thigh-skin-cooked|Chicken thigh with skin, roasted||232|23.3|0|14.7|0|0|4.1|75|1 thigh (62 g)@62*;4 oz (113 g)@113
+chicken-drumstick-cooked|Chicken drumstick, skinless, roasted||172|28.3|0|5.7|0|0|1.5|95|1 drumstick (44 g)@44*;2 drumsticks (88 g)@88
+chicken-drumstick-skin-cooked|Chicken drumstick with skin, roasted||216|27.0|0|11.2|0|0|3.1|85|1 drumstick (71 g)@71*;100 g@100
+chicken-wing-cooked|Chicken wing with skin, roasted||290|26.9|0|19.5|0|0|5.5|82|1 wing (34 g)@34*;6 wings (204 g)@204
+chicken-wing-buffalo|Buffalo wings, fried with sauce|hot wings|315|22.0|4.0|23.0|0.3|1.5|6.5|900|1 wing (32 g)@32*;6 wings (192 g)@192;10 wings (320 g)@320|v=0
+chicken-ground-raw|Ground chicken, raw||143|17.4|0|8.1|0|0|2.3|60|4 oz (113 g)@113*;1 lb (454 g)@454
+chicken-ground-cooked|Ground chicken, cooked||189|23.8|0|10.9|0|0|3.0|79|4 oz (113 g)@113*;1 cup crumbles (110 g)@110
+chicken-ground-breast-raw|Ground chicken breast, 99% lean, raw||110|23.0|0|1.5|0|0|0.4|65|4 oz (113 g)@113*;1 lb (454 g)@454|v=0
+chicken-rotisserie-breast|Rotisserie chicken, breast meat, no skin||184|28.0|0.5|7.5|0|0|2.1|450|3 oz (85 g)@85*;1 cup shredded (140 g)@140|v=0
+chicken-rotisserie-dark|Rotisserie chicken, dark meat, no skin||205|25.0|0.5|11.0|0|0|3.2|470|3 oz (85 g)@85*;1 cup shredded (140 g)@140|v=0
+chicken-whole-roasted|Chicken, whole, roasted, meat and skin||239|27.3|0|13.6|0|0|3.8|82|3 oz (85 g)@85*;100 g@100
+chicken-canned|Chicken, canned, drained||157|25.0|0|5.9|0|0|1.7|450|1 can (142 g)@142*;100 g@100|v=0
+chicken-liver-cooked|Chicken liver, simmered||167|24.5|0.9|6.5|0|0|2.1|76|3 oz (85 g)@85*;100 g@100|ret=3296;car=0;ffol=578;fac=0;dfe=578
+chicken-nuggets|Chicken nuggets, breaded, fried||296|15.5|15.4|19.0|1.0|0.4|3.9|557|6 nuggets (96 g)@96*;1 nugget (16 g)@16;10 nuggets (160 g)@160
+chicken-tenders-breaded|Chicken tenders, breaded, fried||280|18.0|17.0|15.0|1.0|0.5|3.0|590|3 tenders (105 g)@105*;100 g@100|v=0
+chicken-fried-breast|Fried chicken breast, batter-dipped||260|22.4|8.6|13.7|0.4|0|3.7|385|1 breast half (140 g)@140*;100 g@100
+chicken-patty-breaded|Chicken patty, breaded, cooked||280|14.0|16.0|17.0|1.0|1.0|3.5|610|1 patty (85 g)@85*;100 g@100|v=0
+chicken-sausage|Chicken sausage, cooked||185|16.0|3.0|11.5|0|2.0|3.3|730|1 link (85 g)@85*;100 g@100|v=0
+chicken-deli-breast|Chicken breast, deli sliced|lunch meat chicken|104|17.0|2.5|2.5|0|1.5|0.7|1030|2 oz (57 g)@57*;1 slice (28 g)@28|v=0
+chicken-shawarma|Chicken shawarma meat, cooked||225|25.0|2.0|13.0|0.3|0.5|3.0|620|4 oz (113 g)@113*;100 g@100|v=0
+chicken-skin-roasted|Chicken skin, roasted||454|20.4|0|40.7|0|0|11.4|70|1 oz (28 g)@28*;100 g@100|v=0
+
+# --- turkey --------------------------------------------------------------
+turkey-breast-raw|Turkey breast, boneless skinless, raw||111|23.7|0|1.0|0|0|0.3|58|4 oz (113 g)@113*;6 oz (170 g)@170
+turkey-breast-cooked|Turkey breast, skinless, roasted||147|29.9|0|2.1|0|0|0.7|64|4 oz (113 g)@113*;3 oz (85 g)@85;1 cup diced (140 g)@140
+turkey-breast-skin-cooked|Turkey breast with skin, roasted||189|28.7|0|7.4|0|0|2.1|63|
+turkey-thigh-cooked|Turkey thigh, skinless, roasted||170|28.0|0|5.9|0|0|1.9|76|4 oz (113 g)@113*;3 oz (85 g)@85|v=0
+turkey-dark-cooked|Turkey, dark meat, roasted, no skin||187|28.6|0|7.2|0|0|2.4|79|
+turkey-ground-93-raw|Ground turkey, 93% lean, raw||150|18.9|0|8.3|0|0|2.2|75|4 oz (113 g)@113*;1 lb (454 g)@454
+turkey-ground-93-cooked|Ground turkey, 93% lean, cooked||203|27.4|0|10.4|0|0|2.7|89|4 oz (113 g)@113*;1 cup crumbles (110 g)@110
+turkey-ground-99-raw|Ground turkey breast, 99% lean, raw||111|23.5|0|1.5|0|0|0.4|65|4 oz (113 g)@113*;1 lb (454 g)@454|v=0
+turkey-ground-99-cooked|Ground turkey breast, 99% lean, cooked||147|31.0|0|2.0|0|0|0.6|86|4 oz (113 g)@113*;1 cup crumbles (110 g)@110|v=0
+turkey-deli-breast|Turkey breast, deli sliced|lunch meat turkey;turkey lunch meat|104|17.0|3.0|2.0|0|2.0|0.6|1000|2 oz (57 g)@57*;1 slice (28 g)@28
+turkey-bacon-cooked|Turkey bacon, cooked||368|29.5|3.6|26.0|0|0|7.6|1940|1 slice (11 g)@11*;3 slices (33 g)@33
+turkey-sausage-cooked|Turkey breakfast sausage, cooked||196|18.0|1.5|13.0|0|0|3.6|760|2 links (56 g)@56*;1 patty (38 g)@38|v=0
+turkey-jerky|Turkey jerky||295|39.0|20.0|4.0|0.5|17.0|1.2|1600|1 oz (28 g)@28*;100 g@100|v=0
+turkey-whole-roasted|Turkey, whole, roasted, meat and skin||208|28.1|0|9.7|0|0|2.8|68|3 oz (85 g)@85*;100 g@100
+
+# --- other birds ---------------------------------------------------------
+duck-breast-skinless-cooked|Duck breast, skinless, roasted||201|23.5|0|11.2|0|0|4.2|89|4 oz (113 g)@113*;1 breast (95 g)@95
+duck-whole-cooked|Duck, roasted, meat and skin||337|19.0|0|28.4|0|0|9.7|59|3 oz (85 g)@85*;100 g@100
+duck-confit|Duck confit leg||290|24.0|0|21.5|0|0|7.0|620|1 leg (110 g)@110*;100 g@100|v=0
+goose-cooked|Goose, roasted, meat only||238|29.0|0|12.7|0|0|4.6|76|
+cornish-hen-cooked|Cornish game hen, roasted, meat only||175|25.0|0|7.8|0|0|2.1|66|1/2 hen (110 g)@110*;100 g@100|v=0
+quail-cooked|Quail, cooked, meat only||168|25.1|0|7.0|0|0|2.0|52||v=0
+pheasant-cooked|Pheasant, roasted, meat only||239|32.4|0|12.1|0|0|4.1|43||v=0
+ostrich-cooked|Ostrich, ground, cooked||175|28.0|0|6.5|0|0|2.2|75||v=0

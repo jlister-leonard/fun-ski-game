@@ -1,0 +1,956 @@
+{
+  "$comment": "Canonical data for medication-aware lab interpretation, supplement interaction checking and physiological confounder registration. Owned by the medications agent. The executable form of these tables lives in algorithms/medication-interactions.ts; verify-medications.mjs asserts the two stay in sync, so edit BOTH or neither.",
+  "version": "1.1.0",
+  "lastUpdated": "2026-08-01",
+  "evidenceReview": {
+    "reviewedOn": "2026-08-01",
+    "scope": "Creatine/creatinine/eGFR copy and primary medication boundaries",
+    "sources": [
+      "https://kdigo.org/wp-content/uploads/2024/03/KDIGO-2024-CKD-Guideline.pdf",
+      "https://www.kidney.org/recommendations-implementing-ckd-epi-2021-race-free-egfr-calculation-guidelines-clinical",
+      "https://www.nejm.org/doi/10.1056/NEJMoa2102953",
+      "https://pubmed.ncbi.nlm.nih.gov/18188581/",
+      "https://pmc.ncbi.nlm.nih.gov/articles/PMC7329184/",
+      "https://www.accessdata.fda.gov/drugsatfda_docs/label/2023/215133s001lbl.pdf",
+      "https://www.accessdata.fda.gov/drugsatfda_docs/label/2012/020788s020s021s023lbl.pdf"
+    ],
+    "boundary": "Source review is not clinician review and does not approve critical lab thresholds."
+  },
+
+  "policy": {
+    "tier3Rule1": "Nothing in this file may be rendered as a suggestion to start, stop, change the dose of, or re-time a prescribed medication. Supplement timing is in scope; medication timing is not.",
+    "noDiagnosis": "No entry may name or imply a diagnosis, and no consumer of this file may infer one from the presence of a medication. A drug is a pharmacological input and nothing else.",
+    "rawValuesImmutable": "correctLabValue() returns a derived number for display alongside the raw result. The stored rawValue is never overwritten (integration-health-records.md §3).",
+    "neverSuppressesCritical": "No correction, annotation or severity downgrade in this file may suppress a critical-value prompt (integration-health-records.md §9.5) or replace the out-of-range copy (§9.6 constraint 4)."
+  },
+
+  "confidenceLevels": {
+    "well-established": "Replicated, or stated in a regulator-approved product label, or settled pharmacology. Safe to build user-facing copy on.",
+    "reasonable-inference": "Single good source, or a sound mechanistic inference from established facts. Usable, flagged.",
+    "uncertain": "Contested, small, or recalled without corroboration this session. Must not produce a number in user-facing copy."
+  },
+
+  "loincNote": "LOINC codes carry their own confidence field because a wrong LOINC silently mismaps an analyte, which is worse than no LOINC at all. Where loincConfidence is 'uncertain' the consumer must match on analyteId from lab-panels.json and ignore the code here. Every 'uncertain' code is in reVerifyBeforeLaunch.",
+
+  "agents": [
+    {
+      "id": "sertraline",
+      "kind": "prescription",
+      "displayName": "Sertraline",
+      "aliases": ["sertraline", "zoloft", "lustral"],
+      "class": "SSRI",
+      "route": "oral",
+      "dosesCovered": "25-200 mg/day",
+      "editorialBoundary": "Why this is prescribed is not the app's business and must never be surfaced, inferred, or used to alter any other output. Treat it as a pharmacological input.",
+
+      "labEffects": [
+        {
+          "analyteId": "sodium",
+          "displayName": "Sodium (serum)",
+          "loinc": "2951-2",
+          "loincConfidence": "well-established",
+          "direction": "decrease",
+          "effectKind": "risk-of-event",
+          "magnitude": {
+            "kind": "not-a-fixed-shift",
+            "note": "SSRI-associated hyponatraemia is an idiosyncratic SIADH event, not a dose-proportional offset. Most people on an SSRI have a completely normal sodium. There is no population mean shift to subtract."
+          },
+          "onset": {
+            "typicalDays": [3, 30],
+            "reportedRangeDays": [3, 120],
+            "note": "Risk concentrates in the first two to four weeks after initiation or a dose increase. Chronic, stable therapy carries much lower incident risk.",
+            "confidence": "well-established"
+          },
+          "washout": {
+            "days": [2, 30],
+            "note": "Where it occurs, it typically resolves 2 days to 1 month after the SSRI is withheld — a clinical decision, never the app's.",
+            "confidence": "reasonable-inference"
+          },
+          "correction": {
+            "defensible": false,
+            "reason": "No numeric correction exists or could exist. Applying one would hide the only finding that matters.",
+            "behaviour": "interpret-with-caution"
+          },
+          "riskModifiers": [
+            "older age",
+            "low body weight",
+            "low baseline sodium",
+            "diuretics",
+            "volume depletion",
+            "high-volume plain-water intake during prolonged exercise"
+          ],
+          "confidence": "well-established",
+          "userCopy": "A sodium at the low end reads differently on an SSRI. SSRIs are a recognised cause of low sodium, through the hormone that controls how much water your kidneys hold on to. The risk is highest in the first weeks on a new dose and much lower on long-standing treatment, so this is context rather than an alarm. It matters more for you than for most people because heavy sweating plus a lot of plain water is the other common route to a low sodium, and you train hard three times a week. If this number is low or has moved, it is worth raising with your prescriber or pharmacist alongside the result.",
+          "crossReferences": ["confounder:sertraline-sweating", "nutrition: sodium and fluid guidance is Tier 1 and is the app's to give"],
+          "sources": [
+            "https://pmc.ncbi.nlm.nih.gov/articles/PMC11552542/",
+            "https://pubmed.ncbi.nlm.nih.gov/9489575/",
+            "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8358543/"
+          ]
+        },
+        {
+          "analyteId": "urine-drug-screen-benzodiazepine",
+          "displayName": "Urine drug screen — benzodiazepines (immunoassay)",
+          "loinc": null,
+          "loincConfidence": "uncertain",
+          "direction": "false-positive",
+          "effectKind": "assay-interference",
+          "magnitude": { "kind": "qualitative", "note": "Screening immunoassay only. Confirmatory GC/MS or LC-MS/MS is not affected." },
+          "onset": { "typicalDays": [0, 1], "note": "Present while on the drug.", "confidence": "well-established" },
+          "washout": { "days": [1, 7], "note": "Label states false positives may persist for several days after discontinuation.", "confidence": "reasonable-inference" },
+          "correction": { "defensible": false, "reason": "Qualitative result; nothing to scale.", "behaviour": "interpret-with-caution" },
+          "confidence": "well-established",
+          "userCopy": "Sertraline is a documented cause of a false positive for benzodiazepines — and for LSD — on the quick immunoassay screens used for employment and pre-op testing. It is on the manufacturer's label. Confirmatory testing (GC/MS) sorts it out and is close to definitive. If a screen ever comes back positive, say what you take and ask for confirmatory testing.",
+          "sources": [
+            "https://pubmed.ncbi.nlm.nih.gov/19724768/",
+            "https://www.uspharmacist.com/article/urine-drug-screening-minimizing-false-positives-and-false-negatives-to-optimize-patient-care"
+          ]
+        },
+        {
+          "analyteId": "urine-drug-screen-lsd",
+          "displayName": "Urine drug screen — LSD (immunoassay)",
+          "loinc": null,
+          "loincConfidence": "uncertain",
+          "direction": "false-positive",
+          "effectKind": "assay-interference",
+          "magnitude": { "kind": "qualitative", "note": "Screening immunoassay only." },
+          "onset": { "typicalDays": [0, 1], "note": "Present while on the drug.", "confidence": "reasonable-inference" },
+          "washout": { "days": [1, 7], "note": "As above.", "confidence": "uncertain" },
+          "correction": { "defensible": false, "reason": "Qualitative result.", "behaviour": "interpret-with-caution" },
+          "confidence": "reasonable-inference",
+          "userCopy": "See the note on benzodiazepine screens — the same applies to LSD immunoassays.",
+          "sources": ["https://www.goodrx.com/health-topic/diagnostics/these-medications-can-cause-a-false-positive-on-drug-tests"]
+        },
+        {
+          "analyteId": "platelet-function-bleeding-time",
+          "displayName": "Bleeding time / platelet function assays",
+          "loinc": null,
+          "loincConfidence": "uncertain",
+          "direction": "increase",
+          "effectKind": "physiological",
+          "magnitude": { "kind": "not-a-fixed-shift", "note": "SSRIs deplete platelet serotonin, which platelets cannot synthesise and must take up. Bleeding time can lengthen; the size of the effect is not standardised across assays." },
+          "onset": { "typicalDays": [7, 28], "note": "Tracks platelet turnover.", "confidence": "reasonable-inference" },
+          "washout": { "days": [7, 21], "note": "Platelet lifespan ~7-10 days.", "confidence": "reasonable-inference" },
+          "correction": { "defensible": false, "reason": "Assay-dependent and not quantified.", "behaviour": "interpret-with-caution" },
+          "confidence": "well-established",
+          "userCopy": "SSRIs slightly reduce platelet stickiness, because platelets use serotonin to clump and they get theirs from the bloodstream. It shows up as easier bruising more often than as anything on a lab report. Relevant mainly if several blood-thinning supplements are stacked on top — see the stack check.",
+          "sources": ["https://www.ebmconsult.com/articles/fish-oil-omega-3-fatty-acids-epa-dha-lovaza-platelet-inhibition-bleeding-risk-mechanism"]
+        },
+        {
+          "analyteId": "prolactin",
+          "displayName": "Prolactin",
+          "loinc": null,
+          "loincConfidence": "uncertain",
+          "direction": "increase",
+          "effectKind": "physiological",
+          "magnitude": { "kind": "not-a-fixed-shift", "note": "Rare, idiosyncratic; no population shift." },
+          "onset": { "typicalDays": [14, 90], "note": "Not characterised.", "confidence": "uncertain" },
+          "washout": { "days": null, "note": "Not characterised.", "confidence": "uncertain" },
+          "correction": { "defensible": false, "reason": "No magnitude to correct.", "behaviour": "interpret-with-caution" },
+          "confidence": "uncertain",
+          "userCopy": "SSRIs are an occasionally reported cause of a raised prolactin. It is uncommon and it is one of several possible explanations, not the explanation. A clinician can settle it.",
+          "sources": []
+        },
+        {
+          "analyteId": "alt-ast",
+          "displayName": "ALT / AST",
+          "loinc": null,
+          "loincConfidence": "uncertain",
+          "direction": "increase",
+          "effectKind": "physiological",
+          "magnitude": { "kind": "not-a-fixed-shift", "note": "Rare idiosyncratic transaminase elevation. No routine monitoring shift." },
+          "onset": { "typicalDays": null, "note": "Not characterised.", "confidence": "uncertain" },
+          "washout": { "days": null, "note": "Not characterised.", "confidence": "uncertain" },
+          "correction": { "defensible": false, "reason": "No magnitude.", "behaviour": "interpret-with-caution" },
+          "confidence": "uncertain",
+          "userCopy": "Antidepressants are a rare cause of raised liver enzymes. In someone training hard this is a long way down the list — skeletal muscle contains AST and ALT, and a heavy session in the days before a draw is a far more common explanation. GGT tells them apart, because muscle does not raise it.",
+          "crossReferences": ["integration-health-records.md §9.6 — training artifact rule for AST/ALT takes precedence when a session is logged within 72 h"],
+          "sources": []
+        }
+      ],
+
+      "confounders": ["sertraline-weight-drift", "sertraline-sweating", "sertraline-autonomic", "sertraline-thermoregulation"]
+    },
+
+    {
+      "id": "finasteride",
+      "kind": "prescription",
+      "displayName": "Finasteride",
+      "aliases": ["finasteride", "propecia", "proscar", "finpecia"],
+      "class": "5-alpha-reductase inhibitor (type II)",
+      "route": "oral",
+      "dosesCovered": "1 mg and 5 mg",
+
+      "labEffects": [
+        {
+          "analyteId": "psa-total",
+          "displayName": "PSA (total)",
+          "loinc": "2857-1",
+          "loincConfidence": "well-established",
+          "direction": "decrease",
+          "effectKind": "systematic-suppression",
+          "priority": "highest",
+          "magnitude": {
+            "kind": "proportional",
+            "centralPct": -50,
+            "reportedRangePct": [-57, -34],
+            "basis": "D'Amico & Roehrborn, Lancet Oncology 2007 — RCT of 1 mg/day finasteride in men aged 40-60 with androgenetic alopecia. At 48 weeks, median PSA reductions of 40% (95% CI 34-46) and 50% (44-57) by age decade, against a median 0% / +13% on placebo. The authors' conclusion is that 1 mg/day affects PSA similarly to 5 mg/day over the first year.",
+            "doseEquivalence": {
+              "claim": "1 mg and 5 mg suppress PSA to a similar extent",
+              "confidence": "reasonable-inference",
+              "honestStatement": "This is directly supported for the first 12 months by a randomised trial at 1 mg, and is the consensus reading. What is NOT established is that the validated 5 mg correction — doubling, for men treated 1-3 years — transfers unchanged to 1 mg over multi-year use. The long-term 1 mg dataset does not exist. So: doubling is the right default at 1 mg, and it is an extrapolation at the edges, and the app says so."
+            }
+          },
+          "onset": {
+            "typicalDays": [180, 365],
+            "note": "PSA falls progressively; the standard clinical instruction is to establish a NEW on-treatment baseline after at least 6 months of continuous use. Applying a correction before the nadir over-corrects, because the number has not finished falling.",
+            "confidence": "well-established"
+          },
+          "washout": {
+            "days": null,
+            "note": "PSA rises back toward the untreated baseline over months after stopping. No verified figure this session — any on/off transition is 'interpret with caution', not corrected.",
+            "confidence": "uncertain"
+          },
+          "correction": {
+            "defensible": true,
+            "operation": "multiply",
+            "factor": 2.0,
+            "minDaysOnDrug": 180,
+            "beforeMinDaysBehaviour": "no-correction-interpret-with-caution",
+            "invalidatedBy": ["saw-palmetto", "biotin-high-dose", "other-5ar-inhibitor"],
+            "guideline": "AUA early-detection guidance: in men on a 5-alpha-reductase inhibitor, interpret PSA using the adjusted (doubled) value. Validated for 5 mg daily for 1-3 years.",
+            "confidence": "well-established at 5 mg; reasonable-inference at 1 mg",
+            "betterThanTheFactor": "The single most reliable signal is not the corrected absolute value — it is the TREND from the on-treatment nadir. A rise of about 0.3 ng/mL from nadir has been proposed as a flag regardless of how low the absolute number looks. Where four or more on-treatment results exist, present the nadir trend as the primary reading and the doubled value as secondary."
+          },
+          "confidence": "well-established",
+          "userCopy": "**Double it.** Finasteride roughly halves PSA, so the number on this report is about half of what your prostate is actually producing. A PSA of 1.0 on finasteride reads like a 2.0 off it. This is the single most important thing on this screen, because an uncorrected PSA on finasteride is falsely reassuring — it makes a rising number look normal. The doubling rule comes from the 5 mg dose studied over one to three years; a randomised trial at 1 mg found the same 40-50% suppression over the first year, so doubling is the right default here too, with the honest caveat that nobody has validated it for years of 1 mg use. Two practical things: the suppression takes about six months to settle, so a result from your first months on it is somewhere between the two numbers; and what matters most over time is the trend from your lowest on-treatment value, not any single reading. **Tell whoever orders or reads a PSA that you take finasteride.** It changes their reading too.",
+          "sources": [
+            "https://www.thelancet.com/journals/lanonc/article/PIIS1470-2045(06)70981-0/abstract",
+            "https://www.sciencedirect.com/science/article/abs/pii/S1470204506709810",
+            "https://www.nature.com/articles/ncpuro0746",
+            "https://www.accessdata.fda.gov/drugsatfda_docs/label/2012/020788s020s021s023lbl.pdf"
+          ]
+        },
+        {
+          "analyteId": "psa-free",
+          "displayName": "PSA (free) and free:total ratio",
+          "loinc": null,
+          "loincConfidence": "uncertain",
+          "direction": "decrease",
+          "effectKind": "systematic-suppression",
+          "magnitude": {
+            "kind": "proportional-approximate",
+            "note": "Free PSA is suppressed roughly in proportion to total, so the free:total RATIO is approximately preserved. Because both halves of the ratio move together, the ratio is the more robust reading on finasteride — but the app does not compute a ratio the lab did not report (integration-health-records.md §9.2)."
+          },
+          "onset": { "typicalDays": [180, 365], "note": "As total PSA.", "confidence": "reasonable-inference" },
+          "washout": { "days": null, "note": "As total PSA.", "confidence": "uncertain" },
+          "correction": {
+            "defensible": false,
+            "reason": "Doubling free PSA is not a validated adjustment, and the ratio is approximately preserved so no ratio correction is needed either.",
+            "behaviour": "interpret-with-caution"
+          },
+          "confidence": "reasonable-inference",
+          "userCopy": "Free PSA falls alongside total PSA on finasteride, so the free:total ratio stays roughly where it was. We do not double this one — that adjustment was never validated for free PSA.",
+          "sources": []
+        },
+        {
+          "analyteId": "dht",
+          "displayName": "Dihydrotestosterone (DHT)",
+          "loinc": null,
+          "loincConfidence": "uncertain",
+          "direction": "decrease",
+          "effectKind": "systematic-suppression",
+          "magnitude": {
+            "kind": "proportional",
+            "centralPct": -65,
+            "reportedRangePct": [-70, -60],
+            "basis": "Propecia (finasteride 1 mg) US label: rapid reduction in serum DHT, reaching about 65% suppression within 24 hours of a single 1 mg dose. Commonly quoted as 'about 70%' in secondary sources."
+          },
+          "onset": { "typicalDays": [1, 1], "note": "About 65% suppression within 24 hours. This is the fastest effect in this file.", "confidence": "well-established" },
+          "washout": { "days": [14, 14], "note": "Serum DHT returns to pre-treatment levels roughly two weeks after stopping.", "confidence": "reasonable-inference" },
+          "correction": {
+            "defensible": false,
+            "reason": "There is no clinical reason to reconstruct an off-drug DHT, and no validated factor to do it with. The suppressed value IS the therapeutic result.",
+            "behaviour": "suppress-low-flag"
+          },
+          "flagBehaviour": {
+            "suppressLowFlagWhenOnDrug": true,
+            "rationale": "A low DHT in someone taking finasteride is the drug working. Flagging it as an abnormal result is the app manufacturing an alarm out of an intended effect. The low flag is replaced by the explanation, not merely accompanied by it — this is the one place in the file where an out-of-range marker is removed rather than annotated, and it is justified because the direction of the finding is exactly the direction of the prescription.",
+            "neverSuppressHighFlag": true
+          },
+          "confidence": "well-established",
+          "userCopy": "A low DHT here is the medication doing its job, not a problem. Finasteride blocks the enzyme that converts testosterone to DHT and drops serum DHT by around 65% — most of that within a day of the first dose. We are not flagging it as abnormal, because against a reference range built from men not taking it, 'abnormal' is exactly what success looks like.",
+          "sources": [
+            "https://www.accessdata.fda.gov/drugsatfda_docs/label/2011/020788s018lbl.pdf",
+            "https://www.ncbi.nlm.nih.gov/books/NBK513329/"
+          ]
+        },
+        {
+          "analyteId": "testosterone-total",
+          "displayName": "Testosterone (total)",
+          "loinc": "2986-8",
+          "loincConfidence": "reasonable-inference",
+          "direction": "increase",
+          "effectKind": "systematic-shift",
+          "magnitude": {
+            "kind": "proportional",
+            "centralPct": 15,
+            "reportedRangePct": [9, 15],
+            "basis": "Propecia label: mean circulating testosterone and estradiol increased about 15% from baseline, remaining within the physiologic range. Testosterone accumulates because less of it is being converted to DHT."
+          },
+          "onset": { "typicalDays": [1, 30], "note": "Follows DHT suppression closely.", "confidence": "reasonable-inference" },
+          "washout": { "days": [14, 28], "note": "Reverses as DHT recovers.", "confidence": "reasonable-inference" },
+          "correction": {
+            "defensible": false,
+            "reason": "A 15% shift that stays inside the physiologic range does not need arithmetic. Annotating it is enough, and inventing a divisor would imply a precision the data does not carry.",
+            "behaviour": "annotate-only"
+          },
+          "flagBehaviour": {
+            "annotateHighNormal": true,
+            "rationale": "Prevents the app reading a high-normal testosterone as a training or body-composition signal when it is a drug effect."
+          },
+          "confidence": "well-established",
+          "userCopy": "Total testosterone runs about 15% above where it would sit without finasteride — the testosterone that is not being converted to DHT stays in circulation. It stays inside the normal range, and it is not evidence that anything in your training or nutrition moved. Estradiol shifts by a similar amount for the same reason.",
+          "sources": ["https://www.accessdata.fda.gov/drugsatfda_docs/label/2011/020788s018lbl.pdf"]
+        },
+        {
+          "analyteId": "estradiol",
+          "displayName": "Estradiol",
+          "loinc": "2243-4",
+          "loincConfidence": "reasonable-inference",
+          "direction": "increase",
+          "effectKind": "systematic-shift",
+          "magnitude": { "kind": "proportional", "centralPct": 15, "reportedRangePct": [9, 15], "basis": "Propecia label — same sentence as testosterone." },
+          "onset": { "typicalDays": [1, 30], "note": "As testosterone.", "confidence": "reasonable-inference" },
+          "washout": { "days": [14, 28], "note": "As testosterone.", "confidence": "reasonable-inference" },
+          "correction": { "defensible": false, "reason": "Small shift within the physiologic range.", "behaviour": "annotate-only" },
+          "confidence": "well-established",
+          "userCopy": "Estradiol runs about 15% higher on finasteride, within the normal range, for the same reason testosterone does.",
+          "sources": ["https://www.accessdata.fda.gov/drugsatfda_docs/label/2011/020788s018lbl.pdf"]
+        },
+        {
+          "analyteId": "lh-fsh",
+          "displayName": "LH / FSH / prolactin / TSH / free T4 / cortisol",
+          "loinc": null,
+          "loincConfidence": "uncertain",
+          "direction": "none",
+          "effectKind": "explicitly-no-effect",
+          "magnitude": { "kind": "none", "note": "No clinically meaningful change detected in finasteride studies; the hypothalamic-pituitary-testicular axis response to GnRH is unaltered. No effect on cortisol, TSH or thyroxine." },
+          "onset": { "typicalDays": null, "note": "n/a", "confidence": "well-established" },
+          "washout": { "days": null, "note": "n/a", "confidence": "well-established" },
+          "correction": { "defensible": false, "reason": "There is no effect to correct.", "behaviour": "no-effect" },
+          "confidence": "well-established",
+          "userCopy": "Finasteride does not meaningfully move LH, FSH, prolactin, thyroid tests or cortisol. If one of those is off, finasteride is not the explanation.",
+          "whyRecorded": "A negative entry is load-bearing. Without it, an engine that knows 'finasteride is a hormone drug' will offer it as a candidate explanation for any endocrine result, which is exactly the confident nonsense this file exists to prevent.",
+          "sources": ["https://www.accessdata.fda.gov/drugsatfda_docs/label/2012/020788s020s021s023lbl.pdf"]
+        },
+        {
+          "analyteId": "lipid-panel",
+          "displayName": "Lipid panel",
+          "loinc": null,
+          "loincConfidence": "uncertain",
+          "direction": "none-or-minimal",
+          "effectKind": "explicitly-no-effect",
+          "magnitude": { "kind": "none", "note": "The label reports no effect on total cholesterol, LDL, HDL or triglycerides. One 6-month BPH study reported a rise in HDL3 and Lp(a); not replicated, and not a basis for interpretation." },
+          "onset": { "typicalDays": null, "note": "n/a", "confidence": "reasonable-inference" },
+          "washout": { "days": null, "note": "n/a", "confidence": "reasonable-inference" },
+          "correction": { "defensible": false, "reason": "No established effect.", "behaviour": "no-effect" },
+          "confidence": "reasonable-inference",
+          "userCopy": "Finasteride is not a lipid drug and does not meaningfully move a lipid panel.",
+          "sources": [
+            "https://www.accessdata.fda.gov/drugsatfda_docs/label/2012/020788s020s021s023lbl.pdf",
+            "https://pubmed.ncbi.nlm.nih.gov/10996351/"
+          ]
+        }
+      ],
+
+      "confounders": []
+    },
+
+    {
+      "id": "minoxidil-topical",
+      "kind": "prescription-or-otc",
+      "displayName": "Minoxidil 5% (topical)",
+      "aliases": ["minoxidil", "rogaine", "regaine", "topical minoxidil"],
+      "class": "potassium-channel-opening vasodilator, applied to scalp",
+      "route": "topical",
+      "dosesCovered": "5% solution/foam, scalp",
+
+      "labEffects": [],
+      "labEffectsNote": "No established laboratory effects at topical scalp doses. This empty list is deliberate and is asserted in verify-medications.mjs: an engine that invents a minoxidil lab effect is a bug. Systemic absorption from the scalp averages about 1.4% of the applied dose (commonly quoted 1-2%), and controlled trials of topical minoxidil have not shown an excess of cardiac events versus placebo or clinically significant blood-pressure change in normotensive adults.",
+
+      "confounders": ["minoxidil-fluid-retention", "minoxidil-heart-rate"],
+
+      "evidenceHonesty": "The widely circulated figures for fluid retention (1.3%) and tachycardia (0.9%) in a 1,404-patient series come from LOW-DOSE ORAL minoxidil, not topical. They must not be attributed to topical use, and this file does not. For topical specifically, peripheral oedema is at the level of published case reports; the product labelling asks users to watch for unexplained weight gain, oedema and increased heart rate, which is a monitoring instruction rather than an incidence estimate. Both confounders below are therefore registered as unquantified and are OFF by default.",
+      "sources": [
+        "https://www.ncbi.nlm.nih.gov/books/NBK482378/",
+        "https://pubmed.ncbi.nlm.nih.gov/40329731/",
+        "https://academic.oup.com/ced/article/47/11/1951/6966079"
+      ]
+    },
+
+    {
+      "id": "creatine",
+      "kind": "supplement",
+      "displayName": "Creatine monohydrate",
+      "aliases": ["creatine", "creatine monohydrate", "creapure"],
+      "class": "ergogenic substrate",
+      "route": "oral",
+      "dosesCovered": "3-5 g/day maintenance; 20 g/day loading",
+      "ownershipNote": "Creatine's WEIGHT perturbation is already modelled in algorithms/weight-trend.ts (PERTURBATION_DEFAULTS['creatine-start'], +1.5 kg over 28 days) and its lab artifact copy already exists in integration-health-records.md §9.6.1. This entry exists so the medication engine returns a consistent answer, and it defers to both rather than restating or competing with them. Consumers must dedupe on (type, startDate).",
+
+      "labEffects": [
+        {
+          "analyteId": "creatinine",
+          "displayName": "Creatinine (serum)",
+          "loinc": "2160-0",
+          "loincConfidence": "well-established",
+          "direction": "increase",
+          "effectKind": "systematic-shift",
+          "magnitude": {
+            "kind": "direction-only",
+            "note": "Randomized trials in healthy participants support a possible modest creatinine rise without reduced measured filtration. This does not prove that filtration is unchanged for a particular abnormal result. The app states direction and context only and applies no numeric correction."
+          },
+          "onset": { "typicalDays": [7, 28], "note": "Tracks pool loading; faster on a loading protocol.", "confidence": "reasonable-inference" },
+          "washout": { "days": [28, 28], "note": "Commonly cited as about four weeks after stopping. Unverified.", "confidence": "uncertain" },
+          "correction": {
+            "defensible": false,
+            "reason": "No trustworthy magnitude, therefore no factor. Inventing one would be the worst outcome here — it would silently normalise a genuinely rising creatinine.",
+            "behaviour": "interpret-with-caution"
+          },
+          "confidence": "well-established (mechanism); uncertain (magnitude)",
+          "userCopy": "Creatine can modestly raise serum creatinine without reducing measured filtration in healthy trial participants. That can change how this result reads, but it does not prove that an abnormal value is harmless. Tell the clinician who reads these results that you take creatine; no numeric correction is applied.",
+          "sources": [
+            "https://pmc.ncbi.nlm.nih.gov/articles/PMC12590749/",
+            "https://link.springer.com/article/10.1186/s12882-025-04558-6"
+          ]
+        },
+        {
+          "analyteId": "egfr-creatinine",
+          "displayName": "eGFR (creatinine-based)",
+          "loinc": "33914-3",
+          "loincConfidence": "uncertain",
+          "direction": "decrease",
+          "effectKind": "calculation-artifact",
+          "magnitude": { "kind": "direction-only", "note": "eGFR equations invert creatinine, so a calculated eGFR falls arithmetically with no change in true filtration. Studies using measured GFR (inulin, iohexol) or cystatin C show filtration preserved." },
+          "onset": { "typicalDays": [7, 28], "note": "Follows creatinine.", "confidence": "reasonable-inference" },
+          "washout": { "days": [28, 28], "note": "Follows creatinine. Unverified.", "confidence": "uncertain" },
+          "correction": {
+            "defensible": false,
+            "reason": "The right answer is a different test, not a fudge factor.",
+            "behaviour": "route-to-alternative-assay",
+            "alternativeAssay": ["cystatin C", "eGFRcr-cys (combined creatinine + cystatin C)", "measured GFR"]
+          },
+          "flagBehaviour": {
+            "downgradeMildReduction": true,
+            "downgradeAppliesToRange": [60, 89],
+            "neverDowngradeBelow": 60,
+            "neverSuppressCritical": true,
+            "rationale": "The brief asked for eGFR kidney alerts to be suppressed for creatine users. This file downgrades instead, and only in the 60-89 band. Two reasons. First, integration-health-records.md §9.6 constraint 4 is explicit that an artifact note never suppresses the out-of-range copy and never suppresses a critical-value prompt — suppression here would break a rule another agent's spec depends on. Second, creatine explains a mild reduction; it does not explain an eGFR of 45, and an app that hides one because a user takes a scoop of creatine is the exact failure mode this whole file is meant to prevent."
+          },
+          "confidence": "well-established (mechanism); uncertain (magnitude)",
+          "userCopy": "**You take creatine, and that can change how this number reads.** In randomized trials of healthy adults, creatine sometimes raised serum creatinine without reducing measured kidney filtration; because eGFR is calculated from creatinine, it can fall in step. That is one possible explanation, not proof that an abnormal result is harmless. Tell whoever reads these results that you take creatine and ask whether a combined creatinine-cystatin C eGFR or measured GFR is appropriate when creatinine is unreliable.",
+          "userCopySource": "Verbatim from integration-health-records.md §9.6.1, by design. Two surfaces saying the same thing in different words is how users lose trust in both.",
+          "sources": [
+            "https://pmc.ncbi.nlm.nih.gov/articles/PMC12590749/",
+            "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10481367/"
+          ]
+        },
+        {
+          "analyteId": "cystatin-c",
+          "displayName": "Cystatin C / eGFRcr-cys",
+          "loinc": "33863-2",
+          "loincConfidence": "reasonable-inference",
+          "direction": "none",
+          "effectKind": "explicitly-no-effect",
+          "magnitude": { "kind": "none", "note": "No direct creatine correction is applied. Cystatin C is less dependent on muscle mass than creatinine but has other non-GFR determinants; combined eGFRcr-cys is generally more accurate than either marker alone." },
+          "onset": { "typicalDays": null, "note": "n/a", "confidence": "well-established" },
+          "washout": { "days": null, "note": "n/a", "confidence": "well-established" },
+          "correction": { "defensible": false, "reason": "No defensible numeric supplement correction; interpret in clinical context.", "behaviour": "no-effect" },
+          "confidence": "well-established",
+          "userCopy": "Cystatin C is less dependent on muscle mass than creatinine, but it has other non-kidney influences. A combined creatinine-cystatin C eGFR is generally more accurate than either marker alone and can help when creatinine is unreliable.",
+          "sources": [
+            "https://kdigo.org/wp-content/uploads/2024/03/KDIGO-2024-CKD-Guideline.pdf",
+            "https://www.kidney.org/recommendations-implementing-ckd-epi-2021-race-free-egfr-calculation-guidelines-clinical",
+            "https://www.nejm.org/doi/10.1056/NEJMoa2102953"
+          ]
+        }
+      ],
+
+      "confounders": ["creatine-water-retention"]
+    }
+  ],
+
+  "confounders": [
+    {
+      "id": "sertraline-weight-drift",
+      "agentId": "sertraline",
+      "domain": "weight-trend",
+      "kind": "persistent-baseline",
+      "label": "Slow weight drift on long-term SSRI treatment",
+      "quantified": false,
+      "reportedMagnitude": {
+        "note": "Cohort data put sertraline at the low end of second-generation antidepressants: on the order of +0.2 kg at 6 months and roughly +1.4 kg (about 3 lb) at 2 years, with sertraline used as the REFERENCE drug against which others were compared (escitalopram +0.41 kg, paroxetine +0.37 kg, duloxetine +0.34 kg relative to sertraline). Observational, confounded by the reason for treatment and by recovery of appetite.",
+        "confidence": "uncertain"
+      },
+      "action": "do-not-adjust",
+      "firesOn": ["start", "dose-change", "stop"],
+      "windowDays": 730,
+      "engineInstruction": "Do NOT offset the weight trend. The effect is a slow drift of roughly the same size as a fortnight of normal deficit progress, and subtracting an uncertain drift from a measured trend would corrupt the expenditure estimator that weight-trend.ts feeds. Surface it only as an attribution note when the user or the app is trying to explain why the trend is slower than the intake log predicts, and only when treatment started within the window.",
+      "userCopy": "Long-term SSRI treatment is associated with a slow upward drift in weight — for sertraline specifically, on the order of a kilo or so over a couple of years in cohort studies, which is the low end for this class. It is small, it is slow, and it is not a reason to change anything. It is worth knowing only so that a stubborn trend does not get read as a logging failure.",
+      "notThis": "Never a reason to raise a deficit. Never a reason to discuss the medication."
+    },
+    {
+      "id": "sertraline-sweating",
+      "agentId": "sertraline",
+      "domain": "hydration-electrolyte",
+      "kind": "persistent-baseline",
+      "label": "Antidepressant-induced excessive sweating (ADIES)",
+      "quantified": false,
+      "reportedMagnitude": {
+        "note": "Prevalence estimates for antidepressant-induced excessive sweating run 4-22% across antidepressants, with SSRI-specific estimates toward the upper part of that band. Mechanism is central and hypothalamic-thermoregulatory rather than local.",
+        "confidence": "reasonable-inference"
+      },
+      "action": "widen-uncertainty",
+      "firesOn": ["always-while-taking"],
+      "windowDays": null,
+      "engineInstruction": "Two effects. (1) Day-to-day scale noise: larger sweat losses and variable rehydration widen the day-to-day variance of the weigh-in, so the trend filter should not tighten its confidence bands as fast as it otherwise would; this widens uncertainty, it does not shift the mean. (2) Fluid and sodium needs during conditioning are genuinely higher, and that is Tier 1 nutrition advice which the app is allowed to give. Couple this to the sertraline sodium lab effect: heavy sweat losses replaced with plain water is the recognised route to a low sodium, and an SSRI is an additional contributor.",
+      "userCopy": "Sweating more on an SSRI is common — somewhere between one in twenty and one in five people report it, and it comes from the brain's thermostat rather than the skin. Two practical consequences for you. Your weigh-ins will bounce around a bit more than average, so trust the trend line and not the day. And on your hard conditioning sessions, replacing heavy sweat losses with plain water alone is the combination most likely to push sodium down — so salt the fluid, or eat salt with it, rather than drinking to a schedule.",
+      "notThis": "Never suggests changing when or whether the medication is taken."
+    },
+    {
+      "id": "sertraline-autonomic",
+      "agentId": "sertraline",
+      "domain": "readiness",
+      "kind": "persistent-baseline",
+      "label": "Possible shift in resting heart rate / HRV baseline",
+      "quantified": false,
+      "reportedMagnitude": {
+        "note": "Genuinely contested. Kemp et al.'s 2010 meta-analysis found NO significant SSRI effect on HRV, while tricyclics clearly reduced it. Some large longitudinal cohorts report lower HRV on SSRIs; short-recording studies have found decreased heart rate with one HRV index increased; 24-hour recordings found no significant change. Recent reviews describe the SSRI picture as unclear. There is no defensible number.",
+        "confidence": "uncertain"
+      },
+      "action": "do-not-adjust",
+      "firesOn": ["start", "dose-change", "stop"],
+      "windowDays": 90,
+      "engineInstruction": "Apply NO numeric adjustment to any readiness score, ever. The only legitimate use is (a) to widen the re-baselining window after a start, stop or dose change, because a step change in the HRV baseline during that window should not be read as a training-load signal, and (b) to suppress comparison of the user's absolute HRV against population norms, which was never a defensible comparison anyway. A stable, long-standing dose produces a stable baseline, and a stable baseline does not confound day-to-day deltas — which is the whole reason readiness engines use personal baselines rather than absolute values.",
+      "userCopy": "Whether SSRIs shift heart-rate variability is genuinely unsettled — the largest meta-analysis found no effect, some cohort studies found a small reduction. We are not adjusting your readiness score for it, because adjusting by an unknown amount is worse than not adjusting. What it does mean: your readiness is measured against your own baseline, so a stable long-term dose changes nothing day to day, and comparing your HRV to a population chart was never going to tell you much anyway.",
+      "notThis": "Never a reason to change training, and never a reason to discuss the medication."
+    },
+    {
+      "id": "sertraline-thermoregulation",
+      "agentId": "sertraline",
+      "domain": "readiness",
+      "kind": "persistent-baseline",
+      "label": "Thermoregulation during hard training in the heat",
+      "quantified": false,
+      "reportedMagnitude": {
+        "note": "Serotonin is involved in central thermoregulation, and increased sweating is the well-documented downstream sign. Whether SSRIs measurably impair heat tolerance during exercise in healthy adults is NOT established, and this file does not claim it does.",
+        "confidence": "uncertain"
+      },
+      "action": "annotate-only",
+      "firesOn": ["always-while-taking"],
+      "windowDays": null,
+      "engineInstruction": "Do not adjust any training prescription on the strength of this. It exists to route heat-related sessions to the hydration and sodium guidance above rather than to a made-up heat-tolerance penalty.",
+      "userCopy": "Serotonin is part of how the brain regulates temperature, and more sweating is the visible end of that. Whether it actually makes hard training in the heat harder is not established, so we are not going to pretend it does. The practical advice is the same advice as for the sweating: get the sodium in alongside the fluid.",
+      "notThis": "No heat-tolerance penalty. No training modification."
+    },
+    {
+      "id": "minoxidil-fluid-retention",
+      "agentId": "minoxidil-topical",
+      "domain": "weight-trend",
+      "kind": "transition",
+      "label": "Fluid retention from systemically absorbed topical minoxidil",
+      "quantified": false,
+      "reportedMagnitude": {
+        "note": "Minoxidil is a vasodilator; vasodilation activates sodium- and water-retaining hormonal pathways, and fluid retention with weight gain is a recognised, dose-dependent effect of SYSTEMIC minoxidil. From TOPICAL scalp application, average systemic absorption is about 1.4% of the applied dose (1-2% commonly quoted), and peripheral oedema is at the level of published case reports rather than trial incidence. Product labelling asks users to watch for unexplained weight gain and oedema, which is a monitoring instruction, not an effect size.",
+        "confidence": "reasonable-inference for the mechanism; uncertain that it occurs at topical doses in any given person"
+      },
+      "action": "annotate-only",
+      "defaultEnabled": false,
+      "requiresUserConfirmation": true,
+      "perturbationKg": null,
+      "firesOn": ["start", "concentration-increase"],
+      "windowDays": 60,
+      "engineInstruction": "Do NOT emit a PerturbationEvent with an invented kg figure. There is no defensible number for topical use and a wrong offset corrupts the expenditure estimator, which is the thing the whole weight pipeline depends on. Register this as an unquantified candidate explanation, offered only when (a) topical minoxidil was started within 60 days AND (b) the observed trend shows an unexplained step increase the intake log does not account for. If the user confirms it, THEN a user-supplied magnitude may be logged as a PerturbationEvent of type 'other' — the number comes from their scale, not from us.",
+      "userCopy": "You started topical minoxidil recently, and that is one candidate explanation for a step up on the scale that your food log does not account for. Being straight about the strength of this: minoxidil taken as a tablet causes fluid retention reliably, but only about 1-2% of what you put on your scalp gets into your bloodstream, and fluid retention from the topical version is at the level of individual case reports rather than something trials measure. So this is a possibility to hold loosely, not a finding. If it is fluid, it appears within weeks and does not keep climbing.",
+      "notThis": "Never suggests stopping or reducing the minoxidil. Never asserts the effect is present."
+    },
+    {
+      "id": "minoxidil-heart-rate",
+      "agentId": "minoxidil-topical",
+      "domain": "readiness",
+      "kind": "transition",
+      "label": "Possible mild heart-rate elevation from systemically absorbed topical minoxidil",
+      "quantified": false,
+      "reportedMagnitude": {
+        "note": "Reflex tachycardia is an established effect of systemic minoxidil. Controlled trials of TOPICAL minoxidil have not shown an excess of cardiac events versus placebo, and blood-pressure effects at topical doses are described as clinically insignificant in normotensive adults. Increased heart rate is nonetheless on the label's list of things to watch for.",
+        "confidence": "reasonable-inference for the mechanism; uncertain at topical doses"
+      },
+      "action": "annotate-only",
+      "defaultEnabled": false,
+      "requiresUserConfirmation": true,
+      "firesOn": ["start", "concentration-increase"],
+      "windowDays": 60,
+      "engineInstruction": "No numeric readiness adjustment. Offer as a candidate explanation only when resting HR steps up within 60 days of starting and training load does not explain it. A sustained, unexplained resting-HR rise routes to the standard 'worth raising with a clinician' prompt — it is not explained away.",
+      "userCopy": "A step up in resting heart rate within a couple of months of starting topical minoxidil is worth noting, though the honest position is that this is much better documented for the tablet than for the scalp solution — controlled trials of topical minoxidil have not shown extra cardiac events. If your resting heart rate has genuinely moved and training does not explain it, that is worth mentioning to a clinician rather than filing under 'probably the minoxidil'.",
+      "notThis": "Never suggests stopping or reducing the minoxidil."
+    },
+    {
+      "id": "creatine-water-retention",
+      "agentId": "creatine",
+      "domain": "weight-trend",
+      "kind": "transition",
+      "label": "Intracellular water gain from creatine loading",
+      "quantified": true,
+      "reportedMagnitude": {
+        "note": "Already modelled. Deferring to algorithms/weight-trend.ts PERTURBATION_DEFAULTS['creatine-start']: +1.5 kg over a 28-day settling window, persisting while supplementation continues.",
+        "confidence": "reasonable-inference"
+      },
+      "action": "offer-trend-offset",
+      "defaultEnabled": true,
+      "perturbationType": "creatine-start",
+      "firesOn": ["start", "stop"],
+      "windowDays": 28,
+      "dedupeOn": ["perturbationType", "startDate"],
+      "engineInstruction": "Emit only if the user has not already logged a creatine-start PerturbationEvent. weight-trend.ts owns the magnitude; this file does not restate or override it.",
+      "userCopy": "The 1-2 kg that appears in the first weeks on creatine is water inside muscle cells, not fat. Your trend line already accounts for it.",
+      "notThis": "Not a reason to stop creatine, and not a reason to widen the deficit to 'cancel' it."
+    }
+  ],
+
+  "interactions": [
+    {
+      "id": "sert-5htp",
+      "agentId": "sertraline",
+      "supplementId": "5-htp",
+      "supplementAliases": ["5-htp", "5 htp", "5-hydroxytryptophan", "griffonia", "griffonia simplicifolia"],
+      "mechanism": "pharmacodynamic-serotonergic",
+      "level": "block",
+      "code": "MED_SEROTONERGIC_STACK_5HTP",
+      "confidence": "well-established",
+      "summary": "5-HTP is a direct precursor to serotonin and crosses into the brain without needing a transporter, which is why it is considered the highest-risk of the serotonin precursors to combine with an SSRI. Combining agents that raise serotonin by different routes is the mechanism behind serotonin syndrome — rare, but serious, and the reason every reference source says not to do this without a prescriber's involvement. Documented cases with an SSRI specifically are few and confounded by other products, so the case is mechanistic rather than epidemiological — that is still enough. Worth raising with your prescriber or pharmacist before taking it.",
+      "sources": [
+        "https://www.mskcc.org/cancer-care/integrative-medicine/herbs/5-htp-01",
+        "https://www.drugs.com/interactions-check.php?drug_list=1-10727%2C2568-0&professional=1"
+      ]
+    },
+    {
+      "id": "sert-tryptophan",
+      "agentId": "sertraline",
+      "supplementId": "l-tryptophan",
+      "supplementAliases": ["l-tryptophan", "tryptophan", "trp"],
+      "mechanism": "pharmacodynamic-serotonergic",
+      "level": "block",
+      "code": "MED_SEROTONERGIC_STACK_TRYPTOPHAN",
+      "confidence": "well-established",
+      "summary": "L-tryptophan is the raw material your body makes serotonin from. Taken alongside an SSRI it adds serotonin by a different route than the medication does, and that combination is the recognised setup for serotonin syndrome. Lower risk than 5-HTP because tryptophan has to compete for transport into the brain, but the same reason applies and the same recommendation follows. This applies to sleep and mood blends that contain tryptophan, not only to the standalone amino acid. Worth raising with your prescriber or pharmacist.",
+      "sources": ["https://www.ebsco.com/research-starters/complementary-and-alternative-medicine/selective-serotonin-reuptake-inhibitors"]
+    },
+    {
+      "id": "sert-sjw",
+      "agentId": "sertraline",
+      "supplementId": "st-johns-wort",
+      "supplementAliases": ["st john's wort", "st johns wort", "st. john's wort", "hypericum", "hypericum perforatum"],
+      "mechanism": "pharmacodynamic-serotonergic + pharmacokinetic-induction",
+      "level": "block",
+      "code": "MED_SEROTONERGIC_STACK_SJW",
+      "confidence": "well-established",
+      "summary": "St John's wort is the one that goes wrong in two directions at once. It raises serotonin by a mechanism similar to the medication's, which is the serotonin syndrome risk. It is also a strong inducer of the liver enzymes CYP3A4, CYP2C9 and CYP2C19 — via hyperforin acting on the pregnane X receptor — and sertraline is metabolised partly through CYP2C19, so it can also lower the medication's own blood levels. Induction takes ten to fourteen days to reach full effect and about the same to wear off, so the interaction is not obvious from timing. This is the clearest do-not-combine in the whole supplement aisle, and it is worth raising with your prescriber or pharmacist rather than working around.",
+      "sources": [
+        "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC12420457/",
+        "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7056460/",
+        "https://www.medsafe.govt.nz/profs/puarticles/sjw.htm"
+      ]
+    },
+    {
+      "id": "sert-same",
+      "agentId": "sertraline",
+      "supplementId": "sam-e",
+      "supplementAliases": ["sam-e", "same", "s-adenosyl methionine", "s-adenosylmethionine", "ademetionine"],
+      "mechanism": "pharmacodynamic-serotonergic",
+      "level": "block",
+      "code": "MED_SEROTONERGIC_STACK_SAME",
+      "confidence": "reasonable-inference",
+      "summary": "SAM-e is sold for mood and acts on the same monoamine systems the medication does. Every major reference lists the combination as one to avoid without a prescriber's involvement, for the same serotonin syndrome reason as 5-HTP and St John's wort. The evidence here is mechanistic and consensus-based rather than a body of documented cases — we are telling you what the references say and why, not overstating the case. Worth raising with your prescriber or pharmacist.",
+      "sources": ["https://www.mskcc.org/cancer-care/integrative-medicine/herbs/5-htp-01"]
+    },
+    {
+      "id": "sert-kratom",
+      "agentId": "sertraline",
+      "supplementId": "kratom",
+      "supplementAliases": ["kratom", "mitragyna", "mitragynine"],
+      "mechanism": "pharmacodynamic-serotonergic",
+      "level": "block",
+      "code": "MED_SEROTONERGIC_STACK_KRATOM",
+      "confidence": "reasonable-inference",
+      "summary": "Kratom is sold as a botanical supplement and acts on serotonergic and opioid receptors. Combined with an SSRI it carries a serotonin syndrome risk, and it has its own separate safety questions. Worth raising with your prescriber or pharmacist.",
+      "sources": []
+    },
+    {
+      "id": "sert-rhodiola",
+      "agentId": "sertraline",
+      "supplementId": "rhodiola",
+      "supplementAliases": ["rhodiola", "rhodiola rosea", "golden root", "arctic root"],
+      "mechanism": "pharmacodynamic-serotonergic",
+      "level": "warn",
+      "code": "MED_SEROTONERGIC_STACK_RHODIOLA",
+      "confidence": "uncertain",
+      "summary": "Rhodiola shows weak monoamine-oxidase-inhibiting activity in laboratory work and is routinely listed as one to be careful with alongside serotonergic medication. The human evidence is thin and we are not going to inflate it — this is a warn rather than a stop, and it is worth mentioning to your pharmacist if you want to take it.",
+      "sources": []
+    },
+    {
+      "id": "sert-omega3",
+      "agentId": "sertraline",
+      "supplementId": "omega-3",
+      "supplementAliases": ["omega-3", "omega 3", "fish oil", "epa", "dha", "algal oil", "krill oil", "cod liver oil"],
+      "mechanism": "additive-antiplatelet",
+      "level": "info",
+      "code": "MED_BLEEDING_OMEGA3",
+      "confidence": "well-established",
+      "levelRationale": "The brief specified `warn` for additive bleeding risk. The evidence does not support it and this file downgrades to `info`, with the reasoning stated rather than the level quietly changed. The MECHANISM is real on both sides — SSRIs deplete platelet serotonin, omega-3s displace arachidonic acid and reduce thromboxane A2. But it has not translated into clinical bleeding: EFSA reviewed the evidence in 2012 and concluded supplemental EPA+DHA up to 5 g/day does not increase the risk of spontaneous bleeding or bleeding complications, and clinical sources specifically addressing fish oil with SSRIs report no additive risk. A `warn` on a supplement the app itself recommends at 1-2 g EPA+DHA (nutrition-personalization.md §6.3) would be a false alarm we generated ourselves — and false alarms are what train people to ignore the true ones. The stacking rule below is where the defensible warning lives.",
+      "summary": "Both an SSRI and fish oil nudge platelets in the same direction — the medication by reducing the serotonin platelets use to clump, fish oil by changing the fats they are built from. On paper that reads like additive bleeding risk. In practice it has not shown up: European regulators reviewing all the available studies concluded that up to 5 g a day of EPA plus DHA does not raise bleeding risk, and sources looking specifically at fish oil with SSRIs say the same. The dose this app recommends is well inside that. Worth knowing before surgery or dental work, which is a conversation to have anyway.",
+      "sources": [
+        "https://www.droracle.ai/articles/583976/what-are-the-risks-of-bleeding-when-taking-selective",
+        "https://www.ebmconsult.com/articles/fish-oil-omega-3-fatty-acids-epa-dha-lovaza-platelet-inhibition-bleeding-risk-mechanism"
+      ]
+    },
+    {
+      "id": "sert-ginkgo",
+      "agentId": "sertraline",
+      "supplementId": "ginkgo",
+      "supplementAliases": ["ginkgo", "ginkgo biloba"],
+      "mechanism": "additive-antiplatelet",
+      "level": "warn",
+      "code": "MED_BLEEDING_GINKGO",
+      "confidence": "reasonable-inference",
+      "summary": "Ginkgo has antiplatelet activity and has been associated with bleeding events on its own, which puts it in a different category from fish oil. On top of an SSRI's effect on platelets it is worth a conversation with a pharmacist, particularly around any procedure.",
+      "antiplateletClassMember": true,
+      "sources": []
+    },
+    {
+      "id": "sert-garlic",
+      "agentId": "sertraline",
+      "supplementId": "garlic-extract",
+      "supplementAliases": ["garlic extract", "aged garlic", "allicin", "garlic supplement"],
+      "mechanism": "additive-antiplatelet",
+      "level": "info",
+      "code": "MED_BLEEDING_GARLIC",
+      "confidence": "reasonable-inference",
+      "summary": "Concentrated garlic supplements have mild antiplatelet activity. On its own with an SSRI this is a footnote; it counts toward the stacking check below. Culinary garlic is not what this is about.",
+      "antiplateletClassMember": true,
+      "sources": []
+    },
+    {
+      "id": "sert-curcumin",
+      "agentId": "sertraline",
+      "supplementId": "curcumin",
+      "supplementAliases": ["curcumin", "turmeric extract", "meriva", "theracurmin"],
+      "mechanism": "additive-antiplatelet",
+      "level": "info",
+      "code": "MED_BLEEDING_CURCUMIN",
+      "confidence": "reasonable-inference",
+      "summary": "High-dose curcumin extracts have mild antiplatelet activity and inhibit several liver enzymes in laboratory work. Counts toward the stacking check. Turmeric in food does not.",
+      "antiplateletClassMember": true,
+      "sources": []
+    },
+    {
+      "id": "sert-vitamin-e-high",
+      "agentId": "sertraline",
+      "supplementId": "vitamin-e-high-dose",
+      "supplementAliases": ["vitamin e", "alpha-tocopherol", "tocopherol"],
+      "doseThreshold": { "amount": 400, "unit": "IU/day" },
+      "mechanism": "additive-antiplatelet",
+      "level": "info",
+      "code": "MED_BLEEDING_VITAMIN_E",
+      "confidence": "reasonable-inference",
+      "summary": "Vitamin E above about 400 IU a day has mild antiplatelet activity. Counts toward the stacking check. It also has its own upper limit, which micronutrients.ts checks — that check is not duplicated here.",
+      "antiplateletClassMember": true,
+      "crossReferences": ["nutrition-personalization.md §6.2 — vitamin E UL applies to supplemental alpha-tocopherol only"],
+      "sources": []
+    },
+    {
+      "id": "sert-nattokinase",
+      "agentId": "sertraline",
+      "supplementId": "nattokinase",
+      "supplementAliases": ["nattokinase", "serrapeptase", "lumbrokinase"],
+      "mechanism": "additive-antiplatelet",
+      "level": "warn",
+      "code": "MED_BLEEDING_FIBRINOLYTIC",
+      "confidence": "reasonable-inference",
+      "summary": "Fibrinolytic enzyme supplements act directly on clot formation. Stacked on an SSRI's platelet effect this is worth raising with a pharmacist, especially before any procedure.",
+      "antiplateletClassMember": true,
+      "sources": []
+    },
+    {
+      "id": "sert-melatonin",
+      "agentId": "sertraline",
+      "supplementId": "melatonin",
+      "supplementAliases": ["melatonin"],
+      "mechanism": "additive-sedation",
+      "level": "info",
+      "code": "MED_SEDATION_MELATONIN",
+      "confidence": "reasonable-inference",
+      "summary": "Melatonin alongside an SSRI is a common and generally unremarkable combination. Some people notice more grogginess. Not a serotonin syndrome risk — melatonin is downstream of serotonin, not a way of raising it.",
+      "sources": []
+    },
+    {
+      "id": "sert-ashwagandha",
+      "agentId": "sertraline",
+      "supplementId": "ashwagandha",
+      "supplementAliases": ["ashwagandha", "withania", "withania somnifera", "ksm-66", "sensoril"],
+      "mechanism": "additive-sedation + hepatic",
+      "level": "warn",
+      "code": "MED_ASHWAGANDHA",
+      "confidence": "reasonable-inference",
+      "summary": "Two things, neither of them serotonin syndrome. Ashwagandha has GABA-ergic activity and can add to the drowsiness of anything sedating taken at the same time of day. Separately, it has a documented signal for liver injury — a 2020 case series in Liver International collected ten cases from Iceland and the US drug-induced liver injury network, in healthy people, one of whom was assessed for transplant. That is rare but it is real, and it is worth knowing before adding it to a daily stack. It also raises T3 and T4 and lowers TSH, which will confuse a thyroid panel. Worth raising with your prescriber or pharmacist.",
+      "sources": [
+        "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11564894/",
+        "https://www.merckmanuals.com/professional/special-subjects/dietary-supplements/ashwagandha"
+      ]
+    },
+    {
+      "id": "fin-saw-palmetto",
+      "agentId": "finasteride",
+      "supplementId": "saw-palmetto",
+      "supplementAliases": ["saw palmetto", "serenoa", "serenoa repens", "permixon"],
+      "mechanism": "pharmacodynamic-same-target + lab-interpretation",
+      "level": "warn",
+      "code": "MED_5AR_STACK_SAW_PALMETTO",
+      "confidence": "reasonable-inference",
+      "summary": "Saw palmetto is marketed for the same purpose as finasteride and is claimed to work on the same enzyme, 5-alpha-reductase. Two consequences. Stacking two things aimed at one enzyme means you can no longer tell what dose of what is doing what, and the combined effect has not been studied. More concretely for your bloods: saw palmetto lowers PSA on its own, and there is no validated adjustment for the combination — so the doubling rule we apply to your PSA stops being reliable. The app will not apply a PSA correction while this is in your stack, and will say why on the result. This is worth mentioning to your prescriber; it is a common combination and mostly goes undeclared.",
+      "invalidatesLabCorrection": ["psa-total"],
+      "sources": [
+        "https://www.drugs.com/drug-interactions/finasteride-with-saw-palmetto-1091-0-2046-0.html",
+        "https://hellopharmacist.com/drug-supplement-interactions/drug-herbal/saw-palmetto-with-finasteride"
+      ]
+    },
+    {
+      "id": "fin-biotin",
+      "agentId": "finasteride",
+      "supplementId": "biotin-high-dose",
+      "supplementAliases": ["biotin", "vitamin b7", "vitamin h", "hair skin and nails"],
+      "doseThreshold": { "amount": 1000, "unit": "mcg/day" },
+      "mechanism": "assay-interference",
+      "level": "warn",
+      "code": "MED_BIOTIN_PSA_INTERFERENCE",
+      "confidence": "well-established",
+      "summary": "This one compounds. High-dose biotin interferes with the streptavidin-biotin immunoassays most labs run, and for PSA specifically the interference is NEGATIVE — it makes total and free PSA read falsely low. Finasteride is separately and genuinely halving your PSA. A falsely low result on top of a truly suppressed one is the most reassuring-looking wrong number this app could show you. Biotin pushes testosterone the other way, falsely high, which would also make a finasteride-related testosterone rise look bigger than it is. Hair and nail products routinely carry 5,000-10,000 mcg, which is many multiples of what anyone needs. The fix is timing, and timing supplements is entirely your call: guidance for people on more than 5 mg a day is to leave at least 8 hours between the last dose and the blood draw, and many labs advise 48-72 hours to be safe. Tell the lab you take it.",
+      "invalidatesLabCorrection": ["psa-total", "psa-free", "testosterone-total"],
+      "crossReferences": ["nutrition-personalization.md §6.2 and micronutrients.ts checkBiotinAssayInterference() — same interference, thyroid and troponin analytes. This entry extends that check to PSA and testosterone and to the finasteride compounding; it does not duplicate it."],
+      "sources": [
+        "https://academic.oup.com/ajcp/article/159/1/1/6835643?login=false",
+        "https://www.aruplab.com/biotin",
+        "https://myadlm.org/science-and-research/academy-guidance/biotin-interference-in-laboratory-tests"
+      ]
+    },
+    {
+      "id": "fin-claimed-5ar-botanicals",
+      "agentId": "finasteride",
+      "supplementId": "claimed-5ar-botanicals",
+      "supplementAliases": ["pumpkin seed oil", "beta-sitosterol", "stinging nettle root", "nettle root", "reishi", "ganoderma", "pygeum", "green tea extract", "egcg"],
+      "mechanism": "pharmacodynamic-claimed-same-target",
+      "level": "info",
+      "code": "MED_5AR_CLAIMED_BOTANICAL",
+      "confidence": "uncertain",
+      "summary": "These turn up in hair-loss stacks with claims of blocking the same enzyme finasteride blocks. The evidence that they do so meaningfully in humans is weak, so this is a note rather than a warning. It is worth logging them anyway, because if any of them do work they would move PSA in the same direction as the medication, and the PSA adjustment assumes only one thing is doing that. Green tea extract carries a separate liver-injury signal at concentrated doses.",
+      "sources": []
+    },
+    {
+      "id": "minox-vasodilators",
+      "agentId": "minoxidil-topical",
+      "supplementId": "nitrate-vasodilators",
+      "supplementAliases": ["beetroot", "beetroot juice", "beet juice", "nitrate", "citrulline", "l-citrulline", "arginine", "l-arginine"],
+      "mechanism": "additive-physiological",
+      "level": "info",
+      "code": "MED_VASODILATOR_STACK",
+      "confidence": "uncertain",
+      "summary": "Beetroot juice and citrulline work by widening blood vessels, and so does minoxidil. In theory that stacks toward lightheadedness on standing. In practice only about 1-2% of topical minoxidil reaches the bloodstream and its blood-pressure effect at scalp doses is described as clinically insignificant in people with normal blood pressure, so this is a low-likelihood note rather than a reason to change anything. Flagged mainly because this app recommends a beetroot shot before hard sessions, and it should check its own recommendations against what you take rather than leaving you to join it up.",
+      "crossReferences": ["nutrition-personalization.md §6.5 — the beetroot protocol this note applies to"],
+      "sources": ["https://www.ncbi.nlm.nih.gov/books/NBK482378/"]
+    },
+    {
+      "id": "any-fibre-timing",
+      "agentId": "*",
+      "supplementId": "fibre-supplement",
+      "supplementAliases": ["psyllium", "psyllium husk", "metamucil", "fybogel", "glucomannan", "methylcellulose", "inulin", "acacia fibre", "fibre supplement"],
+      "mechanism": "absorption-timing",
+      "level": "warn",
+      "code": "SUP_TIMING_FIBRE_MEDICATION",
+      "confidence": "well-established",
+      "timingGuidance": "Take the fibre supplement at least 2 hours away from any oral medication or mineral supplement — before or after, either works.",
+      "summary": "Bulk-forming fibre makes a gel in the gut, and a gel traps whatever else is in there — including tablets. Psyllium labelling says to keep other oral medicines at least 2 hours either side, and that is the whole fix. Note what this is and is not: this is about when you take the fibre, which is your call and ours to advise on. Nothing here is a suggestion to move your medication. If the timing does not work around your existing routine, the fibre moves.",
+      "sources": ["https://www.drugs.com/drug-interactions/"]
+    },
+    {
+      "id": "mineral-competition",
+      "agentId": "*",
+      "supplementId": "mineral-competition",
+      "supplementAliases": ["iron", "ferrous sulphate", "ferrous bisglycinate", "zinc", "calcium", "magnesium", "copper"],
+      "mechanism": "absorption-timing",
+      "level": "info",
+      "code": "SUP_TIMING_MINERAL_COMPETITION",
+      "confidence": "well-established",
+      "timingGuidance": "Iron apart from calcium and zinc by about 2 hours; iron alongside a vitamin C source helps; magnesium is the one to move to the evening if anything has to give.",
+      "summary": "Iron, zinc, calcium and magnesium compete for the same absorption routes, so taking them together means getting less of each. Two hours between iron and the others is enough. Vitamin C in the same sitting as iron works the other way and helps.",
+      "sources": []
+    },
+    {
+      "id": "fat-soluble-timing",
+      "agentId": "*",
+      "supplementId": "fat-soluble",
+      "supplementAliases": ["vitamin d", "vitamin d3", "vitamin k1", "phylloquinone", "vitamin k2", "mk-7", "lutein", "zeaxanthin", "vitamin e", "omega-3", "fish oil"],
+      "mechanism": "absorption-timing",
+      "level": "info",
+      "code": "SUP_TIMING_FAT_SOLUBLE",
+      "confidence": "well-established",
+      "timingGuidance": "Take with the fattiest meal of the day.",
+      "summary": "Fat-soluble vitamins and the carotenoids absorb far better with fat present. One meal, all of them, is simpler than a schedule and works as well.",
+      "crossReferences": ["nutrition-personalization.md §6.3 — GAP_CLOSING_PROTOCOL already specifies this timing per product"],
+      "sources": []
+    }
+  ],
+
+  "antiplateletStackingRule": {
+    "code": "MED_BLEEDING_STACK",
+    "level": "warn",
+    "triggerCount": 2,
+    "appliesToMedicationClass": "SSRI",
+    "confidence": "reasonable-inference",
+    "rationale": "No single one of these supplements has demonstrated additive clinical bleeding risk with an SSRI, and flagging each one individually would be crying wolf. Several of them together is a different proposition, and it is the one that is genuinely worth a conversation. This is where the defensible warning lives.",
+    "summary": "You have {n} supplements in your stack that each nudge platelets in the same direction — {list} — on top of an SSRI, which does the same thing by a different route. No one of these is a problem by itself and the evidence for any single pairing is reassuring. Several together is worth mentioning to a pharmacist, and definitely worth mentioning before any surgery or dental work."
+  },
+
+  "nonInteractions": {
+    "$comment": "Recorded so that folklore does not get re-added by a future agent, and so the app does not manufacture warnings that make the real ones easier to ignore.",
+    "entries": [
+      { "pair": "sertraline + creatine", "verdict": "No known interaction. Creatine is not serotonergic.", "confidence": "reasonable-inference" },
+      { "pair": "sertraline + beta-alanine", "verdict": "No known interaction. The tingling is harmless paraesthesia and is not a medication effect.", "confidence": "reasonable-inference" },
+      { "pair": "sertraline + L-tyrosine / DL-phenylalanine", "verdict": "Catecholamine precursors, not serotonin precursors. Not a serotonin syndrome risk. Explicitly recorded because 'amino acid that affects mood' gets swept into serotonergic lists by pattern-matching.", "confidence": "reasonable-inference" },
+      { "pair": "sertraline + caffeine", "verdict": "No clinically significant interaction at normal intakes. Sertraline is not a meaningful CYP1A2 inhibitor — fluvoxamine is the SSRI that matters for caffeine.", "confidence": "reasonable-inference" },
+      { "pair": "creatine + caffeine", "verdict": "The claim that caffeine blunts creatine's effect rests on one small study and has not held up. Not flagged.", "confidence": "uncertain" },
+      { "pair": "finasteride + creatine / protein powder / caffeine", "verdict": "No known interaction.", "confidence": "reasonable-inference" },
+      { "pair": "topical minoxidil + oral supplements generally", "verdict": "Systemic exposure from scalp application is about 1-2% of the applied dose. Pharmacokinetic interactions are not a meaningful concern at that exposure.", "confidence": "reasonable-inference" },
+      { "pair": "any medication here + vitamin D, magnesium, zinc, vitamin K1, lutein, nitrate", "verdict": "No pharmacological interaction with sertraline, finasteride or topical minoxidil. Timing rules above still apply, and upper-limit arithmetic stays with micronutrients.ts.", "confidence": "reasonable-inference" }
+    ]
+  },
+
+  "boundaries": {
+    "upperLimitStacking": "Owned by nutrition-personalization: micronutrients.ts countsTowardUpperLimit(), analyseStackCoverage(), recommendationExceedsUpperLimit(), checkZincCopperBalance(). This file does no upper-limit arithmetic and must not start doing any — two implementations of a UL check will disagree, and the one that disagrees quietly is the dangerous one. The UI runs both engines over the same stack and merges findings.",
+    "supplementsAlsoNeedingUlCheck": ["biotin-high-dose", "vitamin-e-high-dose", "zinc", "selenium", "vitamin-d", "vitamin-a", "niacin", "vitamin-b6", "folate", "iron"],
+    "labArtifactRules": "Owned by integration-health-records: lab-panels.json artifactRules[] and §9.6. Medication effects are a different category from pre-analytical artifacts and are merged, not substituted — a training-related AST rise and an SSRI note can both be true, and the training rule is usually the better explanation.",
+    "weightPerturbations": "Owned by nutrition-algorithms: weight-trend.ts PerturbationEvent / PERTURBATION_DEFAULTS. This file emits perturbation seeds structurally compatible with that type and never redefines a magnitude that already exists there."
+  },
+
+  "reVerifyBeforeLaunch": [
+    { "rank": 1, "item": "The PSA doubling factor at 1 mg over MULTI-YEAR use. D'Amico 2007 covers 48 weeks. Confirm against current AUA early-detection guidance whether any dose- or duration-specific adjustment is now recommended, and whether the 0.3 ng/mL-from-nadir flag is still the stated alternative.", "consequence": "This is the highest-consequence number in the file. An under-correction is falsely reassuring." },
+    { "rank": 2, "item": "Whether an SSRI is a named risk factor for exercise-associated hyponatraemia in the International EAH Consensus Development Conference statement. The sertraline sodium copy leans on this for the training-specific framing.", "consequence": "If not supported, soften the copy to the general SIADH mechanism only." },
+    { "rank": 3, "item": "Creatine's effect size on serum creatinine. The 2025 BMC Nephrology meta-analysis abstract reports a mean difference whose unit does not reconcile with the commonly quoted mg/dL figures. Read the paper.", "consequence": "Currently direction-only, which is safe. Resolving it would let the labs screen say something more useful." },
+    { "rank": 4, "item": "LOINC codes marked loincConfidence 'uncertain' or 'reasonable-inference': eGFR (33914-3 is MDRD; the CKD-EPI 2021 codes were not verified), cystatin C, testosterone, estradiol, and every null. Verify against lab-panels.json once the health-records agent publishes it.", "consequence": "A wrong LOINC silently mismaps an analyte — worse than no code." },
+    { "rank": 5, "item": "Finasteride washout for PSA — how long PSA takes to return to the untreated baseline after stopping. No figure found this session.", "consequence": "Currently 'interpret with caution' across any on/off transition, which is safe but unhelpful." },
+    { "rank": 6, "item": "Sertraline serum-DHT-equivalent question: whether the 65% figure from the Propecia label refers to a single dose or steady state, and what steady-state suppression at 1 mg is. Label wording read via search summary only.", "consequence": "Only affects the wording of a note; no correction depends on it." },
+    { "rank": 7, "item": "Sertraline 2-year weight figures. Currently tagged uncertain and used only as an attribution note, never as an adjustment.", "consequence": "Low. No engine depends on the number." },
+    { "rank": 8, "item": "SAM-e, kratom and rhodiola serotonergic evidence. All three are block or warn on consensus-and-mechanism rather than case data. Confirm the level is proportionate.", "consequence": "Over-blocking is a real cost — it trains users to dismiss the 5-HTP and St John's wort findings, which are the ones that matter." }
+  ],
+
+  "researchProvenance": "WebSearch was available this session and every numbered claim above traces to at least one search result; no primary paper was read at full text. Product-label claims (Propecia) come from search summaries of the FDA label PDF, not the PDF itself. Confidence tags are calibrated accordingly."
+}

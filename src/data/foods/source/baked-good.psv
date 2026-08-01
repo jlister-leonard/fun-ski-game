@@ -1,0 +1,51 @@
+#category: baked-good
+#source: USDA FoodData Central (SR Legacy)
+#servings: 1 serving (100 g)@100*;100 g@100
+# id|name|aliases|kcal|protein|carbs|fat|fiber|sugar|satfat|sodium|servings|extra
+croissant-butter|Croissant, butter||406|8.20|45.8|21.0|2.6|11.4|11.7|424|1 medium (57 g)@57*;1 large (67 g)@67
+croissant-chocolate|Chocolate croissant|pain au chocolat|430|7.5|46.0|24.0|2.8|17.0|13.0|380|1 croissant (70 g)@70*;100 g@100|v=0
+croissant-almond|Almond croissant||450|9.0|44.0|27.0|3.0|20.0|12.0|350|1 croissant (100 g)@100*;100 g@100|v=0
+muffin-blueberry|Blueberry muffin||377|5.00|52.0|17.0|1.5|28.0|3.30|320|1 large (113 g)@113*;1 mini (25 g)@25;1 medium (57 g)@57
+muffin-chocolate-chip|Chocolate chip muffin||420|5.5|55.0|20.0|2.0|31.0|5.0|330|1 large (113 g)@113*;1 medium (57 g)@57|v=0
+muffin-bran|Bran muffin||340|6.80|54.0|11.9|6.0|22.0|1.80|450|1 medium (66 g)@66*;100 g@100
+muffin-corn|Corn muffin||358|7.00|54.0|12.5|2.5|18.0|2.10|590|1 medium (57 g)@57*;100 g@100
+muffin-english-protein|Protein muffin, bakery style||300|12.0|38.0|11.0|4.0|14.0|2.5|300|1 muffin (100 g)@100*;100 g@100|v=0
+donut-glazed|Donut, glazed yeast||403|4.90|45.0|22.9|1.2|20.0|10.6|340|1 donut (60 g)@60*;2 donuts (120 g)@120
+donut-cake-plain|Donut, cake, plain||421|4.90|50.5|22.5|1.4|21.0|5.60|450|1 donut (60 g)@60*;100 g@100
+donut-jelly-filled|Donut, jelly filled||340|4.50|46.0|15.5|1.0|20.0|4.00|350|1 donut (85 g)@85*;100 g@100
+donut-boston-cream|Donut, Boston cream||365|4.0|46.0|18.5|1.2|24.0|6.0|300|1 donut (92 g)@92*;100 g@100|v=0
+donut-hole|Donut holes, glazed||420|4.5|50.0|22.0|1.3|22.0|9.0|400|4 holes (52 g)@52*;100 g@100|v=0
+cinnamon-roll|Cinnamon roll, with icing||403|5.90|54.0|18.5|1.5|25.0|5.00|380|1 roll (85 g)@85*;1 large (140 g)@140
+danish-cheese|Danish pastry, cheese||374|6.90|38.6|21.5|1.0|15.0|6.60|350|1 danish (71 g)@71*;100 g@100
+scone-plain|Scone, plain||360|7.50|53.0|13.5|1.8|14.0|5.50|560|1 scone (75 g)@75*;100 g@100
+biscuit-sweet-shortcake|Shortcake biscuit||360|5.5|48.0|16.0|1.2|13.0|5.0|450|1 biscuit (65 g)@65*;100 g@100|v=0
+coffee-cake-crumb|Coffee cake, crumb topping||395|5.50|55.0|17.5|1.2|30.0|4.50|300|1 piece (63 g)@63*;100 g@100
+pancake-plain|Pancakes, plain, prepared||227|6.40|28.3|9.70|1.0|6.30|2.10|542|1 pancake, 4 in (38 g)@38*;3 pancakes (114 g)@114;1 large (77 g)@77
+pancake-protein|Protein pancakes, prepared||210|16.0|24.0|5.0|3.0|4.0|1.5|450|3 pancakes (120 g)@120*;100 g@100|v=0
+waffle-plain|Waffle, plain, prepared||291|7.90|32.9|14.1|2.0|5.30|2.70|511|1 waffle, 7 in (75 g)@75*;1 frozen waffle (35 g)@35
+waffle-belgian|Belgian waffle, with topping||310|7.0|38.0|14.5|1.5|13.0|4.5|450|1 waffle (100 g)@100*;100 g@100|v=0
+french-toast|French toast, prepared||229|7.70|25.0|10.8|1.1|6.00|2.70|478|1 slice (65 g)@65*;2 slices (130 g)@130
+crepe-plain|Crepe, plain||200|6.5|24.0|8.5|0.8|4.5|3.5|180|1 crepe (55 g)@55*;100 g@100|v=0
+churro|Churro, fried||400|4.5|43.0|23.0|1.5|13.0|4.5|300|1 churro (45 g)@45*;100 g@100|v=0
+beignet|Beignet, fried with sugar||395|5.5|48.0|20.0|1.3|18.0|4.0|280|3 beignets (85 g)@85*;100 g@100|v=0
+brownie-fudge|Brownie, fudge||466|6.00|60.0|22.0|2.4|38.0|5.50|270|1 brownie (56 g)@56*;1 large (85 g)@85
+blondie|Blondie bar||440|5.0|62.0|19.0|1.2|40.0|8.0|250|1 bar (56 g)@56*;100 g@100|v=0
+cake-chocolate-frosted|Chocolate cake, with frosting||371|4.10|50.7|16.4|1.8|37.0|4.50|315|1 slice (95 g)@95*;100 g@100
+cake-vanilla-frosted|Vanilla cake, with frosting||389|3.60|54.0|18.0|0.6|40.0|4.80|320|1 slice (95 g)@95*;100 g@100
+cake-carrot-cream-cheese|Carrot cake, cream cheese frosting||415|4.50|50.0|22.0|1.5|36.0|4.50|330|1 slice (111 g)@111*;100 g@100
+cake-pound|Pound cake||389|5.50|53.0|17.0|0.6|30.0|9.50|350|1 slice (57 g)@57*;100 g@100
+cake-angel-food|Angel food cake||258|5.90|57.8|0.80|0.4|38.0|0.12|749|1 slice (50 g)@50*;100 g@100
+cake-cheesecake|Cheesecake, plain||321|5.50|25.5|22.5|0.4|22.0|9.90|438|1 slice (125 g)@125*;1 small slice (80 g)@80
+cake-red-velvet|Red velvet cake, with frosting||400|4.0|53.0|20.0|1.0|40.0|6.0|300|1 slice (95 g)@95*;100 g@100|v=0
+cupcake-frosted|Cupcake, frosted||400|3.50|55.0|19.0|0.7|40.0|5.00|320|1 cupcake (60 g)@60*;1 mini (25 g)@25|v=0
+pie-apple|Apple pie||265|2.40|37.1|12.5|1.6|17.0|4.30|266|1 slice (125 g)@125*;100 g@100
+pie-pumpkin|Pumpkin pie||243|4.50|30.0|11.5|1.5|17.0|3.80|305|1 slice (109 g)@109*;100 g@100
+pie-pecan|Pecan pie||412|4.50|52.0|22.0|2.0|32.0|3.70|320|1 slice (113 g)@113*;100 g@100
+pie-cherry|Cherry pie||260|2.20|39.8|11.0|0.9|16.0|2.70|246|1 slice (125 g)@125*;100 g@100
+pie-key-lime|Key lime pie||330|5.5|44.0|15.0|0.7|33.0|8.0|180|1 slice (115 g)@115*;100 g@100|v=0
+tiramisu|Tiramisu||283|4.50|25.0|18.0|0.4|18.0|10.0|100|1 serving (125 g)@125*;100 g@100|v=0
+baklava|Baklava||428|6.50|46.0|25.0|2.5|30.0|6.5|280|1 piece (60 g)@60*;100 g@100|v=0
+cannoli|Cannoli||350|8.0|38.0|18.0|1.0|24.0|9.0|180|1 cannoli (85 g)@85*;100 g@100|v=0
+eclair-chocolate|Éclair, chocolate||262|6.40|24.2|15.7|0.7|14.0|4.10|337|1 eclair (100 g)@100*;100 g@100
+macaron-french|Macaron, French||400|8.0|55.0|17.0|3.0|48.0|2.0|60|1 macaron (20 g)@20*;3 macarons (60 g)@60|v=0
+toaster-strudel|Toaster strudel, frosted||400|4.0|50.0|20.0|1.0|17.0|8.0|280|1 pastry (54 g)@54*;100 g@100|v=0

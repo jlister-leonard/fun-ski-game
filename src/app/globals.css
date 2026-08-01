@@ -1,0 +1,543 @@
+@import "tailwindcss";
+
+/* ============================================================================
+   Keel — design tokens
+
+   Dark-first, because this is a phone app used early in the morning and late
+   at night. The light theme is a real theme, not an afterthought.
+
+   Structure: raw palette values live in :root / [data-theme], and @theme maps
+   them into Tailwind utilities. That indirection is what lets the theme switch
+   at runtime — Tailwind's generated utilities point at a variable, and the
+   variable changes.
+   ========================================================================= */
+
+:root,
+:root[data-theme="light"] {
+  color-scheme: light;
+
+  /* Surfaces — a faintly cool neutral, never pure white. */
+  --c-bg: #f7f8fa;
+  --c-surface: #ffffff;
+  --c-surface-2: #f0f2f6;
+  --c-elevated: #ffffff;
+  --c-border: rgba(16, 22, 32, 0.1);
+  --c-border-strong: rgba(16, 22, 32, 0.18);
+  /* The edge of a text field, a switch track or a checkbox is the *only* thing
+     that says "this is a control", so WCAG 1.4.11 wants 3:1 against the
+     surface behind it. --c-border scores 1.23:1 — right for a decorative card
+     edge, wrong for a control. This one scores 3.35–3.44. */
+  --c-control-border: rgba(16, 22, 32, 0.5);
+
+  /* Text */
+  --c-text: #101620;
+  --c-text-2: #545e6e;
+  /* Measured, not guessed. The previous #838d9c scored 3.00:1 on --c-surface-2
+     and 3.36:1 on white — a WCAG 1.4.3 failure everywhere it was used, and
+     text-ink-3 carries every eyebrow, caption and placeholder in the app.
+     #636d7b scores 4.68 / 5.24 / 4.94 and keeps a visible step below
+     --c-text-2 (5.85 / 6.56). */
+  --c-text-3: #636d7b;
+  --c-text-inverse: #ffffff;
+
+  /* Accent — the mark's gradient, resolved to solid colour.
+     Darkened from #0f9d6b, which failed twice in light mode: 3.47:1 as text on
+     white (needs 4.5) and 3.47:1 for its own white label (needs 4.5). #08704b
+     is the same hue and clears 4.5 in all three places the accent appears as
+     text — plain surface (6.12), the `quiet` button's own accent-tinted fill
+     (5.18), and that fill over --c-surface-2 (4.74) — while its white label
+     scores 6.12. The intermediate #0a7d55 fixed the first two and left the
+     tinted fill at 4.36, which is why this is a hair darker than it looks like
+     it needs to be. Dark mode is untouched — #4ade9a
+     already scores 10.24 as text and 9.20 under its label.
+     No data colour moves: --c-calories keeps #0f9d6b, so the validated chart
+     palette in docs/kg/specs/design-system.md is unaffected. */
+  --c-accent: #08704b;
+  --c-accent-hover: #065f40;
+  --c-accent-quiet: rgba(8, 112, 75, 0.12);
+  --c-accent-text: #ffffff;
+
+  /* Semantic states. Note: no "danger" colour is used for exceeding a
+     nutrition target — see the note in the data-colour block below. */
+  --c-warn: #b45309;
+  --c-warn-quiet: rgba(180, 83, 9, 0.12);
+  --c-danger: #be123c;
+  --c-danger-quiet: rgba(190, 18, 60, 0.1);
+  --c-info: #0369a1;
+
+  /* ---- Semantic data colours -------------------------------------------
+     Used by every chart and every legend, so they must stay consistent.
+     Chosen to remain distinguishable under deuteranopia and protanopia:
+     the macro triad separates on hue AND lightness, not hue alone.
+
+     Deliberately absent: a "red = over budget" colour. Red-for-exceeded is
+     documented to produce guilt and shame in users with disordered eating,
+     so exceeding a nutrition target renders as neutral information. See
+     docs/kg/specs/nutrition-personalization.md.
+     ---------------------------------------------------------------------- */
+  --c-protein: #c2255c;
+  --c-carbs: #1f7ac2;
+  --c-fat: #b8791b;
+  --c-calories: #0f9d6b;
+  --c-fiber: #6b4fbb;
+  --c-sleep: #5b52c9;
+  /* Distinct from --c-calories on purpose: both can appear on the dashboard
+     at once, and they were previously the same hex. Chroma sits at 0.1004 —
+     just above the 0.10 floor below which a hue starts reading as grey. */
+  --c-readiness: #008f94;
+  --c-strain: #d4622a;
+  --c-neutral-data: #7b8595;
+  --c-expenditure: #5a758a;
+  --c-weight: #3d6b8a;
+
+  /* Sequential ramp — consistency heatmaps, intensity scales. */
+  --c-seq-1: #a9f3b7;
+  --c-seq-2: #89d298;
+  --c-seq-3: #69b27a;
+  --c-seq-4: #4a925c;
+  --c-seq-5: #2b7440;
+
+  /* Sleep stages, ordered light (awake) to deep. */
+  --c-sleep-awake: #a8a2e1;
+  --c-sleep-rem: #8a7fd8;
+  --c-sleep-core: #715ccf;
+  --c-sleep-deep: #5a3abb;
+
+  --shadow-1: 0 1px 2px rgba(16, 22, 32, 0.06), 0 1px 3px rgba(16, 22, 32, 0.08);
+  --shadow-2: 0 4px 12px rgba(16, 22, 32, 0.08), 0 2px 4px rgba(16, 22, 32, 0.06);
+  --shadow-3: 0 16px 40px rgba(16, 22, 32, 0.16), 0 4px 12px rgba(16, 22, 32, 0.08);
+}
+
+:root[data-theme="dark"] {
+  color-scheme: dark;
+
+  --c-bg: #0b0e13;
+  --c-surface: #141922;
+  --c-surface-2: #1b212c;
+  --c-elevated: #1f2632;
+  --c-border: rgba(255, 255, 255, 0.09);
+  --c-border-strong: rgba(255, 255, 255, 0.16);
+  /* 3.45–3.57:1 against surface / surface-2 / elevated. See the light block. */
+  --c-control-border: rgba(255, 255, 255, 0.38);
+
+  --c-text: #e9edf3;
+  --c-text-2: #9aa5b5;
+  /* Was #6b7686 — 3.30:1 on --c-elevated, 3.51 on --c-surface-2, 3.83 on
+     --c-surface. All under 4.5. #8a93a3 scores 4.91 / 5.22 / 5.69. */
+  --c-text-3: #8a93a3;
+  --c-text-inverse: #0b0e13;
+
+  --c-accent: #4ade9a;
+  --c-accent-hover: #6ce8b0;
+  --c-accent-quiet: rgba(74, 222, 154, 0.14);
+  --c-accent-text: #06281a;
+
+  --c-warn: #fbbf4d;
+  --c-warn-quiet: rgba(251, 191, 77, 0.14);
+  --c-danger: #fb7185;
+  --c-danger-quiet: rgba(251, 113, 133, 0.13);
+  --c-info: #56b8f0;
+
+  /* Re-stepped against surface #141922. The first pass sat at lightness
+     0.70–0.81 where the target band is 0.48–0.67 — marks that light on a dark
+     surface read pastel and surrender the chroma headroom that keeps them
+     separable. These hold the same hues and clear every contrast gate
+     (worst colour-vision-deficient separation 9.86, normal-vision 18.25).
+      previously an identical hex, and both can appear on the dashboard. */
+  --c-protein: #bd3a63;
+  --c-carbs: #3391cc;
+  --c-fat: #a47300;
+  --c-calories: #00ad70;
+  --c-fiber: #8f76e0;
+  --c-sleep: #8b7ff0;
+  --c-readiness: #0f9ba3;
+  --c-strain: #b54712;
+  --c-neutral-data: #8b95a5;
+  --c-expenditure: #86a3b8;
+  --c-weight: #6f9dc4;
+
+  --c-seq-1: #003915;
+  --c-seq-2: #005724;
+  --c-seq-3: #137738;
+  --c-seq-4: #348f4f;
+  --c-seq-5: #4fa866;
+
+  --c-sleep-awake: #a7a1e7;
+  --c-sleep-rem: #8d81e1;
+  --c-sleep-core: #7764d3;
+  --c-sleep-deep: #614abb;
+
+  --shadow-1: 0 1px 2px rgba(0, 0, 0, 0.4);
+  --shadow-2: 0 4px 14px rgba(0, 0, 0, 0.45);
+  --shadow-3: 0 20px 48px rgba(0, 0, 0, 0.6), 0 4px 12px rgba(0, 0, 0, 0.4);
+}
+
+/* Follow the OS when the user has expressed no preference. The inline script
+   in <head> stamps data-theme before paint, so this is the fallback path. */
+@media (prefers-color-scheme: dark) {
+  :root:not([data-theme]) {
+    color-scheme: dark;
+    --c-bg: #0b0e13;
+    --c-surface: #141922;
+    --c-surface-2: #1b212c;
+    --c-elevated: #1f2632;
+    --c-border: rgba(255, 255, 255, 0.09);
+    --c-border-strong: rgba(255, 255, 255, 0.16);
+    --c-control-border: rgba(255, 255, 255, 0.38);
+    --c-text: #e9edf3;
+    --c-text-2: #9aa5b5;
+    --c-text-3: #8a93a3;
+    --c-text-inverse: #0b0e13;
+    --c-accent: #4ade9a;
+    --c-accent-hover: #6ce8b0;
+    --c-accent-quiet: rgba(74, 222, 154, 0.14);
+    --c-accent-text: #06281a;
+    --c-warn: #fbbf4d;
+    --c-warn-quiet: rgba(251, 191, 77, 0.14);
+    --c-danger: #fb7185;
+    --c-danger-quiet: rgba(251, 113, 133, 0.13);
+    --c-info: #56b8f0;
+    --c-protein: #bd3a63;
+    --c-carbs: #3391cc;
+    --c-fat: #a47300;
+    --c-calories: #00ad70;
+    --c-fiber: #8f76e0;
+    --c-sleep: #8b7ff0;
+    --c-readiness: #0f9ba3;
+    --c-strain: #b54712;
+    --c-neutral-data: #8b95a5;
+    --c-expenditure: #86a3b8;
+    --c-weight: #6f9dc4;
+    --c-seq-1: #003915;
+    --c-seq-2: #005724;
+    --c-seq-3: #137738;
+    --c-seq-4: #348f4f;
+    --c-seq-5: #4fa866;
+    --c-sleep-awake: #a7a1e7;
+    --c-sleep-rem: #8d81e1;
+    --c-sleep-core: #7764d3;
+    --c-sleep-deep: #614abb;
+    --shadow-1: 0 1px 2px rgba(0, 0, 0, 0.4);
+    --shadow-2: 0 4px 14px rgba(0, 0, 0, 0.45);
+    --shadow-3: 0 20px 48px rgba(0, 0, 0, 0.6), 0 4px 12px rgba(0, 0, 0, 0.4);
+  }
+}
+
+@theme inline {
+  --color-bg: var(--c-bg);
+  --color-surface: var(--c-surface);
+  --color-surface-2: var(--c-surface-2);
+  --color-elevated: var(--c-elevated);
+  --color-line: var(--c-border);
+  --color-line-strong: var(--c-border-strong);
+  --color-control-line: var(--c-control-border);
+
+  --color-ink: var(--c-text);
+  --color-ink-2: var(--c-text-2);
+  --color-ink-3: var(--c-text-3);
+  --color-ink-inverse: var(--c-text-inverse);
+
+  --color-accent: var(--c-accent);
+  --color-accent-hover: var(--c-accent-hover);
+  --color-accent-quiet: var(--c-accent-quiet);
+  --color-accent-ink: var(--c-accent-text);
+
+  --color-warn: var(--c-warn);
+  --color-warn-quiet: var(--c-warn-quiet);
+  --color-danger: var(--c-danger);
+  --color-danger-quiet: var(--c-danger-quiet);
+  --color-info: var(--c-info);
+
+  --color-protein: var(--c-protein);
+  --color-carbs: var(--c-carbs);
+  --color-fat: var(--c-fat);
+  --color-calories: var(--c-calories);
+  --color-fiber: var(--c-fiber);
+  --color-sleep: var(--c-sleep);
+  --color-readiness: var(--c-readiness);
+  --color-strain: var(--c-strain);
+  --color-neutral-data: var(--c-neutral-data);
+  --color-expenditure: var(--c-expenditure);
+  --color-weight: var(--c-weight);
+  --color-sleep-awake: var(--c-sleep-awake);
+  --color-sleep-rem: var(--c-sleep-rem);
+  --color-sleep-core: var(--c-sleep-core);
+  --color-sleep-deep: var(--c-sleep-deep);
+
+  /* SF on iOS. No webfont: it would cost a round trip, and our CSP forbids
+     third-party font hosts anyway. */
+  --font-sans: -apple-system, BlinkMacSystemFont, "SF Pro Text", "Segoe UI",
+    system-ui, sans-serif;
+  --font-mono: ui-monospace, "SF Mono", SFMono-Regular, Menlo, monospace;
+  /* Tabular figures matter: numbers that shift width while counting up look
+     broken. Used for every live-updating value. */
+  --font-numeric: ui-rounded, -apple-system, "SF Pro Rounded", system-ui,
+    sans-serif;
+
+  /* Type scale — tuned for a phone at arm's length, so the floor is 13px. */
+  --text-2xs: 0.6875rem;
+  --text-xs: 0.75rem;
+  --text-sm: 0.8125rem;
+  --text-base: 0.9375rem;
+  --text-lg: 1.0625rem;
+  --text-xl: 1.25rem;
+  --text-2xl: 1.5rem;
+  --text-3xl: 1.9375rem;
+  --text-4xl: 2.5rem;
+  --text-5xl: 3.25rem;
+
+  --radius-xs: 6px;
+  --radius-sm: 10px;
+  --radius-md: 14px;
+  --radius-lg: 20px;
+  --radius-xl: 28px;
+  --radius-full: 9999px;
+
+  /* Motion. Durations short enough to feel instant, easings with a little
+     overshoot so sheets and toggles feel physical rather than linear. */
+  --ease-out-ios: cubic-bezier(0.32, 0.72, 0, 1);
+  --ease-spring: cubic-bezier(0.34, 1.56, 0.64, 1);
+  --ease-in-out-ios: cubic-bezier(0.4, 0, 0.2, 1);
+  --duration-fast: 140ms;
+  --duration-base: 220ms;
+  --duration-slow: 320ms;
+  --duration-sheet: 380ms;
+}
+
+/* ============================================================================
+   Base — most of this exists to make a web page stop feeling like a web page
+   on iOS.
+
+   Everything here is inside `@layer base` on purpose, and that is a bug fix,
+   not tidying.
+
+   These rules used to be unlayered. An unlayered declaration beats *every*
+   layered one, and Tailwind emits its utilities into `@layer utilities` — so
+   `button { font: inherit; color: inherit }` was silently overriding
+   `text-lg`, `font-medium` and `text-accent-ink` on every button in the app.
+   Measured before the fix: the primary "Add food" button rendered its label at
+   15px/400 in --c-text rather than 17px/500 in --c-accent-text, giving
+   1.46:1 against the accent fill. Layering restores the intended order:
+   theme < base < components < utilities.
+   ========================================================================= */
+
+@layer base {
+  * {
+    /* Grey flash on tap is the single clearest "this is a website" tell. */
+    -webkit-tap-highlight-color: transparent;
+  }
+
+  html {
+    height: 100%;
+    /* Stops iOS enlarging text in landscape. */
+    -webkit-text-size-adjust: 100%;
+    text-size-adjust: 100%;
+    /* No rubber-band past the app shell. */
+    overscroll-behavior-y: none;
+  }
+
+  body {
+    min-height: 100%;
+    background: var(--c-bg);
+    color: var(--c-text);
+    font-family: var(--font-sans);
+    font-size: var(--text-base);
+    line-height: 1.5;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    overscroll-behavior-y: none;
+    /* The app owns scrolling within its own regions. */
+    overflow-x: hidden;
+  }
+
+  /* Suppresses the 300ms double-tap-to-zoom delay on interactive elements
+     without disabling pinch-zoom globally, which would be an accessibility
+     regression. */
+  button,
+  a,
+  [role="button"],
+  input,
+  select,
+  textarea,
+  label {
+    touch-action: manipulation;
+  }
+
+  button {
+    font: inherit;
+    color: inherit;
+  }
+
+  input,
+  textarea,
+  select {
+    font: inherit;
+    color: inherit;
+    /* iOS zooms the viewport when focusing an input under 16px. Where a real
+       keyboard is unavoidable we bump to 16px; most numeric entry uses the
+       in-app NumberPad instead and never summons one. */
+  }
+
+  ::selection {
+    background: var(--c-accent-quiet);
+  }
+}
+
+/* Deliberately NOT in a layer.
+
+   Several inputs carry an `outline-none` utility so they can draw their own
+   focus treatment on the border. A layered focus ring would lose to that
+   utility and those fields would end up with no visible keyboard focus at all.
+   Keeping this unlayered guarantees every focusable thing has a ring, and is
+   the one place where outranking the utilities is the point. */
+:focus-visible {
+  outline: 2px solid var(--c-accent);
+  outline-offset: 2px;
+  border-radius: var(--radius-xs);
+}
+
+/* Focus rings only for keyboard users, never on touch. */
+:focus:not(:focus-visible) {
+  outline: none;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  *,
+  *::before,
+  *::after {
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.01ms !important;
+    scroll-behavior: auto !important;
+  }
+}
+
+/* ============================================================================
+   Utilities
+   ========================================================================= */
+
+@utility safe-t {
+  padding-top: env(safe-area-inset-top);
+}
+@utility safe-b {
+  padding-bottom: env(safe-area-inset-bottom);
+}
+@utility safe-x {
+  padding-left: env(safe-area-inset-left);
+  padding-right: env(safe-area-inset-right);
+}
+
+/* Apple HIG minimum touch target. */
+@utility tap {
+  min-height: 44px;
+  min-width: 44px;
+}
+
+/* Same 44pt guarantee, but for controls whose *visual* size is deliberately
+   smaller — a 36px pill button, a 35px segment. `tap` would inflate the
+   artwork; this leaves the artwork alone and grows only the hit region, via a
+   centred transparent pseudo-element.
+ *
+ * Caveat worth knowing before reaching for it: two controls less than 44px
+ * apart will have overlapping hit regions, and the later one in DOM order
+ * wins the overlap. Use `tap-target-y` for horizontally packed rows such as
+ * segmented controls, where only the height is short. */
+@utility tap-target {
+  position: relative;
+  &::after {
+    content: "";
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    translate: -50% -50%;
+    width: max(100%, 44px);
+    height: max(100%, 44px);
+  }
+}
+
+/* Vertical-only expansion. Safe between side-by-side controls. */
+@utility tap-target-y {
+  position: relative;
+  &::after {
+    content: "";
+    position: absolute;
+    left: 0;
+    right: 0;
+    top: 50%;
+    translate: 0 -50%;
+    height: max(100%, 44px);
+  }
+}
+
+/* Numbers that update live must not reflow as digits change. */
+@utility tnum {
+  font-variant-numeric: tabular-nums;
+  font-feature-settings: "tnum";
+}
+
+@utility scroll-touch {
+  -webkit-overflow-scrolling: touch;
+  overscroll-behavior: contain;
+}
+
+/* Horizontally scrollable region — charts and wide tables live in one of
+   these so the page body never scrolls sideways. */
+@utility scroll-x {
+  overflow-x: auto;
+  overscroll-behavior-x: contain;
+  scrollbar-width: none;
+}
+
+@utility no-scrollbar {
+  scrollbar-width: none;
+  -ms-overflow-style: none;
+}
+
+.no-scrollbar::-webkit-scrollbar,
+.scroll-x::-webkit-scrollbar {
+  display: none;
+}
+
+/* ============================================================================
+   Named motion
+
+   Declared here rather than inline in a component so the reduced-motion block
+   above (which is `!important` on `animation-duration`) can reach them. An
+   animation defined in a component's own <style> tag would be caught too, but
+   only if that tag renders before the media query — which is not something a
+   component can guarantee. Keeping the keyframes central makes the guarantee
+   structural.
+   ========================================================================= */
+
+@keyframes hc-toast-in {
+  from {
+    opacity: 0;
+    transform: translateY(12px) scale(0.97);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0) scale(1);
+  }
+}
+
+@keyframes hc-toast-out {
+  from {
+    opacity: 1;
+    transform: translateY(0) scale(1);
+  }
+  to {
+    opacity: 0;
+    transform: translateY(8px) scale(0.98);
+  }
+}
+
+/* A value that just changed. One quiet pulse, no colour, no bounce — enough to
+   catch the eye of someone who was looking elsewhere when the number moved. */
+@keyframes hc-value-change {
+  0% {
+    opacity: 0.45;
+  }
+  100% {
+    opacity: 1;
+  }
+}

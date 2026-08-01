@@ -1,0 +1,35 @@
+name: CI
+
+on:
+  push:
+    branches: ["main"]
+  pull_request:
+  workflow_dispatch:
+
+concurrency:
+  group: ci-${{ github.ref }}
+  cancel-in-progress: true
+
+jobs:
+  verify:
+    name: Verify
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+
+    steps:
+      - uses: actions/checkout@v5
+
+      - uses: actions/setup-node@v5
+        with:
+          node-version: 22
+          cache: npm
+
+      - name: Install
+        run: npm ci
+
+      # Keep GitHub's release gate identical to the one developers run locally.
+      # This includes typecheck, lint, application tests, dedicated crypto and
+      # vault proofs, the production Sites build, worker/offline checks, the
+      # built-bundle privacy audit, and the production dependency audit.
+      - name: Verify release candidate
+        run: npm run verify

@@ -1,0 +1,67 @@
+#category: beverage
+#source: USDA FoodData Central (SR Legacy)
+#servings: 1 cup (240 ml)@240*;100 g@100
+#density: 1.0
+# Non-alcoholic drinks. Everything here carries a density so that fluid-ounce,
+# millilitre and can/bottle servings all resolve to grams.
+# id|name|aliases|kcal|protein|carbs|fat|fiber|sugar|satfat|sodium|servings|extra
+water|Water||0|0|0|0|0|0|0|0|1 cup (240 ml)@240*;1 bottle (500 ml)@500;1 L (1000 ml)@1000
+water-sparkling|Sparkling water, unflavored|seltzer;club soda;lacroix|0|0|0|0|0|0|0|21|1 can (355 ml)@355*;1 bottle (500 ml)@500
+coffee-black-brewed|Coffee, brewed, black||1|0.12|0|0.02|0|0|0|2|1 cup (240 ml)@237*;1 mug (355 ml)@350;1 large (473 ml)@467|d=0.99
+coffee-espresso|Espresso||9|0.12|1.67|0.18|0|0|0.09|14|1 shot (30 ml)@30*;2 shots (60 ml)@60|d=1.0
+coffee-cold-brew|Cold brew coffee, black||1|0.2|0|0|0|0|0|3|1 cup (240 ml)@240*;1 bottle (473 ml)@473
+coffee-instant-prepared|Instant coffee, prepared||2|0.10|0.34|0|0|0|0|4|1 cup (240 ml)@239*;100 g@100
+coffee-decaf-brewed|Decaf coffee, brewed||0|0.10|0|0|0|0|0|2|1 cup (240 ml)@237*;100 g@100
+tea-black-brewed|Tea, black, brewed, unsweetened||1|0|0.30|0|0|0|0|3|1 cup (240 ml)@237*;1 mug (355 ml)@350|d=0.99
+tea-green-brewed|Tea, green, brewed, unsweetened||1|0.22|0|0|0|0|0|1|1 cup (240 ml)@237*;100 g@100|d=0.99
+tea-herbal-brewed|Herbal tea, brewed||1|0|0.20|0|0|0|0|2|1 cup (240 ml)@237*;100 g@100|d=0.99
+tea-iced-unsweetened|Iced tea, unsweetened||1|0|0.30|0|0|0|0|4|16 oz (473 ml)@473*;1 cup (240 ml)@240
+tea-iced-sweetened|Iced tea, sweetened||29|0|7.50|0|0|7.20|0|7|16 oz (473 ml)@478*;1 cup (240 ml)@243|d=1.01
+tea-sweet-southern|Sweet tea, southern style||36|0|9.00|0|0|9.00|0|8|16 oz (473 ml)@478*;1 cup (240 ml)@243|d=1.01;v=0
+tea-matcha-plain|Matcha, whisked with water||3|0.5|0.5|0|0.2|0|0|2|1 cup (240 ml)@240*;100 g@100|v=0
+hot-chocolate-milk|Hot chocolate, made with milk||77|3.50|10.7|2.30|1.0|9.50|1.40|60|1 cup (240 ml)@250*;1 mug (355 ml)@370|d=1.04
+hot-chocolate-mix-water|Hot cocoa, from mix with water||45|1.20|9.60|0.50|0.7|8.00|0.30|130|1 packet made (240 ml)@248*;100 g@100|d=1.03
+
+# --- juices --------------------------------------------------------------
+juice-orange|Orange juice, not from concentrate||45|0.70|10.4|0.20|0.2|8.40|0.02|1|1 cup (240 ml)@248*;1/2 cup (120 ml)@124;1 small glass (180 ml)@186|d=1.03
+juice-apple|Apple juice, unsweetened||46|0.10|11.3|0.13|0.2|9.62|0.02|4|1 cup (240 ml)@248*;1 juice box (200 ml)@207|d=1.03
+juice-grape|Grape juice, unsweetened||60|0.37|14.8|0.13|0.2|14.2|0.04|5|1 cup (240 ml)@253*;100 g@100|d=1.05
+juice-cranberry-cocktail|Cranberry juice cocktail||54|0|13.5|0.10|0|12.1|0.01|2|1 cup (240 ml)@253*;100 g@100|d=1.05
+juice-pineapple|Pineapple juice, unsweetened||53|0.36|12.9|0.12|0.2|9.98|0.01|2|1 cup (240 ml)@250*;100 g@100|d=1.04
+juice-tomato|Tomato juice||17|0.76|4.24|0.05|0.4|2.58|0.01|253|1 cup (240 ml)@243*;1 can (163 ml)@165|d=1.01
+juice-vegetable-v8|Vegetable juice cocktail||21|0.75|4.30|0.10|0.8|3.30|0.02|265|1 cup (240 ml)@243*;1 can (163 ml)@165|d=1.01
+juice-lemonade|Lemonade||44|0.10|11.2|0.04|0|10.6|0.01|3|1 cup (240 ml)@250*;16 oz (473 ml)@493|d=1.04
+juice-limeade|Limeade||44|0.10|11.2|0.04|0|10.6|0.01|3|1 cup (240 ml)@250*;100 g@100|d=1.04;v=0
+juice-apple-cider|Apple cider, non-alcoholic||47|0.10|11.6|0.13|0.2|10.0|0.02|5|1 cup (240 ml)@248*;100 g@100|d=1.03
+juice-carrot|Carrot juice||40|0.95|9.28|0.15|0.8|3.91|0.03|66|1 cup (240 ml)@244*;100 g@100|d=1.02
+juice-green-vegetable|Green juice, kale and apple||35|1.20|7.50|0.20|0.6|5.50|0.03|30|1 bottle (473 ml)@483*;1 cup (240 ml)@245|d=1.02;v=0
+juice-tart-cherry|Tart cherry juice||55|0.5|13.5|0|0|12.0|0|10|8 oz (240 ml)@250*;100 g@100|d=1.04;v=0
+
+# --- sodas ---------------------------------------------------------------
+soda-cola|Cola, regular|coke;pepsi;coca cola|42|0.06|10.6|0.02|0|10.6|0|4|1 can (355 ml)@368*;1 bottle (591 ml)@613;1 cup (240 ml)@249|d=1.04
+soda-cola-diet|Diet cola|diet coke;coke zero;pepsi zero|0.4|0.10|0.10|0|0|0|0|10|1 can (355 ml)@355*;1 bottle (591 ml)@591
+soda-lemon-lime|Lemon-lime soda|sprite;7up;sierra mist|41|0.06|10.4|0|0|10.4|0|9|1 can (355 ml)@368*;1 bottle (591 ml)@613|d=1.04
+soda-dr-pepper|Dr Pepper||41|0|10.4|0|0|10.4|0|11|1 can (355 ml)@368*;100 g@100|d=1.04|v=0
+soda-mountain-dew|Mountain Dew||47|0|12.7|0|0|12.4|0|17|1 can (355 ml)@370*;1 bottle (591 ml)@616|d=1.04;v=0
+soda-root-beer|Root beer||41|0|10.6|0|0|10.6|0|13|1 can (355 ml)@368*;100 g@100|d=1.04
+soda-ginger-ale|Ginger ale||34|0|8.76|0|0|8.76|0|7|1 can (355 ml)@366*;1 cup (240 ml)@247|d=1.03
+soda-orange|Orange soda|fanta|48|0|12.3|0|0|12.3|0|12|1 can (355 ml)@370*;100 g@100|d=1.04
+soda-prebiotic|Prebiotic soda|poppi;olipop|10|0|4.5|0|3.0|1.5|0|25|1 can (355 ml)@358*;100 g@100|d=1.01;v=0
+
+# --- sports, energy & functional -----------------------------------------
+gatorade-thirst-quencher|Gatorade Thirst Quencher||25|0|6.30|0|0|5.80|0|46|1 bottle (591 ml)@597*;1 cup (240 ml)@242|brand=Gatorade;src=manufacturer label;d=1.01
+gatorade-zero|Gatorade Zero||0|0|0.30|0|0|0|0|46|1 bottle (591 ml)@591*;1 cup (240 ml)@240|brand=Gatorade;src=manufacturer label
+powerade|Powerade||21|0|5.60|0|0|5.30|0|46|1 bottle (591 ml)@597*;100 g@100|brand=Powerade;src=manufacturer label;d=1.01
+body-armor-lyte|BodyArmor Lyte||3|0|0.85|0|0|0|0|11|1 bottle (473 ml)@473*;100 g@100|brand=BodyArmor;src=manufacturer label;v=0
+red-bull|Red Bull, regular||45|0.42|11.0|0|0|10.6|0|42|1 can (250 ml)@257*;1 large can (473 ml)@487|brand=Red Bull;src=manufacturer label;d=1.03
+red-bull-sugarfree|Red Bull, sugar free||2|0.4|1.2|0|0|0|0|40|1 can (250 ml)@250*;100 g@100|brand=Red Bull;src=manufacturer label
+monster-energy|Monster Energy, original||47|0|13.0|0|0|11.4|0|76|1 can (473 ml)@487*;100 g@100|brand=Monster;src=manufacturer label;d=1.03
+celsius-energy|Celsius energy drink, sparkling||3|0|1.7|0|0|0|0|0|1 can (355 ml)@355*;100 g@100|brand=Celsius;src=manufacturer label;v=0
+kombucha-plain|Kombucha, plain||13|0|3.20|0|0|2.20|0|5|1 bottle (414 ml)@418*;1 cup (240 ml)@242|d=1.01;v=0
+vitamin-water|Vitaminwater||21|0|5.40|0|0|5.40|0|0|1 bottle (591 ml)@597*;100 g@100|brand=Vitaminwater;src=manufacturer label;d=1.01
+coconut-water-beverage|Coconut water, packaged||19|0.72|3.71|0.20|1.1|2.61|0.18|105|1 box (330 ml)@330*;1 cup (240 ml)@240
+electrolyte-water|Electrolyte water, zero calorie||0|0|0|0|0|0|0|30|1 bottle (591 ml)@591*;100 g@100|v=0
+milkshake-vanilla|Milkshake, vanilla, fast food||112|3.80|17.7|3.00|0.2|16.5|1.90|95|1 small (340 g)@340*;1 medium (473 g)@473|d=1.04
+smoothie-strawberry-banana|Smoothie, strawberry banana||58|1.00|13.5|0.30|1.2|10.5|0.10|20|1 cup (240 ml)@248*;1 large (473 ml)@489|d=1.03;v=0
+protein-smoothie-berry|Protein smoothie, berry, with whey||75|8.00|9.00|0.80|1.5|6.00|0.30|85|1 cup (240 ml)@248*;16 oz (473 ml)@489|d=1.03;v=0
+horchata|Horchata||65|0.5|13.5|1.2|0.2|12.0|0.9|30|1 cup (240 ml)@248*;100 g@100|d=1.03;v=0

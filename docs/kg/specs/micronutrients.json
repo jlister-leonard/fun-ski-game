@@ -1,0 +1,963 @@
+{
+  "$schema": "./micronutrients.schema.md",
+  "version": "1.1.0",
+  "generated": "2026-08-01",
+  "owner": "nutrition-personalization",
+  "consumedBy": [
+    "docs/kg/specs/algorithms/micronutrients.ts",
+    "docs/kg/specs/algorithms/dietary-guardrails.ts",
+    "S2 nutrition diary",
+    "S1 dashboard"
+  ],
+
+  "about": {
+    "purpose": "Reference intakes, upper limits, food sources and no-vegetable risk ratings for every micronutrient the app tracks. This file is data only. All logic lives in algorithms/micronutrients.ts.",
+    "referenceSystem": "US/Canada Dietary Reference Intakes (IOM/NASEM), because the food database (integration-food-db.md) is USDA-FDC-anchored and mixing reference systems inside one adequacy calculation produces nonsense. Where the DRI system declines to set a value (vitamin K2, carotenoids, EPA/DHA, nitrate) the field is null and an explicit non-DRI reference is given in `alternativeReference` with its provenance.",
+    "unitsPolicy": "Every value is in the nutrient's `unit`. No IU anywhere except in `displayNote` strings, because IU conversion factors differ by vitamer and are a well-known source of silent error.",
+    "ratings": {
+      "riskWithoutVegetables": {
+        "none": "Vegetables are not a meaningful source. Excluding them changes nothing for this nutrient.",
+        "low": "Vegetables contribute, but ordinary non-vegetable foods cover the requirement without effort.",
+        "moderate": "Vegetables are a significant contributor. Non-vegetable sources exist and are adequate, but they have to be chosen deliberately.",
+        "high": "Vegetables are a dominant contributor. Meeting the requirement without them requires either specific non-vegetable foods in real quantity, or supplementation.",
+        "severe": "Vegetables — usually leafy greens specifically — are close to the only practical dietary source. Without them, intake will be inadequate unless supplemented."
+      },
+      "supplementCloseability": {
+        "equivalent": "A supplement delivers the same molecule at the same or better bioavailability. Closing the gap with a pill is not a compromise.",
+        "good": "Supplementation works well. Minor caveats about form or absorption, none of them decisive.",
+        "partial": "Supplementation raises the biomarker but does not reproduce everything the food does. Useful, not a full substitute.",
+        "poor": "Supplementation is a weak substitute, or is capped by regulation below the level that would matter, or the relevant benefit is attached to the food matrix rather than the isolated nutrient."
+      }
+    },
+    "evidenceReview": {
+      "reviewedOn": "2026-08-01",
+      "scope": "Verified the app's form-specific upper-limit rules for preformed vitamin A, folic acid from supplements/fortified foods, and supplemental magnesium. No numeric threshold was changed in this review.",
+      "sources": [
+        "https://ods.od.nih.gov/factsheets/VitaminA-HealthProfessional/",
+        "https://ods.od.nih.gov/factsheets/Folate-HealthProfessional/",
+        "https://ods.od.nih.gov/factsheets/Magnesium-HealthProfessional/"
+      ],
+      "boundary": "This source review validates the cited population guidance; it is not an individual diagnosis or clinician approval of the app's complete nutrition system."
+    },
+    "sources": [
+      "https://ods.od.nih.gov/HealthInformation/nutrientrecommendations.aspx",
+      "https://www.nationalacademies.org/our-work/summary-report-of-the-dietary-reference-intakes",
+      "https://nap.nationalacademies.org/catalog/25353/dietary-reference-intakes-for-sodium-and-potassium",
+      "https://www.dietaryguidelines.gov/"
+    ],
+    "caveat": "RDA/AI values are population reference intakes, not individual requirements. An individual intake below the RDA is not a diagnosis of deficiency; it is a probability statement. All user-facing copy generated from this file must respect that distinction — see algorithms/micronutrients.ts, ADEQUACY_COPY."
+  },
+
+  "nutrients": [
+    {
+      "id": "fiber",
+      "name": "Fiber",
+      "category": "macronutrient-component",
+      "unit": "g",
+      "referenceType": "AI",
+      "reference": {
+        "male": [
+          { "minAge": 19, "maxAge": 50, "value": 38 },
+          { "minAge": 51, "maxAge": 200, "value": 30 }
+        ],
+        "female": [
+          { "minAge": 19, "maxAge": 50, "value": 25 },
+          { "minAge": 51, "maxAge": 200, "value": 21 }
+        ]
+      },
+      "referenceBasis": "14 g per 1,000 kcal. The app should prefer the energy-scaled form for anyone eating well above or below 2,700 kcal, and does so in `energyScaledTarget()`.",
+      "upperLimit": null,
+      "upperLimitNote": "No UL. High intakes cause GI symptoms, not toxicity. A practical ceiling of ~70 g/day is applied as an `info`-level comfort note, not a safety limit.",
+      "primaryFoodSources": [
+        { "food": "Psyllium husk powder", "serving": "1 tbsp (~7 g)", "amount": 5.5, "vegetable": false },
+        { "food": "Black beans, cooked", "serving": "1 cup", "amount": 15, "vegetable": false },
+        { "food": "Rolled oats, dry", "serving": "80 g", "amount": 8, "vegetable": false },
+        { "food": "Raspberries", "serving": "1 cup", "amount": 8, "vegetable": false },
+        { "food": "Chia seeds", "serving": "2 tbsp", "amount": 10, "vegetable": false },
+        { "food": "Whole-wheat pasta, cooked", "serving": "1 cup", "amount": 6, "vegetable": false },
+        { "food": "Almonds", "serving": "30 g", "amount": 3.5, "vegetable": false },
+        { "food": "Avocado", "serving": "1 medium", "amount": 10, "vegetable": false },
+        { "food": "Potato with skin", "serving": "1 medium", "amount": 4, "vegetable": true }
+      ],
+      "riskWithoutVegetables": "high",
+      "riskNote": "Vegetables are a large share of typical fiber intake, but they are not required to hit 38 g. Oats, legumes, whole grains, fruit, nuts and seeds get there. The realistic obstacle is not vegetable avoidance — it is that a cutting diet displaces carbohydrate volume, and fiber falls with it.",
+      "supplementCloseability": "partial",
+      "supplementNote": "Isolated fiber reliably improves stool form, and viscous fibers reliably improve satiety and lipids. It does not reproduce the fermentable-substrate diversity of mixed whole-food fiber, and microbiome diversity is not something a single purified polysaccharide replicates. See nutrition-personalization.md §6.4.",
+      "trackingPriority": "primary",
+      "sources": [
+        "https://ods.od.nih.gov/factsheets/list-all/",
+        "https://nap.nationalacademies.org/catalog/10490/dietary-reference-intakes-for-energy-carbohydrate-fiber-fat-fatty-acids-cholesterol-protein-and-amino-acids"
+      ]
+    },
+
+    {
+      "id": "potassium",
+      "name": "Potassium",
+      "category": "mineral",
+      "unit": "mg",
+      "referenceType": "AI",
+      "reference": {
+        "male": [{ "minAge": 19, "maxAge": 200, "value": 3400 }],
+        "female": [{ "minAge": 19, "maxAge": 200, "value": 2600 }]
+      },
+      "referenceBasis": "NASEM 2019 revision. This replaced the 1st-edition 4,700 mg AI, which was set on blood-pressure grounds the 2019 committee judged unsupported. The app must not quote 4,700 mg — a large amount of consumer material still does.",
+      "upperLimit": null,
+      "upperLimitNote": "No UL for healthy people; the 2019 committee reaffirmed insufficient evidence to set one. This is NOT a statement that supplemental potassium is unlimited — see `supplementCap`. Anyone with CKD, or taking an ACE inhibitor, ARB, or potassium-sparing diuretic, is outside the population the UL statement covers, and the app must surface that before showing any potassium suggestion.",
+      "supplementCap": {
+        "value": 99,
+        "unit": "mg",
+        "note": "99 mg per solid dosage unit is a VOLUNTARY INDUSTRY CONVENTION, not a statutory limit — a distinction almost every consumer source gets wrong. It derives from 21 CFR 201.306, an FDA *drug*-labeling enforcement policy whose threshold is '100 mg or more of potassium per tablet'; crossing it pushes a product toward prescription status and triggers a mandatory warning about non-specific small-bowel lesions (stenosis, ulceration, haemorrhage, perforation) seen in the mid-1960s with enteric-coated potassium-chloride/thiazide combination tablets. 99 is simply the largest whole number below the trigger. Under DSHEA (1994) the FDA may not cap a nutrient in a dietary supplement absent a safety finding, and it has never made one for potassium. Liquids are governed by a much looser 20 mg/mL threshold, and salt substitutes escape the rule entirely because potassium chloride is GRAS as a food (21 CFR 184.1622). The practical consequence stands regardless of the legal mechanism: potassium cannot be pill-supplemented to adequacy at any sane pill count. It is a food-and-salt-substitute problem."
+      },
+      "primaryFoodSources": [
+        { "food": "Potato, baked with skin", "serving": "1 medium (173 g)", "amount": 926, "vegetable": true },
+        { "food": "Potassium-chloride salt substitute (Nu-Salt, ~100% KCl)", "serving": "1/4 tsp", "amount": 795, "vegetable": false },
+        { "food": "Morton Salt Substitute (100% KCl)", "serving": "1/4 tsp", "amount": 690, "vegetable": false },
+        { "food": "Morton Lite Salt (~50/50 KCl/NaCl)", "serving": "1/4 tsp", "amount": 350, "vegetable": false },
+        { "food": "Plain yogurt", "serving": "1 cup", "amount": 570, "vegetable": false },
+        { "food": "Salmon, cooked", "serving": "170 g", "amount": 800, "vegetable": false },
+        { "food": "Milk", "serving": "1 cup", "amount": 380, "vegetable": false },
+        { "food": "Banana", "serving": "1 medium", "amount": 422, "vegetable": false },
+        { "food": "Orange juice", "serving": "1 cup", "amount": 496, "vegetable": false },
+        { "food": "Coconut water", "serving": "1 cup", "amount": 600, "vegetable": false },
+        { "food": "White beans, cooked", "serving": "1/2 cup", "amount": 600, "vegetable": false },
+        { "food": "Chicken breast, cooked", "serving": "170 g", "amount": 550, "vegetable": false },
+        { "food": "Avocado", "serving": "1/2 medium", "amount": 350, "vegetable": false }
+      ],
+      "riskWithoutVegetables": "high",
+      "riskNote": "Potassium is the single hardest gap in this profile. Vegetables and potatoes are the top US contributor, but the non-vegetable route is genuinely viable: dairy, fish, meat, fruit, legumes and a potassium-chloride salt substitute together clear 3,400 mg without difficulty. What makes it hard is that it cannot be rescued by a multivitamin, so it has to be solved in the food log or not at all.",
+      "supplementCloseability": "poor",
+      "supplementNote": "See `supplementCap`. Salt substitutes are the effective lever, not pills.",
+      "athleteNote": "Sweat potassium is roughly 150–250 mg/L, an order of magnitude below sweat sodium. A hard, heavily-sweating session might cost 200–500 mg — real, but small against a 3,400 mg AI, and it is not the reason a low-vegetable eater is short. Do not let the app frame potassium as an electrolyte-replacement problem; it is a total-diet problem.",
+      "trackingPriority": "primary",
+      "sources": [
+        "https://ods.od.nih.gov/factsheets/Potassium-HealthProfessional/",
+        "https://nap.nationalacademies.org/catalog/25353/dietary-reference-intakes-for-sodium-and-potassium"
+      ]
+    },
+
+    {
+      "id": "magnesium",
+      "name": "Magnesium",
+      "category": "mineral",
+      "unit": "mg",
+      "referenceType": "RDA",
+      "reference": {
+        "male": [
+          { "minAge": 19, "maxAge": 30, "value": 400 },
+          { "minAge": 31, "maxAge": 200, "value": 420 }
+        ],
+        "female": [
+          { "minAge": 19, "maxAge": 30, "value": 310 },
+          { "minAge": 31, "maxAge": 200, "value": 320 }
+        ]
+      },
+      "upperLimit": {
+        "male": [{ "minAge": 19, "maxAge": 200, "value": 350 }],
+        "female": [{ "minAge": 19, "maxAge": 200, "value": 350 }]
+      },
+      "upperLimitBasis": "supplemental-only",
+      "upperLimitNote": "CRITICAL AND ROUTINELY GOT WRONG: the 350 mg UL applies to magnesium from supplements and medications ONLY, not from food. The endpoint is osmotic diarrhea, not systemic toxicity. The UL-exceedance check in dietary-guardrails.ts must therefore compare supplemental magnesium alone against 350 mg and must never sum food magnesium into that comparison.",
+      "primaryFoodSources": [
+        { "food": "Pumpkin seeds", "serving": "30 g", "amount": 156, "vegetable": false },
+        { "food": "Chia seeds", "serving": "30 g", "amount": 111, "vegetable": false },
+        { "food": "Almonds", "serving": "30 g", "amount": 80, "vegetable": false },
+        { "food": "Dark chocolate 70–85%", "serving": "30 g", "amount": 65, "vegetable": false },
+        { "food": "Black beans, cooked", "serving": "1/2 cup", "amount": 60, "vegetable": false },
+        { "food": "Rolled oats, dry", "serving": "80 g", "amount": 110, "vegetable": false },
+        { "food": "Peanut butter", "serving": "2 tbsp", "amount": 49, "vegetable": false },
+        { "food": "Spinach, boiled", "serving": "1/2 cup", "amount": 78, "vegetable": true }
+      ],
+      "riskWithoutVegetables": "moderate",
+      "riskNote": "Greens are a famous source but not a dominant one in practice. Nuts, seeds, whole grains, legumes and cocoa are stronger per calorie. Magnesium intake is below the EAR for a large share of the US population regardless of vegetable intake, so this is a general shortfall rather than a vegetable-avoidance shortfall.",
+      "supplementCloseability": "equivalent",
+      "supplementNote": "Fully closeable. Form matters for tolerability more than for efficacy: glycinate, malate and citrate are better tolerated than oxide, whose fractional absorption is poor and whose laxative effect is the strongest. Keep supplemental dose at or below 350 mg to stay under the UL.",
+      "trackingPriority": "primary",
+      "sources": ["https://ods.od.nih.gov/factsheets/Magnesium-HealthProfessional/"]
+    },
+
+    {
+      "id": "calcium",
+      "name": "Calcium",
+      "category": "mineral",
+      "unit": "mg",
+      "referenceType": "RDA",
+      "reference": {
+        "male": [
+          { "minAge": 19, "maxAge": 70, "value": 1000 },
+          { "minAge": 71, "maxAge": 200, "value": 1200 }
+        ],
+        "female": [
+          { "minAge": 19, "maxAge": 50, "value": 1000 },
+          { "minAge": 51, "maxAge": 200, "value": 1200 }
+        ]
+      },
+      "upperLimit": {
+        "male": [
+          { "minAge": 19, "maxAge": 50, "value": 2500 },
+          { "minAge": 51, "maxAge": 200, "value": 2000 }
+        ],
+        "female": [
+          { "minAge": 19, "maxAge": 50, "value": 2500 },
+          { "minAge": 51, "maxAge": 200, "value": 2000 }
+        ]
+      },
+      "upperLimitBasis": "total",
+      "primaryFoodSources": [
+        { "food": "Plain yogurt", "serving": "1 cup", "amount": 415, "vegetable": false },
+        { "food": "Milk", "serving": "1 cup", "amount": 300, "vegetable": false },
+        { "food": "Cheddar cheese", "serving": "30 g", "amount": 200, "vegetable": false },
+        { "food": "Canned sardines with bones", "serving": "85 g", "amount": 325, "vegetable": false },
+        { "food": "Fortified soy or oat milk", "serving": "1 cup", "amount": 300, "vegetable": false },
+        { "food": "Whey protein concentrate", "serving": "30 g scoop", "amount": 100, "vegetable": false }
+      ],
+      "riskWithoutVegetables": "low",
+      "riskNote": "Dairy and fortified foods dominate. Vegetable avoidance is essentially irrelevant here unless dairy is also excluded. Worth tracking anyway because calcium interacts with the energy-availability picture in athletes and because it competes with iron and zinc for absorption when taken as a large single supplemental dose.",
+      "supplementCloseability": "good",
+      "supplementNote": "Absorption is dose-limited — split doses above 500 mg. Prefer food where possible; supplemental calcium has a less clean cardiovascular safety record than dietary calcium, though the evidence is contested.",
+      "trackingPriority": "secondary",
+      "sources": ["https://ods.od.nih.gov/factsheets/Calcium-HealthProfessional/"]
+    },
+
+    {
+      "id": "iron",
+      "name": "Iron",
+      "category": "mineral",
+      "unit": "mg",
+      "referenceType": "RDA",
+      "reference": {
+        "male": [{ "minAge": 19, "maxAge": 200, "value": 8 }],
+        "female": [
+          { "minAge": 19, "maxAge": 50, "value": 18 },
+          { "minAge": 51, "maxAge": 200, "value": 8 }
+        ]
+      },
+      "upperLimit": {
+        "male": [{ "minAge": 19, "maxAge": 200, "value": 45 }],
+        "female": [{ "minAge": 19, "maxAge": 200, "value": 45 }]
+      },
+      "upperLimitBasis": "total",
+      "upperLimitNote": "UL endpoint is GI distress. It does not protect people with hereditary hemochromatosis, for whom any iron supplement may be inappropriate. The app must never recommend iron supplementation; it may only report intake against the reference.",
+      "primaryFoodSources": [
+        { "food": "Beef, cooked", "serving": "100 g", "amount": 2.7, "vegetable": false },
+        { "food": "Oysters", "serving": "85 g", "amount": 8, "vegetable": false },
+        { "food": "Fortified breakfast cereal", "serving": "1 serving", "amount": 18, "vegetable": false },
+        { "food": "Lentils, cooked", "serving": "1/2 cup", "amount": 3.3, "vegetable": false },
+        { "food": "Dark chocolate", "serving": "30 g", "amount": 3.3, "vegetable": false },
+        { "food": "Spinach, boiled", "serving": "1/2 cup", "amount": 3.2, "vegetable": true }
+      ],
+      "riskWithoutVegetables": "low",
+      "riskNote": "Non-heme iron from greens is poorly absorbed anyway (~2–20% vs ~15–35% for heme). A meat-eating male with an 8 mg RDA is not at risk from vegetable avoidance. Flag only if red meat and fortified grains are both absent.",
+      "supplementCloseability": "good",
+      "supplementNote": "Effective but should follow a ferritin measurement, not a food log. Unnecessary iron supplementation is not benign.",
+      "trackingPriority": "secondary",
+      "sources": ["https://ods.od.nih.gov/factsheets/Iron-HealthProfessional/"]
+    },
+
+    {
+      "id": "zinc",
+      "name": "Zinc",
+      "category": "mineral",
+      "unit": "mg",
+      "referenceType": "RDA",
+      "reference": {
+        "male": [{ "minAge": 19, "maxAge": 200, "value": 11 }],
+        "female": [{ "minAge": 19, "maxAge": 200, "value": 8 }]
+      },
+      "upperLimit": {
+        "male": [{ "minAge": 19, "maxAge": 200, "value": 40 }],
+        "female": [{ "minAge": 19, "maxAge": 200, "value": 40 }]
+      },
+      "upperLimitBasis": "total",
+      "upperLimitNote": "The UL endpoint is reduced copper status. Chronic supplemental zinc above the UL causes copper deficiency, which presents as anemia and neuropathy and is frequently missed. This is one of the highest-yield UL checks in the whole app because zinc appears in multivitamins, in 'immune support' products and in ZMA simultaneously, and stacking them is common.",
+      "primaryFoodSources": [
+        { "food": "Oysters", "serving": "85 g", "amount": 32, "vegetable": false },
+        { "food": "Beef chuck, cooked", "serving": "85 g", "amount": 7, "vegetable": false },
+        { "food": "Pumpkin seeds", "serving": "30 g", "amount": 2.2, "vegetable": false },
+        { "food": "Cheddar cheese", "serving": "30 g", "amount": 1.5, "vegetable": false },
+        { "food": "Chicken thigh, cooked", "serving": "85 g", "amount": 2.4, "vegetable": false }
+      ],
+      "riskWithoutVegetables": "none",
+      "riskNote": "Vegetables are a negligible zinc source. No vegetable-avoidance risk in a meat eater.",
+      "supplementCloseability": "equivalent",
+      "trackingPriority": "secondary",
+      "sources": ["https://ods.od.nih.gov/factsheets/Zinc-HealthProfessional/"]
+    },
+
+    {
+      "id": "copper",
+      "name": "Copper",
+      "category": "mineral",
+      "unit": "mcg",
+      "referenceType": "RDA",
+      "reference": {
+        "male": [{ "minAge": 19, "maxAge": 200, "value": 900 }],
+        "female": [{ "minAge": 19, "maxAge": 200, "value": 900 }]
+      },
+      "upperLimit": {
+        "male": [{ "minAge": 19, "maxAge": 200, "value": 10000 }],
+        "female": [{ "minAge": 19, "maxAge": 200, "value": 10000 }]
+      },
+      "upperLimitBasis": "total",
+      "primaryFoodSources": [
+        { "food": "Beef liver", "serving": "85 g", "amount": 12400, "vegetable": false },
+        { "food": "Oysters", "serving": "85 g", "amount": 4850, "vegetable": false },
+        { "food": "Dark chocolate", "serving": "30 g", "amount": 500, "vegetable": false },
+        { "food": "Cashews", "serving": "30 g", "amount": 630, "vegetable": false }
+      ],
+      "riskWithoutVegetables": "none",
+      "riskNote": "Tracked mainly because it is the casualty of excess zinc, not because vegetables supply it. The zinc:copper interaction check in dietary-guardrails.ts is the reason this nutrient is in the file at all.",
+      "supplementCloseability": "equivalent",
+      "trackingPriority": "secondary",
+      "sources": ["https://ods.od.nih.gov/factsheets/Copper-HealthProfessional/"]
+    },
+
+    {
+      "id": "selenium",
+      "name": "Selenium",
+      "category": "mineral",
+      "unit": "mcg",
+      "referenceType": "RDA",
+      "reference": {
+        "male": [{ "minAge": 19, "maxAge": 200, "value": 55 }],
+        "female": [{ "minAge": 19, "maxAge": 200, "value": 55 }]
+      },
+      "upperLimit": {
+        "male": [{ "minAge": 19, "maxAge": 200, "value": 400 }],
+        "female": [{ "minAge": 19, "maxAge": 200, "value": 400 }]
+      },
+      "upperLimitBasis": "total",
+      "upperLimitNote": "Selenosis — hair and nail brittleness and loss, GI upset, garlic breath — is a real and reachable outcome. Brazil nuts vary enormously by soil origin, from roughly 70 to over 90 mcg per single nut, so a daily handful can approach or exceed the UL on its own. Worth an explicit `info` finding rather than silence.",
+      "primaryFoodSources": [
+        { "food": "Brazil nuts", "serving": "1 nut (5 g)", "amount": 96, "vegetable": false },
+        { "food": "Tuna, yellowfin", "serving": "85 g", "amount": 92, "vegetable": false },
+        { "food": "Sardines", "serving": "85 g", "amount": 45, "vegetable": false },
+        { "food": "Beef, cooked", "serving": "85 g", "amount": 33, "vegetable": false },
+        { "food": "Egg", "serving": "1 large", "amount": 15, "vegetable": false }
+      ],
+      "riskWithoutVegetables": "none",
+      "supplementCloseability": "equivalent",
+      "trackingPriority": "secondary",
+      "sources": ["https://ods.od.nih.gov/factsheets/Selenium-HealthProfessional/"]
+    },
+
+    {
+      "id": "iodine",
+      "name": "Iodine",
+      "category": "mineral",
+      "unit": "mcg",
+      "referenceType": "RDA",
+      "reference": {
+        "male": [{ "minAge": 19, "maxAge": 200, "value": 150 }],
+        "female": [{ "minAge": 19, "maxAge": 200, "value": 150 }]
+      },
+      "upperLimit": {
+        "male": [{ "minAge": 19, "maxAge": 200, "value": 1100 }],
+        "female": [{ "minAge": 19, "maxAge": 200, "value": 1100 }]
+      },
+      "upperLimitBasis": "total",
+      "upperLimitNote": "Both deficiency and excess cause thyroid dysfunction. Kelp and seaweed supplements can deliver many multiples of the UL in one dose and are a recognised cause of iodine-induced thyroid disease — a specific, worthwhile check.",
+      "primaryFoodSources": [
+        { "food": "Iodized table salt", "serving": "1/4 tsp", "amount": 76, "vegetable": false },
+        { "food": "Cod, cooked", "serving": "85 g", "amount": 158, "vegetable": false },
+        { "food": "Milk", "serving": "1 cup", "amount": 85, "vegetable": false },
+        { "food": "Plain yogurt", "serving": "1 cup", "amount": 75, "vegetable": false },
+        { "food": "Egg", "serving": "1 large", "amount": 26, "vegetable": false }
+      ],
+      "riskWithoutVegetables": "none",
+      "riskNote": "No vegetable-avoidance risk. The genuine risk factor is switching to a non-iodized speciality salt — sea salt, kosher salt, pink salt — which most people do not realise removes their main iodine source. That is a much more likely failure mode here than vegetable avoidance, and it interacts with the potassium salt-substitute advice: most KCl salt substitutes are NOT iodized.",
+      "supplementCloseability": "equivalent",
+      "trackingPriority": "secondary",
+      "sources": ["https://ods.od.nih.gov/factsheets/Iodine-HealthProfessional/"]
+    },
+
+    {
+      "id": "vitamin_a",
+      "name": "Vitamin A",
+      "category": "fat-soluble-vitamin",
+      "unit": "mcg RAE",
+      "referenceType": "RDA",
+      "reference": {
+        "male": [{ "minAge": 19, "maxAge": 200, "value": 900 }],
+        "female": [{ "minAge": 19, "maxAge": 200, "value": 700 }]
+      },
+      "upperLimit": {
+        "male": [{ "minAge": 19, "maxAge": 200, "value": 3000 }],
+        "female": [{ "minAge": 19, "maxAge": 200, "value": 3000 }]
+      },
+      "upperLimitBasis": "preformed-retinol-only",
+      "upperLimitNote": "SECOND CRITICAL UNIT TRAP: the 3,000 mcg UL applies to PREFORMED vitamin A (retinol and retinyl esters) only. Provitamin-A carotenoids from food have no UL and are not summed into the comparison. Beef liver is the case that matters — a single 85 g serving supplies roughly 6,600 mcg RAE of preformed retinol, over twice the UL, so a weekly liver habit stacked on a retinol-containing multivitamin is a genuine finding and not a theoretical one. Chronic excess preformed retinol is associated with reduced bone mineral density and hepatotoxicity, and is teratogenic.",
+      "primaryFoodSources": [
+        { "food": "Beef liver, cooked", "serving": "85 g", "amount": 6582, "vegetable": false, "form": "preformed" },
+        { "food": "Sweet potato, baked", "serving": "1 medium", "amount": 1403, "vegetable": true, "form": "carotenoid" },
+        { "food": "Carrot, raw", "serving": "1/2 cup", "amount": 459, "vegetable": true, "form": "carotenoid" },
+        { "food": "Butter", "serving": "1 tbsp", "amount": 97, "vegetable": false, "form": "preformed" },
+        { "food": "Egg", "serving": "1 large", "amount": 75, "vegetable": false, "form": "preformed" },
+        { "food": "Cheddar cheese", "serving": "30 g", "amount": 75, "vegetable": false, "form": "preformed" },
+        { "food": "Fortified milk", "serving": "1 cup", "amount": 149, "vegetable": false, "form": "preformed" }
+      ],
+      "riskWithoutVegetables": "moderate",
+      "riskNote": "Orange and dark-green vegetables are the dominant US source, but they supply carotenoids, and carotenoid conversion to retinol is inefficient and highly variable between individuals (BCMO1 polymorphisms). The non-vegetable route — eggs, dairy, butter, liver, fortified foods — supplies preformed retinol directly and does so more reliably. So vegetable avoidance raises risk for total vitamin A, but the fix is straightforward and does not require greens.",
+      "supplementCloseability": "good",
+      "supplementNote": "Prefer beta-carotene or mixed-carotenoid forms over high-dose retinyl palmitate when supplementing, because carotenoid conversion is self-limiting and cannot cause hypervitaminosis A. Note the separate AREDS/CARET finding that high-dose beta-carotene supplements increase lung cancer risk in smokers and asbestos-exposed workers — the app must carry that warning wherever beta-carotene is mentioned.",
+      "trackingPriority": "primary",
+      "sources": ["https://ods.od.nih.gov/factsheets/VitaminA-HealthProfessional/"]
+    },
+
+    {
+      "id": "lutein_zeaxanthin",
+      "name": "Lutein + zeaxanthin",
+      "category": "carotenoid",
+      "unit": "mg",
+      "referenceType": "none",
+      "reference": null,
+      "alternativeReference": {
+        "male": [{ "minAge": 19, "maxAge": 200, "value": 12 }],
+        "female": [{ "minAge": 19, "maxAge": 200, "value": 12 }],
+        "basis": "No DRI exists — the IOM declined to set one for any carotenoid. The 12 mg figure is the AREDS2 formulation dose (10 mg lutein + 2 mg zeaxanthin), used here as a tracking anchor only, not as a requirement. Typical US intake is 1–2 mg/day, so nearly everyone is 'below' this anchor and the UI must not present that as a deficiency.",
+        "confidence": "reasonable-inference"
+      },
+      "upperLimit": null,
+      "upperLimitNote": "No UL. AREDS2 found no safety signal at 10+2 mg over five years.",
+      "primaryFoodSources": [
+        { "food": "Kale, cooked", "serving": "1/2 cup", "amount": 11.9, "vegetable": true },
+        { "food": "Spinach, cooked", "serving": "1/2 cup", "amount": 10.2, "vegetable": true },
+        { "food": "Egg yolk", "serving": "1 large", "amount": 0.25, "vegetable": false },
+        { "food": "Yellow corn", "serving": "1/2 cup", "amount": 0.7, "vegetable": true },
+        { "food": "Pistachios", "serving": "30 g", "amount": 0.4, "vegetable": false },
+        { "food": "Durum wheat pasta", "serving": "1 cup", "amount": 0.2, "vegetable": false }
+      ],
+      "riskWithoutVegetables": "severe",
+      "riskNote": "Dark leafy greens supply roughly an order of magnitude more per serving than anything else. Egg yolk is the one non-vegetable source worth naming, and its saving grace is bioavailability rather than quantity: the lutein is delivered in a lipid matrix and raises plasma lutein far more per milligram than spinach does. Even so, matching a serving of kale from eggs alone means an implausible number of eggs.",
+      "supplementCloseability": "good",
+      "supplementNote": "Marigold-extract lutein/zeaxanthin supplements reliably raise both plasma concentration and macular pigment optical density. The honest caveat is that the outcome evidence is specifically for slowing progression of intermediate AMD in AREDS2; there is no established benefit for a healthy 40-year-old, and the app should not imply one. Track it as a gap; do not moralise about it.",
+      "trackingPriority": "secondary",
+      "sources": [
+        "https://www.nei.nih.gov/research/clinical-trials/age-related-eye-disease-studies-aredsareds2",
+        "https://ods.od.nih.gov/factsheets/VitaminA-HealthProfessional/"
+      ]
+    },
+
+    {
+      "id": "vitamin_c",
+      "name": "Vitamin C",
+      "category": "water-soluble-vitamin",
+      "unit": "mg",
+      "referenceType": "RDA",
+      "reference": {
+        "male": [{ "minAge": 19, "maxAge": 200, "value": 90 }],
+        "female": [{ "minAge": 19, "maxAge": 200, "value": 75 }]
+      },
+      "referenceModifiers": [
+        { "condition": "smoker", "add": 35, "note": "Smokers need an additional 35 mg/day." }
+      ],
+      "upperLimit": {
+        "male": [{ "minAge": 19, "maxAge": 200, "value": 2000 }],
+        "female": [{ "minAge": 19, "maxAge": 200, "value": 2000 }]
+      },
+      "upperLimitBasis": "total",
+      "upperLimitNote": "Endpoint is osmotic diarrhea. Also raises urinary oxalate — relevant only for people with a kidney-stone history.",
+      "primaryFoodSources": [
+        { "food": "Orange juice", "serving": "1 cup", "amount": 124, "vegetable": false },
+        { "food": "Kiwifruit", "serving": "1 medium", "amount": 64, "vegetable": false },
+        { "food": "Strawberries", "serving": "1/2 cup", "amount": 49, "vegetable": false },
+        { "food": "Orange", "serving": "1 medium", "amount": 70, "vegetable": false },
+        { "food": "Red bell pepper", "serving": "1/2 cup raw", "amount": 95, "vegetable": true },
+        { "food": "Potato, baked", "serving": "1 medium", "amount": 17, "vegetable": true }
+      ],
+      "riskWithoutVegetables": "moderate",
+      "riskNote": "Fruit closes this one comfortably; a single glass of orange juice exceeds the RDA. It is rated moderate rather than low only because vitamin C deficiency is the single most-reported micronutrient consequence in the published ARFID case literature — including frank scurvy — and because it is heat-labile and lost in cooking. A restricted eater who avoids both vegetables AND fruit is genuinely at risk, and that combination is common in sensory-driven avoidance. Worth an explicit check rather than an assumption.",
+      "supplementCloseability": "equivalent",
+      "trackingPriority": "primary",
+      "sources": ["https://ods.od.nih.gov/factsheets/VitaminC-HealthProfessional/"]
+    },
+
+    {
+      "id": "vitamin_d",
+      "name": "Vitamin D",
+      "category": "fat-soluble-vitamin",
+      "unit": "mcg",
+      "referenceType": "RDA",
+      "reference": {
+        "male": [
+          { "minAge": 19, "maxAge": 70, "value": 15 },
+          { "minAge": 71, "maxAge": 200, "value": 20 }
+        ],
+        "female": [
+          { "minAge": 19, "maxAge": 70, "value": 15 },
+          { "minAge": 71, "maxAge": 200, "value": 20 }
+        ]
+      },
+      "upperLimit": {
+        "male": [{ "minAge": 19, "maxAge": 200, "value": 100 }],
+        "female": [{ "minAge": 19, "maxAge": 200, "value": 100 }]
+      },
+      "upperLimitBasis": "total",
+      "displayNote": "15 mcg = 600 IU; UL 100 mcg = 4,000 IU. Consumer supplements are labelled in IU almost universally, so the UI must show both. Conversion: 1 mcg = 40 IU.",
+      "upperLimitNote": "A 5,000 IU (125 mcg) daily softgel — an extremely common retail dose — exceeds the UL on its own. This is probably the single most frequently exceeded UL in the supplement-taking population and the check must not be squeamish about saying so. The finding should be `warn`, not `block`: many clinicians deliberately prescribe above the UL for documented deficiency, and the app must leave room for that with a 'my doctor told me to' acknowledgement rather than pretending the user is wrong.",
+      "primaryFoodSources": [
+        { "food": "Salmon, sockeye, cooked", "serving": "85 g", "amount": 14.2, "vegetable": false },
+        { "food": "Cod liver oil", "serving": "1 tbsp", "amount": 34, "vegetable": false },
+        { "food": "Fortified milk", "serving": "1 cup", "amount": 2.9, "vegetable": false },
+        { "food": "Egg yolk", "serving": "1 large", "amount": 1.1, "vegetable": false },
+        { "food": "UV-exposed mushrooms", "serving": "1/2 cup", "amount": 9.2, "vegetable": true }
+      ],
+      "riskWithoutVegetables": "none",
+      "riskNote": "Vegetables supply essentially none. Vitamin D risk is driven by latitude, season, skin tone, sun exposure and body fat — not by vegetable avoidance. Included because it is one of the most commonly inadequate nutrients in absolute terms and because it is the most commonly over-supplemented.",
+      "supplementCloseability": "equivalent",
+      "supplementNote": "D3 (cholecalciferol) raises serum 25(OH)D more effectively than D2. Take with a fat-containing meal.",
+      "trackingPriority": "primary",
+      "sources": ["https://ods.od.nih.gov/factsheets/VitaminD-HealthProfessional/"]
+    },
+
+    {
+      "id": "vitamin_e",
+      "name": "Vitamin E",
+      "category": "fat-soluble-vitamin",
+      "unit": "mg",
+      "referenceType": "RDA",
+      "reference": {
+        "male": [{ "minAge": 19, "maxAge": 200, "value": 15 }],
+        "female": [{ "minAge": 19, "maxAge": 200, "value": 15 }]
+      },
+      "upperLimit": {
+        "male": [{ "minAge": 19, "maxAge": 200, "value": 1000 }],
+        "female": [{ "minAge": 19, "maxAge": 200, "value": 1000 }]
+      },
+      "upperLimitBasis": "supplemental-only",
+      "upperLimitNote": "Applies to supplemental alpha-tocopherol only, in any form. Endpoint is hemorrhagic effect. Practically relevant because high-dose vitamin E potentiates anticoagulants.",
+      "primaryFoodSources": [
+        { "food": "Sunflower seeds", "serving": "30 g", "amount": 7.4, "vegetable": false },
+        { "food": "Almonds", "serving": "30 g", "amount": 7.3, "vegetable": false },
+        { "food": "Sunflower oil", "serving": "1 tbsp", "amount": 5.6, "vegetable": false },
+        { "food": "Peanut butter", "serving": "2 tbsp", "amount": 2.9, "vegetable": false },
+        { "food": "Avocado", "serving": "1/2 medium", "amount": 2.1, "vegetable": false },
+        { "food": "Spinach, boiled", "serving": "1/2 cup", "amount": 1.9, "vegetable": true }
+      ],
+      "riskWithoutVegetables": "moderate",
+      "riskNote": "Nuts, seeds and vegetable oils dominate. If nuts and seeds are also avoided — plausible in sensory-driven restriction, since nuts are a high-texture-load food — this becomes a real gap. The check should be conditional on nut/seed intake, not on vegetable intake.",
+      "supplementCloseability": "good",
+      "supplementNote": "Natural d-alpha-tocopherol is roughly twice as bioavailable as synthetic dl-alpha-tocopherol, which is why label mg and label IU do not convert consistently between forms. Isolated alpha-tocopherol supplementation also lowers plasma gamma-tocopherol — an argument for mixed tocopherols or for food.",
+      "trackingPriority": "secondary",
+      "sources": ["https://ods.od.nih.gov/factsheets/VitaminE-HealthProfessional/"]
+    },
+
+    {
+      "id": "vitamin_k1",
+      "name": "Vitamin K1 (phylloquinone)",
+      "category": "fat-soluble-vitamin",
+      "unit": "mcg",
+      "referenceType": "AI",
+      "reference": {
+        "male": [{ "minAge": 19, "maxAge": 200, "value": 120 }],
+        "female": [{ "minAge": 19, "maxAge": 200, "value": 90 }]
+      },
+      "upperLimit": null,
+      "upperLimitNote": "No UL — no adverse effects established from food or supplemental phylloquinone. The one genuine interaction is with warfarin and other vitamin-K-antagonist anticoagulants, where what matters is CONSISTENCY of intake rather than amount. The app must surface this whenever a K1 supplement is added to the stack and must never suggest a user on warfarin change their vitamin K intake.",
+      "primaryFoodSources": [
+        { "food": "Kale, cooked", "serving": "1/2 cup", "amount": 531, "vegetable": true },
+        { "food": "Spinach, raw", "serving": "1 cup", "amount": 145, "vegetable": true },
+        { "food": "Broccoli, cooked", "serving": "1/2 cup", "amount": 110, "vegetable": true },
+        { "food": "Soybean oil", "serving": "1 tbsp", "amount": 25, "vegetable": false },
+        { "food": "Canola oil", "serving": "1 tbsp", "amount": 10, "vegetable": false },
+        { "food": "Blueberries", "serving": "1/2 cup", "amount": 14, "vegetable": false },
+        { "food": "Kiwifruit", "serving": "1 medium", "amount": 28, "vegetable": false },
+        { "food": "Chicken breast, cooked", "serving": "85 g", "amount": 0.4, "vegetable": false }
+      ],
+      "riskWithoutVegetables": "severe",
+      "riskNote": "This is the clearest single-nutrient case for vegetable dependence in the entire file. Leafy greens supply five to ten times more per serving than the best non-vegetable source. Without greens, plausible intake from oils, fruit and meat lands somewhere around 30–60 mcg — well under the 120 mcg AI, and reaching it from non-vegetable food alone is not realistic.",
+      "supplementCloseability": "equivalent",
+      "supplementNote": "Genuinely and completely closeable. Supplemental phylloquinone is the same molecule leafy greens contain, and is absorbed BETTER than food-bound K1, which sits in chloroplast membranes and has fractional absorption in the region of 10–20%. This is the cleanest example in the file of a gap where a pill is not a compromise — worth saying plainly, because it is one of the few times the app can tell someone their restriction genuinely does not cost them anything.",
+      "trackingPriority": "primary",
+      "sources": ["https://ods.od.nih.gov/factsheets/VitaminK-HealthProfessional/"]
+    },
+
+    {
+      "id": "vitamin_k2",
+      "name": "Vitamin K2 (menaquinones)",
+      "category": "fat-soluble-vitamin",
+      "unit": "mcg",
+      "referenceType": "none",
+      "reference": null,
+      "alternativeReference": {
+        "male": [{ "minAge": 19, "maxAge": 200, "value": 90 }],
+        "female": [{ "minAge": 19, "maxAge": 200, "value": 90 }],
+        "basis": "No DRI exists for menaquinones specifically; the 120/90 mcg AI is written against total vitamin K but was derived from phylloquinone data. The 90 mcg MK-7 anchor here reflects the dose range used in the bone and vascular-calcification trials (typically 45–180 mcg/day MK-7). Tracking anchor only.",
+        "confidence": "uncertain"
+      },
+      "upperLimit": null,
+      "primaryFoodSources": [
+        { "food": "Natto", "serving": "85 g", "amount": 850, "vegetable": false },
+        { "food": "Goose liver pâté", "serving": "85 g", "amount": 320, "vegetable": false },
+        { "food": "Hard cheeses", "serving": "30 g", "amount": 25, "vegetable": false },
+        { "food": "Egg yolk", "serving": "1 large", "amount": 15, "vegetable": false },
+        { "food": "Chicken thigh, cooked", "serving": "85 g", "amount": 30, "vegetable": false }
+      ],
+      "riskWithoutVegetables": "none",
+      "riskNote": "K2 is an animal-food and fermented-food nutrient. Vegetable avoidance is irrelevant to it. Included for completeness and because K1 and K2 are routinely conflated in supplement marketing — a 'vitamin K' product may be all MK-7 and close none of the K1 gap, which the supplement-stack model must be able to represent.",
+      "supplementCloseability": "good",
+      "supplementNote": "MK-7 has a much longer half-life than MK-4 and accumulates to stable serum levels on once-daily dosing; MK-4 at supplement doses is essentially undetectable in serum a few hours after a dose. If a K2 supplement is being taken for a reason, MK-7 is the defensible form. Whether K2 supplementation benefits a healthy adult at all is `[uncertain]` — the cardiovascular-calcification evidence is suggestive and not settled.",
+      "trackingPriority": "secondary",
+      "sources": ["https://ods.od.nih.gov/factsheets/VitaminK-HealthProfessional/"]
+    },
+
+    {
+      "id": "folate",
+      "name": "Folate",
+      "category": "water-soluble-vitamin",
+      "unit": "mcg DFE",
+      "referenceType": "RDA",
+      "reference": {
+        "male": [{ "minAge": 19, "maxAge": 200, "value": 400 }],
+        "female": [{ "minAge": 19, "maxAge": 200, "value": 400 }]
+      },
+      "upperLimit": {
+        "male": [{ "minAge": 19, "maxAge": 200, "value": 1000 }],
+        "female": [{ "minAge": 19, "maxAge": 200, "value": 1000 }]
+      },
+      "upperLimitBasis": "synthetic-folic-acid-only",
+      "upperLimitNote": "THIRD UNIT TRAP: the 1,000 mcg UL applies to synthetic folic acid from supplements and fortified food only, never to food folate. The endpoint is masking of the hematologic signs of B12 deficiency while the neurological damage progresses. Note also that DFE is not a raw microgram count: 1 mcg food folate = 1 mcg DFE, but 1 mcg folic acid taken with food = 1.7 mcg DFE, and 1 mcg folic acid on an empty stomach = 2.0 mcg DFE. Any food database field must be checked for whether it reports DFE or raw mcg; getting this wrong inflates supplement contributions by 70%.",
+      "primaryFoodSources": [
+        { "food": "Beef liver, cooked", "serving": "85 g", "amount": 215, "vegetable": false },
+        { "food": "Fortified breakfast cereal", "serving": "1 serving", "amount": 400, "vegetable": false },
+        { "food": "Lentils, cooked", "serving": "1/2 cup", "amount": 179, "vegetable": false },
+        { "food": "Chickpeas, cooked", "serving": "1/2 cup", "amount": 141, "vegetable": false },
+        { "food": "Enriched white rice, cooked", "serving": "1/2 cup", "amount": 90, "vegetable": false },
+        { "food": "Orange juice", "serving": "1 cup", "amount": 74, "vegetable": false },
+        { "food": "Spinach, boiled", "serving": "1/2 cup", "amount": 131, "vegetable": true },
+        { "food": "Asparagus", "serving": "4 spears", "amount": 89, "vegetable": true }
+      ],
+      "riskWithoutVegetables": "high",
+      "riskNote": "The name is literally 'foliage'. Greens and legumes dominate the natural sources. What rescues this in the US and Canada is mandatory enriched-grain fortification — enriched bread, pasta, rice and cereal carry folic acid, and someone eating a normal amount of grain gets a substantial share of the RDA without knowing it. So the risk is high on paper and moderate in practice, and depends entirely on whether the person eats fortified grain. The check should look at grain intake, not just vegetable intake.",
+      "supplementCloseability": "equivalent",
+      "supplementNote": "Folic acid is more bioavailable than food folate, not less. Another genuine 'a pill is not a compromise' case. Two real caveats: unmetabolised folic acid at high chronic doses is of `[uncertain]` significance, and folate supplementation without adequate B12 can mask B12 deficiency — so the app should never surface a folate suggestion without also showing B12 status.",
+      "trackingPriority": "primary",
+      "sources": ["https://ods.od.nih.gov/factsheets/Folate-HealthProfessional/"]
+    },
+
+    {
+      "id": "thiamin",
+      "name": "Thiamin (B1)",
+      "category": "water-soluble-vitamin",
+      "unit": "mg",
+      "referenceType": "RDA",
+      "reference": {
+        "male": [{ "minAge": 19, "maxAge": 200, "value": 1.2 }],
+        "female": [{ "minAge": 19, "maxAge": 200, "value": 1.1 }]
+      },
+      "upperLimit": null,
+      "upperLimitNote": "No UL established.",
+      "primaryFoodSources": [
+        { "food": "Fortified breakfast cereal", "serving": "1 serving", "amount": 1.5, "vegetable": false },
+        { "food": "Pork chop, cooked", "serving": "85 g", "amount": 0.4, "vegetable": false },
+        { "food": "Enriched white rice, cooked", "serving": "1/2 cup", "amount": 0.7, "vegetable": false },
+        { "food": "Black beans, cooked", "serving": "1/2 cup", "amount": 0.4, "vegetable": false },
+        { "food": "Sunflower seeds", "serving": "30 g", "amount": 0.4, "vegetable": false }
+      ],
+      "riskWithoutVegetables": "none",
+      "riskNote": "Not a vegetable nutrient. Included because thiamin deficiency is a documented and serious complication of severe restrictive intake — Wernicke encephalopathy has been reported in ARFID case series — and because it is one of the fastest-depleting stores in the body (weeks, not years). Rare, but the consequence is severe enough to warrant tracking.",
+      "supplementCloseability": "equivalent",
+      "trackingPriority": "secondary",
+      "sources": ["https://ods.od.nih.gov/factsheets/Thiamin-HealthProfessional/"]
+    },
+
+    {
+      "id": "riboflavin",
+      "name": "Riboflavin (B2)",
+      "category": "water-soluble-vitamin",
+      "unit": "mg",
+      "referenceType": "RDA",
+      "reference": {
+        "male": [{ "minAge": 19, "maxAge": 200, "value": 1.3 }],
+        "female": [{ "minAge": 19, "maxAge": 200, "value": 1.1 }]
+      },
+      "upperLimit": null,
+      "primaryFoodSources": [
+        { "food": "Beef liver, cooked", "serving": "85 g", "amount": 2.9, "vegetable": false },
+        { "food": "Milk", "serving": "1 cup", "amount": 0.45, "vegetable": false },
+        { "food": "Plain yogurt", "serving": "1 cup", "amount": 0.6, "vegetable": false },
+        { "food": "Egg", "serving": "1 large", "amount": 0.23, "vegetable": false },
+        { "food": "Fortified breakfast cereal", "serving": "1 serving", "amount": 1.7, "vegetable": false }
+      ],
+      "riskWithoutVegetables": "none",
+      "riskNote": "Dairy-dominant. No vegetable-avoidance risk unless dairy is also excluded, in which case it becomes a real one.",
+      "supplementCloseability": "equivalent",
+      "trackingPriority": "secondary",
+      "sources": ["https://ods.od.nih.gov/factsheets/Riboflavin-HealthProfessional/"]
+    },
+
+    {
+      "id": "niacin",
+      "name": "Niacin (B3)",
+      "category": "water-soluble-vitamin",
+      "unit": "mg NE",
+      "referenceType": "RDA",
+      "reference": {
+        "male": [{ "minAge": 19, "maxAge": 200, "value": 16 }],
+        "female": [{ "minAge": 19, "maxAge": 200, "value": 14 }]
+      },
+      "upperLimit": {
+        "male": [{ "minAge": 19, "maxAge": 200, "value": 35 }],
+        "female": [{ "minAge": 19, "maxAge": 200, "value": 35 }]
+      },
+      "upperLimitBasis": "supplemental-and-fortified-only",
+      "upperLimitNote": "Applies to synthetic niacin from supplements and fortified food, not to niacin from natural food or to tryptophan conversion. Endpoint is flushing. Sustained high-dose nicotinic acid — the lipid-lowering doses, 1–3 g — carries hepatotoxicity risk and is a prescription-territory intervention. Nicotinamide and nicotinamide riboside do not flush and are a different exposure; the supplement model must distinguish the vitamer.",
+      "primaryFoodSources": [
+        { "food": "Chicken breast, cooked", "serving": "85 g", "amount": 10.3, "vegetable": false },
+        { "food": "Tuna, cooked", "serving": "85 g", "amount": 11.3, "vegetable": false },
+        { "food": "Beef, cooked", "serving": "85 g", "amount": 6.2, "vegetable": false },
+        { "food": "Fortified breakfast cereal", "serving": "1 serving", "amount": 20, "vegetable": false },
+        { "food": "Peanuts", "serving": "30 g", "amount": 4.2, "vegetable": false }
+      ],
+      "riskWithoutVegetables": "none",
+      "supplementCloseability": "equivalent",
+      "trackingPriority": "secondary",
+      "sources": ["https://ods.od.nih.gov/factsheets/Niacin-HealthProfessional/"]
+    },
+
+    {
+      "id": "pantothenic_acid",
+      "name": "Pantothenic acid (B5)",
+      "category": "water-soluble-vitamin",
+      "unit": "mg",
+      "referenceType": "AI",
+      "reference": {
+        "male": [{ "minAge": 19, "maxAge": 200, "value": 5 }],
+        "female": [{ "minAge": 19, "maxAge": 200, "value": 5 }]
+      },
+      "upperLimit": null,
+      "primaryFoodSources": [
+        { "food": "Beef liver, cooked", "serving": "85 g", "amount": 8.3, "vegetable": false },
+        { "food": "Chicken breast, cooked", "serving": "85 g", "amount": 1.3, "vegetable": false },
+        { "food": "Egg", "serving": "1 large", "amount": 0.7, "vegetable": false },
+        { "food": "Milk", "serving": "1 cup", "amount": 0.9, "vegetable": false },
+        { "food": "Avocado", "serving": "1/2 medium", "amount": 1.0, "vegetable": false }
+      ],
+      "riskWithoutVegetables": "none",
+      "riskNote": "Ubiquitous — the name means 'from everywhere'. Deficiency essentially does not occur outside experimental depletion. Tracked for completeness only; should be collapsed behind a 'show all' in the UI rather than given a card.",
+      "supplementCloseability": "equivalent",
+      "trackingPriority": "tertiary",
+      "sources": ["https://ods.od.nih.gov/factsheets/PantothenicAcid-HealthProfessional/"]
+    },
+
+    {
+      "id": "vitamin_b6",
+      "name": "Vitamin B6",
+      "category": "water-soluble-vitamin",
+      "unit": "mg",
+      "referenceType": "RDA",
+      "reference": {
+        "male": [
+          { "minAge": 19, "maxAge": 50, "value": 1.3 },
+          { "minAge": 51, "maxAge": 200, "value": 1.7 }
+        ],
+        "female": [
+          { "minAge": 19, "maxAge": 50, "value": 1.3 },
+          { "minAge": 51, "maxAge": 200, "value": 1.5 }
+        ]
+      },
+      "upperLimit": {
+        "male": [{ "minAge": 19, "maxAge": 200, "value": 100 }],
+        "female": [{ "minAge": 19, "maxAge": 200, "value": 100 }]
+      },
+      "upperLimitBasis": "supplemental-only",
+      "upperLimitNote": "Endpoint is sensory peripheral neuropathy, which can be irreversible. This is the UL check with the most serious consequence and the highest real-world hit rate, because B-complex and 'energy' supplements routinely contain 50–100 mg of pyridoxine and stacking two of them clears the UL. EFSA set a considerably lower UL (12 mg/day for adults) after reviewing neuropathy case reports at doses well under 100 mg — a genuine disagreement between authorities, and the app should note it rather than pretend 100 mg is uncontroversially safe.",
+      "primaryFoodSources": [
+        { "food": "Chickpeas, canned", "serving": "1 cup", "amount": 1.1, "vegetable": false },
+        { "food": "Tuna, cooked", "serving": "85 g", "amount": 0.9, "vegetable": false },
+        { "food": "Salmon, cooked", "serving": "85 g", "amount": 0.6, "vegetable": false },
+        { "food": "Chicken breast, cooked", "serving": "85 g", "amount": 0.5, "vegetable": false },
+        { "food": "Potato, boiled", "serving": "1 cup", "amount": 0.4, "vegetable": true },
+        { "food": "Banana", "serving": "1 medium", "amount": 0.4, "vegetable": false }
+      ],
+      "riskWithoutVegetables": "low",
+      "supplementCloseability": "equivalent",
+      "trackingPriority": "primary",
+      "sources": [
+        "https://ods.od.nih.gov/factsheets/VitaminB6-HealthProfessional/",
+        "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10189633/"
+      ]
+    },
+
+    {
+      "id": "biotin",
+      "name": "Biotin (B7)",
+      "category": "water-soluble-vitamin",
+      "unit": "mcg",
+      "referenceType": "AI",
+      "reference": {
+        "male": [{ "minAge": 19, "maxAge": 200, "value": 30 }],
+        "female": [{ "minAge": 19, "maxAge": 200, "value": 30 }]
+      },
+      "upperLimit": null,
+      "upperLimitNote": "No UL, but there is a specific and under-appreciated hazard: high-dose biotin (the 5,000–10,000 mcg 'hair, skin and nails' products, i.e. 150–300x the AI) interferes with streptavidin-biotin immunoassays and causes clinically significant false results — falsely low troponin, falsely abnormal thyroid panels. The FDA has issued safety communications about this after a reported death from a missed myocardial infarction. If the user's stack includes high-dose biotin, the app should tell them to mention it before any blood test. This is a genuinely useful thing to surface and almost nothing does.",
+      "primaryFoodSources": [
+        { "food": "Beef liver, cooked", "serving": "85 g", "amount": 30.8, "vegetable": false },
+        { "food": "Egg, cooked", "serving": "1 large", "amount": 10, "vegetable": false },
+        { "food": "Salmon, cooked", "serving": "85 g", "amount": 5, "vegetable": false },
+        { "food": "Sunflower seeds", "serving": "30 g", "amount": 2.6, "vegetable": false }
+      ],
+      "riskWithoutVegetables": "none",
+      "supplementCloseability": "equivalent",
+      "trackingPriority": "tertiary",
+      "sources": [
+        "https://ods.od.nih.gov/factsheets/Biotin-HealthProfessional/",
+        "https://www.fda.gov/medical-devices/safety-communications/update-fda-warns-biotin-may-interfere-lab-tests-fda-safety-communication"
+      ]
+    },
+
+    {
+      "id": "vitamin_b12",
+      "name": "Vitamin B12",
+      "category": "water-soluble-vitamin",
+      "unit": "mcg",
+      "referenceType": "RDA",
+      "reference": {
+        "male": [{ "minAge": 19, "maxAge": 200, "value": 2.4 }],
+        "female": [{ "minAge": 19, "maxAge": 200, "value": 2.4 }]
+      },
+      "upperLimit": null,
+      "upperLimitNote": "No UL — no adverse effects from high intake in healthy people.",
+      "primaryFoodSources": [
+        { "food": "Beef liver, cooked", "serving": "85 g", "amount": 70.7, "vegetable": false },
+        { "food": "Clams, cooked", "serving": "85 g", "amount": 17, "vegetable": false },
+        { "food": "Salmon, cooked", "serving": "85 g", "amount": 2.6, "vegetable": false },
+        { "food": "Beef, cooked", "serving": "85 g", "amount": 2.4, "vegetable": false },
+        { "food": "Milk", "serving": "1 cup", "amount": 1.3, "vegetable": false },
+        { "food": "Egg", "serving": "1 large", "amount": 0.5, "vegetable": false }
+      ],
+      "riskWithoutVegetables": "none",
+      "riskNote": "Animal foods only. Vegetable avoidance is irrelevant. Tracked because it must be shown alongside folate — see the folate masking note — and because metformin and long-term PPI use both impair absorption.",
+      "supplementCloseability": "equivalent",
+      "trackingPriority": "secondary",
+      "sources": ["https://ods.od.nih.gov/factsheets/VitaminB12-HealthProfessional/"]
+    },
+
+    {
+      "id": "choline",
+      "name": "Choline",
+      "category": "other-essential",
+      "unit": "mg",
+      "referenceType": "AI",
+      "reference": {
+        "male": [{ "minAge": 19, "maxAge": 200, "value": 550 }],
+        "female": [{ "minAge": 19, "maxAge": 200, "value": 425 }]
+      },
+      "upperLimit": {
+        "male": [{ "minAge": 19, "maxAge": 200, "value": 3500 }],
+        "female": [{ "minAge": 19, "maxAge": 200, "value": 3500 }]
+      },
+      "upperLimitBasis": "total",
+      "upperLimitNote": "Endpoint is hypotension and a fishy body odour.",
+      "primaryFoodSources": [
+        { "food": "Beef liver, cooked", "serving": "85 g", "amount": 356, "vegetable": false },
+        { "food": "Egg", "serving": "1 large", "amount": 147, "vegetable": false },
+        { "food": "Beef, cooked", "serving": "85 g", "amount": 117, "vegetable": false },
+        { "food": "Chicken breast, cooked", "serving": "85 g", "amount": 72, "vegetable": false },
+        { "food": "Salmon, cooked", "serving": "85 g", "amount": 75, "vegetable": false },
+        { "food": "Milk", "serving": "1 cup", "amount": 43, "vegetable": false }
+      ],
+      "riskWithoutVegetables": "low",
+      "riskNote": "Egg-and-meat dominant. Most of the US population is below the AI, but that is a general finding rather than a vegetable one. Three whole eggs cover roughly 80% of the male AI.",
+      "supplementCloseability": "good",
+      "trackingPriority": "secondary",
+      "sources": ["https://ods.od.nih.gov/factsheets/Choline-HealthProfessional/"]
+    },
+
+    {
+      "id": "omega3_epa_dha",
+      "name": "Omega-3 EPA + DHA",
+      "category": "fatty-acid",
+      "unit": "mg",
+      "referenceType": "none",
+      "reference": null,
+      "alternativeReference": {
+        "male": [{ "minAge": 19, "maxAge": 200, "value": 250 }],
+        "female": [{ "minAge": 19, "maxAge": 200, "value": 250 }],
+        "basis": "No US DRI exists for EPA or DHA — the IOM set an AI for ALA only. The 250 mg/day anchor is the EFSA adequate intake for EPA+DHA in adults. Other bodies go higher: ISSFAL and several cardiology guidelines land nearer 500 mg/day, and the AHA's advice is framed as two servings of oily fish per week rather than a number.",
+        "confidence": "well-established"
+      },
+      "upperLimit": {
+        "male": [{ "minAge": 19, "maxAge": 200, "value": 5000 }],
+        "female": [{ "minAge": 19, "maxAge": 200, "value": 5000 }]
+      },
+      "upperLimitBasis": "supplemental-only",
+      "upperLimitNote": "Not a DRI UL. EFSA concluded supplemental EPA+DHA up to 5 g/day does not raise safety concerns for adults. Note that high-dose omega-3 has been associated with increased atrial fibrillation incidence in several large trials — `[reasonable-inference]`, consistent across trials but the mechanism is not settled — which is worth surfacing at multi-gram doses.",
+      "primaryFoodSources": [
+        { "food": "Salmon, Atlantic farmed, cooked", "serving": "85 g", "amount": 1800, "vegetable": false },
+        { "food": "Sardines, canned", "serving": "85 g", "amount": 1200, "vegetable": false },
+        { "food": "Mackerel, cooked", "serving": "85 g", "amount": 1000, "vegetable": false },
+        { "food": "Fish oil capsule, standard", "serving": "1 g capsule", "amount": 300, "vegetable": false },
+        { "food": "Algal oil supplement", "serving": "1 serving", "amount": 400, "vegetable": false },
+        { "food": "Canned light tuna", "serving": "85 g", "amount": 230, "vegetable": false }
+      ],
+      "riskWithoutVegetables": "none",
+      "riskNote": "Marine, not vegetable. Included because it is one of the most commonly inadequate nutrients in people who do not eat fish, and because someone with texture-driven food avoidance is quite likely to avoid fish as well — fish is a high-sensory-load food. The check should key on fish intake, not vegetables.",
+      "supplementCloseability": "equivalent",
+      "supplementNote": "Fish oil, krill oil and algal oil all raise the omega-3 index. Algal oil is the vegan route and is genuinely equivalent for DHA. Check the label for EPA+DHA content rather than total fish oil — a '1000 mg fish oil' capsule typically contains only ~300 mg of actual EPA+DHA, and this arithmetic error is extremely common.",
+      "trackingPriority": "primary",
+      "sources": [
+        "https://ods.od.nih.gov/factsheets/Omega3FattyAcids-HealthProfessional/",
+        "https://www.efsa.europa.eu/en/efsajournal/pub/2815"
+      ]
+    },
+
+    {
+      "id": "ala",
+      "name": "Alpha-linolenic acid (ALA)",
+      "category": "fatty-acid",
+      "unit": "g",
+      "referenceType": "AI",
+      "reference": {
+        "male": [{ "minAge": 19, "maxAge": 200, "value": 1.6 }],
+        "female": [{ "minAge": 19, "maxAge": 200, "value": 1.1 }]
+      },
+      "upperLimit": null,
+      "primaryFoodSources": [
+        { "food": "Flaxseed, ground", "serving": "1 tbsp", "amount": 2.4, "vegetable": false },
+        { "food": "Chia seeds", "serving": "1 tbsp", "amount": 1.9, "vegetable": false },
+        { "food": "Walnuts", "serving": "30 g", "amount": 2.6, "vegetable": false },
+        { "food": "Canola oil", "serving": "1 tbsp", "amount": 1.3, "vegetable": false }
+      ],
+      "riskWithoutVegetables": "none",
+      "riskNote": "Do not let ALA intake satisfy the EPA/DHA target in the UI. Conversion of ALA to EPA is on the order of 5–10% and to DHA under 1% in men — lower in men than in women. They are separate rows.",
+      "supplementCloseability": "equivalent",
+      "trackingPriority": "tertiary",
+      "sources": ["https://ods.od.nih.gov/factsheets/Omega3FattyAcids-HealthProfessional/"]
+    },
+
+    {
+      "id": "dietary_nitrate",
+      "name": "Dietary nitrate",
+      "category": "non-essential-ergogenic",
+      "unit": "mg",
+      "referenceType": "none",
+      "reference": null,
+      "alternativeReference": {
+        "male": [{ "minAge": 19, "maxAge": 200, "value": 500 }],
+        "female": [{ "minAge": 19, "maxAge": 200, "value": 500 }],
+        "basis": "Nitrate is not an essential nutrient and has no RDA, AI or UL. The 520 mg anchor is 8.4 mmol — the dose at which the beetroot-juice literature plateaus. Wylie et al. (J Appl Physiol 2013) gave 4.2, 8.4 and 16.8 mmol: 4.2 did nothing measurable; 8.4 cut submaximal O2 cost 1.7% and extended time to task failure 14%; 16.8 cut O2 cost further (3.0%) but did NOT extend tolerance any further (12%). Doubling past 8.4 mmol buys no additional performance. Taken 2-3 h before exercise. This is a PERFORMANCE anchor, not a health requirement; the UI must label it as such and must never show a nitrate 'deficiency'.",
+        "confidence": "well-established"
+      },
+      "upperLimit": null,
+      "upperLimitNote": "No UL. The relevant regulatory figure is the JECFA/EFSA acceptable daily intake for nitrate ion, 3.7 mg/kg bw/day — about 260 mg/day for a 70 kg adult. Note the awkward fact plainly: the ergogenic dose exceeds the ADI by roughly 2–3x. The ADI was derived from nitrate as a food additive and preservative, and EFSA has separately observed that habitual vegetable consumption alone can exceed it without evidence of harm. This is a real tension in the literature and the app should state it rather than either ignoring it or alarming the user. `[uncertain]`",
+      "primaryFoodSources": [
+        { "food": "Concentrated beetroot juice shot", "serving": "70 mL", "amount": 400, "vegetable": true },
+        { "food": "Rocket / arugula, raw", "serving": "100 g", "amount": 480, "vegetable": true },
+        { "food": "Spinach, raw", "serving": "100 g", "amount": 300, "vegetable": true },
+        { "food": "Beetroot, raw", "serving": "100 g", "amount": 250, "vegetable": true },
+        { "food": "Lettuce", "serving": "100 g", "amount": 200, "vegetable": true },
+        { "food": "Celery", "serving": "100 g", "amount": 200, "vegetable": true },
+        { "food": "Potassium nitrate supplement", "serving": "per label", "amount": 0, "vegetable": false }
+      ],
+      "riskWithoutVegetables": "severe",
+      "riskNote": "Nitrate is essentially a green-leafy-and-beetroot nutrient. There is no meaningful non-vegetable dietary source — cured meats contain nitrate and nitrite but in amounts an order of magnitude smaller, and in a matrix that raises separate questions. For the specific goal of raising endurance performance, this is the one thing the user's food restriction genuinely costs them, and the one thing on this list where the concentrated-juice route is unusually attractive because a 70 mL shot delivers a full ergogenic dose with essentially no vegetable-eating experience attached to it.",
+      "supplementCloseability": "good",
+      "supplementNote": "Concentrated beetroot juice shots are the well-studied vehicle and are effectively a supplement in food's clothing. Nitrate-free placebo beetroot juice exists and is what most of the trials controlled against, which is itself evidence the effect is nitrate and not something else in the beet. See nutrition-personalization.md §6.5 for dose, timing, responder profile and the mouthwash interaction.",
+      "trackingPriority": "primary",
+      "sources": [
+        "https://www.ais.gov.au/nutrition/supplements",
+        "https://www.efsa.europa.eu/en/efsajournal/pub/4787"
+      ]
+    }
+  ]
+}

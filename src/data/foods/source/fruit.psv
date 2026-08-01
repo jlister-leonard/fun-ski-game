@@ -1,0 +1,98 @@
+#category: fruit
+#source: USDA FoodData Central (SR Legacy)
+#servings: 1 cup (150 g)@150*;100 g@100
+# All values RAW unless the name says otherwise.
+# id|name|aliases|kcal|protein|carbs|fat|fiber|sugar|satfat|sodium|servings|extra
+
+# --- pome & stone fruit --------------------------------------------------
+apple-raw|Apple, with skin|apples|52|0.26|13.8|0.17|2.4|10.4|0.03|1|1 medium (182 g)@182*;1 small (149 g)@149;1 large (223 g)@223;1 cup sliced (109 g)@109|src=USDA FoodData Central SR Legacy FDC 171688, release 2018-04, reviewed 2026-08-01
+apple-granny-smith|Apple, Granny Smith||52|0.27|13.6|0.19|2.8|9.6|0.03|1|1 medium (182 g)@182*;1 cup sliced (109 g)@109|v=0
+apple-honeycrisp|Apple, Honeycrisp||52|0.26|14.0|0.17|2.4|11.0|0.03|1|1 medium (200 g)@200*;1 large (250 g)@250|v=0
+apple-gala|Apple, Gala||57|0.25|15.0|0.12|2.1|11.9|0.02|1|1 medium (172 g)@172*;100 g@100|v=0
+apple-dried-rings|Apple, dried rings||243|0.93|65.9|0.32|8.7|57.2|0.05|87|1/4 cup (24 g)@24*;1 oz (28 g)@28
+applesauce-unsweetened|Applesauce, unsweetened||42|0.17|11.3|0.10|1.1|9.4|0.02|2|1/2 cup (122 g)@122*;1 cup (244 g)@244;1 pouch (90 g)@90|d=1.05
+applesauce-sweetened|Applesauce, sweetened||68|0.16|17.8|0.18|1.2|15.9|0.03|2|1/2 cup (128 g)@128*;1 cup (255 g)@255|d=1.05
+pear-raw|Pear, with skin||57|0.36|15.2|0.14|3.1|9.75|0.02|1|1 medium (178 g)@178*;1 large (230 g)@230;1 cup sliced (140 g)@140
+pear-asian|Asian pear||42|0.50|10.7|0.23|3.6|7.05|0.01|0|1 medium (275 g)@275*;100 g@100
+peach-raw|Peach||39|0.91|9.54|0.25|1.5|8.39|0.02|0|1 medium (150 g)@150*;1 cup sliced (154 g)@154
+peach-canned-juice|Peaches, canned in juice, drained||54|0.79|14.1|0.04|1.6|12.6|0|5|1/2 cup (124 g)@124*;1 cup (248 g)@248
+nectarine-raw|Nectarine||44|1.06|10.6|0.32|1.7|7.89|0.03|0|1 medium (142 g)@142*;1 cup sliced (143 g)@143
+plum-raw|Plum||46|0.70|11.4|0.28|1.4|9.92|0.02|0|1 medium (66 g)@66*;2 plums (132 g)@132
+apricot-raw|Apricot||48|1.40|11.1|0.39|2.0|9.24|0.03|1|1 apricot (35 g)@35*;3 apricots (105 g)@105|ret=0;car=96;ffol=9;fac=0;dfe=9
+apricot-dried|Apricots, dried||241|3.39|62.6|0.51|7.3|53.4|0.02|10|1/4 cup (33 g)@33*;5 halves (20 g)@20|ret=0;car=180;ffol=10;fac=0;dfe=10
+cherries-sweet-raw|Cherries, sweet, pitted||63|1.06|16.0|0.20|2.1|12.8|0.04|0|1 cup (154 g)@154*;10 cherries (68 g)@68
+cherries-tart-dried|Cherries, tart, dried||330|1.5|80.0|1.0|3.0|65.0|0.2|10|1/4 cup (40 g)@40*;100 g@100|v=0
+prunes-dried|Prunes, dried plums||240|2.18|63.9|0.38|7.1|38.1|0.09|2|1/4 cup (44 g)@44*;5 prunes (42 g)@42
+
+# --- berries -------------------------------------------------------------
+strawberries-raw|Strawberries||32|0.67|7.68|0.30|2.0|4.89|0.02|1|1 cup halves (152 g)@152*;1 cup whole (144 g)@144;1 medium (12 g)@12|ret=0;car=1;ffol=24;fac=0;dfe=24
+strawberries-frozen|Strawberries, frozen, unsweetened||35|0.43|9.13|0.11|2.1|4.56|0.01|2|1 cup (149 g)@149*;100 g@100
+blueberries-raw|Blueberries||57|0.74|14.5|0.33|2.4|9.96|0.03|1|1 cup (148 g)@148*;1/2 cup (74 g)@74
+blueberries-frozen|Blueberries, frozen, unsweetened||51|0.42|12.2|0.64|2.7|8.79|0.05|1|1 cup (155 g)@155*;100 g@100
+raspberries-raw|Raspberries||52|1.20|11.9|0.65|6.5|4.42|0.02|1|1 cup (123 g)@123*;1/2 cup (62 g)@62
+blackberries-raw|Blackberries||43|1.39|9.61|0.49|5.3|4.88|0.01|1|1 cup (144 g)@144*;1/2 cup (72 g)@72
+cranberries-raw|Cranberries, fresh||46|0.39|12.2|0.13|4.6|4.04|0.01|2|1 cup (100 g)@100*;100 g@100
+cranberries-dried|Cranberries, dried, sweetened|craisins|308|0.17|82.4|1.37|5.7|65.0|0.11|3|1/4 cup (40 g)@40*;1 oz (28 g)@28
+cranberry-sauce-canned|Cranberry sauce, jellied, canned||151|0.19|39.0|0.14|1.0|36.2|0.01|29|1/4 cup (69 g)@69*;100 g@100
+gooseberries-raw|Gooseberries||44|0.88|10.2|0.58|4.3|0|0.04|1|1 cup (150 g)@150*;100 g@100
+currants-black-raw|Black currants||63|1.40|15.4|0.41|4.3|0|0.03|2|1 cup (112 g)@112*;100 g@100|v=0
+currants-dried|Currants, dried||283|4.08|74.1|0.27|6.8|67.3|0.03|8|1/4 cup (36 g)@36*;100 g@100
+acai-puree-unsweetened|Açaí puree, unsweetened, frozen||70|1.0|4.0|5.0|2.0|0|1.5|10|1 packet (100 g)@100*;100 g@100|v=0
+goji-berries-dried|Goji berries, dried||349|14.3|77.1|0.4|13.0|45.6|0|298|1/4 cup (28 g)@28*;100 g@100|v=0
+mulberries-raw|Mulberries||43|1.44|9.80|0.39|1.7|8.10|0.03|10|1 cup (140 g)@140*;100 g@100
+
+# --- citrus --------------------------------------------------------------
+orange-raw|Orange, navel||47|0.94|11.8|0.12|2.4|9.35|0.02|0|1 medium (131 g)@131*;1 large (184 g)@184;1 cup sections (180 g)@180|ret=0;car=11;ffol=30;fac=0;dfe=30
+tangerine-raw|Tangerine|mandarin;clementine;cutie|53|0.81|13.3|0.31|1.8|10.6|0.04|2|1 medium (88 g)@88*;1 clementine (74 g)@74;2 clementines (148 g)@148
+grapefruit-raw|Grapefruit, pink or red||42|0.77|10.7|0.14|1.6|6.89|0.02|0|1/2 grapefruit (123 g)@123*;1 whole (246 g)@246|ret=0;car=58;ffol=13;fac=0;dfe=13
+lemon-raw|Lemon, without peel||29|1.10|9.32|0.30|2.8|2.50|0.04|2|1 lemon (58 g)@58*;100 g@100
+lemon-juice|Lemon juice, fresh||22|0.35|6.90|0.24|0.3|2.52|0.04|1|1 tbsp (15 ml)@15*;1 lemon yields (48 ml)@48;1/4 cup (60 ml)@61|d=1.02
+lime-raw|Lime||30|0.70|10.5|0.20|2.8|1.69|0.02|2|1 lime (67 g)@67*;100 g@100
+lime-juice|Lime juice, fresh||25|0.42|8.42|0.07|0.4|1.69|0.01|2|1 tbsp (15 ml)@15*;1 lime yields (30 ml)@31|d=1.02
+mandarin-canned-juice|Mandarin oranges, canned in juice||61|0.62|15.9|0.04|0.9|13.6|0.01|6|1/2 cup (125 g)@125*;100 g@100|v=0
+blood-orange|Blood orange||47|0.94|11.8|0.12|2.4|9.35|0.02|0|1 medium (131 g)@131*;100 g@100|v=0
+
+# --- tropical ------------------------------------------------------------
+banana-raw|Banana|bananas|89|1.09|22.8|0.33|2.6|12.2|0.11|1|1 medium, 7-8 in (118 g)@118*;1 small (101 g)@101;1 large (136 g)@136;1 cup sliced (150 g)@150|ret=0;car=3;ffol=20;fac=0;dfe=20;src=USDA FoodData Central SR Legacy FDC 173944, release 2018-04, reviewed 2026-08-01
+banana-chips|Banana chips, fried||519|2.30|58.4|33.6|7.7|35.3|29.0|6|1 oz (28 g)@28*;1/4 cup (18 g)@18
+plantain-raw|Plantain, raw||122|1.30|31.9|0.37|2.3|15.0|0.14|4|1 medium (179 g)@179*;1 cup sliced (148 g)@148
+plantain-fried|Plantain, fried|tostones;maduros|285|1.97|47.4|11.0|3.5|21.2|4.6|6|1 cup (118 g)@118*;100 g@100
+mango-raw|Mango||60|0.82|15.0|0.38|1.6|13.7|0.09|1|1 cup diced (165 g)@165*;1 whole (336 g)@207;1/2 cup (83 g)@83|ret=0;car=54;ffol=43;fac=0;dfe=43
+mango-dried|Mango, dried||319|2.45|78.6|1.18|2.4|66.3|0.29|43|1/4 cup (40 g)@40*;1 oz (28 g)@28|v=0
+pineapple-raw|Pineapple||50|0.54|13.1|0.12|1.4|9.85|0.01|1|1 cup chunks (165 g)@165*;1 slice (84 g)@84
+pineapple-canned-juice|Pineapple, canned in juice, drained||60|0.42|15.7|0.09|1.0|14.4|0.01|1|1/2 cup (91 g)@91*;1 cup (181 g)@181
+papaya-raw|Papaya||43|0.47|10.8|0.26|1.7|7.82|0.08|8|1 cup cubed (145 g)@145*;1 small (157 g)@157|ret=0;car=47;ffol=37;fac=0;dfe=37
+kiwi-raw|Kiwi fruit|kiwifruit|61|1.14|14.7|0.52|3.0|8.99|0.03|3|1 medium (69 g)@69*;2 kiwis (138 g)@138;1 cup sliced (180 g)@180
+guava-raw|Guava||68|2.55|14.3|0.95|5.4|8.92|0.27|2|1 fruit (55 g)@55*;1 cup (165 g)@165
+passion-fruit-raw|Passion fruit||97|2.20|23.4|0.70|10.4|11.2|0.06|28|1 fruit (18 g)@18*;1 cup (236 g)@236
+dragon-fruit-raw|Dragon fruit|pitaya|60|1.20|13.0|0.40|3.0|8.0|0|0|1 cup (227 g)@227*;1 fruit (227 g)@227|v=0
+lychee-raw|Lychee||66|0.83|16.5|0.44|1.3|15.2|0.10|1|1 cup (190 g)@190*;10 lychees (96 g)@96
+jackfruit-raw|Jackfruit, raw||95|1.72|23.2|0.64|1.5|19.1|0.20|2|1 cup sliced (165 g)@165*;100 g@100
+jackfruit-canned-brine|Jackfruit, young, canned in brine||25|1.0|5.0|0.2|3.0|1.0|0|280|1/2 cup (85 g)@85*;100 g@100|v=0
+starfruit-raw|Star fruit|carambola|31|1.04|6.73|0.33|2.8|3.98|0.02|2|1 fruit (91 g)@91*;1 cup sliced (108 g)@108
+persimmon-raw|Persimmon, Japanese||70|0.58|18.6|0.19|3.6|12.5|0.02|1|1 fruit (168 g)@168*;100 g@100
+pomegranate-arils|Pomegranate arils|pomegranate seeds|83|1.67|18.7|1.17|4.0|13.7|0.12|3|1/2 cup (87 g)@87*;1 cup (174 g)@174
+coconut-water|Coconut water, unsweetened||19|0.72|3.71|0.20|1.1|2.61|0.18|105|1 cup (240 ml)@240*;1 bottle (330 ml)@330|d=1.0
+
+# --- melon ---------------------------------------------------------------
+watermelon-raw|Watermelon||30|0.61|7.55|0.15|0.4|6.20|0.02|1|1 cup diced (152 g)@152*;1 wedge (286 g)@286|ret=0;car=28;ffol=3;fac=0;dfe=3
+cantaloupe-raw|Cantaloupe|muskmelon|34|0.84|8.16|0.19|0.9|7.86|0.05|16|1 cup cubed (160 g)@160*;1/4 melon (138 g)@138|ret=0;car=169;ffol=21;fac=0;dfe=21
+honeydew-raw|Honeydew melon||36|0.54|9.09|0.14|0.8|8.12|0.04|18|1 cup diced (170 g)@170*;1/8 melon (160 g)@160
+
+# --- grapes, figs, dates -------------------------------------------------
+grapes-red-raw|Grapes, red or green, seedless||69|0.72|18.1|0.16|0.9|15.5|0.05|2|1 cup (151 g)@151*;10 grapes (49 g)@49;1/2 cup (76 g)@76
+grapes-frozen|Grapes, frozen||69|0.72|18.1|0.16|0.9|15.5|0.05|2|1 cup (151 g)@151*;100 g@100|v=0
+raisins-seedless|Raisins, seedless||299|3.07|79.2|0.46|3.7|59.2|0.06|11|1/4 cup (41 g)@41*;1 small box (43 g)@43;1 tbsp (10 g)@10
+raisins-golden|Golden raisins||302|3.39|79.5|0.46|3.3|59.2|0.06|12|1/4 cup (41 g)@41*;100 g@100
+dates-medjool|Dates, Medjool||277|1.81|75.0|0.15|6.7|66.5|0.03|1|1 date (24 g)@24*;3 dates (72 g)@72;1 cup pitted (178 g)@178
+dates-deglet-noor|Dates, Deglet Noor||282|2.45|75.0|0.39|8.0|63.4|0.03|2|1 date (7 g)@7*;1/4 cup (37 g)@37
+figs-fresh|Figs, fresh||74|0.75|19.2|0.30|2.9|16.3|0.06|1|1 medium (50 g)@50*;2 figs (100 g)@100
+figs-dried|Figs, dried||249|3.30|63.9|0.93|9.8|47.9|0.14|10|1/4 cup (37 g)@37*;2 figs (34 g)@34
+
+# --- other ---------------------------------------------------------------
+rhubarb-raw|Rhubarb, raw||21|0.90|4.54|0.20|1.8|1.10|0.05|4|1 cup diced (122 g)@122*;100 g@100
+fruit-cocktail-juice|Fruit cocktail, canned in juice||55|0.53|14.1|0.02|1.2|12.9|0|4|1/2 cup (119 g)@119*;1 cup (237 g)@237
+fruit-cup-peaches-syrup|Peaches, canned in light syrup||54|0.44|14.5|0.03|1.3|13.0|0|6|1 cup snack size (113 g)@113*;1/2 cup (125 g)@125|v=0
+fruit-leather|Fruit leather strip||350|0.5|82.0|2.0|1.5|55.0|0.5|130|1 strip (14 g)@14*;100 g@100|v=0
+freeze-dried-strawberries|Strawberries, freeze dried||375|6.5|85.0|3.0|22.0|55.0|0.2|20|1 cup (12 g)@12*;1 oz (28 g)@28|v=0
+fruit-smoothie-mixed-berry|Smoothie, mixed berry, no added sugar||58|1.0|13.5|0.4|2.5|10.0|0.1|10|1 cup (240 ml)@245*;16 oz (480 ml)@490|d=1.02;v=0

@@ -1,0 +1,71 @@
+#category: supplement
+#source: manufacturer label (typical US product)
+#verified: 0
+#servings: 1 scoop (30 g)@30*;100 g@100
+# Sports nutrition, protein powders, bars, RTD shakes and micronutrient
+# supplements. Formulations change often — treat these as sensible defaults and
+# encourage the user to scan the barcode or override from the label.
+# id|name|aliases|kcal|protein|carbs|fat|fiber|sugar|satfat|sodium|servings|extra
+
+# --- protein powders -----------------------------------------------------
+whey-isolate-unflavored|Whey protein isolate, unflavored||373|87.0|3.3|1.0|0|1.7|0.7|267|1 scoop (30 g)@30*;2 scoops (60 g)@60;1 tbsp (10 g)@10|d=-
+whey-isolate-vanilla|Whey protein isolate, vanilla||379|79.0|10.0|1.7|1.0|3.4|1.0|400|1 scoop (31 g)@31*;2 scoops (62 g)@62|d=-
+whey-concentrate-chocolate|Whey protein concentrate, chocolate||400|71.0|13.0|6.5|2.5|5.0|3.5|350|1 scoop (31 g)@31*;2 scoops (62 g)@62|d=-
+whey-blend-gold-standard|Whey protein blend, chocolate|optimum nutrition gold standard|387|77.4|9.7|3.2|3.2|3.2|1.6|420|1 scoop (31 g)@31*;2 scoops (62 g)@62|brand=Optimum Nutrition
+casein-micellar-vanilla|Micellar casein protein, vanilla||355|77.0|10.0|1.5|1.5|3.0|0.8|550|1 scoop (33 g)@33*;100 g@100|d=-
+protein-plant-pea-rice|Plant protein powder, pea and rice||375|71.0|13.0|6.0|5.0|2.0|1.0|500|1 scoop (35 g)@35*;100 g@100|d=-
+protein-collagen-peptides|Collagen peptides, unflavored||360|90.0|0|0|0|0|0|130|1 scoop (11 g)@11*;2 scoops (22 g)@22|d=-
+protein-egg-white-powder|Egg white protein powder||382|81.0|7.8|0.1|0|5.5|0|1280|1 scoop (30 g)@30*;100 g@100|d=-
+protein-beef-isolate|Beef protein isolate||360|85.0|5.0|1.0|0|1.0|0.5|600|1 scoop (30 g)@30*;100 g@100|d=-
+protein-mass-gainer|Mass gainer powder, chocolate||380|20.0|68.0|3.5|3.0|18.0|1.5|300|2 scoops (165 g)@165*;100 g@100|d=-
+meal-replacement-huel|Meal replacement powder, vanilla|huel|400|29.0|37.0|13.0|7.0|4.0|2.0|400|2 scoops (100 g)@100*;100 g@100|d=-
+
+# --- ready-to-drink shakes -----------------------------------------------
+shake-fairlife-core-power|Fairlife Core Power, chocolate, 26 g||55|8.7|3.3|1.0|0|3.3|0.7|60|1 bottle (414 ml)@426*;100 g@100|brand=Fairlife;d=1.03
+shake-fairlife-core-power-elite|Fairlife Core Power Elite, 42 g protein||69|13.1|3.4|0.5|0|2.8|0.3|65|1 bottle (414 ml)@426*;100 g@100|brand=Fairlife;d=1.03
+shake-premier-protein|Premier Protein shake, chocolate||45|9.1|1.5|0.9|0.6|0.3|0.3|58|1 bottle (325 ml)@331*;100 g@100|brand=Premier Protein;d=1.02
+shake-muscle-milk|Muscle Milk Genuine shake||63|8.0|4.5|2.0|1.0|0.6|0.6|100|1 bottle (330 ml)@340*;100 g@100|brand=Muscle Milk;d=1.03
+shake-orgain-plant|Orgain plant protein shake, vanilla||44|5.9|4.4|1.2|0.6|0.3|0.2|85|1 carton (330 ml)@340*;100 g@100|brand=Orgain;d=1.03
+shake-ensure-original|Ensure Original nutrition shake||93|3.8|16.1|2.5|0.4|6.3|0.4|85|1 bottle (237 ml)@247*;100 g@100|brand=Ensure;d=1.04
+
+# --- protein bars --------------------------------------------------------
+bar-quest-chocolate-chip|Quest Bar, chocolate chip cookie dough||317|35.0|41.7|13.3|23.3|1.7|5.0|400|1 bar (60 g)@60*;100 g@100|brand=Quest;d=-
+bar-rxbar-chocolate-sea-salt|RXBAR, chocolate sea salt||400|22.0|46.0|18.0|10.0|26.0|4.0|500|1 bar (52 g)@52*;100 g@100|brand=RXBAR;d=-
+bar-clif-chocolate-chip|Clif Bar, chocolate chip||382|13.2|66.2|8.1|6.6|30.9|2.9|294|1 bar (68 g)@68*;100 g@100|brand=Clif;d=-
+bar-kind-dark-chocolate-nuts|KIND Bar, dark chocolate nuts and sea salt||475|15.0|42.5|32.5|17.5|12.5|7.5|350|1 bar (40 g)@40*;100 g@100|brand=KIND;d=-
+bar-built-protein|Built Bar, protein puff||330|29.0|48.0|5.0|10.0|3.0|2.5|280|1 bar (55 g)@55*;100 g@100|brand=Built;d=-
+bar-barebells|Barebells protein bar, cookies and cream||364|36.4|32.7|14.5|3.6|1.8|8.2|400|1 bar (55 g)@55*;100 g@100|brand=Barebells;d=-
+bar-one-protein|ONE Protein Bar, birthday cake||377|35.4|39.6|13.5|16.7|1.0|5.2|350|1 bar (60 g)@60*;100 g@100|brand=ONE;d=-
+bar-pure-protein|Pure Protein Bar, chocolate peanut butter||373|39.2|33.3|11.8|2.0|5.9|5.9|380|1 bar (50 g)@50*;100 g@100|brand=Pure Protein;d=-
+bar-perfect-bar-peanut-butter|Perfect Bar, peanut butter||446|20.4|38.9|24.1|5.6|24.1|5.6|280|1 bar (65 g)@65*;100 g@100|brand=Perfect Bar;d=-
+bar-gomacro-peanut-butter|GoMacro bar, peanut butter||420|17.5|55.0|15.0|7.5|30.0|2.5|180|1 bar (60 g)@60*;100 g@100|brand=GoMacro;d=-
+bar-nature-valley-granola|Nature Valley Crunchy granola bar, oats and honey||452|7.1|66.7|17.9|4.8|26.2|2.4|380|1 pouch, 2 bars (42 g)@42*;100 g@100|brand=Nature Valley;d=-
+bar-larabar-cashew-cookie|Larabar, cashew cookie||455|11.4|50.0|25.0|9.1|29.5|4.5|0|1 bar (45 g)@45*;100 g@100|brand=Larabar;d=-
+
+# --- endurance fuelling --------------------------------------------------
+gel-gu-energy|GU Energy Gel, vanilla||313|0|72.7|0|0|18.2|0|188|1 gel (32 g)@32*;100 g@100|brand=GU;d=1.3
+gel-maurten-100|Maurten Gel 100||248|0|62.0|0|0|11.0|0|30|1 gel (40 g)@40*;100 g@100|brand=Maurten;d=1.3
+chews-clif-bloks|Clif Bloks energy chews||330|0|82.5|0|0|40.0|0|117|1 packet (60 g)@60*;3 bloks (30 g)@30|brand=Clif;d=-
+drink-mix-tailwind|Endurance fuel drink mix||388|0|97.0|0|0|97.0|0|1400|1 scoop (27 g)@27*;100 g@100|brand=Tailwind;d=-
+drink-mix-maurten-320|Maurten Drink Mix 320||384|0|96.0|0|0|18.0|0|240|1 sachet (83 g)@83*;100 g@100|brand=Maurten;d=-
+
+# --- creatine, electrolytes, micronutrients ------------------------------
+creatine-monohydrate|Creatine monohydrate powder|creatine|0|0|0|0|0|0|0|0|1 scoop, 5 g (5 g)@5*;1 tsp (5 g)@5;10 g (10 g)@10|d=-
+creatine-hcl|Creatine HCl powder||0|0|0|0|0|0|0|0|1 scoop (3 g)@3*;100 g@100|d=-
+electrolyte-lmnt|LMNT electrolyte drink mix, citrus salt||0|0|0|0|0|0|0|16667|1 stick (6 g)@6*;100 g@100|brand=LMNT;d=-
+electrolyte-liquid-iv|Liquid I.V. Hydration Multiplier||288|0|75.0|0|0|68.8|0|3125|1 stick (16 g)@16*;100 g@100|brand=Liquid I.V.;d=-
+electrolyte-nuun-sport|Nuun Sport electrolyte tablet||300|0|80.0|0|0|20.0|0|30000|1 tablet (5 g)@5*;100 g@100|brand=Nuun;d=-
+electrolyte-element-zero|Electrolyte drink mix, zero calorie||0|0|0|0|0|0|0|15000|1 stick (5 g)@5*;100 g@100|d=-
+pre-workout-generic|Pre-workout powder, typical||30|0|7.5|0|0|0|0|400|1 scoop (10 g)@10*;100 g@100|d=-
+bcaa-powder|BCAA powder, unflavored||0|0|0|0|0|0|0|0|1 scoop (7 g)@7*;100 g@100|d=-
+eaa-powder|EAA powder, flavored||300|75.0|0|0|0|0|0|500|1 scoop (12 g)@12*;100 g@100|d=-
+beta-alanine|Beta-alanine powder||0|0|0|0|0|0|0|0|1 scoop (3.2 g)@3.2*;100 g@100|d=-
+glutamine-powder|L-glutamine powder||0|0|0|0|0|0|0|0|1 scoop (5 g)@5*;100 g@100|d=-
+greens-powder|Greens powder, superfood blend||300|20.0|50.0|3.0|20.0|2.0|0.5|400|1 scoop (12 g)@12*;100 g@100|d=-
+fiber-supplement-psyllium|Fiber supplement, psyllium powder||200|1.6|88.0|0.5|80.0|0|0.1|30|1 tbsp (9 g)@9*;100 g@100|d=-
+fish-oil-capsule|Fish oil capsule, 1000 mg||902|0|0|100|0|0|21.1|0|1 capsule (1 g)@1*;2 capsules (2 g)@2|d=-
+multivitamin-tablet|Multivitamin tablet||0|0|0|0|0|0|0|0|1 tablet (1.5 g)@1.5*;100 g@100|d=-
+vitamin-d3-capsule|Vitamin D3 capsule||0|0|0|0|0|0|0|0|1 capsule (0.5 g)@0.5*;100 g@100|d=-
+magnesium-glycinate|Magnesium glycinate capsule||0|0|0|0|0|0|0|0|1 capsule (1 g)@1*;2 capsules (2 g)@2|d=-
+caffeine-tablet|Caffeine tablet, 200 mg||0|0|0|0|0|0|0|0|1 tablet (0.4 g)@0.4*;100 g@100|d=-
+apple-cider-vinegar-gummy|Apple cider vinegar gummies||300|0|75.0|0|0|50.0|0|30|2 gummies (8 g)@8*;100 g@100|d=-

@@ -1,0 +1,3050 @@
+[
+ {
+  "id": "salmon-atlantic-farmed-raw",
+  "name": "Salmon, Atlantic, farmed, raw",
+  "brand": null,
+  "aliases": [],
+  "category": "seafood",
+  "per100g": {
+   "kcal": 208,
+   "protein_g": 20.4,
+   "carbs_g": 0,
+   "fat_g": 13.4,
+   "fiber_g": 0,
+   "sugar_g": 0,
+   "satfat_g": 3.1,
+   "sodium_mg": 59
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "6 oz (170 g)",
+    "grams": 170,
+    "isDefault": true
+   },
+   {
+    "label": "1 fillet (198 g)",
+    "grams": 198
+   },
+   {
+    "label": "4 oz (113 g)",
+    "grams": 113
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": true,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "salmon-atlantic-farmed-cooked",
+  "name": "Salmon, Atlantic, farmed, cooked",
+  "brand": null,
+  "aliases": [
+   "baked salmon",
+   "grilled salmon"
+  ],
+  "category": "seafood",
+  "per100g": {
+   "kcal": 206,
+   "protein_g": 22.1,
+   "carbs_g": 0,
+   "fat_g": 12.4,
+   "fiber_g": 0,
+   "sugar_g": 0,
+   "satfat_g": 2.4,
+   "sodium_mg": 61
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": 13,
+   "vitamin_a_carotenoid_mcg_rae": 0,
+   "folate_food_mcg": 5,
+   "folic_acid_mcg": 0,
+   "folate_dfe_mcg": 5
+  },
+  "servings": [
+   {
+    "label": "6 oz (170 g)",
+    "grams": 170,
+    "isDefault": true
+   },
+   {
+    "label": "1 fillet (159 g)",
+    "grams": 159
+   },
+   {
+    "label": "4 oz (113 g)",
+    "grams": 113
+   },
+   {
+    "label": "3 oz (85 g)",
+    "grams": 85
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": true,
+  "source": "USDA FoodData Central SR Legacy FDC 175168, release 2018-04, reviewed 2026-08-01"
+ },
+ {
+  "id": "salmon-atlantic-wild-cooked",
+  "name": "Salmon, Atlantic, wild, cooked",
+  "brand": null,
+  "aliases": [],
+  "category": "seafood",
+  "per100g": {
+   "kcal": 182,
+   "protein_g": 25.4,
+   "carbs_g": 0,
+   "fat_g": 8.1,
+   "fiber_g": 0,
+   "sugar_g": 0,
+   "satfat_g": 1.3,
+   "sodium_mg": 56
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "6 oz (170 g)",
+    "grams": 170,
+    "isDefault": true
+   },
+   {
+    "label": "4 oz (113 g)",
+    "grams": 113
+   },
+   {
+    "label": "3 oz (85 g)",
+    "grams": 85
+   },
+   {
+    "label": "100 g",
+    "grams": 100
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": true,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "salmon-sockeye-raw",
+  "name": "Salmon, sockeye, raw",
+  "brand": null,
+  "aliases": [
+   "red salmon"
+  ],
+  "category": "seafood",
+  "per100g": {
+   "kcal": 131,
+   "protein_g": 22.3,
+   "carbs_g": 0,
+   "fat_g": 4,
+   "fiber_g": 0,
+   "sugar_g": 0,
+   "satfat_g": 0.7,
+   "sodium_mg": 64
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "6 oz (170 g)",
+    "grams": 170,
+    "isDefault": true
+   },
+   {
+    "label": "4 oz (113 g)",
+    "grams": 113
+   },
+   {
+    "label": "3 oz (85 g)",
+    "grams": 85
+   },
+   {
+    "label": "100 g",
+    "grams": 100
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": true,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "salmon-sockeye-cooked",
+  "name": "Salmon, sockeye, cooked",
+  "brand": null,
+  "aliases": [
+   "red salmon"
+  ],
+  "category": "seafood",
+  "per100g": {
+   "kcal": 156,
+   "protein_g": 26.5,
+   "carbs_g": 0,
+   "fat_g": 5,
+   "fiber_g": 0,
+   "sugar_g": 0,
+   "satfat_g": 0.9,
+   "sodium_mg": 75
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "6 oz (170 g)",
+    "grams": 170,
+    "isDefault": true
+   },
+   {
+    "label": "4 oz (113 g)",
+    "grams": 113
+   },
+   {
+    "label": "3 oz (85 g)",
+    "grams": 85
+   },
+   {
+    "label": "100 g",
+    "grams": 100
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": true,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "salmon-coho-cooked",
+  "name": "Salmon, coho, wild, cooked",
+  "brand": null,
+  "aliases": [
+   "silver salmon"
+  ],
+  "category": "seafood",
+  "per100g": {
+   "kcal": 139,
+   "protein_g": 23.5,
+   "carbs_g": 0,
+   "fat_g": 4.3,
+   "fiber_g": 0,
+   "sugar_g": 0,
+   "satfat_g": 1,
+   "sodium_mg": 58
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "6 oz (170 g)",
+    "grams": 170,
+    "isDefault": true
+   },
+   {
+    "label": "4 oz (113 g)",
+    "grams": 113
+   },
+   {
+    "label": "3 oz (85 g)",
+    "grams": 85
+   },
+   {
+    "label": "100 g",
+    "grams": 100
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": true,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "salmon-king-cooked",
+  "name": "Salmon, chinook, cooked",
+  "brand": null,
+  "aliases": [
+   "king salmon"
+  ],
+  "category": "seafood",
+  "per100g": {
+   "kcal": 231,
+   "protein_g": 25.7,
+   "carbs_g": 0,
+   "fat_g": 13.4,
+   "fiber_g": 0,
+   "sugar_g": 0,
+   "satfat_g": 3.2,
+   "sodium_mg": 60
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "6 oz (170 g)",
+    "grams": 170,
+    "isDefault": true
+   },
+   {
+    "label": "4 oz (113 g)",
+    "grams": 113
+   },
+   {
+    "label": "3 oz (85 g)",
+    "grams": 85
+   },
+   {
+    "label": "100 g",
+    "grams": 100
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": false,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "salmon-pink-canned",
+  "name": "Salmon, pink, canned, drained",
+  "brand": null,
+  "aliases": [],
+  "category": "seafood",
+  "per100g": {
+   "kcal": 139,
+   "protein_g": 19.8,
+   "carbs_g": 0,
+   "fat_g": 6,
+   "fiber_g": 0,
+   "sugar_g": 0,
+   "satfat_g": 1.5,
+   "sodium_mg": 400
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 can (156 g)",
+    "grams": 156,
+    "isDefault": true
+   },
+   {
+    "label": "100 g",
+    "grams": 100
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": true,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "salmon-smoked",
+  "name": "Salmon, smoked",
+  "brand": null,
+  "aliases": [
+   "lox",
+   "nova"
+  ],
+  "category": "seafood",
+  "per100g": {
+   "kcal": 117,
+   "protein_g": 18.3,
+   "carbs_g": 0,
+   "fat_g": 4.3,
+   "fiber_g": 0,
+   "sugar_g": 0,
+   "satfat_g": 0.9,
+   "sodium_mg": 1880
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "2 oz (57 g)",
+    "grams": 57,
+    "isDefault": true
+   },
+   {
+    "label": "3 oz (85 g)",
+    "grams": 85
+   },
+   {
+    "label": "100 g",
+    "grams": 100
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": true,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "salmon-burger",
+  "name": "Salmon burger patty, cooked",
+  "brand": null,
+  "aliases": [],
+  "category": "seafood",
+  "per100g": {
+   "kcal": 190,
+   "protein_g": 20,
+   "carbs_g": 4,
+   "fat_g": 10,
+   "fiber_g": 0.5,
+   "sugar_g": 0.5,
+   "satfat_g": 2,
+   "sodium_mg": 380
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 patty (85 g)",
+    "grams": 85,
+    "isDefault": true
+   },
+   {
+    "label": "100 g",
+    "grams": 100
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": false,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "tuna-canned-water",
+  "name": "Tuna, light, canned in water, drained",
+  "brand": null,
+  "aliases": [
+   "canned tuna",
+   "chunk light tuna"
+  ],
+  "category": "seafood",
+  "per100g": {
+   "kcal": 116,
+   "protein_g": 25.5,
+   "carbs_g": 0,
+   "fat_g": 0.8,
+   "fiber_g": 0,
+   "sugar_g": 0,
+   "satfat_g": 0.2,
+   "sodium_mg": 247
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": 5,
+   "vitamin_a_carotenoid_mcg_rae": 0,
+   "folate_food_mcg": 4,
+   "folic_acid_mcg": 0,
+   "folate_dfe_mcg": 4
+  },
+  "servings": [
+   {
+    "label": "1 can (142 g)",
+    "grams": 142,
+    "isDefault": true
+   },
+   {
+    "label": "1 pouch (74 g)",
+    "grams": 74
+   },
+   {
+    "label": "100 g",
+    "grams": 100
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": true,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "tuna-albacore-canned-water",
+  "name": "Tuna, albacore, canned in water, drained",
+  "brand": null,
+  "aliases": [
+   "white tuna"
+  ],
+  "category": "seafood",
+  "per100g": {
+   "kcal": 128,
+   "protein_g": 23.6,
+   "carbs_g": 0,
+   "fat_g": 2.5,
+   "fiber_g": 0,
+   "sugar_g": 0,
+   "satfat_g": 0.7,
+   "sodium_mg": 338
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 can (142 g)",
+    "grams": 142,
+    "isDefault": true
+   },
+   {
+    "label": "1 pouch (74 g)",
+    "grams": 74
+   },
+   {
+    "label": "100 g",
+    "grams": 100
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": true,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "tuna-canned-oil",
+  "name": "Tuna, canned in oil, drained",
+  "brand": null,
+  "aliases": [],
+  "category": "seafood",
+  "per100g": {
+   "kcal": 198,
+   "protein_g": 29.1,
+   "carbs_g": 0,
+   "fat_g": 8.2,
+   "fiber_g": 0,
+   "sugar_g": 0,
+   "satfat_g": 1.5,
+   "sodium_mg": 354
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 can (142 g)",
+    "grams": 142,
+    "isDefault": true
+   },
+   {
+    "label": "100 g",
+    "grams": 100
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": true,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "tuna-yellowfin-raw",
+  "name": "Tuna, yellowfin, raw",
+  "brand": null,
+  "aliases": [
+   "ahi tuna"
+  ],
+  "category": "seafood",
+  "per100g": {
+   "kcal": 109,
+   "protein_g": 24.4,
+   "carbs_g": 0,
+   "fat_g": 0.5,
+   "fiber_g": 0,
+   "sugar_g": 0,
+   "satfat_g": 0.2,
+   "sodium_mg": 45
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "6 oz (170 g)",
+    "grams": 170,
+    "isDefault": true
+   },
+   {
+    "label": "4 oz (113 g)",
+    "grams": 113
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": true,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "tuna-yellowfin-cooked",
+  "name": "Tuna, yellowfin, cooked",
+  "brand": null,
+  "aliases": [
+   "seared ahi"
+  ],
+  "category": "seafood",
+  "per100g": {
+   "kcal": 139,
+   "protein_g": 29.9,
+   "carbs_g": 0,
+   "fat_g": 1,
+   "fiber_g": 0,
+   "sugar_g": 0,
+   "satfat_g": 0.3,
+   "sodium_mg": 54
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "6 oz (170 g)",
+    "grams": 170,
+    "isDefault": true
+   },
+   {
+    "label": "4 oz (113 g)",
+    "grams": 113
+   },
+   {
+    "label": "3 oz (85 g)",
+    "grams": 85
+   },
+   {
+    "label": "100 g",
+    "grams": 100
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": true,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "tuna-bluefin-raw",
+  "name": "Tuna, bluefin, raw",
+  "brand": null,
+  "aliases": [
+   "toro"
+  ],
+  "category": "seafood",
+  "per100g": {
+   "kcal": 144,
+   "protein_g": 23.3,
+   "carbs_g": 0,
+   "fat_g": 4.9,
+   "fiber_g": 0,
+   "sugar_g": 0,
+   "satfat_g": 1.3,
+   "sodium_mg": 39
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "6 oz (170 g)",
+    "grams": 170,
+    "isDefault": true
+   },
+   {
+    "label": "4 oz (113 g)",
+    "grams": 113
+   },
+   {
+    "label": "3 oz (85 g)",
+    "grams": 85
+   },
+   {
+    "label": "100 g",
+    "grams": 100
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": false,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "tuna-steak-grilled",
+  "name": "Tuna steak, grilled",
+  "brand": null,
+  "aliases": [],
+  "category": "seafood",
+  "per100g": {
+   "kcal": 184,
+   "protein_g": 29.9,
+   "carbs_g": 0,
+   "fat_g": 6.3,
+   "fiber_g": 0,
+   "sugar_g": 0,
+   "satfat_g": 1.6,
+   "sodium_mg": 50
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "6 oz (170 g)",
+    "grams": 170,
+    "isDefault": true
+   },
+   {
+    "label": "4 oz (113 g)",
+    "grams": 113
+   },
+   {
+    "label": "3 oz (85 g)",
+    "grams": 85
+   },
+   {
+    "label": "100 g",
+    "grams": 100
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": false,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "cod-raw",
+  "name": "Cod, Atlantic, raw",
+  "brand": null,
+  "aliases": [],
+  "category": "seafood",
+  "per100g": {
+   "kcal": 82,
+   "protein_g": 17.8,
+   "carbs_g": 0,
+   "fat_g": 0.7,
+   "fiber_g": 0,
+   "sugar_g": 0,
+   "satfat_g": 0.1,
+   "sodium_mg": 54
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "6 oz (170 g)",
+    "grams": 170,
+    "isDefault": true
+   },
+   {
+    "label": "1 fillet (231 g)",
+    "grams": 231
+   },
+   {
+    "label": "4 oz (113 g)",
+    "grams": 113
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": true,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "cod-cooked",
+  "name": "Cod, Atlantic, cooked",
+  "brand": null,
+  "aliases": [],
+  "category": "seafood",
+  "per100g": {
+   "kcal": 105,
+   "protein_g": 22.8,
+   "carbs_g": 0,
+   "fat_g": 0.9,
+   "fiber_g": 0,
+   "sugar_g": 0,
+   "satfat_g": 0.2,
+   "sodium_mg": 78
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "6 oz (170 g)",
+    "grams": 170,
+    "isDefault": true
+   },
+   {
+    "label": "1 fillet (180 g)",
+    "grams": 180
+   },
+   {
+    "label": "3 oz (85 g)",
+    "grams": 85
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": true,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "haddock-cooked",
+  "name": "Haddock, cooked",
+  "brand": null,
+  "aliases": [],
+  "category": "seafood",
+  "per100g": {
+   "kcal": 112,
+   "protein_g": 24.2,
+   "carbs_g": 0,
+   "fat_g": 0.9,
+   "fiber_g": 0,
+   "sugar_g": 0,
+   "satfat_g": 0.2,
+   "sodium_mg": 261
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "6 oz (170 g)",
+    "grams": 170,
+    "isDefault": true
+   },
+   {
+    "label": "4 oz (113 g)",
+    "grams": 113
+   },
+   {
+    "label": "3 oz (85 g)",
+    "grams": 85
+   },
+   {
+    "label": "100 g",
+    "grams": 100
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": true,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "pollock-cooked",
+  "name": "Pollock, Alaska, cooked",
+  "brand": null,
+  "aliases": [],
+  "category": "seafood",
+  "per100g": {
+   "kcal": 111,
+   "protein_g": 23.5,
+   "carbs_g": 0,
+   "fat_g": 1.2,
+   "fiber_g": 0,
+   "sugar_g": 0,
+   "satfat_g": 0.2,
+   "sodium_mg": 420
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "6 oz (170 g)",
+    "grams": 170,
+    "isDefault": true
+   },
+   {
+    "label": "4 oz (113 g)",
+    "grams": 113
+   },
+   {
+    "label": "3 oz (85 g)",
+    "grams": 85
+   },
+   {
+    "label": "100 g",
+    "grams": 100
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": true,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "halibut-raw",
+  "name": "Halibut, raw",
+  "brand": null,
+  "aliases": [],
+  "category": "seafood",
+  "per100g": {
+   "kcal": 111,
+   "protein_g": 20.8,
+   "carbs_g": 0,
+   "fat_g": 2.3,
+   "fiber_g": 0,
+   "sugar_g": 0,
+   "satfat_g": 0.3,
+   "sodium_mg": 54
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "6 oz (170 g)",
+    "grams": 170,
+    "isDefault": true
+   },
+   {
+    "label": "4 oz (113 g)",
+    "grams": 113
+   },
+   {
+    "label": "3 oz (85 g)",
+    "grams": 85
+   },
+   {
+    "label": "100 g",
+    "grams": 100
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": true,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "halibut-cooked",
+  "name": "Halibut, cooked",
+  "brand": null,
+  "aliases": [],
+  "category": "seafood",
+  "per100g": {
+   "kcal": 140,
+   "protein_g": 26.7,
+   "carbs_g": 0,
+   "fat_g": 2.9,
+   "fiber_g": 0,
+   "sugar_g": 0,
+   "satfat_g": 0.4,
+   "sodium_mg": 68
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "6 oz (170 g)",
+    "grams": 170,
+    "isDefault": true
+   },
+   {
+    "label": "4 oz (113 g)",
+    "grams": 113
+   },
+   {
+    "label": "3 oz (85 g)",
+    "grams": 85
+   },
+   {
+    "label": "100 g",
+    "grams": 100
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": true,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "tilapia-raw",
+  "name": "Tilapia, raw",
+  "brand": null,
+  "aliases": [],
+  "category": "seafood",
+  "per100g": {
+   "kcal": 96,
+   "protein_g": 20.1,
+   "carbs_g": 0,
+   "fat_g": 1.7,
+   "fiber_g": 0,
+   "sugar_g": 0,
+   "satfat_g": 0.6,
+   "sodium_mg": 52
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "6 oz (170 g)",
+    "grams": 170,
+    "isDefault": true
+   },
+   {
+    "label": "4 oz (113 g)",
+    "grams": 113
+   },
+   {
+    "label": "3 oz (85 g)",
+    "grams": 85
+   },
+   {
+    "label": "100 g",
+    "grams": 100
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": true,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "tilapia-cooked",
+  "name": "Tilapia, cooked",
+  "brand": null,
+  "aliases": [],
+  "category": "seafood",
+  "per100g": {
+   "kcal": 128,
+   "protein_g": 26.2,
+   "carbs_g": 0,
+   "fat_g": 2.7,
+   "fiber_g": 0,
+   "sugar_g": 0,
+   "satfat_g": 0.9,
+   "sodium_mg": 56
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "6 oz (170 g)",
+    "grams": 170,
+    "isDefault": true
+   },
+   {
+    "label": "1 fillet (87 g)",
+    "grams": 87
+   },
+   {
+    "label": "4 oz (113 g)",
+    "grams": 113
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": true,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "flounder-cooked",
+  "name": "Flounder, cooked",
+  "brand": null,
+  "aliases": [
+   "sole"
+  ],
+  "category": "seafood",
+  "per100g": {
+   "kcal": 86,
+   "protein_g": 17.8,
+   "carbs_g": 0,
+   "fat_g": 1.1,
+   "fiber_g": 0,
+   "sugar_g": 0,
+   "satfat_g": 0.3,
+   "sodium_mg": 89
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "6 oz (170 g)",
+    "grams": 170,
+    "isDefault": true
+   },
+   {
+    "label": "4 oz (113 g)",
+    "grams": 113
+   },
+   {
+    "label": "3 oz (85 g)",
+    "grams": 85
+   },
+   {
+    "label": "100 g",
+    "grams": 100
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": false,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "snapper-cooked",
+  "name": "Red snapper, cooked",
+  "brand": null,
+  "aliases": [],
+  "category": "seafood",
+  "per100g": {
+   "kcal": 128,
+   "protein_g": 26.3,
+   "carbs_g": 0,
+   "fat_g": 1.7,
+   "fiber_g": 0,
+   "sugar_g": 0,
+   "satfat_g": 0.4,
+   "sodium_mg": 57
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "6 oz (170 g)",
+    "grams": 170,
+    "isDefault": true
+   },
+   {
+    "label": "4 oz (113 g)",
+    "grams": 113
+   },
+   {
+    "label": "3 oz (85 g)",
+    "grams": 85
+   },
+   {
+    "label": "100 g",
+    "grams": 100
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": true,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "sea-bass-cooked",
+  "name": "Sea bass, cooked",
+  "brand": null,
+  "aliases": [],
+  "category": "seafood",
+  "per100g": {
+   "kcal": 124,
+   "protein_g": 23.6,
+   "carbs_g": 0,
+   "fat_g": 2.6,
+   "fiber_g": 0,
+   "sugar_g": 0,
+   "satfat_g": 0.7,
+   "sodium_mg": 87
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "6 oz (170 g)",
+    "grams": 170,
+    "isDefault": true
+   },
+   {
+    "label": "4 oz (113 g)",
+    "grams": 113
+   },
+   {
+    "label": "3 oz (85 g)",
+    "grams": 85
+   },
+   {
+    "label": "100 g",
+    "grams": 100
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": true,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "mahi-mahi-cooked",
+  "name": "Mahi mahi, cooked",
+  "brand": null,
+  "aliases": [
+   "dolphinfish"
+  ],
+  "category": "seafood",
+  "per100g": {
+   "kcal": 109,
+   "protein_g": 23.7,
+   "carbs_g": 0,
+   "fat_g": 0.9,
+   "fiber_g": 0,
+   "sugar_g": 0,
+   "satfat_g": 0.2,
+   "sodium_mg": 113
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "6 oz (170 g)",
+    "grams": 170,
+    "isDefault": true
+   },
+   {
+    "label": "4 oz (113 g)",
+    "grams": 113
+   },
+   {
+    "label": "3 oz (85 g)",
+    "grams": 85
+   },
+   {
+    "label": "100 g",
+    "grams": 100
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": true,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "grouper-cooked",
+  "name": "Grouper, cooked",
+  "brand": null,
+  "aliases": [],
+  "category": "seafood",
+  "per100g": {
+   "kcal": 118,
+   "protein_g": 24.8,
+   "carbs_g": 0,
+   "fat_g": 1.3,
+   "fiber_g": 0,
+   "sugar_g": 0,
+   "satfat_g": 0.3,
+   "sodium_mg": 53
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "6 oz (170 g)",
+    "grams": 170,
+    "isDefault": true
+   },
+   {
+    "label": "4 oz (113 g)",
+    "grams": 113
+   },
+   {
+    "label": "3 oz (85 g)",
+    "grams": 85
+   },
+   {
+    "label": "100 g",
+    "grams": 100
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": false,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "catfish-cooked",
+  "name": "Catfish, farmed, cooked",
+  "brand": null,
+  "aliases": [],
+  "category": "seafood",
+  "per100g": {
+   "kcal": 152,
+   "protein_g": 18.7,
+   "carbs_g": 0,
+   "fat_g": 8,
+   "fiber_g": 0,
+   "sugar_g": 0,
+   "satfat_g": 1.8,
+   "sodium_mg": 119
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "6 oz (170 g)",
+    "grams": 170,
+    "isDefault": true
+   },
+   {
+    "label": "4 oz (113 g)",
+    "grams": 113
+   },
+   {
+    "label": "3 oz (85 g)",
+    "grams": 85
+   },
+   {
+    "label": "100 g",
+    "grams": 100
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": true,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "swordfish-cooked",
+  "name": "Swordfish, cooked",
+  "brand": null,
+  "aliases": [],
+  "category": "seafood",
+  "per100g": {
+   "kcal": 172,
+   "protein_g": 23.5,
+   "carbs_g": 0,
+   "fat_g": 7.9,
+   "fiber_g": 0,
+   "sugar_g": 0,
+   "satfat_g": 2.1,
+   "sodium_mg": 115
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "6 oz (170 g)",
+    "grams": 170,
+    "isDefault": true
+   },
+   {
+    "label": "4 oz (113 g)",
+    "grams": 113
+   },
+   {
+    "label": "3 oz (85 g)",
+    "grams": 85
+   },
+   {
+    "label": "100 g",
+    "grams": 100
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": false,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "trout-rainbow-cooked",
+  "name": "Rainbow trout, farmed, cooked",
+  "brand": null,
+  "aliases": [],
+  "category": "seafood",
+  "per100g": {
+   "kcal": 168,
+   "protein_g": 23.8,
+   "carbs_g": 0,
+   "fat_g": 7.2,
+   "fiber_g": 0,
+   "sugar_g": 0,
+   "satfat_g": 2.1,
+   "sodium_mg": 51
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "6 oz (170 g)",
+    "grams": 170,
+    "isDefault": true
+   },
+   {
+    "label": "1 fillet (71 g)",
+    "grams": 71
+   },
+   {
+    "label": "4 oz (113 g)",
+    "grams": 113
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": true,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "tuna-white-fish-branzino",
+  "name": "Branzino, cooked",
+  "brand": null,
+  "aliases": [
+   "european sea bass"
+  ],
+  "category": "seafood",
+  "per100g": {
+   "kcal": 124,
+   "protein_g": 23.5,
+   "carbs_g": 0,
+   "fat_g": 2.6,
+   "fiber_g": 0,
+   "sugar_g": 0,
+   "satfat_g": 0.7,
+   "sodium_mg": 87
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "6 oz (170 g)",
+    "grams": 170,
+    "isDefault": true
+   },
+   {
+    "label": "4 oz (113 g)",
+    "grams": 113
+   },
+   {
+    "label": "3 oz (85 g)",
+    "grams": 85
+   },
+   {
+    "label": "100 g",
+    "grams": 100
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": false,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "walleye-cooked",
+  "name": "Walleye, cooked",
+  "brand": null,
+  "aliases": [],
+  "category": "seafood",
+  "per100g": {
+   "kcal": 119,
+   "protein_g": 24.5,
+   "carbs_g": 0,
+   "fat_g": 1.6,
+   "fiber_g": 0,
+   "sugar_g": 0,
+   "satfat_g": 0.3,
+   "sodium_mg": 65
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "6 oz (170 g)",
+    "grams": 170,
+    "isDefault": true
+   },
+   {
+    "label": "4 oz (113 g)",
+    "grams": 113
+   },
+   {
+    "label": "3 oz (85 g)",
+    "grams": 85
+   },
+   {
+    "label": "100 g",
+    "grams": 100
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": false,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "perch-cooked",
+  "name": "Perch, cooked",
+  "brand": null,
+  "aliases": [],
+  "category": "seafood",
+  "per100g": {
+   "kcal": 117,
+   "protein_g": 25,
+   "carbs_g": 0,
+   "fat_g": 1.2,
+   "fiber_g": 0,
+   "sugar_g": 0,
+   "satfat_g": 0.2,
+   "sodium_mg": 82
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "6 oz (170 g)",
+    "grams": 170,
+    "isDefault": true
+   },
+   {
+    "label": "4 oz (113 g)",
+    "grams": 113
+   },
+   {
+    "label": "3 oz (85 g)",
+    "grams": 85
+   },
+   {
+    "label": "100 g",
+    "grams": 100
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": false,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "monkfish-cooked",
+  "name": "Monkfish, cooked",
+  "brand": null,
+  "aliases": [],
+  "category": "seafood",
+  "per100g": {
+   "kcal": 97,
+   "protein_g": 18.6,
+   "carbs_g": 0,
+   "fat_g": 1.9,
+   "fiber_g": 0,
+   "sugar_g": 0,
+   "satfat_g": 0.4,
+   "sodium_mg": 23
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "6 oz (170 g)",
+    "grams": 170,
+    "isDefault": true
+   },
+   {
+    "label": "4 oz (113 g)",
+    "grams": 113
+   },
+   {
+    "label": "3 oz (85 g)",
+    "grams": 85
+   },
+   {
+    "label": "100 g",
+    "grams": 100
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": false,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "skate-cooked",
+  "name": "Skate wing, cooked",
+  "brand": null,
+  "aliases": [],
+  "category": "seafood",
+  "per100g": {
+   "kcal": 110,
+   "protein_g": 23,
+   "carbs_g": 0,
+   "fat_g": 1.2,
+   "fiber_g": 0,
+   "sugar_g": 0,
+   "satfat_g": 0.3,
+   "sodium_mg": 110
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "6 oz (170 g)",
+    "grams": 170,
+    "isDefault": true
+   },
+   {
+    "label": "4 oz (113 g)",
+    "grams": 113
+   },
+   {
+    "label": "3 oz (85 g)",
+    "grams": 85
+   },
+   {
+    "label": "100 g",
+    "grams": 100
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": false,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "mackerel-atlantic-cooked",
+  "name": "Mackerel, Atlantic, cooked",
+  "brand": null,
+  "aliases": [],
+  "category": "seafood",
+  "per100g": {
+   "kcal": 262,
+   "protein_g": 23.9,
+   "carbs_g": 0,
+   "fat_g": 17.8,
+   "fiber_g": 0,
+   "sugar_g": 0,
+   "satfat_g": 4.2,
+   "sodium_mg": 83
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": 54,
+   "vitamin_a_carotenoid_mcg_rae": 0,
+   "folate_food_mcg": 2,
+   "folic_acid_mcg": 0,
+   "folate_dfe_mcg": 2
+  },
+  "servings": [
+   {
+    "label": "6 oz (170 g)",
+    "grams": 170,
+    "isDefault": true
+   },
+   {
+    "label": "4 oz (113 g)",
+    "grams": 113
+   },
+   {
+    "label": "3 oz (85 g)",
+    "grams": 85
+   },
+   {
+    "label": "100 g",
+    "grams": 100
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": true,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "mackerel-canned",
+  "name": "Mackerel, canned, drained",
+  "brand": null,
+  "aliases": [],
+  "category": "seafood",
+  "per100g": {
+   "kcal": 156,
+   "protein_g": 23.2,
+   "carbs_g": 0,
+   "fat_g": 6.3,
+   "fiber_g": 0,
+   "sugar_g": 0,
+   "satfat_g": 1.8,
+   "sodium_mg": 420
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 can (125 g)",
+    "grams": 125,
+    "isDefault": true
+   },
+   {
+    "label": "100 g",
+    "grams": 100
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": false,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "sardines-oil-drained",
+  "name": "Sardines, canned in oil, drained",
+  "brand": null,
+  "aliases": [],
+  "category": "seafood",
+  "per100g": {
+   "kcal": 208,
+   "protein_g": 24.6,
+   "carbs_g": 0,
+   "fat_g": 11.5,
+   "fiber_g": 0,
+   "sugar_g": 0,
+   "satfat_g": 1.5,
+   "sodium_mg": 505
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": 32,
+   "vitamin_a_carotenoid_mcg_rae": 0,
+   "folate_food_mcg": 10,
+   "folic_acid_mcg": 0,
+   "folate_dfe_mcg": 10
+  },
+  "servings": [
+   {
+    "label": "1 can (92 g)",
+    "grams": 92,
+    "isDefault": true
+   },
+   {
+    "label": "2 sardines (24 g)",
+    "grams": 24
+   },
+   {
+    "label": "100 g",
+    "grams": 100
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": true,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "sardines-water",
+  "name": "Sardines, canned in water, drained",
+  "brand": null,
+  "aliases": [],
+  "category": "seafood",
+  "per100g": {
+   "kcal": 185,
+   "protein_g": 22.7,
+   "carbs_g": 0,
+   "fat_g": 10,
+   "fiber_g": 0,
+   "sugar_g": 0,
+   "satfat_g": 1.3,
+   "sodium_mg": 380
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 can (92 g)",
+    "grams": 92,
+    "isDefault": true
+   },
+   {
+    "label": "100 g",
+    "grams": 100
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": false,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "anchovies-oil",
+  "name": "Anchovies, canned in oil, drained",
+  "brand": null,
+  "aliases": [],
+  "category": "seafood",
+  "per100g": {
+   "kcal": 210,
+   "protein_g": 28.9,
+   "carbs_g": 0,
+   "fat_g": 9.7,
+   "fiber_g": 0,
+   "sugar_g": 0,
+   "satfat_g": 2.2,
+   "sodium_mg": 3668
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 fillet (4 g)",
+    "grams": 4,
+    "isDefault": true
+   },
+   {
+    "label": "1 oz (28 g)",
+    "grams": 28
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": true,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "herring-cooked",
+  "name": "Herring, Atlantic, cooked",
+  "brand": null,
+  "aliases": [],
+  "category": "seafood",
+  "per100g": {
+   "kcal": 203,
+   "protein_g": 23,
+   "carbs_g": 0,
+   "fat_g": 11.6,
+   "fiber_g": 0,
+   "sugar_g": 0,
+   "satfat_g": 2.6,
+   "sodium_mg": 115
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "6 oz (170 g)",
+    "grams": 170,
+    "isDefault": true
+   },
+   {
+    "label": "4 oz (113 g)",
+    "grams": 113
+   },
+   {
+    "label": "3 oz (85 g)",
+    "grams": 85
+   },
+   {
+    "label": "100 g",
+    "grams": 100
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": true,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "herring-pickled",
+  "name": "Herring, pickled",
+  "brand": null,
+  "aliases": [],
+  "category": "seafood",
+  "per100g": {
+   "kcal": 262,
+   "protein_g": 14.2,
+   "carbs_g": 9.6,
+   "fat_g": 18,
+   "fiber_g": 0,
+   "sugar_g": 9.6,
+   "satfat_g": 2.4,
+   "sodium_mg": 870
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 oz (28 g)",
+    "grams": 28,
+    "isDefault": true
+   },
+   {
+    "label": "100 g",
+    "grams": 100
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": true,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "smelt-cooked",
+  "name": "Smelt, cooked",
+  "brand": null,
+  "aliases": [],
+  "category": "seafood",
+  "per100g": {
+   "kcal": 124,
+   "protein_g": 22.6,
+   "carbs_g": 0,
+   "fat_g": 3.1,
+   "fiber_g": 0,
+   "sugar_g": 0,
+   "satfat_g": 0.6,
+   "sodium_mg": 77
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "6 oz (170 g)",
+    "grams": 170,
+    "isDefault": true
+   },
+   {
+    "label": "4 oz (113 g)",
+    "grams": 113
+   },
+   {
+    "label": "3 oz (85 g)",
+    "grams": 85
+   },
+   {
+    "label": "100 g",
+    "grams": 100
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": false,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "shrimp-raw",
+  "name": "Shrimp, raw",
+  "brand": null,
+  "aliases": [
+   "prawns"
+  ],
+  "category": "seafood",
+  "per100g": {
+   "kcal": 85,
+   "protein_g": 20.1,
+   "carbs_g": 0,
+   "fat_g": 0.5,
+   "fiber_g": 0,
+   "sugar_g": 0,
+   "satfat_g": 0.1,
+   "sodium_mg": 119
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "4 oz (113 g)",
+    "grams": 113,
+    "isDefault": true
+   },
+   {
+    "label": "6 oz (170 g)",
+    "grams": 170
+   },
+   {
+    "label": "1 large shrimp (12 g)",
+    "grams": 12
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": true,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "shrimp-cooked",
+  "name": "Shrimp, cooked",
+  "brand": null,
+  "aliases": [
+   "prawns",
+   "boiled shrimp"
+  ],
+  "category": "seafood",
+  "per100g": {
+   "kcal": 99,
+   "protein_g": 20.9,
+   "carbs_g": 0.2,
+   "fat_g": 1.1,
+   "fiber_g": 0,
+   "sugar_g": 0,
+   "satfat_g": 0.3,
+   "sodium_mg": 111
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "4 oz (113 g)",
+    "grams": 113,
+    "isDefault": true
+   },
+   {
+    "label": "3 oz (85 g)",
+    "grams": 85
+   },
+   {
+    "label": "1 large shrimp (9 g)",
+    "grams": 9
+   },
+   {
+    "label": "1 cup (145 g)",
+    "grams": 145
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": true,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "shrimp-breaded-fried",
+  "name": "Shrimp, breaded and fried",
+  "brand": null,
+  "aliases": [
+   "popcorn shrimp",
+   "coconut shrimp"
+  ],
+  "category": "seafood",
+  "per100g": {
+   "kcal": 242,
+   "protein_g": 15.5,
+   "carbs_g": 17.9,
+   "fat_g": 12.2,
+   "fiber_g": 0.6,
+   "sugar_g": 0.5,
+   "satfat_g": 2.1,
+   "sodium_mg": 556
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "4 oz (113 g)",
+    "grams": 113,
+    "isDefault": true
+   },
+   {
+    "label": "6 shrimp (60 g)",
+    "grams": 60
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": true,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "crab-blue-cooked",
+  "name": "Crab, blue, cooked",
+  "brand": null,
+  "aliases": [],
+  "category": "seafood",
+  "per100g": {
+   "kcal": 87,
+   "protein_g": 17.2,
+   "carbs_g": 0,
+   "fat_g": 1.1,
+   "fiber_g": 0,
+   "sugar_g": 0,
+   "satfat_g": 0.2,
+   "sodium_mg": 293
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "3 oz (85 g)",
+    "grams": 85,
+    "isDefault": true
+   },
+   {
+    "label": "1 cup (135 g)",
+    "grams": 135
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": true,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "crab-king-cooked",
+  "name": "King crab, cooked",
+  "brand": null,
+  "aliases": [],
+  "category": "seafood",
+  "per100g": {
+   "kcal": 97,
+   "protein_g": 19.4,
+   "carbs_g": 0,
+   "fat_g": 1.5,
+   "fiber_g": 0,
+   "sugar_g": 0,
+   "satfat_g": 0.1,
+   "sodium_mg": 1072
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "3 oz (85 g)",
+    "grams": 85,
+    "isDefault": true
+   },
+   {
+    "label": "1 leg (134 g)",
+    "grams": 134
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": true,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "crab-imitation",
+  "name": "Imitation crab, surimi",
+  "brand": null,
+  "aliases": [
+   "krab",
+   "surimi"
+  ],
+  "category": "seafood",
+  "per100g": {
+   "kcal": 95,
+   "protein_g": 7.6,
+   "carbs_g": 15,
+   "fat_g": 0.4,
+   "fiber_g": 0.5,
+   "sugar_g": 5,
+   "satfat_g": 0.1,
+   "sodium_mg": 841
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "3 oz (85 g)",
+    "grams": 85,
+    "isDefault": true
+   },
+   {
+    "label": "1 stick (17 g)",
+    "grams": 17
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": true,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "lobster-cooked",
+  "name": "Lobster, cooked",
+  "brand": null,
+  "aliases": [],
+  "category": "seafood",
+  "per100g": {
+   "kcal": 89,
+   "protein_g": 19,
+   "carbs_g": 0,
+   "fat_g": 0.9,
+   "fiber_g": 0,
+   "sugar_g": 0,
+   "satfat_g": 0.2,
+   "sodium_mg": 486
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "3 oz (85 g)",
+    "grams": 85,
+    "isDefault": true
+   },
+   {
+    "label": "1 cup (145 g)",
+    "grams": 145
+   },
+   {
+    "label": "1 tail (145 g)",
+    "grams": 145
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": true,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "scallops-raw",
+  "name": "Scallops, raw",
+  "brand": null,
+  "aliases": [],
+  "category": "seafood",
+  "per100g": {
+   "kcal": 69,
+   "protein_g": 12.1,
+   "carbs_g": 3.2,
+   "fat_g": 0.5,
+   "fiber_g": 0,
+   "sugar_g": 0,
+   "satfat_g": 0.1,
+   "sodium_mg": 392
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "4 oz (113 g)",
+    "grams": 113,
+    "isDefault": true
+   },
+   {
+    "label": "3 large (45 g)",
+    "grams": 45
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": true,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "scallops-cooked",
+  "name": "Scallops, cooked",
+  "brand": null,
+  "aliases": [],
+  "category": "seafood",
+  "per100g": {
+   "kcal": 111,
+   "protein_g": 20.5,
+   "carbs_g": 5.4,
+   "fat_g": 0.8,
+   "fiber_g": 0,
+   "sugar_g": 0,
+   "satfat_g": 0.1,
+   "sodium_mg": 667
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "4 oz (113 g)",
+    "grams": 113,
+    "isDefault": true
+   },
+   {
+    "label": "3 large (45 g)",
+    "grams": 45
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": false,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "mussels-cooked",
+  "name": "Mussels, blue, cooked",
+  "brand": null,
+  "aliases": [],
+  "category": "seafood",
+  "per100g": {
+   "kcal": 172,
+   "protein_g": 23.8,
+   "carbs_g": 7.4,
+   "fat_g": 4.5,
+   "fiber_g": 0,
+   "sugar_g": 0,
+   "satfat_g": 0.9,
+   "sodium_mg": 369
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "3 oz (85 g)",
+    "grams": 85,
+    "isDefault": true
+   },
+   {
+    "label": "1 cup (150 g)",
+    "grams": 150
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": true,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "oysters-raw",
+  "name": "Oysters, eastern, raw",
+  "brand": null,
+  "aliases": [],
+  "category": "seafood",
+  "per100g": {
+   "kcal": 68,
+   "protein_g": 7.1,
+   "carbs_g": 3.9,
+   "fat_g": 2.5,
+   "fiber_g": 0,
+   "sugar_g": 0,
+   "satfat_g": 0.6,
+   "sodium_mg": 106
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": 24,
+   "vitamin_a_carotenoid_mcg_rae": 0,
+   "folate_food_mcg": 10,
+   "folic_acid_mcg": 0,
+   "folate_dfe_mcg": 10
+  },
+  "servings": [
+   {
+    "label": "6 oysters (84 g)",
+    "grams": 84,
+    "isDefault": true
+   },
+   {
+    "label": "1 oyster (14 g)",
+    "grams": 14
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": true,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "oysters-cooked",
+  "name": "Oysters, cooked",
+  "brand": null,
+  "aliases": [],
+  "category": "seafood",
+  "per100g": {
+   "kcal": 137,
+   "protein_g": 14.1,
+   "carbs_g": 8.3,
+   "fat_g": 4.9,
+   "fiber_g": 0,
+   "sugar_g": 0,
+   "satfat_g": 1.3,
+   "sodium_mg": 206
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "6 oysters (84 g)",
+    "grams": 84,
+    "isDefault": true
+   },
+   {
+    "label": "100 g",
+    "grams": 100
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": false,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "clams-cooked",
+  "name": "Clams, cooked",
+  "brand": null,
+  "aliases": [],
+  "category": "seafood",
+  "per100g": {
+   "kcal": 148,
+   "protein_g": 25.5,
+   "carbs_g": 5.1,
+   "fat_g": 2,
+   "fiber_g": 0,
+   "sugar_g": 0,
+   "satfat_g": 0.2,
+   "sodium_mg": 1202
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "3 oz (85 g)",
+    "grams": 85,
+    "isDefault": true
+   },
+   {
+    "label": "1 cup (160 g)",
+    "grams": 160
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": true,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "clams-canned",
+  "name": "Clams, canned, drained",
+  "brand": null,
+  "aliases": [],
+  "category": "seafood",
+  "per100g": {
+   "kcal": 142,
+   "protein_g": 24.5,
+   "carbs_g": 4.9,
+   "fat_g": 1.9,
+   "fiber_g": 0,
+   "sugar_g": 0,
+   "satfat_g": 0.2,
+   "sodium_mg": 1020
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 can (95 g)",
+    "grams": 95,
+    "isDefault": true
+   },
+   {
+    "label": "100 g",
+    "grams": 100
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": false,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "squid-raw",
+  "name": "Squid, raw",
+  "brand": null,
+  "aliases": [
+   "calamari"
+  ],
+  "category": "seafood",
+  "per100g": {
+   "kcal": 92,
+   "protein_g": 15.6,
+   "carbs_g": 3.1,
+   "fat_g": 1.4,
+   "fiber_g": 0,
+   "sugar_g": 0,
+   "satfat_g": 0.4,
+   "sodium_mg": 44
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "6 oz (170 g)",
+    "grams": 170,
+    "isDefault": true
+   },
+   {
+    "label": "4 oz (113 g)",
+    "grams": 113
+   },
+   {
+    "label": "3 oz (85 g)",
+    "grams": 85
+   },
+   {
+    "label": "100 g",
+    "grams": 100
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": false,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "calamari-fried",
+  "name": "Calamari, breaded and fried",
+  "brand": null,
+  "aliases": [],
+  "category": "seafood",
+  "per100g": {
+   "kcal": 175,
+   "protein_g": 15.3,
+   "carbs_g": 7.8,
+   "fat_g": 7.5,
+   "fiber_g": 0.3,
+   "sugar_g": 0.3,
+   "satfat_g": 1.9,
+   "sodium_mg": 306
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "4 oz (113 g)",
+    "grams": 113,
+    "isDefault": true
+   },
+   {
+    "label": "100 g",
+    "grams": 100
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": true,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "octopus-cooked",
+  "name": "Octopus, cooked",
+  "brand": null,
+  "aliases": [],
+  "category": "seafood",
+  "per100g": {
+   "kcal": 164,
+   "protein_g": 29.8,
+   "carbs_g": 4.4,
+   "fat_g": 2.1,
+   "fiber_g": 0,
+   "sugar_g": 0,
+   "satfat_g": 0.5,
+   "sodium_mg": 460
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "6 oz (170 g)",
+    "grams": 170,
+    "isDefault": true
+   },
+   {
+    "label": "4 oz (113 g)",
+    "grams": 113
+   },
+   {
+    "label": "3 oz (85 g)",
+    "grams": 85
+   },
+   {
+    "label": "100 g",
+    "grams": 100
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": false,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "crawfish-cooked",
+  "name": "Crawfish, cooked",
+  "brand": null,
+  "aliases": [
+   "crayfish"
+  ],
+  "category": "seafood",
+  "per100g": {
+   "kcal": 82,
+   "protein_g": 16.8,
+   "carbs_g": 0,
+   "fat_g": 1.2,
+   "fiber_g": 0,
+   "sugar_g": 0,
+   "satfat_g": 0.2,
+   "sodium_mg": 82
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "3 oz (85 g)",
+    "grams": 85,
+    "isDefault": true
+   },
+   {
+    "label": "100 g",
+    "grams": 100
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": false,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "fish-sticks-breaded",
+  "name": "Fish sticks, breaded, baked",
+  "brand": null,
+  "aliases": [],
+  "category": "seafood",
+  "per100g": {
+   "kcal": 290,
+   "protein_g": 13.5,
+   "carbs_g": 24,
+   "fat_g": 15.5,
+   "fiber_g": 1,
+   "sugar_g": 1.5,
+   "satfat_g": 3.5,
+   "sodium_mg": 590
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "4 sticks (114 g)",
+    "grams": 114,
+    "isDefault": true
+   },
+   {
+    "label": "1 stick (28 g)",
+    "grams": 28
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": false,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "fish-fillet-fried-fast-food",
+  "name": "Fried fish fillet, fast-food style",
+  "brand": null,
+  "aliases": [],
+  "category": "seafood",
+  "per100g": {
+   "kcal": 265,
+   "protein_g": 12,
+   "carbs_g": 20,
+   "fat_g": 15,
+   "fiber_g": 1,
+   "sugar_g": 1,
+   "satfat_g": 3,
+   "sodium_mg": 500
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 fillet (91 g)",
+    "grams": 91,
+    "isDefault": true
+   },
+   {
+    "label": "100 g",
+    "grams": 100
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": false,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "caviar",
+  "name": "Caviar, black or red",
+  "brand": null,
+  "aliases": [],
+  "category": "seafood",
+  "per100g": {
+   "kcal": 264,
+   "protein_g": 24.6,
+   "carbs_g": 4,
+   "fat_g": 17.9,
+   "fiber_g": 0,
+   "sugar_g": 0,
+   "satfat_g": 4.1,
+   "sodium_mg": 1500
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 tbsp (16 g)",
+    "grams": 16,
+    "isDefault": true
+   },
+   {
+    "label": "1 oz (28 g)",
+    "grams": 28
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": true,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "roe-salmon",
+  "name": "Salmon roe",
+  "brand": null,
+  "aliases": [
+   "ikura"
+  ],
+  "category": "seafood",
+  "per100g": {
+   "kcal": 250,
+   "protein_g": 28,
+   "carbs_g": 3,
+   "fat_g": 14,
+   "fiber_g": 0,
+   "sugar_g": 0,
+   "satfat_g": 3,
+   "sodium_mg": 1500
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 tbsp (16 g)",
+    "grams": 16,
+    "isDefault": true
+   },
+   {
+    "label": "1 oz (28 g)",
+    "grams": 28
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": false,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "seaweed-nori",
+  "name": "Nori, dried seaweed",
+  "brand": null,
+  "aliases": [
+   "sushi seaweed"
+  ],
+  "category": "seafood",
+  "per100g": {
+   "kcal": 35,
+   "protein_g": 5.8,
+   "carbs_g": 5.1,
+   "fat_g": 0.3,
+   "fiber_g": 3,
+   "sugar_g": 0.5,
+   "satfat_g": 0.1,
+   "sodium_mg": 48
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 sheet (3 g)",
+    "grams": 3,
+    "isDefault": true
+   },
+   {
+    "label": "10 sheets (30 g)",
+    "grams": 30
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": true,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "seaweed-wakame",
+  "name": "Wakame, raw",
+  "brand": null,
+  "aliases": [],
+  "category": "seafood",
+  "per100g": {
+   "kcal": 45,
+   "protein_g": 3,
+   "carbs_g": 9.1,
+   "fat_g": 0.6,
+   "fiber_g": 0.5,
+   "sugar_g": 0.6,
+   "satfat_g": 0.1,
+   "sodium_mg": 872
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 cup (80 g)",
+    "grams": 80,
+    "isDefault": true
+   },
+   {
+    "label": "100 g",
+    "grams": 100
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": true,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "seaweed-kelp",
+  "name": "Kelp, raw",
+  "brand": null,
+  "aliases": [],
+  "category": "seafood",
+  "per100g": {
+   "kcal": 43,
+   "protein_g": 1.7,
+   "carbs_g": 9.6,
+   "fat_g": 0.6,
+   "fiber_g": 1.3,
+   "sugar_g": 0.6,
+   "satfat_g": 0.2,
+   "sodium_mg": 233
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 cup (80 g)",
+    "grams": 80,
+    "isDefault": true
+   },
+   {
+    "label": "100 g",
+    "grams": 100
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": true,
+  "source": "USDA FoodData Central (SR Legacy)"
+ }
+]

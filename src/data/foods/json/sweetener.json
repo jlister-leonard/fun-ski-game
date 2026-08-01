@@ -1,0 +1,1296 @@
+[
+ {
+  "id": "sugar-white-granulated",
+  "name": "Sugar, white granulated",
+  "brand": null,
+  "aliases": [
+   "table sugar",
+   "granulated sugar"
+  ],
+  "category": "sweetener",
+  "per100g": {
+   "kcal": 387,
+   "protein_g": 0,
+   "carbs_g": 100,
+   "fat_g": 0,
+   "fiber_g": 0,
+   "sugar_g": 100,
+   "satfat_g": 0,
+   "sodium_mg": 1
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 tsp (4 g)",
+    "grams": 4,
+    "isDefault": true
+   },
+   {
+    "label": "1 tbsp (12.5 g)",
+    "grams": 12.5
+   },
+   {
+    "label": "1 cup (200 g)",
+    "grams": 200
+   },
+   {
+    "label": "1 packet (2.8 g)",
+    "grams": 2.8
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": true,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "sugar-brown",
+  "name": "Brown sugar, packed",
+  "brand": null,
+  "aliases": [],
+  "category": "sweetener",
+  "per100g": {
+   "kcal": 380,
+   "protein_g": 0.12,
+   "carbs_g": 98.1,
+   "fat_g": 0,
+   "fiber_g": 0,
+   "sugar_g": 97,
+   "satfat_g": 0,
+   "sodium_mg": 28
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 tsp (4.6 g)",
+    "grams": 4.6,
+    "isDefault": true
+   },
+   {
+    "label": "1 tbsp (13.8 g)",
+    "grams": 13.8
+   },
+   {
+    "label": "1 cup packed (220 g)",
+    "grams": 220
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": true,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "sugar-powdered",
+  "name": "Powdered sugar",
+  "brand": null,
+  "aliases": [
+   "confectioners sugar",
+   "icing sugar"
+  ],
+  "category": "sweetener",
+  "per100g": {
+   "kcal": 389,
+   "protein_g": 0,
+   "carbs_g": 99.8,
+   "fat_g": 0,
+   "fiber_g": 0,
+   "sugar_g": 97.8,
+   "satfat_g": 0,
+   "sodium_mg": 2
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 tbsp (8 g)",
+    "grams": 8,
+    "isDefault": true
+   },
+   {
+    "label": "1 cup (120 g)",
+    "grams": 120
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": true,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "sugar-coconut",
+  "name": "Coconut sugar",
+  "brand": null,
+  "aliases": [],
+  "category": "sweetener",
+  "per100g": {
+   "kcal": 375,
+   "protein_g": 1.1,
+   "carbs_g": 92,
+   "fat_g": 0.5,
+   "fiber_g": 1.8,
+   "sugar_g": 75,
+   "satfat_g": 0.3,
+   "sodium_mg": 30
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 tsp (4 g)",
+    "grams": 4,
+    "isDefault": true
+   },
+   {
+    "label": "1 tbsp (12 g)",
+    "grams": 12
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": false,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "sugar-turbinado",
+  "name": "Turbinado sugar",
+  "brand": null,
+  "aliases": [
+   "raw sugar",
+   "demerara"
+  ],
+  "category": "sweetener",
+  "per100g": {
+   "kcal": 399,
+   "protein_g": 0,
+   "carbs_g": 99.8,
+   "fat_g": 0,
+   "fiber_g": 0,
+   "sugar_g": 99,
+   "satfat_g": 0,
+   "sodium_mg": 3
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 tsp (4 g)",
+    "grams": 4,
+    "isDefault": true
+   },
+   {
+    "label": "1 tbsp (12 g)",
+    "grams": 12
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": false,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "honey",
+  "name": "Honey",
+  "brand": null,
+  "aliases": [],
+  "category": "sweetener",
+  "per100g": {
+   "kcal": 304,
+   "protein_g": 0.3,
+   "carbs_g": 82.4,
+   "fat_g": 0,
+   "fiber_g": 0.2,
+   "sugar_g": 82.1,
+   "satfat_g": 0,
+   "sodium_mg": 4
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 tbsp (21 g)",
+    "grams": 21,
+    "isDefault": true
+   },
+   {
+    "label": "1 tsp (7 g)",
+    "grams": 7
+   },
+   {
+    "label": "1/4 cup (85 g)",
+    "grams": 85
+   }
+  ],
+  "density_g_per_ml": 1.42,
+  "verified": true,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "maple-syrup",
+  "name": "Maple syrup, pure",
+  "brand": null,
+  "aliases": [],
+  "category": "sweetener",
+  "per100g": {
+   "kcal": 260,
+   "protein_g": 0.04,
+   "carbs_g": 67,
+   "fat_g": 0.06,
+   "fiber_g": 0,
+   "sugar_g": 60.5,
+   "satfat_g": 0.01,
+   "sodium_mg": 12
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 tbsp (20 ml)",
+    "grams": 26.4,
+    "isDefault": true
+   },
+   {
+    "label": "1/4 cup (80 ml)",
+    "grams": 105.6
+   },
+   {
+    "label": "2 tbsp (40 g)",
+    "grams": 40
+   }
+  ],
+  "density_g_per_ml": 1.32,
+  "verified": true,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "syrup-pancake",
+  "name": "Pancake syrup, table syrup",
+  "brand": null,
+  "aliases": [],
+  "category": "sweetener",
+  "per100g": {
+   "kcal": 275,
+   "protein_g": 0,
+   "carbs_g": 73,
+   "fat_g": 0,
+   "fiber_g": 0,
+   "sugar_g": 55,
+   "satfat_g": 0,
+   "sodium_mg": 65
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1/4 cup (80 ml)",
+    "grams": 105.6,
+    "isDefault": true
+   },
+   {
+    "label": "1 tbsp (20 ml)",
+    "grams": 26.4
+   }
+  ],
+  "density_g_per_ml": 1.32,
+  "verified": false,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "syrup-pancake-sugar-free",
+  "name": "Pancake syrup, sugar free",
+  "brand": null,
+  "aliases": [],
+  "category": "sweetener",
+  "per100g": {
+   "kcal": 60,
+   "protein_g": 0,
+   "carbs_g": 24,
+   "fat_g": 0,
+   "fiber_g": 0,
+   "sugar_g": 0,
+   "satfat_g": 0,
+   "sodium_mg": 180
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1/4 cup (60 ml)",
+    "grams": 63,
+    "isDefault": true
+   },
+   {
+    "label": "1 tbsp (15 ml)",
+    "grams": 15.8
+   }
+  ],
+  "density_g_per_ml": 1.05,
+  "verified": false,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "agave-nectar",
+  "name": "Agave nectar",
+  "brand": null,
+  "aliases": [],
+  "category": "sweetener",
+  "per100g": {
+   "kcal": 310,
+   "protein_g": 0.09,
+   "carbs_g": 76.4,
+   "fat_g": 0.45,
+   "fiber_g": 0.2,
+   "sugar_g": 68,
+   "satfat_g": 0.05,
+   "sodium_mg": 4
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 tbsp (21 g)",
+    "grams": 21,
+    "isDefault": true
+   },
+   {
+    "label": "1 tsp (7 g)",
+    "grams": 7
+   }
+  ],
+  "density_g_per_ml": 1.39,
+  "verified": true,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "molasses",
+  "name": "Molasses",
+  "brand": null,
+  "aliases": [],
+  "category": "sweetener",
+  "per100g": {
+   "kcal": 290,
+   "protein_g": 0,
+   "carbs_g": 74.7,
+   "fat_g": 0.1,
+   "fiber_g": 0,
+   "sugar_g": 55.5,
+   "satfat_g": 0.03,
+   "sodium_mg": 37
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 tbsp (20 g)",
+    "grams": 20,
+    "isDefault": true
+   },
+   {
+    "label": "1 tsp (7 g)",
+    "grams": 7
+   }
+  ],
+  "density_g_per_ml": 1.4,
+  "verified": true,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "molasses-blackstrap",
+  "name": "Blackstrap molasses",
+  "brand": null,
+  "aliases": [],
+  "category": "sweetener",
+  "per100g": {
+   "kcal": 235,
+   "protein_g": 0,
+   "carbs_g": 60,
+   "fat_g": 0,
+   "fiber_g": 0,
+   "sugar_g": 45,
+   "satfat_g": 0,
+   "sodium_mg": 125
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 tbsp (20 g)",
+    "grams": 20,
+    "isDefault": true
+   },
+   {
+    "label": "1 tsp (7 g)",
+    "grams": 7
+   }
+  ],
+  "density_g_per_ml": 1.4,
+  "verified": false,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "corn-syrup-light",
+  "name": "Corn syrup, light",
+  "brand": null,
+  "aliases": [],
+  "category": "sweetener",
+  "per100g": {
+   "kcal": 283,
+   "protein_g": 0,
+   "carbs_g": 76.8,
+   "fat_g": 0.2,
+   "fiber_g": 0,
+   "sugar_g": 29.7,
+   "satfat_g": 0.03,
+   "sodium_mg": 155
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 tbsp (20 g)",
+    "grams": 20,
+    "isDefault": true
+   },
+   {
+    "label": "1/4 cup (80 g)",
+    "grams": 80
+   }
+  ],
+  "density_g_per_ml": 1.38,
+  "verified": true,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "date-syrup",
+  "name": "Date syrup",
+  "brand": null,
+  "aliases": [],
+  "category": "sweetener",
+  "per100g": {
+   "kcal": 290,
+   "protein_g": 1,
+   "carbs_g": 72,
+   "fat_g": 0,
+   "fiber_g": 1.5,
+   "sugar_g": 65,
+   "satfat_g": 0,
+   "sodium_mg": 10
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 tbsp (21 g)",
+    "grams": 21,
+    "isDefault": true
+   },
+   {
+    "label": "1 tsp (7 g)",
+    "grams": 7
+   }
+  ],
+  "density_g_per_ml": 1.4,
+  "verified": false,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "brown-rice-syrup",
+  "name": "Brown rice syrup",
+  "brand": null,
+  "aliases": [],
+  "category": "sweetener",
+  "per100g": {
+   "kcal": 310,
+   "protein_g": 0.5,
+   "carbs_g": 78,
+   "fat_g": 0,
+   "fiber_g": 0,
+   "sugar_g": 30,
+   "satfat_g": 0,
+   "sodium_mg": 30
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 tbsp (21 g)",
+    "grams": 21,
+    "isDefault": true
+   },
+   {
+    "label": "100 g",
+    "grams": 100
+   }
+  ],
+  "density_g_per_ml": 1.4,
+  "verified": false,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "stevia-packet",
+  "name": "Stevia, powdered packet",
+  "brand": null,
+  "aliases": [],
+  "category": "sweetener",
+  "per100g": {
+   "kcal": 360,
+   "protein_g": 0,
+   "carbs_g": 100,
+   "fat_g": 0,
+   "fiber_g": 0,
+   "sugar_g": 0,
+   "satfat_g": 0,
+   "sodium_mg": 0
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 packet (1 g)",
+    "grams": 1,
+    "isDefault": true
+   },
+   {
+    "label": "1 tsp (0.5 g)",
+    "grams": 0.5
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": false,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "stevia-liquid",
+  "name": "Stevia, liquid drops",
+  "brand": null,
+  "aliases": [],
+  "category": "sweetener",
+  "per100g": {
+   "kcal": 0,
+   "protein_g": 0,
+   "carbs_g": 0,
+   "fat_g": 0,
+   "fiber_g": 0,
+   "sugar_g": 0,
+   "satfat_g": 0,
+   "sodium_mg": 0
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "5 drops (0.2 g)",
+    "grams": 0.2,
+    "isDefault": true
+   },
+   {
+    "label": "1 tsp (5 ml)",
+    "grams": 5
+   }
+  ],
+  "density_g_per_ml": 1,
+  "verified": false,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "monk-fruit-sweetener",
+  "name": "Monk fruit sweetener, granulated blend",
+  "brand": null,
+  "aliases": [],
+  "category": "sweetener",
+  "per100g": {
+   "kcal": 0,
+   "protein_g": 0,
+   "carbs_g": 100,
+   "fat_g": 0,
+   "fiber_g": 0,
+   "sugar_g": 0,
+   "satfat_g": 0,
+   "sodium_mg": 0
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 tsp (4 g)",
+    "grams": 4,
+    "isDefault": true
+   },
+   {
+    "label": "1 tbsp (12 g)",
+    "grams": 12
+   },
+   {
+    "label": "1 cup (200 g)",
+    "grams": 200
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": false,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "erythritol",
+  "name": "Erythritol",
+  "brand": null,
+  "aliases": [],
+  "category": "sweetener",
+  "per100g": {
+   "kcal": 20,
+   "protein_g": 0,
+   "carbs_g": 100,
+   "fat_g": 0,
+   "fiber_g": 0,
+   "sugar_g": 0,
+   "satfat_g": 0,
+   "sodium_mg": 0
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 tsp (4 g)",
+    "grams": 4,
+    "isDefault": true
+   },
+   {
+    "label": "1 tbsp (12 g)",
+    "grams": 12
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": true,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "xylitol",
+  "name": "Xylitol",
+  "brand": null,
+  "aliases": [],
+  "category": "sweetener",
+  "per100g": {
+   "kcal": 240,
+   "protein_g": 0,
+   "carbs_g": 100,
+   "fat_g": 0,
+   "fiber_g": 0,
+   "sugar_g": 0,
+   "satfat_g": 0,
+   "sodium_mg": 0
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 tsp (4 g)",
+    "grams": 4,
+    "isDefault": true
+   },
+   {
+    "label": "1 tbsp (12 g)",
+    "grams": 12
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": true,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "allulose",
+  "name": "Allulose",
+  "brand": null,
+  "aliases": [],
+  "category": "sweetener",
+  "per100g": {
+   "kcal": 40,
+   "protein_g": 0,
+   "carbs_g": 100,
+   "fat_g": 0,
+   "fiber_g": 0,
+   "sugar_g": 0,
+   "satfat_g": 0,
+   "sodium_mg": 0
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 tsp (4 g)",
+    "grams": 4,
+    "isDefault": true
+   },
+   {
+    "label": "1 tbsp (12 g)",
+    "grams": 12
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": false,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "sucralose-packet",
+  "name": "Sucralose sweetener packet",
+  "brand": "Splenda",
+  "aliases": [
+   "splenda"
+  ],
+  "category": "sweetener",
+  "per100g": {
+   "kcal": 336,
+   "protein_g": 0,
+   "carbs_g": 91.2,
+   "fat_g": 0,
+   "fiber_g": 0,
+   "sugar_g": 91.2,
+   "satfat_g": 0,
+   "sodium_mg": 0
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 packet (1 g)",
+    "grams": 1,
+    "isDefault": true
+   },
+   {
+    "label": "1 tsp (0.5 g)",
+    "grams": 0.5
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": true,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "aspartame-packet",
+  "name": "Aspartame sweetener packet",
+  "brand": "Equal",
+  "aliases": [
+   "equal",
+   "nutrasweet"
+  ],
+  "category": "sweetener",
+  "per100g": {
+   "kcal": 365,
+   "protein_g": 2,
+   "carbs_g": 89,
+   "fat_g": 0,
+   "fiber_g": 0,
+   "sugar_g": 89,
+   "satfat_g": 0,
+   "sodium_mg": 0
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 packet (1 g)",
+    "grams": 1,
+    "isDefault": true
+   },
+   {
+    "label": "100 g",
+    "grams": 100
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": false,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "saccharin-packet",
+  "name": "Saccharin sweetener packet",
+  "brand": null,
+  "aliases": [
+   "sweet n low"
+  ],
+  "category": "sweetener",
+  "per100g": {
+   "kcal": 360,
+   "protein_g": 0,
+   "carbs_g": 89,
+   "fat_g": 0,
+   "fiber_g": 0,
+   "sugar_g": 89,
+   "satfat_g": 0,
+   "sodium_mg": 0
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 packet (1 g)",
+    "grams": 1,
+    "isDefault": true
+   },
+   {
+    "label": "100 g",
+    "grams": 100
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": false,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "jam-strawberry",
+  "name": "Strawberry jam or preserves",
+  "brand": null,
+  "aliases": [],
+  "category": "sweetener",
+  "per100g": {
+   "kcal": 278,
+   "protein_g": 0.37,
+   "carbs_g": 68.9,
+   "fat_g": 0.07,
+   "fiber_g": 1.1,
+   "sugar_g": 48.5,
+   "satfat_g": 0.01,
+   "sodium_mg": 32
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 tbsp (20 g)",
+    "grams": 20,
+    "isDefault": true
+   },
+   {
+    "label": "1 tsp (7 g)",
+    "grams": 7
+   }
+  ],
+  "density_g_per_ml": 1.33,
+  "verified": true,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "jelly-grape",
+  "name": "Grape jelly",
+  "brand": null,
+  "aliases": [],
+  "category": "sweetener",
+  "per100g": {
+   "kcal": 266,
+   "protein_g": 0.15,
+   "carbs_g": 69.5,
+   "fat_g": 0.02,
+   "fiber_g": 1,
+   "sugar_g": 51.6,
+   "satfat_g": 0,
+   "sodium_mg": 31
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 tbsp (19 g)",
+    "grams": 19,
+    "isDefault": true
+   },
+   {
+    "label": "1 tsp (6 g)",
+    "grams": 6
+   }
+  ],
+  "density_g_per_ml": 1.33,
+  "verified": true,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "jam-sugar-free",
+  "name": "Fruit spread, no sugar added",
+  "brand": null,
+  "aliases": [],
+  "category": "sweetener",
+  "per100g": {
+   "kcal": 110,
+   "protein_g": 0.3,
+   "carbs_g": 28,
+   "fat_g": 0,
+   "fiber_g": 2,
+   "sugar_g": 12,
+   "satfat_g": 0,
+   "sodium_mg": 20
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 tbsp (18 g)",
+    "grams": 18,
+    "isDefault": true
+   },
+   {
+    "label": "100 g",
+    "grams": 100
+   }
+  ],
+  "density_g_per_ml": 1.25,
+  "verified": false,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "marmalade-orange",
+  "name": "Orange marmalade",
+  "brand": null,
+  "aliases": [],
+  "category": "sweetener",
+  "per100g": {
+   "kcal": 246,
+   "protein_g": 0.3,
+   "carbs_g": 65.8,
+   "fat_g": 0,
+   "fiber_g": 0.7,
+   "sugar_g": 60,
+   "satfat_g": 0,
+   "sodium_mg": 56
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 tbsp (20 g)",
+    "grams": 20,
+    "isDefault": true
+   },
+   {
+    "label": "100 g",
+    "grams": 100
+   }
+  ],
+  "density_g_per_ml": 1.33,
+  "verified": true,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "apple-butter",
+  "name": "Apple butter",
+  "brand": null,
+  "aliases": [],
+  "category": "sweetener",
+  "per100g": {
+   "kcal": 173,
+   "protein_g": 0.36,
+   "carbs_g": 43.2,
+   "fat_g": 0.12,
+   "fiber_g": 1.8,
+   "sugar_g": 36.4,
+   "satfat_g": 0.02,
+   "sodium_mg": 18
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 tbsp (17 g)",
+    "grams": 17,
+    "isDefault": true
+   },
+   {
+    "label": "100 g",
+    "grams": 100
+   }
+  ],
+  "density_g_per_ml": 1.2,
+  "verified": true,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "syrup-chocolate",
+  "name": "Chocolate syrup",
+  "brand": null,
+  "aliases": [],
+  "category": "sweetener",
+  "per100g": {
+   "kcal": 279,
+   "protein_g": 2.1,
+   "carbs_g": 65.1,
+   "fat_g": 1.13,
+   "fiber_g": 2.6,
+   "sugar_g": 49.4,
+   "satfat_g": 0.53,
+   "sodium_mg": 92
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "2 tbsp (39 g)",
+    "grams": 39,
+    "isDefault": true
+   },
+   {
+    "label": "1 tbsp (19 g)",
+    "grams": 19
+   }
+  ],
+  "density_g_per_ml": 1.3,
+  "verified": true,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "sauce-caramel",
+  "name": "Caramel sauce, topping",
+  "brand": null,
+  "aliases": [],
+  "category": "sweetener",
+  "per100g": {
+   "kcal": 389,
+   "protein_g": 1.6,
+   "carbs_g": 85,
+   "fat_g": 4,
+   "fiber_g": 0.7,
+   "sugar_g": 68,
+   "satfat_g": 1.1,
+   "sodium_mg": 300
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "2 tbsp (41 g)",
+    "grams": 41,
+    "isDefault": true
+   },
+   {
+    "label": "1 tbsp (20 g)",
+    "grams": 20
+   }
+  ],
+  "density_g_per_ml": 1.35,
+  "verified": true,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "marshmallow-fluff",
+  "name": "Marshmallow creme",
+  "brand": null,
+  "aliases": [],
+  "category": "sweetener",
+  "per100g": {
+   "kcal": 322,
+   "protein_g": 0.3,
+   "carbs_g": 79.2,
+   "fat_g": 0.2,
+   "fiber_g": 0,
+   "sugar_g": 60,
+   "satfat_g": 0.04,
+   "sodium_mg": 80
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "2 tbsp (24 g)",
+    "grams": 24,
+    "isDefault": true
+   },
+   {
+    "label": "100 g",
+    "grams": 100
+   }
+  ],
+  "density_g_per_ml": 0.6,
+  "verified": false,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "simple-syrup",
+  "name": "Simple syrup, 1:1",
+  "brand": null,
+  "aliases": [],
+  "category": "sweetener",
+  "per100g": {
+   "kcal": 260,
+   "protein_g": 0,
+   "carbs_g": 65,
+   "fat_g": 0,
+   "fiber_g": 0,
+   "sugar_g": 65,
+   "satfat_g": 0,
+   "sodium_mg": 2
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 tbsp (15 ml)",
+    "grams": 19,
+    "isDefault": true
+   },
+   {
+    "label": "1 oz (30 ml)",
+    "grams": 38
+   }
+  ],
+  "density_g_per_ml": 1.26,
+  "verified": false,
+  "source": "USDA FoodData Central (SR Legacy)"
+ }
+]

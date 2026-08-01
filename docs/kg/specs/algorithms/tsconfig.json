@@ -1,0 +1,18 @@
+{
+  "compilerOptions": {
+    "target": "ES2022",
+    "module": "ES2022",
+    "moduleResolution": "bundler",
+    "strict": true,
+    "noImplicitOverride": true,
+    "noUnusedLocals": true,
+    "noUnusedParameters": true,
+    "exactOptionalPropertyTypes": false,
+    "declaration": true,
+    "outDir": "./build",
+    "rootDir": ".",
+    "skipLibCheck": true,
+    "types": []
+  },
+  "include": ["weight-trend.ts", "expenditure.ts", "macro-targets.ts", "guardrails.ts"]
+}

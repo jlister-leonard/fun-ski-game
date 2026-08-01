@@ -1,0 +1,110 @@
+#category: dairy
+#source: USDA FoodData Central (SR Legacy)
+#servings: 1 oz (28 g)@28*;100 g@100
+# Any serving whose label contains "ml" is a true fluid volume and therefore
+# REQUIRES a density (validate.mjs enforces this). 1 US cup = 240 ml.
+# id|name|aliases|kcal|protein|carbs|fat|fiber|sugar|satfat|sodium|servings|extra
+
+# --- fluid milk ----------------------------------------------------------
+milk-whole|Milk, whole, 3.25%|whole milk|61|3.15|4.8|3.25|0|4.8|1.86|43|1 cup (240 ml)@244*;1/2 cup (120 ml)@122;1 tbsp (15 ml)@15;1 pint (473 ml)@488|d=1.03;ret=45;car=1;ffol=5;fac=0;dfe=5;src=USDA FoodData Central SR Legacy FDC 171265, release 2018-04, reviewed 2026-08-01
+milk-2-percent|Milk, 2% reduced fat|2% milk;reduced fat milk|50|3.30|4.8|1.98|0|4.8|1.22|47|1 cup (240 ml)@244*;1/2 cup (120 ml)@122;1 tbsp (15 ml)@15|d=1.03;ret=57;car=1;ffol=5;fac=0;dfe=5
+milk-1-percent|Milk, 1% lowfat|1% milk|42|3.37|5.0|0.97|0|5.0|0.63|44|1 cup (240 ml)@244*;1/2 cup (120 ml)@122|d=1.03;ret=58;car=1;ffol=5;fac=0;dfe=5
+milk-skim|Milk, nonfat|skim milk;fat free milk;nonfat milk|34|3.37|4.96|0.18|0|4.96|0.12|42|1 cup (240 ml)@244*;1/2 cup (120 ml)@122|d=1.03;ret=61;car=1;ffol=5;fac=0;dfe=5
+milk-lactose-free-2|Milk, lactose free, 2%|lactaid|50|3.3|4.8|2.0|0|4.8|1.2|50|1 cup (240 ml)@244*;100 g@100|d=1.03;v=0
+milk-buttermilk|Buttermilk, lowfat||40|3.31|4.79|0.88|0|4.8|0.55|105|1 cup (240 ml)@245*;100 g@100|d=1.03
+milk-chocolate-1|Chocolate milk, 1% lowfat||71|3.4|12.2|1.5|0.7|11.3|0.95|62|1 cup (240 ml)@250*;1 bottle (414 ml)@431|d=1.04
+milk-chocolate-whole|Chocolate milk, whole||83|3.2|10.3|3.4|0.7|9.5|2.1|60|1 cup (240 ml)@250*;100 g@100|d=1.04
+milk-raw-goat|Goat milk||69|3.56|4.45|4.14|0|4.45|2.67|50|1 cup (240 ml)@244*;100 g@100|d=1.03
+milk-evaporated|Evaporated milk, canned||135|6.81|10.04|7.56|0|10.0|4.59|106|1 tbsp (15 ml)@16;1/2 cup (120 ml)@126*|d=1.05
+milk-condensed-sweetened|Sweetened condensed milk||321|7.91|54.4|8.7|0|54.4|5.49|127|1 tbsp (15 ml)@19*;1/4 cup (60 ml)@76|d=1.28
+milk-powder-nonfat|Milk powder, nonfat, dry||362|36.2|52.0|0.77|0|52.0|0.5|535|1/4 cup (30 g)@30*;100 g@100|d=-
+milk-kefir-lowfat|Kefir, plain, lowfat||41|3.79|4.48|0.93|0|4.5|0.6|40|1 cup (240 ml)@243*;100 g@100|d=1.02;v=0
+milk-kefir-whole|Kefir, plain, whole milk||60|3.3|4.6|3.3|0|4.6|2.1|50|1 cup (240 ml)@243*;100 g@100|d=1.02;v=0
+
+# --- creams --------------------------------------------------------------
+cream-half-and-half|Half and half||130|2.96|4.30|11.5|0|4.3|7.17|41|1 tbsp (15 ml)@15*;1/4 cup (60 ml)@60|d=1.01;ret=105;car=2;ffol=2;fac=0;dfe=2
+cream-light|Light cream, 20% fat|coffee cream|195|2.70|3.66|19.3|0|3.7|12.0|82|1 tbsp (15 ml)@15*;1/4 cup (60 ml)@60|d=1.01
+cream-heavy|Heavy whipping cream, 36%|heavy cream;double cream|340|2.84|2.84|36.1|0|2.84|23.0|27|1 tbsp (15 ml)@15*;1/4 cup (60 ml)@60;1 cup (240 ml)@238|d=0.99;ret=405;car=6;ffol=7;fac=0;dfe=7
+cream-whipped-aerosol|Whipped cream, aerosol can|whipped topping|257|3.2|12.5|22.2|0|12.5|13.8|130|2 tbsp (6 g)@6*;1/4 cup (12 g)@12|d=0.25
+cream-sour|Sour cream, regular||198|2.44|4.63|19.4|0|3.5|11.4|51|2 tbsp (30 g)@30*;1 tbsp (15 g)@15;1/4 cup (60 g)@60|ret=182;car=3;ffol=11;fac=0;dfe=11
+cream-sour-light|Sour cream, light||138|3.5|7.0|10.6|0|4.4|6.6|65|2 tbsp (30 g)@30*;1/4 cup (60 g)@60|v=0
+cream-sour-nonfat|Sour cream, fat free||74|3.0|15.6|0|0|5.5|0|141|2 tbsp (30 g)@30*;1/4 cup (60 g)@60|v=0
+cream-creme-fraiche|Crème fraîche||393|2.2|3.0|41.0|0|3.0|27.0|32|1 tbsp (15 g)@15*;1/4 cup (60 g)@60|v=0
+cream-cheese|Cream cheese, regular||342|5.93|4.07|34.2|0|3.2|19.3|321|2 tbsp (28 g)@28*;1 tbsp (14 g)@14;100 g@100|ret=303;car=5;ffol=11;fac=0;dfe=11
+cream-cheese-light|Cream cheese, reduced fat|neufchatel|201|7.9|7.2|15.3|0|5.5|8.9|420|2 tbsp (28 g)@28*;1 tbsp (14 g)@14|v=0
+cream-cheese-whipped|Cream cheese, whipped||300|5.5|4.5|29.5|0|3.5|17.0|350|2 tbsp (22 g)@22*;100 g@100|v=0
+
+# --- yogurt --------------------------------------------------------------
+yogurt-greek-nonfat-plain|Greek yogurt, plain, nonfat|fat free greek yogurt|59|10.3|3.6|0.39|0|3.2|0.12|36|1 cup (227 g)@227*;3/4 cup (170 g)@170;1/2 cup (113 g)@113|ret=0;car=0;ffol=7;fac=0;dfe=7
+yogurt-greek-2-plain|Greek yogurt, plain, 2% milkfat||73|9.95|3.94|1.92|0|3.6|1.24|34|1 cup (227 g)@227*;3/4 cup (170 g)@170
+yogurt-greek-whole-plain|Greek yogurt, plain, whole milk||97|9.0|3.98|5.0|0|3.6|3.3|35|1 cup (227 g)@227*;3/4 cup (170 g)@170
+yogurt-greek-vanilla-nonfat|Greek yogurt, vanilla, nonfat||85|8.7|12.5|0.2|0|11.0|0.1|40|1 container (150 g)@150*;1 cup (227 g)@227|v=0
+yogurt-greek-fruit-lowfat|Greek yogurt, fruit on the bottom, lowfat||97|8.0|13.0|1.5|0.4|11.5|1.0|40|1 container (150 g)@150*;100 g@100|v=0
+yogurt-fage-total-0|Fage Total 0% Greek yogurt||57|10.3|3.4|0|0|3.4|0|36|1 container (170 g)@170*;1 cup (227 g)@227|brand=Fage;src=manufacturer label
+yogurt-fage-total-5|Fage Total 5% Greek yogurt||97|9.0|3.0|5.0|0|3.0|3.5|35|1 container (170 g)@170*;1 cup (227 g)@227|brand=Fage;src=manufacturer label
+yogurt-chobani-nonfat-plain|Chobani plain nonfat Greek yogurt||53|10.0|3.5|0|0|3.5|0|32|1 container (150 g)@150*;1 cup (227 g)@227|brand=Chobani;src=manufacturer label
+yogurt-oikos-triple-zero|Oikos Triple Zero Greek yogurt, vanilla||63|10.6|8.0|0|1.9|4.7|0|38|1 container (150 g)@150*;100 g@100|brand=Oikos;src=manufacturer label
+yogurt-two-good|Two Good Greek lowfat yogurt, vanilla||53|8.7|3.3|1.3|0|1.3|0.9|33|1 container (150 g)@150*;100 g@100|brand=Two Good;src=manufacturer label;v=0
+yogurt-skyr-plain|Skyr, plain, nonfat|icelandic yogurt|63|11.0|4.0|0.2|0|3.5|0.1|39|1 container (150 g)@150*;1 cup (227 g)@227|v=0
+yogurt-plain-whole|Yogurt, plain, whole milk||61|3.47|4.66|3.25|0|4.7|2.1|46|1 cup (245 g)@245*;100 g@100|ret=27;car=1;ffol=7;fac=0;dfe=7
+yogurt-plain-lowfat|Yogurt, plain, lowfat||63|5.25|7.04|1.55|0|7.0|1.0|70|1 cup (245 g)@245*;100 g@100
+yogurt-fruit-lowfat|Yogurt, fruit flavored, lowfat||99|3.98|18.6|1.15|0|18.6|0.74|53|1 container (170 g)@170*;1 cup (245 g)@245
+yogurt-drinkable|Drinkable yogurt, fruit flavored||71|2.9|12.5|1.2|0|11.5|0.8|45|1 bottle (200 ml)@207*;100 g@100|d=1.04;v=0
+yogurt-frozen-vanilla|Frozen yogurt, vanilla, soft serve||159|4.0|24.2|5.6|0|24.0|3.4|87|1/2 cup (72 g)@72*;1 cup (144 g)@144
+yogurt-labneh|Labneh, strained yogurt cheese||174|8.0|5.0|14.0|0|5.0|9.0|180|2 tbsp (30 g)@30*;100 g@100|v=0
+
+# --- cottage & fresh cheeses ---------------------------------------------
+cottage-cheese-4|Cottage cheese, 4% milkfat|creamed cottage cheese|98|11.1|3.38|4.30|0|2.7|1.72|364|1 cup (226 g)@226*;1/2 cup (113 g)@113
+cottage-cheese-2|Cottage cheese, 2% milkfat||84|11.0|4.56|2.32|0|4.1|0.73|330|1 cup (226 g)@226*;1/2 cup (113 g)@113|ret=18;car=0;ffol=12;fac=0;dfe=12
+cottage-cheese-1|Cottage cheese, 1% milkfat||72|12.4|2.72|1.02|0|2.7|0.64|406|1 cup (226 g)@226*;1/2 cup (113 g)@113
+cottage-cheese-nonfat|Cottage cheese, nonfat||72|10.3|6.66|0.29|0|4.1|0.18|330|1 cup (226 g)@226*;1/2 cup (113 g)@113
+ricotta-whole|Ricotta cheese, whole milk||174|11.3|3.04|13.0|0|0.3|8.3|84|1/2 cup (124 g)@124*;1/4 cup (62 g)@62
+ricotta-part-skim|Ricotta cheese, part skim||138|11.4|5.14|7.91|0|0.3|4.93|125|1/2 cup (124 g)@124*;1/4 cup (62 g)@62
+mascarpone|Mascarpone cheese||429|4.8|4.8|44.0|0|3.0|28.0|30|2 tbsp (30 g)@30*;100 g@100|v=0
+queso-fresco|Queso fresco||299|18.0|3.0|24.0|0|3.0|15.0|800|1 oz (28 g)@28*;100 g@100|v=0
+paneer|Paneer||321|18.9|3.6|25.0|0|2.0|16.0|18|2 oz (57 g)@57*;100 g@100|v=0
+halloumi|Halloumi cheese||321|22.0|2.2|25.0|0|1.0|17.0|1100|1 oz (28 g)@28*;2 oz (57 g)@57|v=0
+burrata|Burrata||330|17.0|2.0|28.0|0|1.0|17.5|300|1 ball (57 g)@57*;100 g@100|v=0
+
+# --- hard & semi-hard cheeses --------------------------------------------
+cheese-cheddar|Cheddar cheese||403|22.9|3.37|33.1|0|0.5|21.1|621|1 oz (28 g)@28*;1 slice (21 g)@21;1 cup shredded (113 g)@113|ret=265;car=11;ffol=27;fac=0;dfe=27
+cheese-cheddar-sharp|Cheddar cheese, sharp||410|23.4|1.9|33.8|0|0.5|21.5|653|1 oz (28 g)@28*;1 cup shredded (113 g)@113|v=0
+cheese-cheddar-reduced-fat|Cheddar cheese, reduced fat||282|27.2|3.6|17.6|0|0.5|11.1|684|1 oz (28 g)@28*;1 cup shredded (113 g)@113|v=0
+cheese-mozzarella-whole|Mozzarella cheese, whole milk||300|22.2|2.19|22.4|0|1.0|13.2|627|1 oz (28 g)@28*;1 cup shredded (113 g)@113|ret=179;car=3;ffol=7;fac=0;dfe=7
+cheese-mozzarella-part-skim|Mozzarella cheese, part skim, low moisture||254|24.3|2.77|15.9|0|1.2|10.1|619|1 oz (28 g)@28*;1 cup shredded (113 g)@113
+cheese-mozzarella-fresh|Mozzarella, fresh, in water||280|18.0|3.0|22.0|0|1.0|13.0|280|1 oz (28 g)@28*;1 ball (125 g)@125|v=0
+cheese-string|String cheese, part skim mozzarella|cheese stick|254|24.3|2.8|15.9|0|1.2|10.1|619|1 stick (28 g)@28*;2 sticks (56 g)@56
+cheese-parmesan-hard|Parmesan cheese, hard||392|35.8|3.22|25.8|0|0.8|16.4|1529|1 oz (28 g)@28*;1 tbsp grated (5 g)@5;1/4 cup grated (25 g)@25|ret=207;car=0;ffol=7;fac=0;dfe=7
+cheese-swiss|Swiss cheese||380|26.9|5.38|27.8|0|1.3|17.8|192|1 oz (28 g)@28*;1 slice (28 g)@28|ret=254;car=0;ffol=6;fac=0;dfe=6
+cheese-provolone|Provolone cheese||351|25.6|2.14|26.6|0|0.6|17.1|876|1 oz (28 g)@28*;1 slice (28 g)@28
+cheese-american|American cheese, processed|kraft singles;processed cheese|371|18.3|8.0|30.0|0|5.0|18.5|1671|1 slice (21 g)@21*;1 oz (28 g)@28|ret=249;car=0;ffol=8;fac=0;dfe=8
+cheese-gouda|Gouda cheese||356|24.9|2.22|27.4|0|2.2|17.6|819|1 oz (28 g)@28*;100 g@100
+cheese-monterey-jack|Monterey Jack cheese||373|24.5|0.68|30.3|0|0.5|19.1|536|1 oz (28 g)@28*;1 cup shredded (113 g)@113
+cheese-colby-jack|Colby Jack cheese||394|23.8|2.6|32.1|0|0.5|20.2|604|1 oz (28 g)@28*;1 cup shredded (113 g)@113|v=0
+cheese-pepper-jack|Pepper Jack cheese||370|24.0|1.0|30.0|0|0.5|19.0|620|1 oz (28 g)@28*;1 slice (28 g)@28|v=0
+cheese-havarti|Havarti cheese||371|24.0|1.0|30.0|0|0.5|19.5|530|1 oz (28 g)@28*;100 g@100|v=0
+cheese-gruyere|Gruyère cheese||413|29.8|0.36|32.3|0|0.4|18.9|336|1 oz (28 g)@28*;100 g@100
+cheese-manchego|Manchego cheese||400|26.0|0.6|33.0|0|0.6|21.0|780|1 oz (28 g)@28*;100 g@100|v=0
+cheese-asiago|Asiago cheese||390|25.0|2.0|31.0|0|0.5|19.5|900|1 oz (28 g)@28*;100 g@100|v=0
+cheese-romano|Romano cheese|pecorino romano|387|31.8|3.63|26.9|0|0.7|17.1|1200|1 oz (28 g)@28*;1 tbsp grated (5 g)@5
+cheese-cotija|Cotija cheese||368|22.0|3.0|29.0|0|1.0|18.0|1500|1 oz (28 g)@28*;100 g@100|v=0
+
+# --- soft & blue cheeses -------------------------------------------------
+cheese-feta|Feta cheese||264|14.2|4.09|21.3|0|4.1|14.9|1116|1 oz (28 g)@28*;1/4 cup crumbled (38 g)@38|ret=125;car=0;ffol=32;fac=0;dfe=32
+cheese-goat-soft|Goat cheese, soft|chevre|268|18.5|2.54|21.0|0|2.5|14.5|368|1 oz (28 g)@28*;100 g@100
+cheese-blue|Blue cheese|gorgonzola;roquefort|353|21.4|2.34|28.7|0|0.5|18.7|1395|1 oz (28 g)@28*;1/4 cup crumbled (34 g)@34
+cheese-brie|Brie cheese||334|20.8|0.45|27.7|0|0.5|17.4|629|1 oz (28 g)@28*;100 g@100|ret=173;car=0;ffol=65;fac=0;dfe=65
+cheese-camembert|Camembert cheese||300|19.8|0.46|24.3|0|0.5|15.3|842|1 oz (28 g)@28*;100 g@100
+cheese-boursin|Boursin, garlic and herb||413|7.0|3.0|41.0|0|2.0|27.0|530|2 tbsp (30 g)@30*;100 g@100|v=0
+cheese-nacho-sauce|Nacho cheese sauce||248|9.5|8.5|19.4|0|4.5|8.5|1300|1/4 cup (60 g)@60*;2 tbsp (30 g)@30|v=0
+cheese-cream-spread-onion|Cream cheese spread, chive and onion||300|5.0|6.0|29.0|0|3.0|17.0|380|2 tbsp (31 g)@31*;100 g@100|v=0
+
+# --- dairy desserts ------------------------------------------------------
+ice-cream-vanilla|Ice cream, vanilla, regular||207|3.5|23.6|11.0|0.7|21.2|6.8|80|1/2 cup (66 g)@66*;1 cup (132 g)@132
+ice-cream-chocolate|Ice cream, chocolate, regular||216|3.8|28.2|11.0|1.2|25.4|6.8|76|1/2 cup (66 g)@66*;1 cup (132 g)@132
+ice-cream-premium-vanilla|Ice cream, vanilla, premium|haagen dazs style|267|4.6|21.5|18.0|0.7|20.5|11.0|70|1/2 cup (106 g)@106*;1 pint (424 g)@424|v=0
+halo-top-vanilla|Halo Top vanilla bean ice cream||100|5.9|20.0|2.4|4.7|5.9|1.2|118|1/2 cup (85 g)@85*;1 pint (340 g)@340|brand=Halo Top;src=manufacturer label
+gelato-vanilla|Gelato, vanilla||225|5.0|30.0|9.0|0|27.0|5.5|75|1/2 cup (88 g)@88*;100 g@100|v=0
+pudding-chocolate-ready|Pudding, chocolate, ready to eat||130|2.5|22.0|3.5|0.8|18.0|1.2|150|1 cup snack pack (113 g)@113*;100 g@100|v=0
+custard-flan|Flan, baked custard||145|4.0|22.0|4.5|0|20.0|2.3|72|1 serving (100 g)@100*;100 g@100|v=0
+whipped-topping-frozen|Whipped topping, frozen|cool whip|314|1.3|22.5|25.3|0|17.6|21.8|29|2 tbsp (9 g)@9*;1/4 cup (18 g)@18

@@ -1,0 +1,5202 @@
+[
+ {
+  "id": "broccoli-raw",
+  "name": "Broccoli, raw",
+  "brand": null,
+  "aliases": [],
+  "category": "vegetable",
+  "per100g": {
+   "kcal": 34,
+   "protein_g": 2.82,
+   "carbs_g": 6.64,
+   "fat_g": 0.37,
+   "fiber_g": 2.6,
+   "sugar_g": 1.7,
+   "satfat_g": 0.04,
+   "sodium_mg": 33
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": 0,
+   "vitamin_a_carotenoid_mcg_rae": 31,
+   "folate_food_mcg": 63,
+   "folic_acid_mcg": 0,
+   "folate_dfe_mcg": 63
+  },
+  "servings": [
+   {
+    "label": "1 cup chopped (91 g)",
+    "grams": 91,
+    "isDefault": true
+   },
+   {
+    "label": "1 spear (31 g)",
+    "grams": 31
+   },
+   {
+    "label": "1 head (608 g)",
+    "grams": 608
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": true,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "broccoli-cooked",
+  "name": "Broccoli, boiled or steamed",
+  "brand": null,
+  "aliases": [],
+  "category": "vegetable",
+  "per100g": {
+   "kcal": 35,
+   "protein_g": 2.38,
+   "carbs_g": 7.18,
+   "fat_g": 0.41,
+   "fiber_g": 3.3,
+   "sugar_g": 1.39,
+   "satfat_g": 0.05,
+   "sodium_mg": 41
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": 0,
+   "vitamin_a_carotenoid_mcg_rae": 77,
+   "folate_food_mcg": 108,
+   "folic_acid_mcg": 0,
+   "folate_dfe_mcg": 108
+  },
+  "servings": [
+   {
+    "label": "1 cup (156 g)",
+    "grams": 156,
+    "isDefault": true
+   },
+   {
+    "label": "1/2 cup (78 g)",
+    "grams": 78
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": true,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "broccoli-frozen-cooked",
+  "name": "Broccoli, frozen, cooked",
+  "brand": null,
+  "aliases": [],
+  "category": "vegetable",
+  "per100g": {
+   "kcal": 28,
+   "protein_g": 3.1,
+   "carbs_g": 5.35,
+   "fat_g": 0.12,
+   "fiber_g": 3,
+   "sugar_g": 1.2,
+   "satfat_g": 0.02,
+   "sodium_mg": 22
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 cup (184 g)",
+    "grams": 184,
+    "isDefault": true
+   },
+   {
+    "label": "100 g",
+    "grams": 100
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": true,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "broccolini-cooked",
+  "name": "Broccolini, cooked",
+  "brand": null,
+  "aliases": [],
+  "category": "vegetable",
+  "per100g": {
+   "kcal": 35,
+   "protein_g": 3,
+   "carbs_g": 6,
+   "fat_g": 0.4,
+   "fiber_g": 2.6,
+   "sugar_g": 1.5,
+   "satfat_g": 0.05,
+   "sodium_mg": 30
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 cup (100 g)",
+    "grams": 100,
+    "isDefault": true
+   },
+   {
+    "label": "100 g",
+    "grams": 100
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": false,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "broccoli-rabe-cooked",
+  "name": "Broccoli rabe, cooked",
+  "brand": null,
+  "aliases": [
+   "rapini"
+  ],
+  "category": "vegetable",
+  "per100g": {
+   "kcal": 33,
+   "protein_g": 3.83,
+   "carbs_g": 3.12,
+   "fat_g": 0.52,
+   "fiber_g": 2.7,
+   "sugar_g": 0.4,
+   "satfat_g": 0.07,
+   "sodium_mg": 56
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 cup (85 g)",
+    "grams": 85,
+    "isDefault": true
+   },
+   {
+    "label": "100 g",
+    "grams": 100
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": true,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "cauliflower-raw",
+  "name": "Cauliflower, raw",
+  "brand": null,
+  "aliases": [],
+  "category": "vegetable",
+  "per100g": {
+   "kcal": 25,
+   "protein_g": 1.92,
+   "carbs_g": 4.97,
+   "fat_g": 0.28,
+   "fiber_g": 2,
+   "sugar_g": 1.91,
+   "satfat_g": 0.13,
+   "sodium_mg": 30
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": 0,
+   "vitamin_a_carotenoid_mcg_rae": 0,
+   "folate_food_mcg": 57,
+   "folic_acid_mcg": 0,
+   "folate_dfe_mcg": 57
+  },
+  "servings": [
+   {
+    "label": "1 cup chopped (107 g)",
+    "grams": 107,
+    "isDefault": true
+   },
+   {
+    "label": "1 head (575 g)",
+    "grams": 575
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": true,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "cauliflower-cooked",
+  "name": "Cauliflower, boiled or roasted",
+  "brand": null,
+  "aliases": [],
+  "category": "vegetable",
+  "per100g": {
+   "kcal": 23,
+   "protein_g": 1.84,
+   "carbs_g": 4.11,
+   "fat_g": 0.45,
+   "fiber_g": 2.3,
+   "sugar_g": 1.72,
+   "satfat_g": 0.1,
+   "sodium_mg": 15
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 cup (124 g)",
+    "grams": 124,
+    "isDefault": true
+   },
+   {
+    "label": "1/2 cup (62 g)",
+    "grams": 62
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": true,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "brussels-sprouts-raw",
+  "name": "Brussels sprouts, raw",
+  "brand": null,
+  "aliases": [],
+  "category": "vegetable",
+  "per100g": {
+   "kcal": 43,
+   "protein_g": 3.38,
+   "carbs_g": 8.95,
+   "fat_g": 0.3,
+   "fiber_g": 3.8,
+   "sugar_g": 2.2,
+   "satfat_g": 0.06,
+   "sodium_mg": 25
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": 0,
+   "vitamin_a_carotenoid_mcg_rae": 38,
+   "folate_food_mcg": 61,
+   "folic_acid_mcg": 0,
+   "folate_dfe_mcg": 61
+  },
+  "servings": [
+   {
+    "label": "1 cup (88 g)",
+    "grams": 88,
+    "isDefault": true
+   },
+   {
+    "label": "100 g",
+    "grams": 100
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": true,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "brussels-sprouts-cooked",
+  "name": "Brussels sprouts, cooked",
+  "brand": null,
+  "aliases": [],
+  "category": "vegetable",
+  "per100g": {
+   "kcal": 36,
+   "protein_g": 2.55,
+   "carbs_g": 7.1,
+   "fat_g": 0.5,
+   "fiber_g": 2.6,
+   "sugar_g": 1.74,
+   "satfat_g": 0.1,
+   "sodium_mg": 21
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 cup (156 g)",
+    "grams": 156,
+    "isDefault": true
+   },
+   {
+    "label": "1/2 cup (78 g)",
+    "grams": 78
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": true,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "cabbage-green-raw",
+  "name": "Cabbage, green, raw",
+  "brand": null,
+  "aliases": [],
+  "category": "vegetable",
+  "per100g": {
+   "kcal": 25,
+   "protein_g": 1.28,
+   "carbs_g": 5.8,
+   "fat_g": 0.1,
+   "fiber_g": 2.5,
+   "sugar_g": 3.2,
+   "satfat_g": 0.03,
+   "sodium_mg": 18
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": 0,
+   "vitamin_a_carotenoid_mcg_rae": 5,
+   "folate_food_mcg": 43,
+   "folic_acid_mcg": 0,
+   "folate_dfe_mcg": 43
+  },
+  "servings": [
+   {
+    "label": "1 cup shredded (89 g)",
+    "grams": 89,
+    "isDefault": true
+   },
+   {
+    "label": "100 g",
+    "grams": 100
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": true,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "cabbage-red-raw",
+  "name": "Cabbage, red, raw",
+  "brand": null,
+  "aliases": [],
+  "category": "vegetable",
+  "per100g": {
+   "kcal": 31,
+   "protein_g": 1.43,
+   "carbs_g": 7.37,
+   "fat_g": 0.16,
+   "fiber_g": 2.1,
+   "sugar_g": 3.83,
+   "satfat_g": 0.02,
+   "sodium_mg": 27
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 cup shredded (89 g)",
+    "grams": 89,
+    "isDefault": true
+   },
+   {
+    "label": "100 g",
+    "grams": 100
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": true,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "cabbage-napa-raw",
+  "name": "Napa cabbage, raw",
+  "brand": null,
+  "aliases": [
+   "chinese cabbage"
+  ],
+  "category": "vegetable",
+  "per100g": {
+   "kcal": 12,
+   "protein_g": 1.1,
+   "carbs_g": 2.23,
+   "fat_g": 0.2,
+   "fiber_g": 1.2,
+   "sugar_g": 1.41,
+   "satfat_g": 0.03,
+   "sodium_mg": 11
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 cup shredded (76 g)",
+    "grams": 76,
+    "isDefault": true
+   },
+   {
+    "label": "100 g",
+    "grams": 100
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": true,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "bok-choy-raw",
+  "name": "Bok choy, raw",
+  "brand": null,
+  "aliases": [],
+  "category": "vegetable",
+  "per100g": {
+   "kcal": 13,
+   "protein_g": 1.5,
+   "carbs_g": 2.18,
+   "fat_g": 0.2,
+   "fiber_g": 1,
+   "sugar_g": 1.18,
+   "satfat_g": 0.03,
+   "sodium_mg": 65
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 cup shredded (70 g)",
+    "grams": 70,
+    "isDefault": true
+   },
+   {
+    "label": "100 g",
+    "grams": 100
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": true,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "kohlrabi-raw",
+  "name": "Kohlrabi, raw",
+  "brand": null,
+  "aliases": [],
+  "category": "vegetable",
+  "per100g": {
+   "kcal": 27,
+   "protein_g": 1.7,
+   "carbs_g": 6.2,
+   "fat_g": 0.1,
+   "fiber_g": 3.6,
+   "sugar_g": 2.6,
+   "satfat_g": 0.01,
+   "sodium_mg": 20
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 cup (135 g)",
+    "grams": 135,
+    "isDefault": true
+   },
+   {
+    "label": "100 g",
+    "grams": 100
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": true,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "turnip-cooked",
+  "name": "Turnip, cooked",
+  "brand": null,
+  "aliases": [],
+  "category": "vegetable",
+  "per100g": {
+   "kcal": 22,
+   "protein_g": 0.71,
+   "carbs_g": 5.06,
+   "fat_g": 0.08,
+   "fiber_g": 2,
+   "sugar_g": 3.04,
+   "satfat_g": 0.01,
+   "sodium_mg": 16
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 cup cubed (156 g)",
+    "grams": 156,
+    "isDefault": true
+   },
+   {
+    "label": "100 g",
+    "grams": 100
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": true,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "rutabaga-cooked",
+  "name": "Rutabaga, cooked",
+  "brand": null,
+  "aliases": [],
+  "category": "vegetable",
+  "per100g": {
+   "kcal": 30,
+   "protein_g": 0.94,
+   "carbs_g": 6.83,
+   "fat_g": 0.17,
+   "fiber_g": 2.3,
+   "sugar_g": 4.46,
+   "satfat_g": 0.03,
+   "sodium_mg": 17
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 cup (170 g)",
+    "grams": 170,
+    "isDefault": true
+   },
+   {
+    "label": "100 g",
+    "grams": 100
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": true,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "radish-raw",
+  "name": "Radishes, raw",
+  "brand": null,
+  "aliases": [],
+  "category": "vegetable",
+  "per100g": {
+   "kcal": 16,
+   "protein_g": 0.68,
+   "carbs_g": 3.4,
+   "fat_g": 0.1,
+   "fiber_g": 1.6,
+   "sugar_g": 1.86,
+   "satfat_g": 0.03,
+   "sodium_mg": 39
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 cup sliced (116 g)",
+    "grams": 116,
+    "isDefault": true
+   },
+   {
+    "label": "1 radish (4.5 g)",
+    "grams": 4.5
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": true,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "daikon-raw",
+  "name": "Daikon radish, raw",
+  "brand": null,
+  "aliases": [],
+  "category": "vegetable",
+  "per100g": {
+   "kcal": 18,
+   "protein_g": 0.6,
+   "carbs_g": 4.1,
+   "fat_g": 0.1,
+   "fiber_g": 1.6,
+   "sugar_g": 2.5,
+   "satfat_g": 0.03,
+   "sodium_mg": 21
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 cup sliced (116 g)",
+    "grams": 116,
+    "isDefault": true
+   },
+   {
+    "label": "100 g",
+    "grams": 100
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": true,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "horseradish-prepared",
+  "name": "Horseradish, prepared",
+  "brand": null,
+  "aliases": [],
+  "category": "vegetable",
+  "per100g": {
+   "kcal": 48,
+   "protein_g": 1.18,
+   "carbs_g": 11.3,
+   "fat_g": 0.69,
+   "fiber_g": 3.3,
+   "sugar_g": 7.99,
+   "satfat_g": 0.09,
+   "sodium_mg": 420
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 tsp (5 g)",
+    "grams": 5,
+    "isDefault": true
+   },
+   {
+    "label": "1 tbsp (15 g)",
+    "grams": 15
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": true,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "spinach-raw",
+  "name": "Spinach, raw",
+  "brand": null,
+  "aliases": [],
+  "category": "vegetable",
+  "per100g": {
+   "kcal": 23,
+   "protein_g": 2.86,
+   "carbs_g": 3.63,
+   "fat_g": 0.39,
+   "fiber_g": 2.2,
+   "sugar_g": 0.42,
+   "satfat_g": 0.06,
+   "sodium_mg": 79
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": 0,
+   "vitamin_a_carotenoid_mcg_rae": 469,
+   "folate_food_mcg": 194,
+   "folic_acid_mcg": 0,
+   "folate_dfe_mcg": 194
+  },
+  "servings": [
+   {
+    "label": "1 cup (30 g)",
+    "grams": 30,
+    "isDefault": true
+   },
+   {
+    "label": "3 cups (90 g)",
+    "grams": 90
+   },
+   {
+    "label": "1 bag (142 g)",
+    "grams": 142
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": true,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "spinach-cooked",
+  "name": "Spinach, cooked from fresh",
+  "brand": null,
+  "aliases": [],
+  "category": "vegetable",
+  "per100g": {
+   "kcal": 23,
+   "protein_g": 2.97,
+   "carbs_g": 3.75,
+   "fat_g": 0.26,
+   "fiber_g": 2.4,
+   "sugar_g": 0.43,
+   "satfat_g": 0.04,
+   "sodium_mg": 70
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": 0,
+   "vitamin_a_carotenoid_mcg_rae": 524,
+   "folate_food_mcg": 146,
+   "folic_acid_mcg": 0,
+   "folate_dfe_mcg": 146
+  },
+  "servings": [
+   {
+    "label": "1 cup (180 g)",
+    "grams": 180,
+    "isDefault": true
+   },
+   {
+    "label": "1/2 cup (90 g)",
+    "grams": 90
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": true,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "spinach-frozen-cooked",
+  "name": "Spinach, frozen, cooked",
+  "brand": null,
+  "aliases": [],
+  "category": "vegetable",
+  "per100g": {
+   "kcal": 34,
+   "protein_g": 4.01,
+   "carbs_g": 4.8,
+   "fat_g": 0.87,
+   "fiber_g": 3.7,
+   "sugar_g": 0.55,
+   "satfat_g": 0.16,
+   "sodium_mg": 74
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 cup (190 g)",
+    "grams": 190,
+    "isDefault": true
+   },
+   {
+    "label": "100 g",
+    "grams": 100
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": true,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "kale-raw",
+  "name": "Kale, raw",
+  "brand": null,
+  "aliases": [],
+  "category": "vegetable",
+  "per100g": {
+   "kcal": 49,
+   "protein_g": 4.28,
+   "carbs_g": 8.75,
+   "fat_g": 0.93,
+   "fiber_g": 3.6,
+   "sugar_g": 2.26,
+   "satfat_g": 0.09,
+   "sodium_mg": 38
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": 0,
+   "vitamin_a_carotenoid_mcg_rae": 500,
+   "folate_food_mcg": 141,
+   "folic_acid_mcg": 0,
+   "folate_dfe_mcg": 141
+  },
+  "servings": [
+   {
+    "label": "1 cup chopped (21 g)",
+    "grams": 21,
+    "isDefault": true
+   },
+   {
+    "label": "2 cups (42 g)",
+    "grams": 42
+   },
+   {
+    "label": "1 bunch (118 g)",
+    "grams": 118
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": true,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "kale-cooked",
+  "name": "Kale, cooked",
+  "brand": null,
+  "aliases": [],
+  "category": "vegetable",
+  "per100g": {
+   "kcal": 28,
+   "protein_g": 1.9,
+   "carbs_g": 5.63,
+   "fat_g": 0.4,
+   "fiber_g": 2,
+   "sugar_g": 1.25,
+   "satfat_g": 0.05,
+   "sodium_mg": 23
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": 0,
+   "vitamin_a_carotenoid_mcg_rae": 241,
+   "folate_food_mcg": 13,
+   "folic_acid_mcg": 0,
+   "folate_dfe_mcg": 13
+  },
+  "servings": [
+   {
+    "label": "1 cup (130 g)",
+    "grams": 130,
+    "isDefault": true
+   },
+   {
+    "label": "100 g",
+    "grams": 100
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": true,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "lettuce-romaine",
+  "name": "Romaine lettuce",
+  "brand": null,
+  "aliases": [],
+  "category": "vegetable",
+  "per100g": {
+   "kcal": 17,
+   "protein_g": 1.23,
+   "carbs_g": 3.29,
+   "fat_g": 0.3,
+   "fiber_g": 2.1,
+   "sugar_g": 1.19,
+   "satfat_g": 0.04,
+   "sodium_mg": 8
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": 0,
+   "vitamin_a_carotenoid_mcg_rae": 436,
+   "folate_food_mcg": 136,
+   "folic_acid_mcg": 0,
+   "folate_dfe_mcg": 136
+  },
+  "servings": [
+   {
+    "label": "1 cup shredded (47 g)",
+    "grams": 47,
+    "isDefault": true
+   },
+   {
+    "label": "1 heart (312 g)",
+    "grams": 312
+   },
+   {
+    "label": "2 cups (94 g)",
+    "grams": 94
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": true,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "lettuce-iceberg",
+  "name": "Iceberg lettuce",
+  "brand": null,
+  "aliases": [],
+  "category": "vegetable",
+  "per100g": {
+   "kcal": 14,
+   "protein_g": 0.9,
+   "carbs_g": 2.97,
+   "fat_g": 0.14,
+   "fiber_g": 1.2,
+   "sugar_g": 1.97,
+   "satfat_g": 0.02,
+   "sodium_mg": 10
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 cup shredded (72 g)",
+    "grams": 72,
+    "isDefault": true
+   },
+   {
+    "label": "1 head (539 g)",
+    "grams": 539
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": true,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "lettuce-butter",
+  "name": "Butter lettuce",
+  "brand": null,
+  "aliases": [
+   "bibb",
+   "boston lettuce"
+  ],
+  "category": "vegetable",
+  "per100g": {
+   "kcal": 13,
+   "protein_g": 1.35,
+   "carbs_g": 2.23,
+   "fat_g": 0.22,
+   "fiber_g": 1.1,
+   "sugar_g": 0.94,
+   "satfat_g": 0.03,
+   "sodium_mg": 5
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 cup shredded (55 g)",
+    "grams": 55,
+    "isDefault": true
+   },
+   {
+    "label": "100 g",
+    "grams": 100
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": true,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "arugula-raw",
+  "name": "Arugula",
+  "brand": null,
+  "aliases": [
+   "rocket"
+  ],
+  "category": "vegetable",
+  "per100g": {
+   "kcal": 25,
+   "protein_g": 2.58,
+   "carbs_g": 3.65,
+   "fat_g": 0.66,
+   "fiber_g": 1.6,
+   "sugar_g": 2.05,
+   "satfat_g": 0.09,
+   "sodium_mg": 27
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 cup (20 g)",
+    "grams": 20,
+    "isDefault": true
+   },
+   {
+    "label": "2 cups (40 g)",
+    "grams": 40
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": true,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "spring-mix-greens",
+  "name": "Spring mix salad greens",
+  "brand": null,
+  "aliases": [
+   "mixed greens",
+   "mesclun"
+  ],
+  "category": "vegetable",
+  "per100g": {
+   "kcal": 20,
+   "protein_g": 2,
+   "carbs_g": 3.2,
+   "fat_g": 0.3,
+   "fiber_g": 1.8,
+   "sugar_g": 0.8,
+   "satfat_g": 0.04,
+   "sodium_mg": 25
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "2 cups (57 g)",
+    "grams": 57,
+    "isDefault": true
+   },
+   {
+    "label": "1 cup (28 g)",
+    "grams": 28
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": false,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "swiss-chard-raw",
+  "name": "Swiss chard, raw",
+  "brand": null,
+  "aliases": [],
+  "category": "vegetable",
+  "per100g": {
+   "kcal": 19,
+   "protein_g": 1.8,
+   "carbs_g": 3.74,
+   "fat_g": 0.2,
+   "fiber_g": 1.6,
+   "sugar_g": 1.1,
+   "satfat_g": 0.03,
+   "sodium_mg": 213
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": 0,
+   "vitamin_a_carotenoid_mcg_rae": 306,
+   "folate_food_mcg": 14,
+   "folic_acid_mcg": 0,
+   "folate_dfe_mcg": 14
+  },
+  "servings": [
+   {
+    "label": "1 cup chopped (36 g)",
+    "grams": 36,
+    "isDefault": true
+   },
+   {
+    "label": "100 g",
+    "grams": 100
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": true,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "collard-greens-cooked",
+  "name": "Collard greens, cooked",
+  "brand": null,
+  "aliases": [],
+  "category": "vegetable",
+  "per100g": {
+   "kcal": 33,
+   "protein_g": 2.71,
+   "carbs_g": 5.42,
+   "fat_g": 0.67,
+   "fiber_g": 4,
+   "sugar_g": 0.42,
+   "satfat_g": 0.09,
+   "sodium_mg": 15
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": 0,
+   "vitamin_a_carotenoid_mcg_rae": 380,
+   "folate_food_mcg": 129,
+   "folic_acid_mcg": 0,
+   "folate_dfe_mcg": 129
+  },
+  "servings": [
+   {
+    "label": "1 cup (190 g)",
+    "grams": 190,
+    "isDefault": true
+   },
+   {
+    "label": "100 g",
+    "grams": 100
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": true,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "mustard-greens-cooked",
+  "name": "Mustard greens, cooked",
+  "brand": null,
+  "aliases": [],
+  "category": "vegetable",
+  "per100g": {
+   "kcal": 26,
+   "protein_g": 2.56,
+   "carbs_g": 4.51,
+   "fat_g": 0.47,
+   "fiber_g": 2,
+   "sugar_g": 1.2,
+   "satfat_g": 0.02,
+   "sodium_mg": 9
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": 0,
+   "vitamin_a_carotenoid_mcg_rae": 304,
+   "folate_food_mcg": 73,
+   "folic_acid_mcg": 0,
+   "folate_dfe_mcg": 73
+  },
+  "servings": [
+   {
+    "label": "1 cup (140 g)",
+    "grams": 140,
+    "isDefault": true
+   },
+   {
+    "label": "100 g",
+    "grams": 100
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": true,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "watercress-raw",
+  "name": "Watercress, raw",
+  "brand": null,
+  "aliases": [],
+  "category": "vegetable",
+  "per100g": {
+   "kcal": 11,
+   "protein_g": 2.3,
+   "carbs_g": 1.29,
+   "fat_g": 0.1,
+   "fiber_g": 0.5,
+   "sugar_g": 0.2,
+   "satfat_g": 0.03,
+   "sodium_mg": 41
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 cup (34 g)",
+    "grams": 34,
+    "isDefault": true
+   },
+   {
+    "label": "100 g",
+    "grams": 100
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": true,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "endive-raw",
+  "name": "Endive, raw",
+  "brand": null,
+  "aliases": [],
+  "category": "vegetable",
+  "per100g": {
+   "kcal": 17,
+   "protein_g": 1.25,
+   "carbs_g": 3.35,
+   "fat_g": 0.2,
+   "fiber_g": 3.1,
+   "sugar_g": 0.25,
+   "satfat_g": 0.05,
+   "sodium_mg": 22
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 cup (50 g)",
+    "grams": 50,
+    "isDefault": true
+   },
+   {
+    "label": "100 g",
+    "grams": 100
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": true,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "radicchio-raw",
+  "name": "Radicchio, raw",
+  "brand": null,
+  "aliases": [],
+  "category": "vegetable",
+  "per100g": {
+   "kcal": 23,
+   "protein_g": 1.43,
+   "carbs_g": 4.48,
+   "fat_g": 0.25,
+   "fiber_g": 0.9,
+   "sugar_g": 0.6,
+   "satfat_g": 0.06,
+   "sodium_mg": 22
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 cup shredded (40 g)",
+    "grams": 40,
+    "isDefault": true
+   },
+   {
+    "label": "100 g",
+    "grams": 100
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": true,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "sprouts-alfalfa",
+  "name": "Alfalfa sprouts, raw",
+  "brand": null,
+  "aliases": [],
+  "category": "vegetable",
+  "per100g": {
+   "kcal": 23,
+   "protein_g": 3.99,
+   "carbs_g": 2.1,
+   "fat_g": 0.69,
+   "fiber_g": 1.9,
+   "sugar_g": 0.2,
+   "satfat_g": 0.07,
+   "sodium_mg": 6
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 cup (33 g)",
+    "grams": 33,
+    "isDefault": true
+   },
+   {
+    "label": "100 g",
+    "grams": 100
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": true,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "microgreens",
+  "name": "Microgreens, mixed",
+  "brand": null,
+  "aliases": [],
+  "category": "vegetable",
+  "per100g": {
+   "kcal": 35,
+   "protein_g": 3,
+   "carbs_g": 5,
+   "fat_g": 0.5,
+   "fiber_g": 2.5,
+   "sugar_g": 0.8,
+   "satfat_g": 0.05,
+   "sodium_mg": 20
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 cup (25 g)",
+    "grams": 25,
+    "isDefault": true
+   },
+   {
+    "label": "100 g",
+    "grams": 100
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": false,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "tomato-raw",
+  "name": "Tomato, red, ripe, raw",
+  "brand": null,
+  "aliases": [
+   "tomatoes"
+  ],
+  "category": "vegetable",
+  "per100g": {
+   "kcal": 18,
+   "protein_g": 0.88,
+   "carbs_g": 3.89,
+   "fat_g": 0.2,
+   "fiber_g": 1.2,
+   "sugar_g": 2.63,
+   "satfat_g": 0.03,
+   "sodium_mg": 5
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": 0,
+   "vitamin_a_carotenoid_mcg_rae": 42,
+   "folate_food_mcg": 15,
+   "folic_acid_mcg": 0,
+   "folate_dfe_mcg": 15
+  },
+  "servings": [
+   {
+    "label": "1 medium (123 g)",
+    "grams": 123,
+    "isDefault": true
+   },
+   {
+    "label": "1 large (182 g)",
+    "grams": 182
+   },
+   {
+    "label": "1 slice (20 g)",
+    "grams": 20
+   },
+   {
+    "label": "1 cup chopped (180 g)",
+    "grams": 180
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": true,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "tomato-cherry",
+  "name": "Cherry tomatoes",
+  "brand": null,
+  "aliases": [
+   "grape tomatoes"
+  ],
+  "category": "vegetable",
+  "per100g": {
+   "kcal": 18,
+   "protein_g": 0.88,
+   "carbs_g": 3.89,
+   "fat_g": 0.2,
+   "fiber_g": 1.2,
+   "sugar_g": 2.63,
+   "satfat_g": 0.03,
+   "sodium_mg": 5
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 cup (149 g)",
+    "grams": 149,
+    "isDefault": true
+   },
+   {
+    "label": "5 tomatoes (85 g)",
+    "grams": 85
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": true,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "tomato-roma",
+  "name": "Roma tomato",
+  "brand": null,
+  "aliases": [
+   "plum tomato"
+  ],
+  "category": "vegetable",
+  "per100g": {
+   "kcal": 18,
+   "protein_g": 0.88,
+   "carbs_g": 3.89,
+   "fat_g": 0.2,
+   "fiber_g": 1.2,
+   "sugar_g": 2.63,
+   "satfat_g": 0.03,
+   "sodium_mg": 5
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 tomato (62 g)",
+    "grams": 62,
+    "isDefault": true
+   },
+   {
+    "label": "100 g",
+    "grams": 100
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": true,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "tomato-canned-diced",
+  "name": "Tomatoes, canned, diced",
+  "brand": null,
+  "aliases": [],
+  "category": "vegetable",
+  "per100g": {
+   "kcal": 32,
+   "protein_g": 1.6,
+   "carbs_g": 7.29,
+   "fat_g": 0.18,
+   "fiber_g": 1.9,
+   "sugar_g": 4.1,
+   "satfat_g": 0.03,
+   "sodium_mg": 186
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1/2 cup (121 g)",
+    "grams": 121,
+    "isDefault": true
+   },
+   {
+    "label": "1 can (411 g)",
+    "grams": 411
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": true,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "tomato-canned-crushed",
+  "name": "Tomatoes, canned, crushed",
+  "brand": null,
+  "aliases": [],
+  "category": "vegetable",
+  "per100g": {
+   "kcal": 29,
+   "protein_g": 1.5,
+   "carbs_g": 6.6,
+   "fat_g": 0.2,
+   "fiber_g": 1.8,
+   "sugar_g": 3.9,
+   "satfat_g": 0.03,
+   "sodium_mg": 130
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1/2 cup (123 g)",
+    "grams": 123,
+    "isDefault": true
+   },
+   {
+    "label": "1 can (411 g)",
+    "grams": 411
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": false,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "tomato-paste",
+  "name": "Tomato paste, canned",
+  "brand": null,
+  "aliases": [],
+  "category": "vegetable",
+  "per100g": {
+   "kcal": 82,
+   "protein_g": 4.32,
+   "carbs_g": 18.9,
+   "fat_g": 0.47,
+   "fiber_g": 4.1,
+   "sugar_g": 12.2,
+   "satfat_g": 0.1,
+   "sodium_mg": 59
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": 0,
+   "vitamin_a_carotenoid_mcg_rae": 64,
+   "folate_food_mcg": 14,
+   "folic_acid_mcg": 0,
+   "folate_dfe_mcg": 14
+  },
+  "servings": [
+   {
+    "label": "1 tbsp (16 g)",
+    "grams": 16,
+    "isDefault": true
+   },
+   {
+    "label": "2 tbsp (33 g)",
+    "grams": 33
+   },
+   {
+    "label": "1 can (170 g)",
+    "grams": 170
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": true,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "tomato-sun-dried",
+  "name": "Sun-dried tomatoes, dry",
+  "brand": null,
+  "aliases": [],
+  "category": "vegetable",
+  "per100g": {
+   "kcal": 258,
+   "protein_g": 14.1,
+   "carbs_g": 55.8,
+   "fat_g": 2.97,
+   "fiber_g": 12.3,
+   "sugar_g": 37.6,
+   "satfat_g": 0.42,
+   "sodium_mg": 2095
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1/4 cup (27 g)",
+    "grams": 27,
+    "isDefault": true
+   },
+   {
+    "label": "1 oz (28 g)",
+    "grams": 28
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": true,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "pepper-bell-red",
+  "name": "Bell pepper, red, raw",
+  "brand": null,
+  "aliases": [
+   "red pepper",
+   "red capsicum"
+  ],
+  "category": "vegetable",
+  "per100g": {
+   "kcal": 31,
+   "protein_g": 0.99,
+   "carbs_g": 6.03,
+   "fat_g": 0.3,
+   "fiber_g": 2.1,
+   "sugar_g": 4.2,
+   "satfat_g": 0.03,
+   "sodium_mg": 4
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": 0,
+   "vitamin_a_carotenoid_mcg_rae": 157,
+   "folate_food_mcg": 46,
+   "folic_acid_mcg": 0,
+   "folate_dfe_mcg": 46
+  },
+  "servings": [
+   {
+    "label": "1 medium (119 g)",
+    "grams": 119,
+    "isDefault": true
+   },
+   {
+    "label": "1 cup chopped (149 g)",
+    "grams": 149
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": true,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "pepper-bell-green",
+  "name": "Bell pepper, green, raw",
+  "brand": null,
+  "aliases": [
+   "green pepper"
+  ],
+  "category": "vegetable",
+  "per100g": {
+   "kcal": 20,
+   "protein_g": 0.86,
+   "carbs_g": 4.64,
+   "fat_g": 0.17,
+   "fiber_g": 1.7,
+   "sugar_g": 2.4,
+   "satfat_g": 0.06,
+   "sodium_mg": 3
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": 0,
+   "vitamin_a_carotenoid_mcg_rae": 18,
+   "folate_food_mcg": 10,
+   "folic_acid_mcg": 0,
+   "folate_dfe_mcg": 10
+  },
+  "servings": [
+   {
+    "label": "1 medium (119 g)",
+    "grams": 119,
+    "isDefault": true
+   },
+   {
+    "label": "1 cup chopped (149 g)",
+    "grams": 149
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": true,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "pepper-bell-yellow",
+  "name": "Bell pepper, yellow, raw",
+  "brand": null,
+  "aliases": [],
+  "category": "vegetable",
+  "per100g": {
+   "kcal": 27,
+   "protein_g": 1,
+   "carbs_g": 6.32,
+   "fat_g": 0.21,
+   "fiber_g": 0.9,
+   "sugar_g": 0,
+   "satfat_g": 0.03,
+   "sodium_mg": 2
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 medium (119 g)",
+    "grams": 119,
+    "isDefault": true
+   },
+   {
+    "label": "100 g",
+    "grams": 100
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": true,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "pepper-jalapeno",
+  "name": "Jalapeño pepper, raw",
+  "brand": null,
+  "aliases": [],
+  "category": "vegetable",
+  "per100g": {
+   "kcal": 29,
+   "protein_g": 0.91,
+   "carbs_g": 6.5,
+   "fat_g": 0.37,
+   "fiber_g": 2.8,
+   "sugar_g": 4.12,
+   "satfat_g": 0.09,
+   "sodium_mg": 3
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 pepper (14 g)",
+    "grams": 14,
+    "isDefault": true
+   },
+   {
+    "label": "1/4 cup sliced (23 g)",
+    "grams": 23
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": true,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "pepper-serrano",
+  "name": "Serrano pepper, raw",
+  "brand": null,
+  "aliases": [],
+  "category": "vegetable",
+  "per100g": {
+   "kcal": 32,
+   "protein_g": 1.74,
+   "carbs_g": 6.7,
+   "fat_g": 0.44,
+   "fiber_g": 3.7,
+   "sugar_g": 3.9,
+   "satfat_g": 0.05,
+   "sodium_mg": 10
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 pepper (6 g)",
+    "grams": 6,
+    "isDefault": true
+   },
+   {
+    "label": "100 g",
+    "grams": 100
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": true,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "pepper-poblano",
+  "name": "Poblano pepper, raw",
+  "brand": null,
+  "aliases": [],
+  "category": "vegetable",
+  "per100g": {
+   "kcal": 20,
+   "protein_g": 0.86,
+   "carbs_g": 4.64,
+   "fat_g": 0.17,
+   "fiber_g": 1.7,
+   "sugar_g": 2.4,
+   "satfat_g": 0.06,
+   "sodium_mg": 3
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 pepper (45 g)",
+    "grams": 45,
+    "isDefault": true
+   },
+   {
+    "label": "100 g",
+    "grams": 100
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": false,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "pepper-roasted-red-jarred",
+  "name": "Roasted red peppers, jarred",
+  "brand": null,
+  "aliases": [],
+  "category": "vegetable",
+  "per100g": {
+   "kcal": 20,
+   "protein_g": 0.9,
+   "carbs_g": 4,
+   "fat_g": 0.2,
+   "fiber_g": 1.5,
+   "sugar_g": 2.5,
+   "satfat_g": 0.03,
+   "sodium_mg": 300
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1/4 cup (40 g)",
+    "grams": 40,
+    "isDefault": true
+   },
+   {
+    "label": "100 g",
+    "grams": 100
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": false,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "eggplant-raw",
+  "name": "Eggplant, raw",
+  "brand": null,
+  "aliases": [
+   "aubergine"
+  ],
+  "category": "vegetable",
+  "per100g": {
+   "kcal": 25,
+   "protein_g": 0.98,
+   "carbs_g": 5.88,
+   "fat_g": 0.18,
+   "fiber_g": 3,
+   "sugar_g": 3.53,
+   "satfat_g": 0.03,
+   "sodium_mg": 2
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 cup cubed (82 g)",
+    "grams": 82,
+    "isDefault": true
+   },
+   {
+    "label": "1 eggplant (458 g)",
+    "grams": 458
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": true,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "eggplant-cooked",
+  "name": "Eggplant, cooked",
+  "brand": null,
+  "aliases": [],
+  "category": "vegetable",
+  "per100g": {
+   "kcal": 35,
+   "protein_g": 0.83,
+   "carbs_g": 8.73,
+   "fat_g": 0.23,
+   "fiber_g": 2.5,
+   "sugar_g": 3.2,
+   "satfat_g": 0.04,
+   "sodium_mg": 1
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 cup (99 g)",
+    "grams": 99,
+    "isDefault": true
+   },
+   {
+    "label": "100 g",
+    "grams": 100
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": true,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "potato-russet-baked",
+  "name": "Potato, russet, baked with skin",
+  "brand": null,
+  "aliases": [
+   "baked potato"
+  ],
+  "category": "vegetable",
+  "per100g": {
+   "kcal": 93,
+   "protein_g": 2.5,
+   "carbs_g": 21.1,
+   "fat_g": 0.13,
+   "fiber_g": 2.2,
+   "sugar_g": 1.16,
+   "satfat_g": 0.03,
+   "sodium_mg": 10
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": 0,
+   "vitamin_a_carotenoid_mcg_rae": 0,
+   "folate_food_mcg": 28,
+   "folic_acid_mcg": 0,
+   "folate_dfe_mcg": 28
+  },
+  "servings": [
+   {
+    "label": "1 medium (173 g)",
+    "grams": 173,
+    "isDefault": true
+   },
+   {
+    "label": "1 large (299 g)",
+    "grams": 299
+   },
+   {
+    "label": "1 small (138 g)",
+    "grams": 138
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": true,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "potato-russet-raw",
+  "name": "Potato, russet, raw",
+  "brand": null,
+  "aliases": [],
+  "category": "vegetable",
+  "per100g": {
+   "kcal": 79,
+   "protein_g": 2.14,
+   "carbs_g": 17.5,
+   "fat_g": 0.08,
+   "fiber_g": 1.3,
+   "sugar_g": 0.62,
+   "satfat_g": 0.03,
+   "sodium_mg": 5
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 medium (213 g)",
+    "grams": 213,
+    "isDefault": true
+   },
+   {
+    "label": "100 g",
+    "grams": 100
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": true,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "potato-boiled",
+  "name": "Potato, boiled without skin",
+  "brand": null,
+  "aliases": [],
+  "category": "vegetable",
+  "per100g": {
+   "kcal": 87,
+   "protein_g": 1.87,
+   "carbs_g": 20.1,
+   "fat_g": 0.1,
+   "fiber_g": 1.8,
+   "sugar_g": 0.85,
+   "satfat_g": 0.03,
+   "sodium_mg": 4
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 cup (156 g)",
+    "grams": 156,
+    "isDefault": true
+   },
+   {
+    "label": "1 medium (167 g)",
+    "grams": 167
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": true,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "potato-red-roasted",
+  "name": "Potato, red, roasted with skin",
+  "brand": null,
+  "aliases": [],
+  "category": "vegetable",
+  "per100g": {
+   "kcal": 89,
+   "protein_g": 2.3,
+   "carbs_g": 19.6,
+   "fat_g": 0.2,
+   "fiber_g": 2,
+   "sugar_g": 1.3,
+   "satfat_g": 0.05,
+   "sodium_mg": 10
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 cup (156 g)",
+    "grams": 156,
+    "isDefault": true
+   },
+   {
+    "label": "100 g",
+    "grams": 100
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": false,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "potato-mashed",
+  "name": "Mashed potatoes, with milk and butter",
+  "brand": null,
+  "aliases": [],
+  "category": "vegetable",
+  "per100g": {
+   "kcal": 113,
+   "protein_g": 1.9,
+   "carbs_g": 16.9,
+   "fat_g": 4.22,
+   "fiber_g": 1.5,
+   "sugar_g": 1.6,
+   "satfat_g": 1.1,
+   "sodium_mg": 317
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 cup (210 g)",
+    "grams": 210,
+    "isDefault": true
+   },
+   {
+    "label": "1/2 cup (105 g)",
+    "grams": 105
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": true,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "potato-hash-browns",
+  "name": "Hash browns, fried",
+  "brand": null,
+  "aliases": [],
+  "category": "vegetable",
+  "per100g": {
+   "kcal": 265,
+   "protein_g": 2.9,
+   "carbs_g": 35.1,
+   "fat_g": 12.5,
+   "fiber_g": 3.2,
+   "sugar_g": 0.3,
+   "satfat_g": 1.9,
+   "sodium_mg": 380
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 cup (156 g)",
+    "grams": 156,
+    "isDefault": true
+   },
+   {
+    "label": "1 patty (55 g)",
+    "grams": 55
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": false,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "potato-tater-tots",
+  "name": "Tater tots, baked",
+  "brand": null,
+  "aliases": [],
+  "category": "vegetable",
+  "per100g": {
+   "kcal": 202,
+   "protein_g": 2.3,
+   "carbs_g": 30,
+   "fat_g": 8,
+   "fiber_g": 3,
+   "sugar_g": 0.6,
+   "satfat_g": 1.4,
+   "sodium_mg": 485
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "10 pieces (86 g)",
+    "grams": 86,
+    "isDefault": true
+   },
+   {
+    "label": "100 g",
+    "grams": 100
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": false,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "sweet-potato-raw",
+  "name": "Sweet potato, raw",
+  "brand": null,
+  "aliases": [],
+  "category": "vegetable",
+  "per100g": {
+   "kcal": 86,
+   "protein_g": 1.57,
+   "carbs_g": 20.1,
+   "fat_g": 0.05,
+   "fiber_g": 3,
+   "sugar_g": 4.18,
+   "satfat_g": 0.02,
+   "sodium_mg": 55
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": 0,
+   "vitamin_a_carotenoid_mcg_rae": 709,
+   "folate_food_mcg": 11,
+   "folic_acid_mcg": 0,
+   "folate_dfe_mcg": 11
+  },
+  "servings": [
+   {
+    "label": "1 medium (114 g)",
+    "grams": 114,
+    "isDefault": true
+   },
+   {
+    "label": "1 cup cubed (133 g)",
+    "grams": 133
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": true,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "sweet-potato-baked",
+  "name": "Sweet potato, baked with skin",
+  "brand": null,
+  "aliases": [],
+  "category": "vegetable",
+  "per100g": {
+   "kcal": 90,
+   "protein_g": 2.01,
+   "carbs_g": 20.7,
+   "fat_g": 0.15,
+   "fiber_g": 3.3,
+   "sugar_g": 6.48,
+   "satfat_g": 0.05,
+   "sodium_mg": 36
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": 0,
+   "vitamin_a_carotenoid_mcg_rae": 961,
+   "folate_food_mcg": 6,
+   "folic_acid_mcg": 0,
+   "folate_dfe_mcg": 6
+  },
+  "servings": [
+   {
+    "label": "1 medium (114 g)",
+    "grams": 114,
+    "isDefault": true
+   },
+   {
+    "label": "1 large (180 g)",
+    "grams": 180
+   },
+   {
+    "label": "1 cup (200 g)",
+    "grams": 200
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": true,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "sweet-potato-fries-baked",
+  "name": "Sweet potato fries, baked",
+  "brand": null,
+  "aliases": [],
+  "category": "vegetable",
+  "per100g": {
+   "kcal": 150,
+   "protein_g": 2,
+   "carbs_g": 26,
+   "fat_g": 4.5,
+   "fiber_g": 3.5,
+   "sugar_g": 7,
+   "satfat_g": 0.7,
+   "sodium_mg": 280
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "3 oz (85 g)",
+    "grams": 85,
+    "isDefault": true
+   },
+   {
+    "label": "100 g",
+    "grams": 100
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": false,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "carrot-raw",
+  "name": "Carrots, raw",
+  "brand": null,
+  "aliases": [],
+  "category": "vegetable",
+  "per100g": {
+   "kcal": 41,
+   "protein_g": 0.93,
+   "carbs_g": 9.58,
+   "fat_g": 0.24,
+   "fiber_g": 2.8,
+   "sugar_g": 4.74,
+   "satfat_g": 0.03,
+   "sodium_mg": 69
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": 0,
+   "vitamin_a_carotenoid_mcg_rae": 835,
+   "folate_food_mcg": 19,
+   "folic_acid_mcg": 0,
+   "folate_dfe_mcg": 19
+  },
+  "servings": [
+   {
+    "label": "1 medium (61 g)",
+    "grams": 61,
+    "isDefault": true
+   },
+   {
+    "label": "1 cup chopped (128 g)",
+    "grams": 128
+   },
+   {
+    "label": "1 large (72 g)",
+    "grams": 72
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": true,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "carrot-baby",
+  "name": "Baby carrots, raw",
+  "brand": null,
+  "aliases": [],
+  "category": "vegetable",
+  "per100g": {
+   "kcal": 35,
+   "protein_g": 0.64,
+   "carbs_g": 8.24,
+   "fat_g": 0.13,
+   "fiber_g": 2.9,
+   "sugar_g": 4.76,
+   "satfat_g": 0.02,
+   "sodium_mg": 78
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": 0,
+   "vitamin_a_carotenoid_mcg_rae": 690,
+   "folate_food_mcg": 28,
+   "folic_acid_mcg": 0,
+   "folate_dfe_mcg": 28
+  },
+  "servings": [
+   {
+    "label": "1 cup (128 g)",
+    "grams": 128,
+    "isDefault": true
+   },
+   {
+    "label": "10 carrots (100 g)",
+    "grams": 100
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": true,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "carrot-cooked",
+  "name": "Carrots, cooked",
+  "brand": null,
+  "aliases": [],
+  "category": "vegetable",
+  "per100g": {
+   "kcal": 35,
+   "protein_g": 0.76,
+   "carbs_g": 8.22,
+   "fat_g": 0.18,
+   "fiber_g": 3,
+   "sugar_g": 3.45,
+   "satfat_g": 0.03,
+   "sodium_mg": 58
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": 0,
+   "vitamin_a_carotenoid_mcg_rae": 852,
+   "folate_food_mcg": 14,
+   "folic_acid_mcg": 0,
+   "folate_dfe_mcg": 14
+  },
+  "servings": [
+   {
+    "label": "1 cup sliced (156 g)",
+    "grams": 156,
+    "isDefault": true
+   },
+   {
+    "label": "100 g",
+    "grams": 100
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": true,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "beet-raw",
+  "name": "Beets, raw",
+  "brand": null,
+  "aliases": [],
+  "category": "vegetable",
+  "per100g": {
+   "kcal": 43,
+   "protein_g": 1.61,
+   "carbs_g": 9.56,
+   "fat_g": 0.17,
+   "fiber_g": 2.8,
+   "sugar_g": 6.76,
+   "satfat_g": 0.03,
+   "sodium_mg": 78
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": 0,
+   "vitamin_a_carotenoid_mcg_rae": 2,
+   "folate_food_mcg": 109,
+   "folic_acid_mcg": 0,
+   "folate_dfe_mcg": 109
+  },
+  "servings": [
+   {
+    "label": "1 beet (82 g)",
+    "grams": 82,
+    "isDefault": true
+   },
+   {
+    "label": "1 cup (136 g)",
+    "grams": 136
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": true,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "beet-cooked",
+  "name": "Beets, cooked",
+  "brand": null,
+  "aliases": [],
+  "category": "vegetable",
+  "per100g": {
+   "kcal": 44,
+   "protein_g": 1.68,
+   "carbs_g": 9.96,
+   "fat_g": 0.18,
+   "fiber_g": 2,
+   "sugar_g": 7.96,
+   "satfat_g": 0.03,
+   "sodium_mg": 77
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 cup sliced (170 g)",
+    "grams": 170,
+    "isDefault": true
+   },
+   {
+    "label": "100 g",
+    "grams": 100
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": true,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "parsnip-cooked",
+  "name": "Parsnips, cooked",
+  "brand": null,
+  "aliases": [],
+  "category": "vegetable",
+  "per100g": {
+   "kcal": 71,
+   "protein_g": 1.32,
+   "carbs_g": 17,
+   "fat_g": 0.27,
+   "fiber_g": 3.6,
+   "sugar_g": 4.6,
+   "satfat_g": 0.05,
+   "sodium_mg": 10
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 cup sliced (156 g)",
+    "grams": 156,
+    "isDefault": true
+   },
+   {
+    "label": "100 g",
+    "grams": 100
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": true,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "yam-cooked",
+  "name": "Yam, cooked",
+  "brand": null,
+  "aliases": [],
+  "category": "vegetable",
+  "per100g": {
+   "kcal": 116,
+   "protein_g": 1.49,
+   "carbs_g": 27.5,
+   "fat_g": 0.14,
+   "fiber_g": 3.9,
+   "sugar_g": 0.5,
+   "satfat_g": 0.03,
+   "sodium_mg": 8
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 cup cubed (136 g)",
+    "grams": 136,
+    "isDefault": true
+   },
+   {
+    "label": "100 g",
+    "grams": 100
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": true,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "taro-cooked",
+  "name": "Taro root, cooked",
+  "brand": null,
+  "aliases": [],
+  "category": "vegetable",
+  "per100g": {
+   "kcal": 142,
+   "protein_g": 0.52,
+   "carbs_g": 34.6,
+   "fat_g": 0.11,
+   "fiber_g": 5.1,
+   "sugar_g": 0.49,
+   "satfat_g": 0.02,
+   "sodium_mg": 15
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 cup sliced (132 g)",
+    "grams": 132,
+    "isDefault": true
+   },
+   {
+    "label": "100 g",
+    "grams": 100
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": true,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "cassava-raw",
+  "name": "Cassava, raw",
+  "brand": null,
+  "aliases": [
+   "yuca"
+  ],
+  "category": "vegetable",
+  "per100g": {
+   "kcal": 160,
+   "protein_g": 1.36,
+   "carbs_g": 38.1,
+   "fat_g": 0.28,
+   "fiber_g": 1.8,
+   "sugar_g": 1.7,
+   "satfat_g": 0.07,
+   "sodium_mg": 14
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 cup (206 g)",
+    "grams": 206,
+    "isDefault": true
+   },
+   {
+    "label": "100 g",
+    "grams": 100
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": true,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "jicama-raw",
+  "name": "Jicama, raw",
+  "brand": null,
+  "aliases": [],
+  "category": "vegetable",
+  "per100g": {
+   "kcal": 38,
+   "protein_g": 0.72,
+   "carbs_g": 8.82,
+   "fat_g": 0.09,
+   "fiber_g": 4.9,
+   "sugar_g": 1.8,
+   "satfat_g": 0.02,
+   "sodium_mg": 4
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 cup sliced (120 g)",
+    "grams": 120,
+    "isDefault": true
+   },
+   {
+    "label": "100 g",
+    "grams": 100
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": true,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "celeriac-raw",
+  "name": "Celery root, raw",
+  "brand": null,
+  "aliases": [
+   "celeriac"
+  ],
+  "category": "vegetable",
+  "per100g": {
+   "kcal": 42,
+   "protein_g": 1.5,
+   "carbs_g": 9.2,
+   "fat_g": 0.3,
+   "fiber_g": 1.8,
+   "sugar_g": 1.6,
+   "satfat_g": 0.08,
+   "sodium_mg": 100
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 cup (156 g)",
+    "grams": 156,
+    "isDefault": true
+   },
+   {
+    "label": "100 g",
+    "grams": 100
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": true,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "onion-yellow-raw",
+  "name": "Onion, yellow, raw",
+  "brand": null,
+  "aliases": [
+   "onions"
+  ],
+  "category": "vegetable",
+  "per100g": {
+   "kcal": 40,
+   "protein_g": 1.1,
+   "carbs_g": 9.34,
+   "fat_g": 0.1,
+   "fiber_g": 1.7,
+   "sugar_g": 4.24,
+   "satfat_g": 0.04,
+   "sodium_mg": 4
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": 0,
+   "vitamin_a_carotenoid_mcg_rae": 0,
+   "folate_food_mcg": 19,
+   "folic_acid_mcg": 0,
+   "folate_dfe_mcg": 19
+  },
+  "servings": [
+   {
+    "label": "1 medium (110 g)",
+    "grams": 110,
+    "isDefault": true
+   },
+   {
+    "label": "1 cup chopped (160 g)",
+    "grams": 160
+   },
+   {
+    "label": "1/2 cup (80 g)",
+    "grams": 80
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": true,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "onion-red-raw",
+  "name": "Onion, red, raw",
+  "brand": null,
+  "aliases": [],
+  "category": "vegetable",
+  "per100g": {
+   "kcal": 40,
+   "protein_g": 1.1,
+   "carbs_g": 9.34,
+   "fat_g": 0.1,
+   "fiber_g": 1.7,
+   "sugar_g": 4.24,
+   "satfat_g": 0.04,
+   "sodium_mg": 4
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 medium (110 g)",
+    "grams": 110,
+    "isDefault": true
+   },
+   {
+    "label": "1/4 cup chopped (40 g)",
+    "grams": 40
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": true,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "onion-sauteed",
+  "name": "Onions, sautéed",
+  "brand": null,
+  "aliases": [],
+  "category": "vegetable",
+  "per100g": {
+   "kcal": 132,
+   "protein_g": 1.3,
+   "carbs_g": 11,
+   "fat_g": 9,
+   "fiber_g": 1.6,
+   "sugar_g": 5,
+   "satfat_g": 1.3,
+   "sodium_mg": 4
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1/2 cup (58 g)",
+    "grams": 58,
+    "isDefault": true
+   },
+   {
+    "label": "100 g",
+    "grams": 100
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": false,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "onion-green",
+  "name": "Green onions",
+  "brand": null,
+  "aliases": [
+   "scallions",
+   "spring onions"
+  ],
+  "category": "vegetable",
+  "per100g": {
+   "kcal": 32,
+   "protein_g": 1.83,
+   "carbs_g": 7.34,
+   "fat_g": 0.19,
+   "fiber_g": 2.6,
+   "sugar_g": 2.33,
+   "satfat_g": 0.03,
+   "sodium_mg": 16
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1/4 cup chopped (25 g)",
+    "grams": 25,
+    "isDefault": true
+   },
+   {
+    "label": "1 onion (15 g)",
+    "grams": 15
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": true,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "shallot-raw",
+  "name": "Shallots, raw",
+  "brand": null,
+  "aliases": [],
+  "category": "vegetable",
+  "per100g": {
+   "kcal": 72,
+   "protein_g": 2.5,
+   "carbs_g": 16.8,
+   "fat_g": 0.1,
+   "fiber_g": 3.2,
+   "sugar_g": 7.87,
+   "satfat_g": 0.02,
+   "sodium_mg": 12
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 tbsp chopped (10 g)",
+    "grams": 10,
+    "isDefault": true
+   },
+   {
+    "label": "1 shallot (25 g)",
+    "grams": 25
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": true,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "leek-cooked",
+  "name": "Leeks, cooked",
+  "brand": null,
+  "aliases": [],
+  "category": "vegetable",
+  "per100g": {
+   "kcal": 31,
+   "protein_g": 0.81,
+   "carbs_g": 7.62,
+   "fat_g": 0.2,
+   "fiber_g": 1,
+   "sugar_g": 2.11,
+   "satfat_g": 0.03,
+   "sodium_mg": 10
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1/2 cup (52 g)",
+    "grams": 52,
+    "isDefault": true
+   },
+   {
+    "label": "100 g",
+    "grams": 100
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": true,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "garlic-raw",
+  "name": "Garlic, raw",
+  "brand": null,
+  "aliases": [],
+  "category": "vegetable",
+  "per100g": {
+   "kcal": 149,
+   "protein_g": 6.36,
+   "carbs_g": 33.1,
+   "fat_g": 0.5,
+   "fiber_g": 2.1,
+   "sugar_g": 1,
+   "satfat_g": 0.09,
+   "sodium_mg": 17
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 clove (3 g)",
+    "grams": 3,
+    "isDefault": true
+   },
+   {
+    "label": "3 cloves (9 g)",
+    "grams": 9
+   },
+   {
+    "label": "1 tbsp minced (8 g)",
+    "grams": 8
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": true,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "zucchini-raw",
+  "name": "Zucchini, raw",
+  "brand": null,
+  "aliases": [
+   "courgette"
+  ],
+  "category": "vegetable",
+  "per100g": {
+   "kcal": 17,
+   "protein_g": 1.21,
+   "carbs_g": 3.11,
+   "fat_g": 0.32,
+   "fiber_g": 1,
+   "sugar_g": 2.5,
+   "satfat_g": 0.08,
+   "sodium_mg": 8
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 medium (196 g)",
+    "grams": 196,
+    "isDefault": true
+   },
+   {
+    "label": "1 cup sliced (113 g)",
+    "grams": 113
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": true,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "zucchini-cooked",
+  "name": "Zucchini, cooked",
+  "brand": null,
+  "aliases": [],
+  "category": "vegetable",
+  "per100g": {
+   "kcal": 17,
+   "protein_g": 1.21,
+   "carbs_g": 3.11,
+   "fat_g": 0.32,
+   "fiber_g": 1,
+   "sugar_g": 2.5,
+   "satfat_g": 0.08,
+   "sodium_mg": 4
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 cup sliced (180 g)",
+    "grams": 180,
+    "isDefault": true
+   },
+   {
+    "label": "100 g",
+    "grams": 100
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": true,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "squash-yellow-raw",
+  "name": "Yellow summer squash, raw",
+  "brand": null,
+  "aliases": [],
+  "category": "vegetable",
+  "per100g": {
+   "kcal": 16,
+   "protein_g": 1.21,
+   "carbs_g": 3.35,
+   "fat_g": 0.18,
+   "fiber_g": 1.1,
+   "sugar_g": 2.2,
+   "satfat_g": 0.04,
+   "sodium_mg": 2
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 cup sliced (113 g)",
+    "grams": 113,
+    "isDefault": true
+   },
+   {
+    "label": "100 g",
+    "grams": 100
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": true,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "squash-butternut-raw",
+  "name": "Butternut squash, raw",
+  "brand": null,
+  "aliases": [],
+  "category": "vegetable",
+  "per100g": {
+   "kcal": 45,
+   "protein_g": 1,
+   "carbs_g": 11.7,
+   "fat_g": 0.1,
+   "fiber_g": 2,
+   "sugar_g": 2.2,
+   "satfat_g": 0.02,
+   "sodium_mg": 4
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": 0,
+   "vitamin_a_carotenoid_mcg_rae": 532,
+   "folate_food_mcg": 27,
+   "folic_acid_mcg": 0,
+   "folate_dfe_mcg": 27
+  },
+  "servings": [
+   {
+    "label": "1 cup cubed (140 g)",
+    "grams": 140,
+    "isDefault": true
+   },
+   {
+    "label": "100 g",
+    "grams": 100
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": true,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "squash-butternut-cooked",
+  "name": "Butternut squash, cooked",
+  "brand": null,
+  "aliases": [],
+  "category": "vegetable",
+  "per100g": {
+   "kcal": 40,
+   "protein_g": 0.9,
+   "carbs_g": 10.5,
+   "fat_g": 0.09,
+   "fiber_g": 3.2,
+   "sugar_g": 2,
+   "satfat_g": 0.02,
+   "sodium_mg": 4
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": 0,
+   "vitamin_a_carotenoid_mcg_rae": 558,
+   "folate_food_mcg": 19,
+   "folic_acid_mcg": 0,
+   "folate_dfe_mcg": 19
+  },
+  "servings": [
+   {
+    "label": "1 cup cubed (205 g)",
+    "grams": 205,
+    "isDefault": true
+   },
+   {
+    "label": "100 g",
+    "grams": 100
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": true,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "squash-acorn-cooked",
+  "name": "Acorn squash, cooked",
+  "brand": null,
+  "aliases": [],
+  "category": "vegetable",
+  "per100g": {
+   "kcal": 56,
+   "protein_g": 1.12,
+   "carbs_g": 14.6,
+   "fat_g": 0.14,
+   "fiber_g": 4.4,
+   "sugar_g": 0,
+   "satfat_g": 0.03,
+   "sodium_mg": 4
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": 0,
+   "vitamin_a_carotenoid_mcg_rae": 21,
+   "folate_food_mcg": 19,
+   "folic_acid_mcg": 0,
+   "folate_dfe_mcg": 19
+  },
+  "servings": [
+   {
+    "label": "1 cup cubed (205 g)",
+    "grams": 205,
+    "isDefault": true
+   },
+   {
+    "label": "100 g",
+    "grams": 100
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": true,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "squash-spaghetti-cooked",
+  "name": "Spaghetti squash, cooked",
+  "brand": null,
+  "aliases": [],
+  "category": "vegetable",
+  "per100g": {
+   "kcal": 27,
+   "protein_g": 0.66,
+   "carbs_g": 6.46,
+   "fat_g": 0.26,
+   "fiber_g": 1.4,
+   "sugar_g": 2.76,
+   "satfat_g": 0.05,
+   "sodium_mg": 18
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 cup (155 g)",
+    "grams": 155,
+    "isDefault": true
+   },
+   {
+    "label": "100 g",
+    "grams": 100
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": true,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "pumpkin-canned",
+  "name": "Pumpkin, canned, plain",
+  "brand": null,
+  "aliases": [],
+  "category": "vegetable",
+  "per100g": {
+   "kcal": 34,
+   "protein_g": 1.1,
+   "carbs_g": 8.09,
+   "fat_g": 0.28,
+   "fiber_g": 2.9,
+   "sugar_g": 3.3,
+   "satfat_g": 0.15,
+   "sodium_mg": 5
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": 0,
+   "vitamin_a_carotenoid_mcg_rae": 778,
+   "folate_food_mcg": 12,
+   "folic_acid_mcg": 0,
+   "folate_dfe_mcg": 12
+  },
+  "servings": [
+   {
+    "label": "1/2 cup (122 g)",
+    "grams": 122,
+    "isDefault": true
+   },
+   {
+    "label": "1 cup (245 g)",
+    "grams": 245
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": true,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "cucumber-raw",
+  "name": "Cucumber, with peel",
+  "brand": null,
+  "aliases": [
+   "cucumbers"
+  ],
+  "category": "vegetable",
+  "per100g": {
+   "kcal": 15,
+   "protein_g": 0.65,
+   "carbs_g": 3.63,
+   "fat_g": 0.11,
+   "fiber_g": 0.5,
+   "sugar_g": 1.67,
+   "satfat_g": 0.04,
+   "sodium_mg": 2
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 cup sliced (104 g)",
+    "grams": 104,
+    "isDefault": true
+   },
+   {
+    "label": "1 medium (201 g)",
+    "grams": 201
+   },
+   {
+    "label": "1/2 cup (52 g)",
+    "grams": 52
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": true,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "chayote-cooked",
+  "name": "Chayote squash, cooked",
+  "brand": null,
+  "aliases": [],
+  "category": "vegetable",
+  "per100g": {
+   "kcal": 19,
+   "protein_g": 0.62,
+   "carbs_g": 4.51,
+   "fat_g": 0.38,
+   "fiber_g": 1.7,
+   "sugar_g": 1.66,
+   "satfat_g": 0.08,
+   "sodium_mg": 1
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 cup (160 g)",
+    "grams": 160,
+    "isDefault": true
+   },
+   {
+    "label": "100 g",
+    "grams": 100
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": false,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "asparagus-raw",
+  "name": "Asparagus, raw",
+  "brand": null,
+  "aliases": [],
+  "category": "vegetable",
+  "per100g": {
+   "kcal": 20,
+   "protein_g": 2.2,
+   "carbs_g": 3.88,
+   "fat_g": 0.12,
+   "fiber_g": 2.1,
+   "sugar_g": 1.88,
+   "satfat_g": 0.04,
+   "sodium_mg": 2
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 cup (134 g)",
+    "grams": 134,
+    "isDefault": true
+   },
+   {
+    "label": "1 spear (16 g)",
+    "grams": 16
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": true,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "asparagus-cooked",
+  "name": "Asparagus, cooked",
+  "brand": null,
+  "aliases": [],
+  "category": "vegetable",
+  "per100g": {
+   "kcal": 22,
+   "protein_g": 2.4,
+   "carbs_g": 4.11,
+   "fat_g": 0.22,
+   "fiber_g": 2,
+   "sugar_g": 1.3,
+   "satfat_g": 0.05,
+   "sodium_mg": 14
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": 0,
+   "vitamin_a_carotenoid_mcg_rae": 50,
+   "folate_food_mcg": 149,
+   "folic_acid_mcg": 0,
+   "folate_dfe_mcg": 149
+  },
+  "servings": [
+   {
+    "label": "1 cup (180 g)",
+    "grams": 180,
+    "isDefault": true
+   },
+   {
+    "label": "5 spears (80 g)",
+    "grams": 80
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": true,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "green-beans-raw",
+  "name": "Green beans, raw",
+  "brand": null,
+  "aliases": [
+   "string beans",
+   "snap beans"
+  ],
+  "category": "vegetable",
+  "per100g": {
+   "kcal": 31,
+   "protein_g": 1.83,
+   "carbs_g": 6.97,
+   "fat_g": 0.22,
+   "fiber_g": 2.7,
+   "sugar_g": 3.26,
+   "satfat_g": 0.05,
+   "sodium_mg": 6
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 cup (100 g)",
+    "grams": 100,
+    "isDefault": true
+   },
+   {
+    "label": "100 g",
+    "grams": 100
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": true,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "green-beans-cooked",
+  "name": "Green beans, cooked",
+  "brand": null,
+  "aliases": [],
+  "category": "vegetable",
+  "per100g": {
+   "kcal": 35,
+   "protein_g": 1.89,
+   "carbs_g": 7.88,
+   "fat_g": 0.28,
+   "fiber_g": 3.2,
+   "sugar_g": 1.55,
+   "satfat_g": 0.06,
+   "sodium_mg": 1
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 cup (125 g)",
+    "grams": 125,
+    "isDefault": true
+   },
+   {
+    "label": "100 g",
+    "grams": 100
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": true,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "green-beans-canned",
+  "name": "Green beans, canned, drained",
+  "brand": null,
+  "aliases": [],
+  "category": "vegetable",
+  "per100g": {
+   "kcal": 15,
+   "protein_g": 0.8,
+   "carbs_g": 3.2,
+   "fat_g": 0.1,
+   "fiber_g": 1.4,
+   "sugar_g": 1.2,
+   "satfat_g": 0.02,
+   "sodium_mg": 220
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1/2 cup (68 g)",
+    "grams": 68,
+    "isDefault": true
+   },
+   {
+    "label": "1 cup (135 g)",
+    "grams": 135
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": false,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "peas-green-cooked",
+  "name": "Green peas, cooked",
+  "brand": null,
+  "aliases": [],
+  "category": "vegetable",
+  "per100g": {
+   "kcal": 84,
+   "protein_g": 5.36,
+   "carbs_g": 15.6,
+   "fat_g": 0.22,
+   "fiber_g": 5.5,
+   "sugar_g": 5.93,
+   "satfat_g": 0.04,
+   "sodium_mg": 3
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": 0,
+   "vitamin_a_carotenoid_mcg_rae": 40,
+   "folate_food_mcg": 63,
+   "folic_acid_mcg": 0,
+   "folate_dfe_mcg": 63
+  },
+  "servings": [
+   {
+    "label": "1 cup (160 g)",
+    "grams": 160,
+    "isDefault": true
+   },
+   {
+    "label": "1/2 cup (80 g)",
+    "grams": 80
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": true,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "peas-green-frozen",
+  "name": "Green peas, frozen",
+  "brand": null,
+  "aliases": [],
+  "category": "vegetable",
+  "per100g": {
+   "kcal": 77,
+   "protein_g": 5.22,
+   "carbs_g": 13.7,
+   "fat_g": 0.4,
+   "fiber_g": 4.5,
+   "sugar_g": 4.75,
+   "satfat_g": 0.08,
+   "sodium_mg": 108
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 cup (134 g)",
+    "grams": 134,
+    "isDefault": true
+   },
+   {
+    "label": "100 g",
+    "grams": 100
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": true,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "peas-snap",
+  "name": "Sugar snap peas, raw",
+  "brand": null,
+  "aliases": [],
+  "category": "vegetable",
+  "per100g": {
+   "kcal": 42,
+   "protein_g": 2.8,
+   "carbs_g": 7.55,
+   "fat_g": 0.2,
+   "fiber_g": 2.6,
+   "sugar_g": 4,
+   "satfat_g": 0.04,
+   "sodium_mg": 4
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 cup (63 g)",
+    "grams": 63,
+    "isDefault": true
+   },
+   {
+    "label": "100 g",
+    "grams": 100
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": true,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "peas-snow",
+  "name": "Snow peas, raw",
+  "brand": null,
+  "aliases": [],
+  "category": "vegetable",
+  "per100g": {
+   "kcal": 42,
+   "protein_g": 2.8,
+   "carbs_g": 7.55,
+   "fat_g": 0.2,
+   "fiber_g": 2.6,
+   "sugar_g": 4,
+   "satfat_g": 0.04,
+   "sodium_mg": 4
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 cup (63 g)",
+    "grams": 63,
+    "isDefault": true
+   },
+   {
+    "label": "100 g",
+    "grams": 100
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": true,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "celery-raw",
+  "name": "Celery, raw",
+  "brand": null,
+  "aliases": [],
+  "category": "vegetable",
+  "per100g": {
+   "kcal": 16,
+   "protein_g": 0.69,
+   "carbs_g": 2.97,
+   "fat_g": 0.17,
+   "fiber_g": 1.6,
+   "sugar_g": 1.34,
+   "satfat_g": 0.04,
+   "sodium_mg": 80
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 stalk (40 g)",
+    "grams": 40,
+    "isDefault": true
+   },
+   {
+    "label": "1 cup chopped (101 g)",
+    "grams": 101
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": true,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "fennel-raw",
+  "name": "Fennel bulb, raw",
+  "brand": null,
+  "aliases": [],
+  "category": "vegetable",
+  "per100g": {
+   "kcal": 31,
+   "protein_g": 1.24,
+   "carbs_g": 7.3,
+   "fat_g": 0.2,
+   "fiber_g": 3.1,
+   "sugar_g": 3.93,
+   "satfat_g": 0,
+   "sodium_mg": 52
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 cup sliced (87 g)",
+    "grams": 87,
+    "isDefault": true
+   },
+   {
+    "label": "100 g",
+    "grams": 100
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": true,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "artichoke-cooked",
+  "name": "Artichoke, cooked",
+  "brand": null,
+  "aliases": [],
+  "category": "vegetable",
+  "per100g": {
+   "kcal": 53,
+   "protein_g": 2.89,
+   "carbs_g": 11.9,
+   "fat_g": 0.34,
+   "fiber_g": 5.7,
+   "sugar_g": 0.99,
+   "satfat_g": 0.08,
+   "sodium_mg": 60
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 medium (120 g)",
+    "grams": 120,
+    "isDefault": true
+   },
+   {
+    "label": "100 g",
+    "grams": 100
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": true,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "artichoke-hearts-canned",
+  "name": "Artichoke hearts, canned, drained",
+  "brand": null,
+  "aliases": [],
+  "category": "vegetable",
+  "per100g": {
+   "kcal": 48,
+   "protein_g": 2.6,
+   "carbs_g": 10.5,
+   "fat_g": 0.3,
+   "fiber_g": 5,
+   "sugar_g": 0.9,
+   "satfat_g": 0.07,
+   "sodium_mg": 400
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1/2 cup (84 g)",
+    "grams": 84,
+    "isDefault": true
+   },
+   {
+    "label": "100 g",
+    "grams": 100
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": false,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "hearts-of-palm-canned",
+  "name": "Hearts of palm, canned",
+  "brand": null,
+  "aliases": [],
+  "category": "vegetable",
+  "per100g": {
+   "kcal": 28,
+   "protein_g": 2.5,
+   "carbs_g": 4.6,
+   "fat_g": 0.62,
+   "fiber_g": 2.5,
+   "sugar_g": 0,
+   "satfat_g": 0.13,
+   "sodium_mg": 426
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1/2 cup (73 g)",
+    "grams": 73,
+    "isDefault": true
+   },
+   {
+    "label": "100 g",
+    "grams": 100
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": true,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "okra-cooked",
+  "name": "Okra, cooked",
+  "brand": null,
+  "aliases": [],
+  "category": "vegetable",
+  "per100g": {
+   "kcal": 22,
+   "protein_g": 1.87,
+   "carbs_g": 4.51,
+   "fat_g": 0.21,
+   "fiber_g": 2.5,
+   "sugar_g": 2.4,
+   "satfat_g": 0.06,
+   "sodium_mg": 6
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 cup sliced (160 g)",
+    "grams": 160,
+    "isDefault": true
+   },
+   {
+    "label": "100 g",
+    "grams": 100
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": true,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "bamboo-shoots-canned",
+  "name": "Bamboo shoots, canned, drained",
+  "brand": null,
+  "aliases": [],
+  "category": "vegetable",
+  "per100g": {
+   "kcal": 12,
+   "protein_g": 1.13,
+   "carbs_g": 1.83,
+   "fat_g": 0.26,
+   "fiber_g": 0.8,
+   "sugar_g": 1.6,
+   "satfat_g": 0.06,
+   "sodium_mg": 6
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1/2 cup (66 g)",
+    "grams": 66,
+    "isDefault": true
+   },
+   {
+    "label": "100 g",
+    "grams": 100
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": true,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "water-chestnuts-canned",
+  "name": "Water chestnuts, canned, drained",
+  "brand": null,
+  "aliases": [],
+  "category": "vegetable",
+  "per100g": {
+   "kcal": 50,
+   "protein_g": 0.88,
+   "carbs_g": 12.3,
+   "fat_g": 0.06,
+   "fiber_g": 2.5,
+   "sugar_g": 2.4,
+   "satfat_g": 0.01,
+   "sodium_mg": 9
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1/2 cup (70 g)",
+    "grams": 70,
+    "isDefault": true
+   },
+   {
+    "label": "100 g",
+    "grams": 100
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": true,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "rhubarb-stalk-cooked",
+  "name": "Rhubarb, cooked, unsweetened",
+  "brand": null,
+  "aliases": [],
+  "category": "vegetable",
+  "per100g": {
+   "kcal": 21,
+   "protein_g": 0.9,
+   "carbs_g": 4.54,
+   "fat_g": 0.2,
+   "fiber_g": 1.8,
+   "sugar_g": 1.1,
+   "satfat_g": 0.05,
+   "sodium_mg": 4
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 cup (240 g)",
+    "grams": 240,
+    "isDefault": true
+   },
+   {
+    "label": "100 g",
+    "grams": 100
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": false,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "corn-sweet-cooked",
+  "name": "Sweet corn, yellow, cooked",
+  "brand": null,
+  "aliases": [],
+  "category": "vegetable",
+  "per100g": {
+   "kcal": 96,
+   "protein_g": 3.41,
+   "carbs_g": 20.98,
+   "fat_g": 1.5,
+   "fiber_g": 2.4,
+   "sugar_g": 4.54,
+   "satfat_g": 0.2,
+   "sodium_mg": 1
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": 0,
+   "vitamin_a_carotenoid_mcg_rae": 13,
+   "folate_food_mcg": 42,
+   "folic_acid_mcg": 0,
+   "folate_dfe_mcg": 42
+  },
+  "servings": [
+   {
+    "label": "1 ear (90 g)",
+    "grams": 90,
+    "isDefault": true
+   },
+   {
+    "label": "1 cup kernels (164 g)",
+    "grams": 164
+   },
+   {
+    "label": "1/2 cup (82 g)",
+    "grams": 82
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": true,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "corn-frozen",
+  "name": "Sweet corn, frozen, cooked",
+  "brand": null,
+  "aliases": [],
+  "category": "vegetable",
+  "per100g": {
+   "kcal": 81,
+   "protein_g": 2.8,
+   "carbs_g": 19.3,
+   "fat_g": 0.65,
+   "fiber_g": 2,
+   "sugar_g": 3.1,
+   "satfat_g": 0.1,
+   "sodium_mg": 1
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 cup (164 g)",
+    "grams": 164,
+    "isDefault": true
+   },
+   {
+    "label": "100 g",
+    "grams": 100
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": true,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "corn-canned-drained",
+  "name": "Sweet corn, canned, drained",
+  "brand": null,
+  "aliases": [],
+  "category": "vegetable",
+  "per100g": {
+   "kcal": 81,
+   "protein_g": 2.6,
+   "carbs_g": 19.4,
+   "fat_g": 0.98,
+   "fiber_g": 2,
+   "sugar_g": 4.9,
+   "satfat_g": 0.15,
+   "sodium_mg": 213
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1/2 cup (82 g)",
+    "grams": 82,
+    "isDefault": true
+   },
+   {
+    "label": "1 cup (164 g)",
+    "grams": 164
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": true,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "corn-creamed",
+  "name": "Creamed corn, canned",
+  "brand": null,
+  "aliases": [],
+  "category": "vegetable",
+  "per100g": {
+   "kcal": 72,
+   "protein_g": 1.74,
+   "carbs_g": 18.1,
+   "fat_g": 0.42,
+   "fiber_g": 1.2,
+   "sugar_g": 3.9,
+   "satfat_g": 0.07,
+   "sodium_mg": 264
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1/2 cup (128 g)",
+    "grams": 128,
+    "isDefault": true
+   },
+   {
+    "label": "100 g",
+    "grams": 100
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": true,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "mushroom-white-raw",
+  "name": "Mushrooms, white button, raw",
+  "brand": null,
+  "aliases": [],
+  "category": "vegetable",
+  "per100g": {
+   "kcal": 22,
+   "protein_g": 3.09,
+   "carbs_g": 3.26,
+   "fat_g": 0.34,
+   "fiber_g": 1,
+   "sugar_g": 1.98,
+   "satfat_g": 0.05,
+   "sodium_mg": 5
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": 0,
+   "vitamin_a_carotenoid_mcg_rae": 0,
+   "folate_food_mcg": 17,
+   "folic_acid_mcg": 0,
+   "folate_dfe_mcg": 17
+  },
+  "servings": [
+   {
+    "label": "1 cup sliced (70 g)",
+    "grams": 70,
+    "isDefault": true
+   },
+   {
+    "label": "1 mushroom (18 g)",
+    "grams": 18
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": true,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "mushroom-white-cooked",
+  "name": "Mushrooms, white, sautéed",
+  "brand": null,
+  "aliases": [],
+  "category": "vegetable",
+  "per100g": {
+   "kcal": 28,
+   "protein_g": 2.17,
+   "carbs_g": 5.28,
+   "fat_g": 0.47,
+   "fiber_g": 2.2,
+   "sugar_g": 1.75,
+   "satfat_g": 0.07,
+   "sodium_mg": 11
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 cup (156 g)",
+    "grams": 156,
+    "isDefault": true
+   },
+   {
+    "label": "100 g",
+    "grams": 100
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": true,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "mushroom-cremini-raw",
+  "name": "Cremini mushrooms, raw",
+  "brand": null,
+  "aliases": [
+   "baby bella"
+  ],
+  "category": "vegetable",
+  "per100g": {
+   "kcal": 22,
+   "protein_g": 2.5,
+   "carbs_g": 4.3,
+   "fat_g": 0.1,
+   "fiber_g": 0.6,
+   "sugar_g": 1.72,
+   "satfat_g": 0.01,
+   "sodium_mg": 6
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 cup sliced (72 g)",
+    "grams": 72,
+    "isDefault": true
+   },
+   {
+    "label": "100 g",
+    "grams": 100
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": true,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "mushroom-portobello-raw",
+  "name": "Portobello mushrooms, raw",
+  "brand": null,
+  "aliases": [],
+  "category": "vegetable",
+  "per100g": {
+   "kcal": 22,
+   "protein_g": 2.11,
+   "carbs_g": 3.87,
+   "fat_g": 0.35,
+   "fiber_g": 1.3,
+   "sugar_g": 2.5,
+   "satfat_g": 0.05,
+   "sodium_mg": 9
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 cap (84 g)",
+    "grams": 84,
+    "isDefault": true
+   },
+   {
+    "label": "1 cup diced (86 g)",
+    "grams": 86
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": true,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "mushroom-shiitake-cooked",
+  "name": "Shiitake mushrooms, cooked",
+  "brand": null,
+  "aliases": [],
+  "category": "vegetable",
+  "per100g": {
+   "kcal": 56,
+   "protein_g": 1.56,
+   "carbs_g": 14.4,
+   "fat_g": 0.22,
+   "fiber_g": 2.1,
+   "sugar_g": 3.75,
+   "satfat_g": 0.05,
+   "sodium_mg": 4
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 cup (145 g)",
+    "grams": 145,
+    "isDefault": true
+   },
+   {
+    "label": "100 g",
+    "grams": 100
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": true,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "mushroom-oyster-raw",
+  "name": "Oyster mushrooms, raw",
+  "brand": null,
+  "aliases": [],
+  "category": "vegetable",
+  "per100g": {
+   "kcal": 33,
+   "protein_g": 3.31,
+   "carbs_g": 6.09,
+   "fat_g": 0.41,
+   "fiber_g": 2.3,
+   "sugar_g": 1.11,
+   "satfat_g": 0.06,
+   "sodium_mg": 18
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 cup sliced (86 g)",
+    "grams": 86,
+    "isDefault": true
+   },
+   {
+    "label": "100 g",
+    "grams": 100
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": true,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "mushroom-canned",
+  "name": "Mushrooms, canned, drained",
+  "brand": null,
+  "aliases": [],
+  "category": "vegetable",
+  "per100g": {
+   "kcal": 25,
+   "protein_g": 1.87,
+   "carbs_g": 5.1,
+   "fat_g": 0.29,
+   "fiber_g": 2.4,
+   "sugar_g": 1.5,
+   "satfat_g": 0.04,
+   "sodium_mg": 425
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1/2 cup (78 g)",
+    "grams": 78,
+    "isDefault": true
+   },
+   {
+    "label": "100 g",
+    "grams": 100
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": true,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "sauerkraut",
+  "name": "Sauerkraut, canned",
+  "brand": null,
+  "aliases": [],
+  "category": "vegetable",
+  "per100g": {
+   "kcal": 19,
+   "protein_g": 0.91,
+   "carbs_g": 4.28,
+   "fat_g": 0.14,
+   "fiber_g": 2.9,
+   "sugar_g": 1.78,
+   "satfat_g": 0.03,
+   "sodium_mg": 661
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1/2 cup (71 g)",
+    "grams": 71,
+    "isDefault": true
+   },
+   {
+    "label": "1 cup (142 g)",
+    "grams": 142
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": true,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "kimchi",
+  "name": "Kimchi",
+  "brand": null,
+  "aliases": [],
+  "category": "vegetable",
+  "per100g": {
+   "kcal": 15,
+   "protein_g": 1.1,
+   "carbs_g": 2.4,
+   "fat_g": 0.5,
+   "fiber_g": 1.6,
+   "sugar_g": 1.06,
+   "satfat_g": 0.06,
+   "sodium_mg": 498
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1/2 cup (75 g)",
+    "grams": 75,
+    "isDefault": true
+   },
+   {
+    "label": "1 cup (150 g)",
+    "grams": 150
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": true,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "pickles-dill",
+  "name": "Pickles, dill",
+  "brand": null,
+  "aliases": [],
+  "category": "vegetable",
+  "per100g": {
+   "kcal": 12,
+   "protein_g": 0.5,
+   "carbs_g": 2.3,
+   "fat_g": 0.2,
+   "fiber_g": 1.2,
+   "sugar_g": 1.2,
+   "satfat_g": 0.05,
+   "sodium_mg": 1208
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 spear (35 g)",
+    "grams": 35,
+    "isDefault": true
+   },
+   {
+    "label": "1 medium pickle (65 g)",
+    "grams": 65
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": true,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "pickles-bread-butter",
+  "name": "Pickles, bread and butter",
+  "brand": null,
+  "aliases": [],
+  "category": "vegetable",
+  "per100g": {
+   "kcal": 91,
+   "protein_g": 0.5,
+   "carbs_g": 22,
+   "fat_g": 0.2,
+   "fiber_g": 1,
+   "sugar_g": 20,
+   "satfat_g": 0.05,
+   "sodium_mg": 900
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "4 slices (28 g)",
+    "grams": 28,
+    "isDefault": true
+   },
+   {
+    "label": "100 g",
+    "grams": 100
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": false,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "olives-green",
+  "name": "Olives, green, in brine",
+  "brand": null,
+  "aliases": [],
+  "category": "vegetable",
+  "per100g": {
+   "kcal": 145,
+   "protein_g": 1.03,
+   "carbs_g": 3.84,
+   "fat_g": 15.3,
+   "fiber_g": 3.3,
+   "sugar_g": 0.54,
+   "satfat_g": 2.03,
+   "sodium_mg": 1556
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "5 olives (17 g)",
+    "grams": 17,
+    "isDefault": true
+   },
+   {
+    "label": "10 olives (34 g)",
+    "grams": 34
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": true,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "olives-black",
+  "name": "Olives, black, ripe, canned",
+  "brand": null,
+  "aliases": [],
+  "category": "vegetable",
+  "per100g": {
+   "kcal": 115,
+   "protein_g": 0.84,
+   "carbs_g": 6.26,
+   "fat_g": 10.9,
+   "fiber_g": 1.6,
+   "sugar_g": 0,
+   "satfat_g": 1.42,
+   "sodium_mg": 735
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "5 olives (17 g)",
+    "grams": 17,
+    "isDefault": true
+   },
+   {
+    "label": "10 olives (34 g)",
+    "grams": 34
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": true,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "olives-kalamata",
+  "name": "Kalamata olives",
+  "brand": null,
+  "aliases": [],
+  "category": "vegetable",
+  "per100g": {
+   "kcal": 187,
+   "protein_g": 1.4,
+   "carbs_g": 4.5,
+   "fat_g": 18.5,
+   "fiber_g": 3,
+   "sugar_g": 0,
+   "satfat_g": 2.5,
+   "sodium_mg": 1550
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "5 olives (20 g)",
+    "grams": 20,
+    "isDefault": true
+   },
+   {
+    "label": "100 g",
+    "grams": 100
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": false,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "avocado-raw",
+  "name": "Avocado, Hass",
+  "brand": null,
+  "aliases": [
+   "avocados",
+   "guac base"
+  ],
+  "category": "vegetable",
+  "per100g": {
+   "kcal": 160,
+   "protein_g": 2,
+   "carbs_g": 8.53,
+   "fat_g": 14.7,
+   "fiber_g": 6.7,
+   "sugar_g": 0.66,
+   "satfat_g": 2.13,
+   "sodium_mg": 7
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": 0,
+   "vitamin_a_carotenoid_mcg_rae": 7,
+   "folate_food_mcg": 81,
+   "folic_acid_mcg": 0,
+   "folate_dfe_mcg": 81
+  },
+  "servings": [
+   {
+    "label": "1/2 avocado (68 g)",
+    "grams": 68,
+    "isDefault": true
+   },
+   {
+    "label": "1 whole (136 g)",
+    "grams": 136
+   },
+   {
+    "label": "1 cup sliced (146 g)",
+    "grams": 146
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": true,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "guacamole",
+  "name": "Guacamole",
+  "brand": null,
+  "aliases": [],
+  "category": "vegetable",
+  "per100g": {
+   "kcal": 150,
+   "protein_g": 2,
+   "carbs_g": 8,
+   "fat_g": 13,
+   "fiber_g": 5,
+   "sugar_g": 0.8,
+   "satfat_g": 2,
+   "sodium_mg": 350
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "2 tbsp (30 g)",
+    "grams": 30,
+    "isDefault": true
+   },
+   {
+    "label": "1/4 cup (60 g)",
+    "grams": 60
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": false,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "coleslaw-dressed",
+  "name": "Coleslaw, with dressing",
+  "brand": null,
+  "aliases": [],
+  "category": "vegetable",
+  "per100g": {
+   "kcal": 152,
+   "protein_g": 1.2,
+   "carbs_g": 14,
+   "fat_g": 10.6,
+   "fiber_g": 1.7,
+   "sugar_g": 11,
+   "satfat_g": 1.6,
+   "sodium_mg": 267
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1/2 cup (60 g)",
+    "grams": 60,
+    "isDefault": true
+   },
+   {
+    "label": "100 g",
+    "grams": 100
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": true,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "potato-salad",
+  "name": "Potato salad, with mayonnaise",
+  "brand": null,
+  "aliases": [],
+  "category": "vegetable",
+  "per100g": {
+   "kcal": 143,
+   "protein_g": 2.1,
+   "carbs_g": 11,
+   "fat_g": 10,
+   "fiber_g": 1.3,
+   "sugar_g": 2,
+   "satfat_g": 1.7,
+   "sodium_mg": 529
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1/2 cup (125 g)",
+    "grams": 125,
+    "isDefault": true
+   },
+   {
+    "label": "100 g",
+    "grams": 100
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": true,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "vegetables-mixed-frozen",
+  "name": "Mixed vegetables, frozen, cooked",
+  "brand": null,
+  "aliases": [],
+  "category": "vegetable",
+  "per100g": {
+   "kcal": 65,
+   "protein_g": 3,
+   "carbs_g": 13.1,
+   "fat_g": 0.2,
+   "fiber_g": 4,
+   "sugar_g": 3,
+   "satfat_g": 0.05,
+   "sodium_mg": 32
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 cup (182 g)",
+    "grams": 182,
+    "isDefault": true
+   },
+   {
+    "label": "100 g",
+    "grams": 100
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": true,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "vegetables-roasted-mixed",
+  "name": "Roasted mixed vegetables, with oil",
+  "brand": null,
+  "aliases": [],
+  "category": "vegetable",
+  "per100g": {
+   "kcal": 100,
+   "protein_g": 2.2,
+   "carbs_g": 12,
+   "fat_g": 5,
+   "fiber_g": 3.5,
+   "sugar_g": 4.5,
+   "satfat_g": 0.7,
+   "sodium_mg": 180
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 cup (150 g)",
+    "grams": 150,
+    "isDefault": true
+   },
+   {
+    "label": "100 g",
+    "grams": 100
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": false,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "salsa-fresh",
+  "name": "Salsa, fresh, pico de gallo",
+  "brand": null,
+  "aliases": [],
+  "category": "vegetable",
+  "per100g": {
+   "kcal": 29,
+   "protein_g": 1.5,
+   "carbs_g": 5.6,
+   "fat_g": 0.2,
+   "fiber_g": 1.5,
+   "sugar_g": 3.3,
+   "satfat_g": 0.03,
+   "sodium_mg": 430
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "2 tbsp (30 g)",
+    "grams": 30,
+    "isDefault": true
+   },
+   {
+    "label": "1/4 cup (60 g)",
+    "grams": 60
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": true,
+  "source": "USDA FoodData Central (SR Legacy)"
+ }
+]

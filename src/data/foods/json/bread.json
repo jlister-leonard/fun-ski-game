@@ -1,0 +1,2272 @@
+[
+ {
+  "id": "bread-white",
+  "name": "White bread, sliced",
+  "brand": null,
+  "aliases": [
+   "sandwich bread"
+  ],
+  "category": "bread",
+  "per100g": {
+   "kcal": 266,
+   "protein_g": 9,
+   "carbs_g": 49,
+   "fat_g": 3.3,
+   "fiber_g": 2.4,
+   "sugar_g": 5.7,
+   "satfat_g": 0.72,
+   "sodium_mg": 490
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": 0,
+   "vitamin_a_carotenoid_mcg_rae": 0,
+   "folate_food_mcg": 22,
+   "folic_acid_mcg": 91,
+   "folate_dfe_mcg": 176
+  },
+  "servings": [
+   {
+    "label": "1 slice (28 g)",
+    "grams": 28,
+    "isDefault": true
+   },
+   {
+    "label": "2 slices (56 g)",
+    "grams": 56
+   },
+   {
+    "label": "1 thin slice (22 g)",
+    "grams": 22
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": true,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "bread-whole-wheat",
+  "name": "Whole wheat bread, sliced",
+  "brand": null,
+  "aliases": [
+   "wheat bread"
+  ],
+  "category": "bread",
+  "per100g": {
+   "kcal": 254,
+   "protein_g": 12.3,
+   "carbs_g": 43.1,
+   "fat_g": 3.5,
+   "fiber_g": 6,
+   "sugar_g": 5.6,
+   "satfat_g": 0.77,
+   "sodium_mg": 450
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": 0,
+   "vitamin_a_carotenoid_mcg_rae": 0,
+   "folate_food_mcg": 44,
+   "folic_acid_mcg": 0,
+   "folate_dfe_mcg": 44
+  },
+  "servings": [
+   {
+    "label": "1 slice (28 g)",
+    "grams": 28,
+    "isDefault": true
+   },
+   {
+    "label": "2 slices (56 g)",
+    "grams": 56
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": true,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "bread-multigrain",
+  "name": "Multigrain bread, sliced",
+  "brand": null,
+  "aliases": [],
+  "category": "bread",
+  "per100g": {
+   "kcal": 265,
+   "protein_g": 13.4,
+   "carbs_g": 43.3,
+   "fat_g": 4.2,
+   "fiber_g": 7.4,
+   "sugar_g": 6,
+   "satfat_g": 0.92,
+   "sodium_mg": 429
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 slice (26 g)",
+    "grams": 26,
+    "isDefault": true
+   },
+   {
+    "label": "2 slices (52 g)",
+    "grams": 52
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": true,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "bread-sourdough",
+  "name": "Sourdough bread",
+  "brand": null,
+  "aliases": [],
+  "category": "bread",
+  "per100g": {
+   "kcal": 274,
+   "protein_g": 11,
+   "carbs_g": 53,
+   "fat_g": 2,
+   "fiber_g": 2.4,
+   "sugar_g": 2.5,
+   "satfat_g": 0.4,
+   "sodium_mg": 570
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 slice (36 g)",
+    "grams": 36,
+    "isDefault": true
+   },
+   {
+    "label": "2 slices (72 g)",
+    "grams": 72
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": false,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "bread-rye",
+  "name": "Rye bread",
+  "brand": null,
+  "aliases": [],
+  "category": "bread",
+  "per100g": {
+   "kcal": 259,
+   "protein_g": 8.5,
+   "carbs_g": 48.3,
+   "fat_g": 3.3,
+   "fiber_g": 5.8,
+   "sugar_g": 3.9,
+   "satfat_g": 0.63,
+   "sodium_mg": 603
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 slice (32 g)",
+    "grams": 32,
+    "isDefault": true
+   },
+   {
+    "label": "2 slices (64 g)",
+    "grams": 64
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": true,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "bread-pumpernickel",
+  "name": "Pumpernickel bread",
+  "brand": null,
+  "aliases": [],
+  "category": "bread",
+  "per100g": {
+   "kcal": 250,
+   "protein_g": 8.7,
+   "carbs_g": 47.5,
+   "fat_g": 3.1,
+   "fiber_g": 6.5,
+   "sugar_g": 0.4,
+   "satfat_g": 0.44,
+   "sodium_mg": 598
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 slice (32 g)",
+    "grams": 32,
+    "isDefault": true
+   },
+   {
+    "label": "100 g",
+    "grams": 100
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": true,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "bread-sprouted-grain",
+  "name": "Sprouted grain bread",
+  "brand": "Food for Life",
+  "aliases": [
+   "ezekiel bread"
+  ],
+  "category": "bread",
+  "per100g": {
+   "kcal": 250,
+   "protein_g": 13,
+   "carbs_g": 44,
+   "fat_g": 2,
+   "fiber_g": 6,
+   "sugar_g": 0,
+   "satfat_g": 0.5,
+   "sodium_mg": 320
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 slice (34 g)",
+    "grams": 34,
+    "isDefault": true
+   },
+   {
+    "label": "2 slices (68 g)",
+    "grams": 68
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": true,
+  "source": "manufacturer label"
+ },
+ {
+  "id": "bread-daves-21-grain",
+  "name": "Dave's Killer Bread, 21 Whole Grains",
+  "brand": "Dave's Killer Bread",
+  "aliases": [],
+  "category": "bread",
+  "per100g": {
+   "kcal": 267,
+   "protein_g": 13.3,
+   "carbs_g": 44.4,
+   "fat_g": 4.4,
+   "fiber_g": 8.9,
+   "sugar_g": 11.1,
+   "satfat_g": 0.6,
+   "sodium_mg": 378
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 slice (45 g)",
+    "grams": 45,
+    "isDefault": true
+   },
+   {
+    "label": "2 slices (90 g)",
+    "grams": 90
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": true,
+  "source": "manufacturer label"
+ },
+ {
+  "id": "bread-oatmeal",
+  "name": "Oatmeal bread",
+  "brand": null,
+  "aliases": [],
+  "category": "bread",
+  "per100g": {
+   "kcal": 269,
+   "protein_g": 8.4,
+   "carbs_g": 48.5,
+   "fat_g": 4.4,
+   "fiber_g": 4,
+   "sugar_g": 6,
+   "satfat_g": 0.7,
+   "sodium_mg": 482
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 slice (27 g)",
+    "grams": 27,
+    "isDefault": true
+   },
+   {
+    "label": "100 g",
+    "grams": 100
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": false,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "bread-potato",
+  "name": "Potato bread",
+  "brand": null,
+  "aliases": [],
+  "category": "bread",
+  "per100g": {
+   "kcal": 266,
+   "protein_g": 8,
+   "carbs_g": 48,
+   "fat_g": 3.5,
+   "fiber_g": 2,
+   "sugar_g": 6,
+   "satfat_g": 0.8,
+   "sodium_mg": 420
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 slice (32 g)",
+    "grams": 32,
+    "isDefault": true
+   },
+   {
+    "label": "100 g",
+    "grams": 100
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": false,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "bread-brioche",
+  "name": "Brioche loaf",
+  "brand": null,
+  "aliases": [],
+  "category": "bread",
+  "per100g": {
+   "kcal": 330,
+   "protein_g": 9,
+   "carbs_g": 48,
+   "fat_g": 11,
+   "fiber_g": 1.5,
+   "sugar_g": 9,
+   "satfat_g": 6,
+   "sodium_mg": 400
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 slice (40 g)",
+    "grams": 40,
+    "isDefault": true
+   },
+   {
+    "label": "100 g",
+    "grams": 100
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": false,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "bread-gluten-free",
+  "name": "Gluten-free bread, sliced",
+  "brand": null,
+  "aliases": [],
+  "category": "bread",
+  "per100g": {
+   "kcal": 260,
+   "protein_g": 3,
+   "carbs_g": 48,
+   "fat_g": 6,
+   "fiber_g": 3.5,
+   "sugar_g": 4,
+   "satfat_g": 1,
+   "sodium_mg": 420
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 slice (32 g)",
+    "grams": 32,
+    "isDefault": true
+   },
+   {
+    "label": "2 slices (64 g)",
+    "grams": 64
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": false,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "bread-keto-low-carb",
+  "name": "Keto bread, low carbohydrate",
+  "brand": null,
+  "aliases": [],
+  "category": "bread",
+  "per100g": {
+   "kcal": 210,
+   "protein_g": 20,
+   "carbs_g": 30,
+   "fat_g": 5,
+   "fiber_g": 22,
+   "sugar_g": 0,
+   "satfat_g": 1,
+   "sodium_mg": 420
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 slice (28 g)",
+    "grams": 28,
+    "isDefault": true
+   },
+   {
+    "label": "2 slices (56 g)",
+    "grams": 56
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": false,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "bread-cinnamon-raisin",
+  "name": "Cinnamon raisin bread",
+  "brand": null,
+  "aliases": [],
+  "category": "bread",
+  "per100g": {
+   "kcal": 274,
+   "protein_g": 7.9,
+   "carbs_g": 51.6,
+   "fat_g": 4.4,
+   "fiber_g": 4.3,
+   "sugar_g": 13,
+   "satfat_g": 1,
+   "sodium_mg": 332
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 slice (28 g)",
+    "grams": 28,
+    "isDefault": true
+   },
+   {
+    "label": "100 g",
+    "grams": 100
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": false,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "bread-texas-toast",
+  "name": "Texas toast, thick sliced",
+  "brand": null,
+  "aliases": [],
+  "category": "bread",
+  "per100g": {
+   "kcal": 275,
+   "protein_g": 8.5,
+   "carbs_g": 48,
+   "fat_g": 5.5,
+   "fiber_g": 2,
+   "sugar_g": 5,
+   "satfat_g": 1.3,
+   "sodium_mg": 480
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 slice (43 g)",
+    "grams": 43,
+    "isDefault": true
+   },
+   {
+    "label": "100 g",
+    "grams": 100
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": false,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "bread-garlic",
+  "name": "Garlic bread, prepared",
+  "brand": null,
+  "aliases": [],
+  "category": "bread",
+  "per100g": {
+   "kcal": 350,
+   "protein_g": 8,
+   "carbs_g": 41,
+   "fat_g": 17,
+   "fiber_g": 2,
+   "sugar_g": 3,
+   "satfat_g": 5,
+   "sodium_mg": 560
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 slice (40 g)",
+    "grams": 40,
+    "isDefault": true
+   },
+   {
+    "label": "100 g",
+    "grams": 100
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": false,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "bread-cornbread",
+  "name": "Cornbread",
+  "brand": null,
+  "aliases": [],
+  "category": "bread",
+  "per100g": {
+   "kcal": 330,
+   "protein_g": 7,
+   "carbs_g": 50,
+   "fat_g": 11,
+   "fiber_g": 2,
+   "sugar_g": 13,
+   "satfat_g": 2.8,
+   "sodium_mg": 600
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 piece (65 g)",
+    "grams": 65,
+    "isDefault": true
+   },
+   {
+    "label": "100 g",
+    "grams": 100
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": false,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "bread-banana",
+  "name": "Banana bread",
+  "brand": null,
+  "aliases": [],
+  "category": "bread",
+  "per100g": {
+   "kcal": 326,
+   "protein_g": 4.3,
+   "carbs_g": 54.6,
+   "fat_g": 10.5,
+   "fiber_g": 1.1,
+   "sugar_g": 29,
+   "satfat_g": 2.7,
+   "sodium_mg": 302
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 slice (60 g)",
+    "grams": 60,
+    "isDefault": true
+   },
+   {
+    "label": "100 g",
+    "grams": 100
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": false,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "bread-french-baguette",
+  "name": "French bread, baguette",
+  "brand": null,
+  "aliases": [],
+  "category": "bread",
+  "per100g": {
+   "kcal": 274,
+   "protein_g": 8.8,
+   "carbs_g": 51.9,
+   "fat_g": 2.3,
+   "fiber_g": 2.2,
+   "sugar_g": 4.4,
+   "satfat_g": 0.5,
+   "sodium_mg": 602
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": 0,
+   "vitamin_a_carotenoid_mcg_rae": 0,
+   "folate_food_mcg": 25,
+   "folic_acid_mcg": 95,
+   "folate_dfe_mcg": 187
+  },
+  "servings": [
+   {
+    "label": "1 slice (32 g)",
+    "grams": 32,
+    "isDefault": true
+   },
+   {
+    "label": "1/4 baguette (57 g)",
+    "grams": 57
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": true,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "bread-ciabatta",
+  "name": "Ciabatta",
+  "brand": null,
+  "aliases": [],
+  "category": "bread",
+  "per100g": {
+   "kcal": 271,
+   "protein_g": 9,
+   "carbs_g": 52,
+   "fat_g": 2.5,
+   "fiber_g": 2.5,
+   "sugar_g": 1.5,
+   "satfat_g": 0.5,
+   "sodium_mg": 560
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 roll (57 g)",
+    "grams": 57,
+    "isDefault": true
+   },
+   {
+    "label": "100 g",
+    "grams": 100
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": false,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "bread-focaccia",
+  "name": "Focaccia",
+  "brand": null,
+  "aliases": [],
+  "category": "bread",
+  "per100g": {
+   "kcal": 300,
+   "protein_g": 8,
+   "carbs_g": 44,
+   "fat_g": 10,
+   "fiber_g": 2,
+   "sugar_g": 1.5,
+   "satfat_g": 1.5,
+   "sodium_mg": 560
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 piece (60 g)",
+    "grams": 60,
+    "isDefault": true
+   },
+   {
+    "label": "100 g",
+    "grams": 100
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": false,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "bagel-plain",
+  "name": "Bagel, plain",
+  "brand": null,
+  "aliases": [
+   "new york bagel"
+  ],
+  "category": "bread",
+  "per100g": {
+   "kcal": 275,
+   "protein_g": 10.5,
+   "carbs_g": 53.5,
+   "fat_g": 1.7,
+   "fiber_g": 2.3,
+   "sugar_g": 5.9,
+   "satfat_g": 0.24,
+   "sodium_mg": 500
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": 0,
+   "vitamin_a_carotenoid_mcg_rae": 0,
+   "folate_food_mcg": 27,
+   "folic_acid_mcg": 104,
+   "folate_dfe_mcg": 204
+  },
+  "servings": [
+   {
+    "label": "1 medium bagel (98 g)",
+    "grams": 98,
+    "isDefault": true
+   },
+   {
+    "label": "1 large bagel (131 g)",
+    "grams": 131
+   },
+   {
+    "label": "1 mini bagel (49 g)",
+    "grams": 49
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": true,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "bagel-everything",
+  "name": "Bagel, everything",
+  "brand": null,
+  "aliases": [],
+  "category": "bread",
+  "per100g": {
+   "kcal": 280,
+   "protein_g": 10.6,
+   "carbs_g": 53,
+   "fat_g": 2.5,
+   "fiber_g": 2.5,
+   "sugar_g": 5.5,
+   "satfat_g": 0.4,
+   "sodium_mg": 560
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 medium bagel (98 g)",
+    "grams": 98,
+    "isDefault": true
+   },
+   {
+    "label": "100 g",
+    "grams": 100
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": false,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "bagel-whole-wheat",
+  "name": "Bagel, whole wheat",
+  "brand": null,
+  "aliases": [],
+  "category": "bread",
+  "per100g": {
+   "kcal": 250,
+   "protein_g": 10.6,
+   "carbs_g": 48.5,
+   "fat_g": 1.5,
+   "fiber_g": 6.5,
+   "sugar_g": 4.5,
+   "satfat_g": 0.3,
+   "sodium_mg": 450
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 medium bagel (98 g)",
+    "grams": 98,
+    "isDefault": true
+   },
+   {
+    "label": "100 g",
+    "grams": 100
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": false,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "bagel-cinnamon-raisin",
+  "name": "Bagel, cinnamon raisin",
+  "brand": null,
+  "aliases": [],
+  "category": "bread",
+  "per100g": {
+   "kcal": 274,
+   "protein_g": 9.8,
+   "carbs_g": 55.2,
+   "fat_g": 1.7,
+   "fiber_g": 2.3,
+   "sugar_g": 7.5,
+   "satfat_g": 0.26,
+   "sodium_mg": 340
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 medium bagel (98 g)",
+    "grams": 98,
+    "isDefault": true
+   },
+   {
+    "label": "100 g",
+    "grams": 100
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": true,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "english-muffin-plain",
+  "name": "English muffin, plain",
+  "brand": null,
+  "aliases": [],
+  "category": "bread",
+  "per100g": {
+   "kcal": 235,
+   "protein_g": 8,
+   "carbs_g": 46,
+   "fat_g": 1.8,
+   "fiber_g": 3.5,
+   "sugar_g": 3.6,
+   "satfat_g": 0.26,
+   "sodium_mg": 460
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": 0,
+   "vitamin_a_carotenoid_mcg_rae": 0,
+   "folate_food_mcg": 25,
+   "folic_acid_mcg": 95,
+   "folate_dfe_mcg": 187
+  },
+  "servings": [
+   {
+    "label": "1 muffin (57 g)",
+    "grams": 57,
+    "isDefault": true
+   },
+   {
+    "label": "1/2 muffin (29 g)",
+    "grams": 29
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": true,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "english-muffin-whole-wheat",
+  "name": "English muffin, whole wheat",
+  "brand": null,
+  "aliases": [],
+  "category": "bread",
+  "per100g": {
+   "kcal": 207,
+   "protein_g": 8.8,
+   "carbs_g": 43,
+   "fat_g": 2,
+   "fiber_g": 7,
+   "sugar_g": 4,
+   "satfat_g": 0.3,
+   "sodium_mg": 420
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 muffin (57 g)",
+    "grams": 57,
+    "isDefault": true
+   },
+   {
+    "label": "100 g",
+    "grams": 100
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": true,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "bun-hamburger",
+  "name": "Hamburger bun, white",
+  "brand": null,
+  "aliases": [],
+  "category": "bread",
+  "per100g": {
+   "kcal": 279,
+   "protein_g": 9.5,
+   "carbs_g": 50,
+   "fat_g": 4.2,
+   "fiber_g": 2.3,
+   "sugar_g": 6,
+   "satfat_g": 1,
+   "sodium_mg": 480
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": 0,
+   "vitamin_a_carotenoid_mcg_rae": 0,
+   "folate_food_mcg": 22,
+   "folic_acid_mcg": 88,
+   "folate_dfe_mcg": 172
+  },
+  "servings": [
+   {
+    "label": "1 bun (52 g)",
+    "grams": 52,
+    "isDefault": true
+   },
+   {
+    "label": "100 g",
+    "grams": 100
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": true,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "bun-hot-dog",
+  "name": "Hot dog bun, white",
+  "brand": null,
+  "aliases": [],
+  "category": "bread",
+  "per100g": {
+   "kcal": 279,
+   "protein_g": 9.5,
+   "carbs_g": 50,
+   "fat_g": 4.2,
+   "fiber_g": 2.3,
+   "sugar_g": 6,
+   "satfat_g": 1,
+   "sodium_mg": 480
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 bun (43 g)",
+    "grams": 43,
+    "isDefault": true
+   },
+   {
+    "label": "100 g",
+    "grams": 100
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": true,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "bun-brioche",
+  "name": "Brioche bun",
+  "brand": null,
+  "aliases": [],
+  "category": "bread",
+  "per100g": {
+   "kcal": 320,
+   "protein_g": 9,
+   "carbs_g": 50,
+   "fat_g": 9,
+   "fiber_g": 1.5,
+   "sugar_g": 8,
+   "satfat_g": 4.5,
+   "sodium_mg": 420
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 bun (60 g)",
+    "grams": 60,
+    "isDefault": true
+   },
+   {
+    "label": "100 g",
+    "grams": 100
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": false,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "bun-pretzel",
+  "name": "Pretzel bun",
+  "brand": null,
+  "aliases": [],
+  "category": "bread",
+  "per100g": {
+   "kcal": 290,
+   "protein_g": 9,
+   "carbs_g": 52,
+   "fat_g": 5,
+   "fiber_g": 2,
+   "sugar_g": 4,
+   "satfat_g": 1.2,
+   "sodium_mg": 700
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 bun (85 g)",
+    "grams": 85,
+    "isDefault": true
+   },
+   {
+    "label": "100 g",
+    "grams": 100
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": false,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "roll-dinner",
+  "name": "Dinner roll, white",
+  "brand": null,
+  "aliases": [],
+  "category": "bread",
+  "per100g": {
+   "kcal": 316,
+   "protein_g": 9,
+   "carbs_g": 53,
+   "fat_g": 7.3,
+   "fiber_g": 2.3,
+   "sugar_g": 6,
+   "satfat_g": 1.7,
+   "sodium_mg": 500
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 roll (28 g)",
+    "grams": 28,
+    "isDefault": true
+   },
+   {
+    "label": "2 rolls (56 g)",
+    "grams": 56
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": true,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "roll-hawaiian",
+  "name": "Hawaiian sweet roll",
+  "brand": null,
+  "aliases": [],
+  "category": "bread",
+  "per100g": {
+   "kcal": 330,
+   "protein_g": 8,
+   "carbs_g": 58,
+   "fat_g": 7,
+   "fiber_g": 1.5,
+   "sugar_g": 17,
+   "satfat_g": 3,
+   "sodium_mg": 340
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 roll (28 g)",
+    "grams": 28,
+    "isDefault": true
+   },
+   {
+    "label": "2 rolls (56 g)",
+    "grams": 56
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": false,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "roll-sub",
+  "name": "Sub roll, 6 inch",
+  "brand": null,
+  "aliases": [
+   "hoagie roll"
+  ],
+  "category": "bread",
+  "per100g": {
+   "kcal": 280,
+   "protein_g": 9.5,
+   "carbs_g": 52,
+   "fat_g": 3.5,
+   "fiber_g": 2.5,
+   "sugar_g": 4,
+   "satfat_g": 0.8,
+   "sodium_mg": 560
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 roll (85 g)",
+    "grams": 85,
+    "isDefault": true
+   },
+   {
+    "label": "1 footlong (170 g)",
+    "grams": 170
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": false,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "sandwich-thin",
+  "name": "Sandwich thin, whole wheat",
+  "brand": null,
+  "aliases": [],
+  "category": "bread",
+  "per100g": {
+   "kcal": 233,
+   "protein_g": 9.3,
+   "carbs_g": 46.5,
+   "fat_g": 2.3,
+   "fiber_g": 11.6,
+   "sugar_g": 4.7,
+   "satfat_g": 0.5,
+   "sodium_mg": 500
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 thin (43 g)",
+    "grams": 43,
+    "isDefault": true
+   },
+   {
+    "label": "100 g",
+    "grams": 100
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": false,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "biscuit-buttermilk",
+  "name": "Buttermilk biscuit, baked",
+  "brand": null,
+  "aliases": [],
+  "category": "bread",
+  "per100g": {
+   "kcal": 353,
+   "protein_g": 6.4,
+   "carbs_g": 44.6,
+   "fat_g": 16.3,
+   "fiber_g": 1.5,
+   "sugar_g": 3,
+   "satfat_g": 4.2,
+   "sodium_mg": 870
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 biscuit (60 g)",
+    "grams": 60,
+    "isDefault": true
+   },
+   {
+    "label": "100 g",
+    "grams": 100
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": true,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "tortilla-flour-8",
+  "name": "Flour tortilla, 8 inch",
+  "brand": null,
+  "aliases": [
+   "burrito tortilla"
+  ],
+  "category": "bread",
+  "per100g": {
+   "kcal": 306,
+   "protein_g": 8.2,
+   "carbs_g": 51.4,
+   "fat_g": 7,
+   "fiber_g": 3,
+   "sugar_g": 2,
+   "satfat_g": 1.7,
+   "sodium_mg": 675
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": 0,
+   "vitamin_a_carotenoid_mcg_rae": 0,
+   "folate_food_mcg": 13,
+   "folic_acid_mcg": 70,
+   "folate_dfe_mcg": 132
+  },
+  "servings": [
+   {
+    "label": "1 tortilla (45 g)",
+    "grams": 45,
+    "isDefault": true
+   },
+   {
+    "label": "2 tortillas (90 g)",
+    "grams": 90
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": true,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "tortilla-flour-10",
+  "name": "Flour tortilla, 10 inch, burrito size",
+  "brand": null,
+  "aliases": [],
+  "category": "bread",
+  "per100g": {
+   "kcal": 306,
+   "protein_g": 8.2,
+   "carbs_g": 51.4,
+   "fat_g": 7,
+   "fiber_g": 3,
+   "sugar_g": 2,
+   "satfat_g": 1.7,
+   "sodium_mg": 675
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 tortilla (72 g)",
+    "grams": 72,
+    "isDefault": true
+   },
+   {
+    "label": "100 g",
+    "grams": 100
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": true,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "tortilla-flour-6",
+  "name": "Flour tortilla, 6 inch, taco size",
+  "brand": null,
+  "aliases": [],
+  "category": "bread",
+  "per100g": {
+   "kcal": 306,
+   "protein_g": 8.2,
+   "carbs_g": 51.4,
+   "fat_g": 7,
+   "fiber_g": 3,
+   "sugar_g": 2,
+   "satfat_g": 1.7,
+   "sodium_mg": 675
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 tortilla (28 g)",
+    "grams": 28,
+    "isDefault": true
+   },
+   {
+    "label": "2 tortillas (56 g)",
+    "grams": 56
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": true,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "tortilla-corn",
+  "name": "Corn tortilla, 6 inch",
+  "brand": null,
+  "aliases": [],
+  "category": "bread",
+  "per100g": {
+   "kcal": 218,
+   "protein_g": 5.7,
+   "carbs_g": 44.6,
+   "fat_g": 2.85,
+   "fiber_g": 6.3,
+   "sugar_g": 0.8,
+   "satfat_g": 0.4,
+   "sodium_mg": 45
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 tortilla (26 g)",
+    "grams": 26,
+    "isDefault": true
+   },
+   {
+    "label": "2 tortillas (52 g)",
+    "grams": 52
+   },
+   {
+    "label": "3 tortillas (78 g)",
+    "grams": 78
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": true,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "tortilla-low-carb",
+  "name": "Low-carb tortilla, high fiber",
+  "brand": "Mission",
+  "aliases": [
+   "carb balance tortilla"
+  ],
+  "category": "bread",
+  "per100g": {
+   "kcal": 178,
+   "protein_g": 11.1,
+   "carbs_g": 40,
+   "fat_g": 6.7,
+   "fiber_g": 26.7,
+   "sugar_g": 0,
+   "satfat_g": 2.2,
+   "sodium_mg": 667
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 tortilla (45 g)",
+    "grams": 45,
+    "isDefault": true
+   },
+   {
+    "label": "2 tortillas (90 g)",
+    "grams": 90
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": true,
+  "source": "manufacturer label"
+ },
+ {
+  "id": "tortilla-whole-wheat",
+  "name": "Whole wheat tortilla, 8 inch",
+  "brand": null,
+  "aliases": [],
+  "category": "bread",
+  "per100g": {
+   "kcal": 290,
+   "protein_g": 9,
+   "carbs_g": 48,
+   "fat_g": 7,
+   "fiber_g": 6,
+   "sugar_g": 2.5,
+   "satfat_g": 1.5,
+   "sodium_mg": 610
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 tortilla (45 g)",
+    "grams": 45,
+    "isDefault": true
+   },
+   {
+    "label": "100 g",
+    "grams": 100
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": false,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "tortilla-spinach-wrap",
+  "name": "Spinach wrap, 10 inch",
+  "brand": null,
+  "aliases": [],
+  "category": "bread",
+  "per100g": {
+   "kcal": 290,
+   "protein_g": 8,
+   "carbs_g": 49,
+   "fat_g": 7,
+   "fiber_g": 3,
+   "sugar_g": 2,
+   "satfat_g": 1.5,
+   "sodium_mg": 650
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 wrap (71 g)",
+    "grams": 71,
+    "isDefault": true
+   },
+   {
+    "label": "100 g",
+    "grams": 100
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": false,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "pita-white",
+  "name": "Pita bread, white",
+  "brand": null,
+  "aliases": [
+   "pocket bread"
+  ],
+  "category": "bread",
+  "per100g": {
+   "kcal": 275,
+   "protein_g": 9.1,
+   "carbs_g": 55.7,
+   "fat_g": 1.2,
+   "fiber_g": 2.2,
+   "sugar_g": 1.2,
+   "satfat_g": 0.17,
+   "sodium_mg": 536
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 pita, 6.5 in (60 g)",
+    "grams": 60,
+    "isDefault": true
+   },
+   {
+    "label": "1/2 pita (30 g)",
+    "grams": 30
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": true,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "pita-whole-wheat",
+  "name": "Pita bread, whole wheat",
+  "brand": null,
+  "aliases": [],
+  "category": "bread",
+  "per100g": {
+   "kcal": 266,
+   "protein_g": 9.8,
+   "carbs_g": 55.7,
+   "fat_g": 2.6,
+   "fiber_g": 7.4,
+   "sugar_g": 0.9,
+   "satfat_g": 0.4,
+   "sodium_mg": 522
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 pita, 6.5 in (64 g)",
+    "grams": 64,
+    "isDefault": true
+   },
+   {
+    "label": "1/2 pita (32 g)",
+    "grams": 32
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": true,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "naan-plain",
+  "name": "Naan bread, plain",
+  "brand": null,
+  "aliases": [],
+  "category": "bread",
+  "per100g": {
+   "kcal": 310,
+   "protein_g": 8.7,
+   "carbs_g": 50,
+   "fat_g": 8,
+   "fiber_g": 2.2,
+   "sugar_g": 3.2,
+   "satfat_g": 1.6,
+   "sodium_mg": 480
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 naan (90 g)",
+    "grams": 90,
+    "isDefault": true
+   },
+   {
+    "label": "1/2 naan (45 g)",
+    "grams": 45
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": false,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "naan-garlic",
+  "name": "Naan bread, garlic",
+  "brand": null,
+  "aliases": [],
+  "category": "bread",
+  "per100g": {
+   "kcal": 320,
+   "protein_g": 8.5,
+   "carbs_g": 50,
+   "fat_g": 9,
+   "fiber_g": 2.2,
+   "sugar_g": 3.5,
+   "satfat_g": 1.8,
+   "sodium_mg": 520
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 naan (90 g)",
+    "grams": 90,
+    "isDefault": true
+   },
+   {
+    "label": "100 g",
+    "grams": 100
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": false,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "lavash",
+  "name": "Lavash flatbread",
+  "brand": null,
+  "aliases": [],
+  "category": "bread",
+  "per100g": {
+   "kcal": 275,
+   "protein_g": 9,
+   "carbs_g": 55,
+   "fat_g": 1.5,
+   "fiber_g": 2.5,
+   "sugar_g": 1.5,
+   "satfat_g": 0.3,
+   "sodium_mg": 500
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 sheet (57 g)",
+    "grams": 57,
+    "isDefault": true
+   },
+   {
+    "label": "100 g",
+    "grams": 100
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": false,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "flatbread-greek",
+  "name": "Greek-style flatbread",
+  "brand": null,
+  "aliases": [],
+  "category": "bread",
+  "per100g": {
+   "kcal": 290,
+   "protein_g": 8.5,
+   "carbs_g": 48,
+   "fat_g": 7,
+   "fiber_g": 2.5,
+   "sugar_g": 3,
+   "satfat_g": 1.5,
+   "sodium_mg": 540
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 flatbread (62 g)",
+    "grams": 62,
+    "isDefault": true
+   },
+   {
+    "label": "100 g",
+    "grams": 100
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": false,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "roti-chapati",
+  "name": "Roti, chapati",
+  "brand": null,
+  "aliases": [],
+  "category": "bread",
+  "per100g": {
+   "kcal": 297,
+   "protein_g": 11,
+   "carbs_g": 55,
+   "fat_g": 4,
+   "fiber_g": 8,
+   "sugar_g": 1,
+   "satfat_g": 0.9,
+   "sodium_mg": 280
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 roti (45 g)",
+    "grams": 45,
+    "isDefault": true
+   },
+   {
+    "label": "100 g",
+    "grams": 100
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": false,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "matzo",
+  "name": "Matzo, plain",
+  "brand": null,
+  "aliases": [],
+  "category": "bread",
+  "per100g": {
+   "kcal": 395,
+   "protein_g": 10,
+   "carbs_g": 83.7,
+   "fat_g": 1.4,
+   "fiber_g": 3,
+   "sugar_g": 1.5,
+   "satfat_g": 0.2,
+   "sodium_mg": 3
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 board (28 g)",
+    "grams": 28,
+    "isDefault": true
+   },
+   {
+    "label": "100 g",
+    "grams": 100
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": true,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "crumpet",
+  "name": "Crumpet",
+  "brand": null,
+  "aliases": [],
+  "category": "bread",
+  "per100g": {
+   "kcal": 200,
+   "protein_g": 5,
+   "carbs_g": 40,
+   "fat_g": 1,
+   "fiber_g": 2,
+   "sugar_g": 1.5,
+   "satfat_g": 0.2,
+   "sodium_mg": 500
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 crumpet (60 g)",
+    "grams": 60,
+    "isDefault": true
+   },
+   {
+    "label": "100 g",
+    "grams": 100
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": false,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "breadcrumbs-plain",
+  "name": "Breadcrumbs, dry, plain",
+  "brand": null,
+  "aliases": [],
+  "category": "bread",
+  "per100g": {
+   "kcal": 395,
+   "protein_g": 13.4,
+   "carbs_g": 71.9,
+   "fat_g": 5.3,
+   "fiber_g": 4.5,
+   "sugar_g": 6.2,
+   "satfat_g": 1.2,
+   "sodium_mg": 732
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": 0,
+   "vitamin_a_carotenoid_mcg_rae": 0,
+   "folate_food_mcg": 26,
+   "folic_acid_mcg": 112,
+   "folate_dfe_mcg": 217
+  },
+  "servings": [
+   {
+    "label": "1/4 cup (27 g)",
+    "grams": 27,
+    "isDefault": true
+   },
+   {
+    "label": "1 tbsp (7 g)",
+    "grams": 7
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": true,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "breadcrumbs-panko",
+  "name": "Panko breadcrumbs",
+  "brand": null,
+  "aliases": [],
+  "category": "bread",
+  "per100g": {
+   "kcal": 380,
+   "protein_g": 12,
+   "carbs_g": 72,
+   "fat_g": 4,
+   "fiber_g": 3,
+   "sugar_g": 4,
+   "satfat_g": 0.7,
+   "sodium_mg": 380
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1/4 cup (15 g)",
+    "grams": 15,
+    "isDefault": true
+   },
+   {
+    "label": "1/2 cup (30 g)",
+    "grams": 30
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": false,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "croutons-seasoned",
+  "name": "Croutons, seasoned",
+  "brand": null,
+  "aliases": [],
+  "category": "bread",
+  "per100g": {
+   "kcal": 407,
+   "protein_g": 11.9,
+   "carbs_g": 63.5,
+   "fat_g": 11.9,
+   "fiber_g": 5,
+   "sugar_g": 3,
+   "satfat_g": 3.3,
+   "sodium_mg": 1100
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1/4 cup (8 g)",
+    "grams": 8,
+    "isDefault": true
+   },
+   {
+    "label": "1/2 cup (15 g)",
+    "grams": 15
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": true,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "stuffing-prepared",
+  "name": "Stuffing, bread, prepared",
+  "brand": null,
+  "aliases": [],
+  "category": "bread",
+  "per100g": {
+   "kcal": 177,
+   "protein_g": 3.2,
+   "carbs_g": 21.7,
+   "fat_g": 8.6,
+   "fiber_g": 2.9,
+   "sugar_g": 2,
+   "satfat_g": 1.7,
+   "sodium_mg": 543
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1/2 cup (100 g)",
+    "grams": 100,
+    "isDefault": true
+   },
+   {
+    "label": "1 cup (200 g)",
+    "grams": 200
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": true,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "pizza-dough-raw",
+  "name": "Pizza dough, raw",
+  "brand": null,
+  "aliases": [],
+  "category": "bread",
+  "per100g": {
+   "kcal": 270,
+   "protein_g": 9,
+   "carbs_g": 50,
+   "fat_g": 3.5,
+   "fiber_g": 2,
+   "sugar_g": 3,
+   "satfat_g": 0.6,
+   "sodium_mg": 530
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1/4 lb (113 g)",
+    "grams": 113,
+    "isDefault": true
+   },
+   {
+    "label": "100 g",
+    "grams": 100
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": false,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "puff-pastry-raw",
+  "name": "Puff pastry, frozen, raw",
+  "brand": null,
+  "aliases": [],
+  "category": "bread",
+  "per100g": {
+   "kcal": 551,
+   "protein_g": 7.3,
+   "carbs_g": 45.1,
+   "fat_g": 38.1,
+   "fiber_g": 1.5,
+   "sugar_g": 0.9,
+   "satfat_g": 9.5,
+   "sodium_mg": 300
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 sheet (105 g)",
+    "grams": 105,
+    "isDefault": true
+   },
+   {
+    "label": "100 g",
+    "grams": 100
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": true,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "phyllo-dough",
+  "name": "Phyllo dough",
+  "brand": null,
+  "aliases": [],
+  "category": "bread",
+  "per100g": {
+   "kcal": 299,
+   "protein_g": 7.1,
+   "carbs_g": 52.6,
+   "fat_g": 6,
+   "fiber_g": 2,
+   "sugar_g": 0.3,
+   "satfat_g": 0.9,
+   "sodium_mg": 483
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 sheet (19 g)",
+    "grams": 19,
+    "isDefault": true
+   },
+   {
+    "label": "100 g",
+    "grams": 100
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": true,
+  "source": "USDA FoodData Central (SR Legacy)"
+ }
+]

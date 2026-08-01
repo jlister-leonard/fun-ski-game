@@ -1,0 +1,3270 @@
+[
+ {
+  "id": "pizza-cheese-slice",
+  "name": "Pizza, cheese, regular crust",
+  "brand": null,
+  "aliases": [],
+  "category": "prepared",
+  "per100g": {
+   "kcal": 266,
+   "protein_g": 11.4,
+   "carbs_g": 33,
+   "fat_g": 9.7,
+   "fiber_g": 2.3,
+   "sugar_g": 3.6,
+   "satfat_g": 4.3,
+   "sodium_mg": 598
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 slice (107 g)",
+    "grams": 107,
+    "isDefault": true
+   },
+   {
+    "label": "2 slices (214 g)",
+    "grams": 214
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": false,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "pizza-pepperoni-slice",
+  "name": "Pizza, pepperoni, regular crust",
+  "brand": null,
+  "aliases": [],
+  "category": "prepared",
+  "per100g": {
+   "kcal": 296,
+   "protein_g": 12.8,
+   "carbs_g": 32,
+   "fat_g": 12.9,
+   "fiber_g": 2.2,
+   "sugar_g": 3.6,
+   "satfat_g": 5.2,
+   "sodium_mg": 684
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 slice (111 g)",
+    "grams": 111,
+    "isDefault": true
+   },
+   {
+    "label": "2 slices (222 g)",
+    "grams": 222
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": false,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "pizza-supreme-slice",
+  "name": "Pizza, supreme/deluxe",
+  "brand": null,
+  "aliases": [],
+  "category": "prepared",
+  "per100g": {
+   "kcal": 263,
+   "protein_g": 11,
+   "carbs_g": 29,
+   "fat_g": 11.5,
+   "fiber_g": 2.4,
+   "sugar_g": 3.5,
+   "satfat_g": 4.3,
+   "sodium_mg": 620
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 slice (127 g)",
+    "grams": 127,
+    "isDefault": true
+   },
+   {
+    "label": "100 g",
+    "grams": 100
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": false,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "pizza-thin-crust-cheese",
+  "name": "Pizza, thin crust, cheese",
+  "brand": null,
+  "aliases": [],
+  "category": "prepared",
+  "per100g": {
+   "kcal": 290,
+   "protein_g": 13,
+   "carbs_g": 30,
+   "fat_g": 13,
+   "fiber_g": 2,
+   "sugar_g": 3,
+   "satfat_g": 6,
+   "sodium_mg": 600
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 slice (85 g)",
+    "grams": 85,
+    "isDefault": true
+   },
+   {
+    "label": "100 g",
+    "grams": 100
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": false,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "pizza-frozen-cheese",
+  "name": "Pizza, frozen, cheese, baked",
+  "brand": null,
+  "aliases": [],
+  "category": "prepared",
+  "per100g": {
+   "kcal": 268,
+   "protein_g": 11,
+   "carbs_g": 33,
+   "fat_g": 10,
+   "fiber_g": 2,
+   "sugar_g": 4,
+   "satfat_g": 4.5,
+   "sodium_mg": 560
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1/3 pizza (137 g)",
+    "grams": 137,
+    "isDefault": true
+   },
+   {
+    "label": "100 g",
+    "grams": 100
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": false,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "lasagna-meat",
+  "name": "Lasagna, with meat sauce",
+  "brand": null,
+  "aliases": [],
+  "category": "prepared",
+  "per100g": {
+   "kcal": 132,
+   "protein_g": 8.1,
+   "carbs_g": 11.9,
+   "fat_g": 5.6,
+   "fiber_g": 1.2,
+   "sugar_g": 3,
+   "satfat_g": 2.7,
+   "sodium_mg": 340
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 piece (250 g)",
+    "grams": 250,
+    "isDefault": true
+   },
+   {
+    "label": "100 g",
+    "grams": 100
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": false,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "spaghetti-meat-sauce",
+  "name": "Spaghetti with meat sauce",
+  "brand": null,
+  "aliases": [],
+  "category": "prepared",
+  "per100g": {
+   "kcal": 120,
+   "protein_g": 6,
+   "carbs_g": 15,
+   "fat_g": 3.8,
+   "fiber_g": 1.6,
+   "sugar_g": 3.5,
+   "satfat_g": 1.3,
+   "sodium_mg": 300
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 cup (250 g)",
+    "grams": 250,
+    "isDefault": true
+   },
+   {
+    "label": "2 cups (500 g)",
+    "grams": 500
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": false,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "spaghetti-meatballs",
+  "name": "Spaghetti and meatballs",
+  "brand": null,
+  "aliases": [],
+  "category": "prepared",
+  "per100g": {
+   "kcal": 135,
+   "protein_g": 7,
+   "carbs_g": 15.5,
+   "fat_g": 5,
+   "fiber_g": 1.6,
+   "sugar_g": 3.5,
+   "satfat_g": 1.8,
+   "sodium_mg": 350
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 plate (350 g)",
+    "grams": 350,
+    "isDefault": true
+   },
+   {
+    "label": "100 g",
+    "grams": 100
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": false,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "mac-and-cheese-boxed",
+  "name": "Macaroni and cheese, boxed, prepared",
+  "brand": null,
+  "aliases": [],
+  "category": "prepared",
+  "per100g": {
+   "kcal": 160,
+   "protein_g": 5.5,
+   "carbs_g": 25,
+   "fat_g": 4.3,
+   "fiber_g": 1,
+   "sugar_g": 3.5,
+   "satfat_g": 1.4,
+   "sodium_mg": 420
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 cup (198 g)",
+    "grams": 198,
+    "isDefault": true
+   },
+   {
+    "label": "100 g",
+    "grams": 100
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": false,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "mac-and-cheese-baked",
+  "name": "Macaroni and cheese, baked, homemade",
+  "brand": null,
+  "aliases": [],
+  "category": "prepared",
+  "per100g": {
+   "kcal": 215,
+   "protein_g": 9,
+   "carbs_g": 22,
+   "fat_g": 10,
+   "fiber_g": 1,
+   "sugar_g": 4,
+   "satfat_g": 4.5,
+   "sodium_mg": 450
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 cup (200 g)",
+    "grams": 200,
+    "isDefault": true
+   },
+   {
+    "label": "100 g",
+    "grams": 100
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": false,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "chicken-parmesan",
+  "name": "Chicken parmesan, with sauce",
+  "brand": null,
+  "aliases": [],
+  "category": "prepared",
+  "per100g": {
+   "kcal": 210,
+   "protein_g": 18,
+   "carbs_g": 11,
+   "fat_g": 10.5,
+   "fiber_g": 1.2,
+   "sugar_g": 3.5,
+   "satfat_g": 3.5,
+   "sodium_mg": 520
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 serving (250 g)",
+    "grams": 250,
+    "isDefault": true
+   },
+   {
+    "label": "100 g",
+    "grams": 100
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": false,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "risotto-mushroom",
+  "name": "Risotto, mushroom",
+  "brand": null,
+  "aliases": [],
+  "category": "prepared",
+  "per100g": {
+   "kcal": 140,
+   "protein_g": 4,
+   "carbs_g": 20,
+   "fat_g": 4.5,
+   "fiber_g": 1,
+   "sugar_g": 1,
+   "satfat_g": 2,
+   "sodium_mg": 420
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 cup (200 g)",
+    "grams": 200,
+    "isDefault": true
+   },
+   {
+    "label": "100 g",
+    "grams": 100
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": false,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "gnocchi-with-sauce",
+  "name": "Gnocchi with tomato sauce",
+  "brand": null,
+  "aliases": [],
+  "category": "prepared",
+  "per100g": {
+   "kcal": 140,
+   "protein_g": 4,
+   "carbs_g": 24,
+   "fat_g": 3.5,
+   "fiber_g": 2,
+   "sugar_g": 3,
+   "satfat_g": 1,
+   "sodium_mg": 450
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 cup (200 g)",
+    "grams": 200,
+    "isDefault": true
+   },
+   {
+    "label": "100 g",
+    "grams": 100
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": false,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "burrito-bean-cheese",
+  "name": "Burrito, bean and cheese",
+  "brand": null,
+  "aliases": [],
+  "category": "prepared",
+  "per100g": {
+   "kcal": 210,
+   "protein_g": 8.5,
+   "carbs_g": 28,
+   "fat_g": 7,
+   "fiber_g": 3.5,
+   "sugar_g": 1.5,
+   "satfat_g": 3,
+   "sodium_mg": 560
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 burrito (200 g)",
+    "grams": 200,
+    "isDefault": true
+   },
+   {
+    "label": "100 g",
+    "grams": 100
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": false,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "burrito-chicken",
+  "name": "Burrito, chicken, rice and beans",
+  "brand": null,
+  "aliases": [],
+  "category": "prepared",
+  "per100g": {
+   "kcal": 190,
+   "protein_g": 11,
+   "carbs_g": 22,
+   "fat_g": 6,
+   "fiber_g": 2.5,
+   "sugar_g": 1.5,
+   "satfat_g": 2.2,
+   "sodium_mg": 480
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 burrito (330 g)",
+    "grams": 330,
+    "isDefault": true
+   },
+   {
+    "label": "100 g",
+    "grams": 100
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": false,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "burrito-breakfast",
+  "name": "Breakfast burrito, egg and cheese",
+  "brand": null,
+  "aliases": [],
+  "category": "prepared",
+  "per100g": {
+   "kcal": 215,
+   "protein_g": 10,
+   "carbs_g": 20,
+   "fat_g": 11,
+   "fiber_g": 1.5,
+   "sugar_g": 1.5,
+   "satfat_g": 4,
+   "sodium_mg": 530
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 burrito (170 g)",
+    "grams": 170,
+    "isDefault": true
+   },
+   {
+    "label": "100 g",
+    "grams": 100
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": false,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "burrito-bowl-chicken",
+  "name": "Burrito bowl, chicken, rice, beans, salsa",
+  "brand": null,
+  "aliases": [],
+  "category": "prepared",
+  "per100g": {
+   "kcal": 135,
+   "protein_g": 10,
+   "carbs_g": 14,
+   "fat_g": 4,
+   "fiber_g": 3,
+   "sugar_g": 1.5,
+   "satfat_g": 1.2,
+   "sodium_mg": 380
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 bowl (450 g)",
+    "grams": 450,
+    "isDefault": true
+   },
+   {
+    "label": "100 g",
+    "grams": 100
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": false,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "taco-beef-hard-shell",
+  "name": "Taco, ground beef, hard shell",
+  "brand": null,
+  "aliases": [],
+  "category": "prepared",
+  "per100g": {
+   "kcal": 220,
+   "protein_g": 10,
+   "carbs_g": 17,
+   "fat_g": 12.5,
+   "fiber_g": 2.5,
+   "sugar_g": 1,
+   "satfat_g": 4.5,
+   "sodium_mg": 400
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 taco (80 g)",
+    "grams": 80,
+    "isDefault": true
+   },
+   {
+    "label": "3 tacos (240 g)",
+    "grams": 240
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": false,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "taco-chicken-soft",
+  "name": "Taco, chicken, soft flour tortilla",
+  "brand": null,
+  "aliases": [],
+  "category": "prepared",
+  "per100g": {
+   "kcal": 195,
+   "protein_g": 12,
+   "carbs_g": 20,
+   "fat_g": 7.5,
+   "fiber_g": 1.8,
+   "sugar_g": 1.2,
+   "satfat_g": 2.5,
+   "sodium_mg": 420
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 taco (100 g)",
+    "grams": 100,
+    "isDefault": true
+   },
+   {
+    "label": "3 tacos (300 g)",
+    "grams": 300
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": false,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "taco-fish",
+  "name": "Taco, fish, soft",
+  "brand": null,
+  "aliases": [],
+  "category": "prepared",
+  "per100g": {
+   "kcal": 200,
+   "protein_g": 10,
+   "carbs_g": 21,
+   "fat_g": 8.5,
+   "fiber_g": 2,
+   "sugar_g": 2,
+   "satfat_g": 2.2,
+   "sodium_mg": 400
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 taco (110 g)",
+    "grams": 110,
+    "isDefault": true
+   },
+   {
+    "label": "100 g",
+    "grams": 100
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": false,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "quesadilla-cheese",
+  "name": "Quesadilla, cheese",
+  "brand": null,
+  "aliases": [],
+  "category": "prepared",
+  "per100g": {
+   "kcal": 300,
+   "protein_g": 13,
+   "carbs_g": 26,
+   "fat_g": 16,
+   "fiber_g": 1.8,
+   "sugar_g": 1.5,
+   "satfat_g": 7.5,
+   "sodium_mg": 620
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1/2 quesadilla (120 g)",
+    "grams": 120,
+    "isDefault": true
+   },
+   {
+    "label": "100 g",
+    "grams": 100
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": false,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "enchilada-chicken",
+  "name": "Enchiladas, chicken, with sauce",
+  "brand": null,
+  "aliases": [],
+  "category": "prepared",
+  "per100g": {
+   "kcal": 170,
+   "protein_g": 9.5,
+   "carbs_g": 15,
+   "fat_g": 8,
+   "fiber_g": 2,
+   "sugar_g": 2.5,
+   "satfat_g": 3,
+   "sodium_mg": 480
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "2 enchiladas (250 g)",
+    "grams": 250,
+    "isDefault": true
+   },
+   {
+    "label": "100 g",
+    "grams": 100
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": false,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "nachos-cheese-loaded",
+  "name": "Nachos, loaded with cheese and beef",
+  "brand": null,
+  "aliases": [],
+  "category": "prepared",
+  "per100g": {
+   "kcal": 280,
+   "protein_g": 11,
+   "carbs_g": 24,
+   "fat_g": 16,
+   "fiber_g": 3,
+   "sugar_g": 2,
+   "satfat_g": 6,
+   "sodium_mg": 520
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 plate (300 g)",
+    "grams": 300,
+    "isDefault": true
+   },
+   {
+    "label": "100 g",
+    "grams": 100
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": false,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "tamale-pork",
+  "name": "Tamale, pork",
+  "brand": null,
+  "aliases": [],
+  "category": "prepared",
+  "per100g": {
+   "kcal": 220,
+   "protein_g": 7,
+   "carbs_g": 22,
+   "fat_g": 11.5,
+   "fiber_g": 3,
+   "sugar_g": 1,
+   "satfat_g": 4,
+   "sodium_mg": 450
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 tamale (100 g)",
+    "grams": 100,
+    "isDefault": true
+   },
+   {
+    "label": "2 tamales (200 g)",
+    "grams": 200
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": false,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "elote-street-corn",
+  "name": "Elote, Mexican street corn",
+  "brand": null,
+  "aliases": [],
+  "category": "prepared",
+  "per100g": {
+   "kcal": 180,
+   "protein_g": 5,
+   "carbs_g": 22,
+   "fat_g": 9,
+   "fiber_g": 2.5,
+   "sugar_g": 6,
+   "satfat_g": 2.5,
+   "sodium_mg": 400
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 ear (150 g)",
+    "grams": 150,
+    "isDefault": true
+   },
+   {
+    "label": "100 g",
+    "grams": 100
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": false,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "fried-rice-chicken",
+  "name": "Fried rice, chicken",
+  "brand": null,
+  "aliases": [],
+  "category": "prepared",
+  "per100g": {
+   "kcal": 165,
+   "protein_g": 7,
+   "carbs_g": 22,
+   "fat_g": 5,
+   "fiber_g": 1,
+   "sugar_g": 1.5,
+   "satfat_g": 1.1,
+   "sodium_mg": 450
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 cup (198 g)",
+    "grams": 198,
+    "isDefault": true
+   },
+   {
+    "label": "2 cups (396 g)",
+    "grams": 396
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": false,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "fried-rice-vegetable",
+  "name": "Fried rice, vegetable",
+  "brand": null,
+  "aliases": [],
+  "category": "prepared",
+  "per100g": {
+   "kcal": 150,
+   "protein_g": 3.5,
+   "carbs_g": 24,
+   "fat_g": 4.5,
+   "fiber_g": 1.5,
+   "sugar_g": 1.5,
+   "satfat_g": 0.8,
+   "sodium_mg": 420
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 cup (198 g)",
+    "grams": 198,
+    "isDefault": true
+   },
+   {
+    "label": "100 g",
+    "grams": 100
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": false,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "pad-thai-chicken",
+  "name": "Pad Thai, chicken",
+  "brand": null,
+  "aliases": [],
+  "category": "prepared",
+  "per100g": {
+   "kcal": 195,
+   "protein_g": 9,
+   "carbs_g": 24,
+   "fat_g": 7,
+   "fiber_g": 1.5,
+   "sugar_g": 8,
+   "satfat_g": 1.3,
+   "sodium_mg": 600
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 plate (350 g)",
+    "grams": 350,
+    "isDefault": true
+   },
+   {
+    "label": "100 g",
+    "grams": 100
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": false,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "lo-mein-chicken",
+  "name": "Lo mein, chicken",
+  "brand": null,
+  "aliases": [],
+  "category": "prepared",
+  "per100g": {
+   "kcal": 160,
+   "protein_g": 8,
+   "carbs_g": 20,
+   "fat_g": 5,
+   "fiber_g": 1.5,
+   "sugar_g": 2,
+   "satfat_g": 1,
+   "sodium_mg": 500
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 cup (200 g)",
+    "grams": 200,
+    "isDefault": true
+   },
+   {
+    "label": "100 g",
+    "grams": 100
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": false,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "stir-fry-chicken-vegetable",
+  "name": "Chicken and vegetable stir fry, no rice",
+  "brand": null,
+  "aliases": [],
+  "category": "prepared",
+  "per100g": {
+   "kcal": 120,
+   "protein_g": 13,
+   "carbs_g": 7,
+   "fat_g": 4.5,
+   "fiber_g": 1.8,
+   "sugar_g": 3,
+   "satfat_g": 0.9,
+   "sodium_mg": 450
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 cup (200 g)",
+    "grams": 200,
+    "isDefault": true
+   },
+   {
+    "label": "100 g",
+    "grams": 100
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": false,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "orange-chicken",
+  "name": "Orange chicken, breaded",
+  "brand": null,
+  "aliases": [],
+  "category": "prepared",
+  "per100g": {
+   "kcal": 280,
+   "protein_g": 12.5,
+   "carbs_g": 28,
+   "fat_g": 13,
+   "fiber_g": 1,
+   "sugar_g": 15,
+   "satfat_g": 2.8,
+   "sodium_mg": 500
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 cup (170 g)",
+    "grams": 170,
+    "isDefault": true
+   },
+   {
+    "label": "100 g",
+    "grams": 100
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": false,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "general-tso-chicken",
+  "name": "General Tso's chicken",
+  "brand": null,
+  "aliases": [],
+  "category": "prepared",
+  "per100g": {
+   "kcal": 290,
+   "protein_g": 13,
+   "carbs_g": 30,
+   "fat_g": 13.5,
+   "fiber_g": 1.2,
+   "sugar_g": 16,
+   "satfat_g": 2.8,
+   "sodium_mg": 620
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 cup (170 g)",
+    "grams": 170,
+    "isDefault": true
+   },
+   {
+    "label": "100 g",
+    "grams": 100
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": false,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "beef-broccoli",
+  "name": "Beef and broccoli",
+  "brand": null,
+  "aliases": [],
+  "category": "prepared",
+  "per100g": {
+   "kcal": 130,
+   "protein_g": 11,
+   "carbs_g": 7,
+   "fat_g": 6.5,
+   "fiber_g": 1.5,
+   "sugar_g": 3,
+   "satfat_g": 2,
+   "sodium_mg": 560
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 cup (200 g)",
+    "grams": 200,
+    "isDefault": true
+   },
+   {
+    "label": "100 g",
+    "grams": 100
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": false,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "sushi-california-roll",
+  "name": "Sushi, California roll",
+  "brand": null,
+  "aliases": [],
+  "category": "prepared",
+  "per100g": {
+   "kcal": 140,
+   "protein_g": 4.5,
+   "carbs_g": 25,
+   "fat_g": 2.5,
+   "fiber_g": 1.5,
+   "sugar_g": 4,
+   "satfat_g": 0.5,
+   "sodium_mg": 380
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 roll, 6 pieces (170 g)",
+    "grams": 170,
+    "isDefault": true
+   },
+   {
+    "label": "1 piece (28 g)",
+    "grams": 28
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": false,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "sushi-spicy-tuna-roll",
+  "name": "Sushi, spicy tuna roll",
+  "brand": null,
+  "aliases": [],
+  "category": "prepared",
+  "per100g": {
+   "kcal": 175,
+   "protein_g": 8,
+   "carbs_g": 24,
+   "fat_g": 5.5,
+   "fiber_g": 1.2,
+   "sugar_g": 3.5,
+   "satfat_g": 1,
+   "sodium_mg": 420
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 roll, 6 pieces (170 g)",
+    "grams": 170,
+    "isDefault": true
+   },
+   {
+    "label": "1 piece (28 g)",
+    "grams": 28
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": false,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "sushi-salmon-nigiri",
+  "name": "Sushi, salmon nigiri",
+  "brand": null,
+  "aliases": [],
+  "category": "prepared",
+  "per100g": {
+   "kcal": 145,
+   "protein_g": 7.5,
+   "carbs_g": 20,
+   "fat_g": 3.5,
+   "fiber_g": 0.5,
+   "sugar_g": 3,
+   "satfat_g": 0.7,
+   "sodium_mg": 180
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "2 pieces (70 g)",
+    "grams": 70,
+    "isDefault": true
+   },
+   {
+    "label": "1 piece (35 g)",
+    "grams": 35
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": false,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "poke-bowl-tuna",
+  "name": "Poke bowl, tuna, rice and vegetables",
+  "brand": null,
+  "aliases": [],
+  "category": "prepared",
+  "per100g": {
+   "kcal": 135,
+   "protein_g": 9,
+   "carbs_g": 18,
+   "fat_g": 3,
+   "fiber_g": 1.5,
+   "sugar_g": 3,
+   "satfat_g": 0.6,
+   "sodium_mg": 450
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 bowl (450 g)",
+    "grams": 450,
+    "isDefault": true
+   },
+   {
+    "label": "100 g",
+    "grams": 100
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": false,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "ramen-bowl-tonkotsu",
+  "name": "Ramen bowl, tonkotsu, with pork",
+  "brand": null,
+  "aliases": [],
+  "category": "prepared",
+  "per100g": {
+   "kcal": 95,
+   "protein_g": 5.5,
+   "carbs_g": 9,
+   "fat_g": 4,
+   "fiber_g": 0.8,
+   "sugar_g": 1,
+   "satfat_g": 1.4,
+   "sodium_mg": 550
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 bowl (600 g)",
+    "grams": 600,
+    "isDefault": true
+   },
+   {
+    "label": "100 g",
+    "grams": 100
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": false,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "pho-beef",
+  "name": "Pho, beef noodle soup",
+  "brand": null,
+  "aliases": [],
+  "category": "prepared",
+  "per100g": {
+   "kcal": 55,
+   "protein_g": 4,
+   "carbs_g": 7,
+   "fat_g": 1,
+   "fiber_g": 0.4,
+   "sugar_g": 0.5,
+   "satfat_g": 0.35,
+   "sodium_mg": 420
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 large bowl (700 g)",
+    "grams": 700,
+    "isDefault": true
+   },
+   {
+    "label": "100 g",
+    "grams": 100
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": false,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "dumplings-pork-steamed",
+  "name": "Dumplings, pork, steamed",
+  "brand": null,
+  "aliases": [],
+  "category": "prepared",
+  "per100g": {
+   "kcal": 210,
+   "protein_g": 9,
+   "carbs_g": 24,
+   "fat_g": 8.5,
+   "fiber_g": 1.2,
+   "sugar_g": 1.5,
+   "satfat_g": 2.8,
+   "sodium_mg": 450
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "4 dumplings (100 g)",
+    "grams": 100,
+    "isDefault": true
+   },
+   {
+    "label": "6 dumplings (150 g)",
+    "grams": 150
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": false,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "potstickers-chicken",
+  "name": "Potstickers, chicken, pan fried",
+  "brand": null,
+  "aliases": [],
+  "category": "prepared",
+  "per100g": {
+   "kcal": 200,
+   "protein_g": 9.5,
+   "carbs_g": 24,
+   "fat_g": 7.5,
+   "fiber_g": 1.5,
+   "sugar_g": 2,
+   "satfat_g": 1.8,
+   "sodium_mg": 520
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "5 potstickers (120 g)",
+    "grams": 120,
+    "isDefault": true
+   },
+   {
+    "label": "100 g",
+    "grams": 100
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": false,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "spring-roll-vegetable-fried",
+  "name": "Spring roll, vegetable, fried",
+  "brand": null,
+  "aliases": [],
+  "category": "prepared",
+  "per100g": {
+   "kcal": 230,
+   "protein_g": 4.5,
+   "carbs_g": 26,
+   "fat_g": 12,
+   "fiber_g": 2,
+   "sugar_g": 3,
+   "satfat_g": 2.2,
+   "sodium_mg": 420
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 roll (60 g)",
+    "grams": 60,
+    "isDefault": true
+   },
+   {
+    "label": "2 rolls (120 g)",
+    "grams": 120
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": false,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "summer-roll-fresh",
+  "name": "Summer roll, fresh, shrimp",
+  "brand": null,
+  "aliases": [],
+  "category": "prepared",
+  "per100g": {
+   "kcal": 110,
+   "protein_g": 5,
+   "carbs_g": 18,
+   "fat_g": 1.5,
+   "fiber_g": 1.2,
+   "sugar_g": 3,
+   "satfat_g": 0.3,
+   "sodium_mg": 280
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 roll (70 g)",
+    "grams": 70,
+    "isDefault": true
+   },
+   {
+    "label": "2 rolls (140 g)",
+    "grams": 140
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": false,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "egg-roll-pork",
+  "name": "Egg roll, pork, fried",
+  "brand": null,
+  "aliases": [],
+  "category": "prepared",
+  "per100g": {
+   "kcal": 230,
+   "protein_g": 7.5,
+   "carbs_g": 25,
+   "fat_g": 11,
+   "fiber_g": 2,
+   "sugar_g": 3,
+   "satfat_g": 2.2,
+   "sodium_mg": 480
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 roll (89 g)",
+    "grams": 89,
+    "isDefault": true
+   },
+   {
+    "label": "100 g",
+    "grams": 100
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": false,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "curry-chicken-tikka-masala",
+  "name": "Chicken tikka masala",
+  "brand": null,
+  "aliases": [],
+  "category": "prepared",
+  "per100g": {
+   "kcal": 155,
+   "protein_g": 11,
+   "carbs_g": 7,
+   "fat_g": 9.5,
+   "fiber_g": 1.2,
+   "sugar_g": 3.5,
+   "satfat_g": 4,
+   "sodium_mg": 420
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 cup (240 g)",
+    "grams": 240,
+    "isDefault": true
+   },
+   {
+    "label": "100 g",
+    "grams": 100
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": false,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "curry-butter-chicken",
+  "name": "Butter chicken",
+  "brand": null,
+  "aliases": [],
+  "category": "prepared",
+  "per100g": {
+   "kcal": 170,
+   "protein_g": 11,
+   "carbs_g": 7,
+   "fat_g": 11.5,
+   "fiber_g": 1,
+   "sugar_g": 4,
+   "satfat_g": 5.5,
+   "sodium_mg": 400
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 cup (240 g)",
+    "grams": 240,
+    "isDefault": true
+   },
+   {
+    "label": "100 g",
+    "grams": 100
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": false,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "curry-thai-green-chicken",
+  "name": "Thai green curry, chicken",
+  "brand": null,
+  "aliases": [],
+  "category": "prepared",
+  "per100g": {
+   "kcal": 135,
+   "protein_g": 9.5,
+   "carbs_g": 7,
+   "fat_g": 8,
+   "fiber_g": 1.2,
+   "sugar_g": 3.5,
+   "satfat_g": 5,
+   "sodium_mg": 500
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 cup (240 g)",
+    "grams": 240,
+    "isDefault": true
+   },
+   {
+    "label": "100 g",
+    "grams": 100
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": false,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "biryani-chicken",
+  "name": "Chicken biryani",
+  "brand": null,
+  "aliases": [],
+  "category": "prepared",
+  "per100g": {
+   "kcal": 170,
+   "protein_g": 9,
+   "carbs_g": 22,
+   "fat_g": 5.5,
+   "fiber_g": 1.5,
+   "sugar_g": 1.5,
+   "satfat_g": 1.6,
+   "sodium_mg": 450
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 cup (200 g)",
+    "grams": 200,
+    "isDefault": true
+   },
+   {
+    "label": "100 g",
+    "grams": 100
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": false,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "bibimbap",
+  "name": "Bibimbap, beef",
+  "brand": null,
+  "aliases": [],
+  "category": "prepared",
+  "per100g": {
+   "kcal": 130,
+   "protein_g": 7.5,
+   "carbs_g": 17,
+   "fat_g": 3.8,
+   "fiber_g": 2,
+   "sugar_g": 2.5,
+   "satfat_g": 1.1,
+   "sodium_mg": 420
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 bowl (450 g)",
+    "grams": 450,
+    "isDefault": true
+   },
+   {
+    "label": "100 g",
+    "grams": 100
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": false,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "sandwich-turkey-deli",
+  "name": "Sandwich, turkey and cheese on wheat",
+  "brand": null,
+  "aliases": [],
+  "category": "prepared",
+  "per100g": {
+   "kcal": 210,
+   "protein_g": 13,
+   "carbs_g": 26,
+   "fat_g": 6,
+   "fiber_g": 3,
+   "sugar_g": 4,
+   "satfat_g": 2.2,
+   "sodium_mg": 750
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 sandwich (230 g)",
+    "grams": 230,
+    "isDefault": true
+   },
+   {
+    "label": "100 g",
+    "grams": 100
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": false,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "sandwich-blt",
+  "name": "BLT sandwich",
+  "brand": null,
+  "aliases": [],
+  "category": "prepared",
+  "per100g": {
+   "kcal": 245,
+   "protein_g": 10,
+   "carbs_g": 24,
+   "fat_g": 12.5,
+   "fiber_g": 2,
+   "sugar_g": 3.5,
+   "satfat_g": 3.5,
+   "sodium_mg": 650
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 sandwich (200 g)",
+    "grams": 200,
+    "isDefault": true
+   },
+   {
+    "label": "100 g",
+    "grams": 100
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": false,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "sandwich-club",
+  "name": "Club sandwich, triple decker",
+  "brand": null,
+  "aliases": [],
+  "category": "prepared",
+  "per100g": {
+   "kcal": 230,
+   "protein_g": 14,
+   "carbs_g": 22,
+   "fat_g": 9.5,
+   "fiber_g": 2,
+   "sugar_g": 3.5,
+   "satfat_g": 3,
+   "sodium_mg": 780
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 sandwich (350 g)",
+    "grams": 350,
+    "isDefault": true
+   },
+   {
+    "label": "100 g",
+    "grams": 100
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": false,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "sandwich-grilled-cheese",
+  "name": "Grilled cheese sandwich",
+  "brand": null,
+  "aliases": [],
+  "category": "prepared",
+  "per100g": {
+   "kcal": 350,
+   "protein_g": 13,
+   "carbs_g": 30,
+   "fat_g": 20,
+   "fiber_g": 1.8,
+   "sugar_g": 4,
+   "satfat_g": 9.5,
+   "sodium_mg": 780
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 sandwich (120 g)",
+    "grams": 120,
+    "isDefault": true
+   },
+   {
+    "label": "100 g",
+    "grams": 100
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": false,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "sandwich-pbj",
+  "name": "Peanut butter and jelly sandwich",
+  "brand": null,
+  "aliases": [],
+  "category": "prepared",
+  "per100g": {
+   "kcal": 330,
+   "protein_g": 10.5,
+   "carbs_g": 43,
+   "fat_g": 13.5,
+   "fiber_g": 3,
+   "sugar_g": 17,
+   "satfat_g": 2.6,
+   "sodium_mg": 420
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 sandwich (100 g)",
+    "grams": 100,
+    "isDefault": true
+   },
+   {
+    "label": "100 g",
+    "grams": 100
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": false,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "sandwich-tuna-salad",
+  "name": "Tuna salad sandwich",
+  "brand": null,
+  "aliases": [],
+  "category": "prepared",
+  "per100g": {
+   "kcal": 255,
+   "protein_g": 12,
+   "carbs_g": 24,
+   "fat_g": 12.5,
+   "fiber_g": 1.8,
+   "sugar_g": 4,
+   "satfat_g": 2.2,
+   "sodium_mg": 560
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 sandwich (200 g)",
+    "grams": 200,
+    "isDefault": true
+   },
+   {
+    "label": "100 g",
+    "grams": 100
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": false,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "sandwich-chicken-salad",
+  "name": "Chicken salad sandwich",
+  "brand": null,
+  "aliases": [],
+  "category": "prepared",
+  "per100g": {
+   "kcal": 265,
+   "protein_g": 13,
+   "carbs_g": 23,
+   "fat_g": 13.5,
+   "fiber_g": 1.6,
+   "sugar_g": 3.5,
+   "satfat_g": 2.4,
+   "sodium_mg": 540
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 sandwich (200 g)",
+    "grams": 200,
+    "isDefault": true
+   },
+   {
+    "label": "100 g",
+    "grams": 100
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": false,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "sandwich-egg-cheese-english-muffin",
+  "name": "Breakfast sandwich, egg and cheese",
+  "brand": null,
+  "aliases": [],
+  "category": "prepared",
+  "per100g": {
+   "kcal": 220,
+   "protein_g": 11.5,
+   "carbs_g": 22,
+   "fat_g": 9.5,
+   "fiber_g": 1.5,
+   "sugar_g": 3,
+   "satfat_g": 4,
+   "sodium_mg": 620
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 sandwich (150 g)",
+    "grams": 150,
+    "isDefault": true
+   },
+   {
+    "label": "100 g",
+    "grams": 100
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": false,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "sandwich-gyro",
+  "name": "Gyro, lamb, with tzatziki",
+  "brand": null,
+  "aliases": [],
+  "category": "prepared",
+  "per100g": {
+   "kcal": 195,
+   "protein_g": 11,
+   "carbs_g": 17,
+   "fat_g": 9,
+   "fiber_g": 1.5,
+   "sugar_g": 2.5,
+   "satfat_g": 3.2,
+   "sodium_mg": 560
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 gyro (300 g)",
+    "grams": 300,
+    "isDefault": true
+   },
+   {
+    "label": "100 g",
+    "grams": 100
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": false,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "sandwich-shawarma-wrap",
+  "name": "Chicken shawarma wrap",
+  "brand": null,
+  "aliases": [],
+  "category": "prepared",
+  "per100g": {
+   "kcal": 205,
+   "protein_g": 13,
+   "carbs_g": 19,
+   "fat_g": 8.5,
+   "fiber_g": 2,
+   "sugar_g": 2,
+   "satfat_g": 2.4,
+   "sodium_mg": 580
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 wrap (300 g)",
+    "grams": 300,
+    "isDefault": true
+   },
+   {
+    "label": "100 g",
+    "grams": 100
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": false,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "sandwich-falafel-wrap",
+  "name": "Falafel wrap, with tahini",
+  "brand": null,
+  "aliases": [],
+  "category": "prepared",
+  "per100g": {
+   "kcal": 225,
+   "protein_g": 8,
+   "carbs_g": 28,
+   "fat_g": 9.5,
+   "fiber_g": 5,
+   "sugar_g": 3,
+   "satfat_g": 1.5,
+   "sodium_mg": 520
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 wrap (280 g)",
+    "grams": 280,
+    "isDefault": true
+   },
+   {
+    "label": "100 g",
+    "grams": 100
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": false,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "sandwich-philly-cheesesteak",
+  "name": "Philly cheesesteak",
+  "brand": null,
+  "aliases": [],
+  "category": "prepared",
+  "per100g": {
+   "kcal": 230,
+   "protein_g": 14,
+   "carbs_g": 18,
+   "fat_g": 11.5,
+   "fiber_g": 1.2,
+   "sugar_g": 2.5,
+   "satfat_g": 4.5,
+   "sodium_mg": 620
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 sandwich (300 g)",
+    "grams": 300,
+    "isDefault": true
+   },
+   {
+    "label": "100 g",
+    "grams": 100
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": false,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "sandwich-pulled-pork",
+  "name": "Pulled pork sandwich, with BBQ sauce",
+  "brand": null,
+  "aliases": [],
+  "category": "prepared",
+  "per100g": {
+   "kcal": 245,
+   "protein_g": 13.5,
+   "carbs_g": 27,
+   "fat_g": 9.5,
+   "fiber_g": 1.2,
+   "sugar_g": 11,
+   "satfat_g": 3.2,
+   "sodium_mg": 720
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 sandwich (220 g)",
+    "grams": 220,
+    "isDefault": true
+   },
+   {
+    "label": "100 g",
+    "grams": 100
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": false,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "sandwich-italian-sub",
+  "name": "Italian sub, cold cuts",
+  "brand": null,
+  "aliases": [],
+  "category": "prepared",
+  "per100g": {
+   "kcal": 250,
+   "protein_g": 11,
+   "carbs_g": 24,
+   "fat_g": 12.5,
+   "fiber_g": 1.5,
+   "sugar_g": 3.5,
+   "satfat_g": 4.2,
+   "sodium_mg": 900
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "6 inch sub (250 g)",
+    "grams": 250,
+    "isDefault": true
+   },
+   {
+    "label": "100 g",
+    "grams": 100
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": false,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "avocado-toast",
+  "name": "Avocado toast, on whole grain",
+  "brand": null,
+  "aliases": [],
+  "category": "prepared",
+  "per100g": {
+   "kcal": 200,
+   "protein_g": 6,
+   "carbs_g": 22,
+   "fat_g": 10.5,
+   "fiber_g": 5,
+   "sugar_g": 2.5,
+   "satfat_g": 1.8,
+   "sodium_mg": 350
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 slice (120 g)",
+    "grams": 120,
+    "isDefault": true
+   },
+   {
+    "label": "2 slices (240 g)",
+    "grams": 240
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": false,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "salad-caesar-with-chicken",
+  "name": "Caesar salad with grilled chicken",
+  "brand": null,
+  "aliases": [],
+  "category": "prepared",
+  "per100g": {
+   "kcal": 135,
+   "protein_g": 10,
+   "carbs_g": 5,
+   "fat_g": 8.5,
+   "fiber_g": 1.5,
+   "sugar_g": 1.5,
+   "satfat_g": 2,
+   "sodium_mg": 420
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 entree salad (350 g)",
+    "grams": 350,
+    "isDefault": true
+   },
+   {
+    "label": "100 g",
+    "grams": 100
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": false,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "salad-cobb",
+  "name": "Cobb salad, with dressing",
+  "brand": null,
+  "aliases": [],
+  "category": "prepared",
+  "per100g": {
+   "kcal": 160,
+   "protein_g": 11,
+   "carbs_g": 4.5,
+   "fat_g": 11.5,
+   "fiber_g": 1.5,
+   "sugar_g": 2,
+   "satfat_g": 3.5,
+   "sodium_mg": 480
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 entree salad (350 g)",
+    "grams": 350,
+    "isDefault": true
+   },
+   {
+    "label": "100 g",
+    "grams": 100
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": false,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "salad-greek",
+  "name": "Greek salad, with feta and dressing",
+  "brand": null,
+  "aliases": [],
+  "category": "prepared",
+  "per100g": {
+   "kcal": 120,
+   "protein_g": 3.5,
+   "carbs_g": 6,
+   "fat_g": 9.5,
+   "fiber_g": 2,
+   "sugar_g": 4,
+   "satfat_g": 2.8,
+   "sodium_mg": 450
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 side salad (200 g)",
+    "grams": 200,
+    "isDefault": true
+   },
+   {
+    "label": "1 entree (350 g)",
+    "grams": 350
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": false,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "salad-garden-no-dressing",
+  "name": "Garden salad, no dressing",
+  "brand": null,
+  "aliases": [],
+  "category": "prepared",
+  "per100g": {
+   "kcal": 25,
+   "protein_g": 1.5,
+   "carbs_g": 5,
+   "fat_g": 0.3,
+   "fiber_g": 2,
+   "sugar_g": 2.5,
+   "satfat_g": 0.05,
+   "sodium_mg": 30
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 side salad (100 g)",
+    "grams": 100,
+    "isDefault": true
+   },
+   {
+    "label": "1 entree (250 g)",
+    "grams": 250
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": false,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "salad-chicken-salad-scoop",
+  "name": "Chicken salad, deli scoop",
+  "brand": null,
+  "aliases": [],
+  "category": "prepared",
+  "per100g": {
+   "kcal": 230,
+   "protein_g": 13,
+   "carbs_g": 4.5,
+   "fat_g": 18,
+   "fiber_g": 0.6,
+   "sugar_g": 2,
+   "satfat_g": 3,
+   "sodium_mg": 480
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1/2 cup (110 g)",
+    "grams": 110,
+    "isDefault": true
+   },
+   {
+    "label": "100 g",
+    "grams": 100
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": false,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "salad-tuna-scoop",
+  "name": "Tuna salad, deli scoop",
+  "brand": null,
+  "aliases": [],
+  "category": "prepared",
+  "per100g": {
+   "kcal": 187,
+   "protein_g": 16,
+   "carbs_g": 9.4,
+   "fat_g": 9.3,
+   "fiber_g": 0,
+   "sugar_g": 0,
+   "satfat_g": 1.55,
+   "sodium_mg": 402
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1/2 cup (102 g)",
+    "grams": 102,
+    "isDefault": true
+   },
+   {
+    "label": "100 g",
+    "grams": 100
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": true,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "burger-cheeseburger-homemade",
+  "name": "Cheeseburger, homemade, with bun",
+  "brand": null,
+  "aliases": [],
+  "category": "prepared",
+  "per100g": {
+   "kcal": 255,
+   "protein_g": 14,
+   "carbs_g": 19,
+   "fat_g": 13.5,
+   "fiber_g": 1.2,
+   "sugar_g": 4,
+   "satfat_g": 5.5,
+   "sodium_mg": 520
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 burger (200 g)",
+    "grams": 200,
+    "isDefault": true
+   },
+   {
+    "label": "100 g",
+    "grams": 100
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": false,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "hot-dog-with-bun",
+  "name": "Hot dog with bun, plain",
+  "brand": null,
+  "aliases": [],
+  "category": "prepared",
+  "per100g": {
+   "kcal": 280,
+   "protein_g": 10.5,
+   "carbs_g": 24,
+   "fat_g": 16,
+   "fiber_g": 1,
+   "sugar_g": 5,
+   "satfat_g": 5.5,
+   "sodium_mg": 810
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 hot dog (98 g)",
+    "grams": 98,
+    "isDefault": true
+   },
+   {
+    "label": "2 hot dogs (196 g)",
+    "grams": 196
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": false,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "chicken-pot-pie",
+  "name": "Chicken pot pie",
+  "brand": null,
+  "aliases": [],
+  "category": "prepared",
+  "per100g": {
+   "kcal": 210,
+   "protein_g": 7.5,
+   "carbs_g": 19,
+   "fat_g": 11.5,
+   "fiber_g": 1.2,
+   "sugar_g": 2.5,
+   "satfat_g": 4.2,
+   "sodium_mg": 450
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 pie (250 g)",
+    "grams": 250,
+    "isDefault": true
+   },
+   {
+    "label": "100 g",
+    "grams": 100
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": false,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "shepherds-pie",
+  "name": "Shepherd's pie",
+  "brand": null,
+  "aliases": [],
+  "category": "prepared",
+  "per100g": {
+   "kcal": 130,
+   "protein_g": 7.5,
+   "carbs_g": 12,
+   "fat_g": 5.5,
+   "fiber_g": 1.5,
+   "sugar_g": 2.5,
+   "satfat_g": 2.2,
+   "sodium_mg": 400
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 cup (250 g)",
+    "grams": 250,
+    "isDefault": true
+   },
+   {
+    "label": "100 g",
+    "grams": 100
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": false,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "beef-stroganoff",
+  "name": "Beef stroganoff, with noodles",
+  "brand": null,
+  "aliases": [],
+  "category": "prepared",
+  "per100g": {
+   "kcal": 150,
+   "protein_g": 9.5,
+   "carbs_g": 14,
+   "fat_g": 6,
+   "fiber_g": 0.8,
+   "sugar_g": 2,
+   "satfat_g": 2.5,
+   "sodium_mg": 420
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 cup (220 g)",
+    "grams": 220,
+    "isDefault": true
+   },
+   {
+    "label": "100 g",
+    "grams": 100
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": false,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "jambalaya",
+  "name": "Jambalaya, chicken and sausage",
+  "brand": null,
+  "aliases": [],
+  "category": "prepared",
+  "per100g": {
+   "kcal": 140,
+   "protein_g": 8.5,
+   "carbs_g": 16,
+   "fat_g": 4.5,
+   "fiber_g": 1,
+   "sugar_g": 1.5,
+   "satfat_g": 1.5,
+   "sodium_mg": 500
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 cup (240 g)",
+    "grams": 240,
+    "isDefault": true
+   },
+   {
+    "label": "100 g",
+    "grams": 100
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": false,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "casserole-tuna-noodle",
+  "name": "Tuna noodle casserole",
+  "brand": null,
+  "aliases": [],
+  "category": "prepared",
+  "per100g": {
+   "kcal": 145,
+   "protein_g": 8.5,
+   "carbs_g": 15,
+   "fat_g": 5.5,
+   "fiber_g": 1,
+   "sugar_g": 2,
+   "satfat_g": 2.2,
+   "sodium_mg": 420
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 cup (220 g)",
+    "grams": 220,
+    "isDefault": true
+   },
+   {
+    "label": "100 g",
+    "grams": 100
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": false,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "stuffed-peppers-beef",
+  "name": "Stuffed peppers, beef and rice",
+  "brand": null,
+  "aliases": [],
+  "category": "prepared",
+  "per100g": {
+   "kcal": 115,
+   "protein_g": 7.5,
+   "carbs_g": 10,
+   "fat_g": 5,
+   "fiber_g": 1.8,
+   "sugar_g": 3.5,
+   "satfat_g": 1.9,
+   "sodium_mg": 380
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 pepper (250 g)",
+    "grams": 250,
+    "isDefault": true
+   },
+   {
+    "label": "100 g",
+    "grams": 100
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": false,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "empanada-beef",
+  "name": "Empanada, beef, baked",
+  "brand": null,
+  "aliases": [],
+  "category": "prepared",
+  "per100g": {
+   "kcal": 275,
+   "protein_g": 9,
+   "carbs_g": 26,
+   "fat_g": 14.5,
+   "fiber_g": 1.5,
+   "sugar_g": 1.5,
+   "satfat_g": 4.5,
+   "sodium_mg": 450
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 empanada (100 g)",
+    "grams": 100,
+    "isDefault": true
+   },
+   {
+    "label": "100 g",
+    "grams": 100
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": false,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "samosa-vegetable",
+  "name": "Samosa, vegetable, fried",
+  "brand": null,
+  "aliases": [],
+  "category": "prepared",
+  "per100g": {
+   "kcal": 300,
+   "protein_g": 5.5,
+   "carbs_g": 32,
+   "fat_g": 17,
+   "fiber_g": 2.5,
+   "sugar_g": 2,
+   "satfat_g": 5,
+   "sodium_mg": 450
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 samosa (65 g)",
+    "grams": 65,
+    "isDefault": true
+   },
+   {
+    "label": "2 samosas (130 g)",
+    "grams": 130
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": false,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "arepa-cheese",
+  "name": "Arepa, with cheese",
+  "brand": null,
+  "aliases": [],
+  "category": "prepared",
+  "per100g": {
+   "kcal": 250,
+   "protein_g": 8,
+   "carbs_g": 33,
+   "fat_g": 9.5,
+   "fiber_g": 2.5,
+   "sugar_g": 1.5,
+   "satfat_g": 4,
+   "sodium_mg": 420
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 arepa (130 g)",
+    "grams": 130,
+    "isDefault": true
+   },
+   {
+    "label": "100 g",
+    "grams": 100
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": false,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "chia-pudding",
+  "name": "Chia pudding, with almond milk",
+  "brand": null,
+  "aliases": [],
+  "category": "prepared",
+  "per100g": {
+   "kcal": 110,
+   "protein_g": 3.5,
+   "carbs_g": 10,
+   "fat_g": 6.5,
+   "fiber_g": 7.5,
+   "sugar_g": 3,
+   "satfat_g": 0.6,
+   "sodium_mg": 55
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 cup (200 g)",
+    "grams": 200,
+    "isDefault": true
+   },
+   {
+    "label": "100 g",
+    "grams": 100
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": false,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "smoothie-bowl-acai",
+  "name": "Açaí smoothie bowl, with granola",
+  "brand": null,
+  "aliases": [],
+  "category": "prepared",
+  "per100g": {
+   "kcal": 120,
+   "protein_g": 3,
+   "carbs_g": 20,
+   "fat_g": 4,
+   "fiber_g": 3.5,
+   "sugar_g": 13,
+   "satfat_g": 1.4,
+   "sodium_mg": 45
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 bowl (350 g)",
+    "grams": 350,
+    "isDefault": true
+   },
+   {
+    "label": "100 g",
+    "grams": 100
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": false,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "yogurt-parfait-granola",
+  "name": "Yogurt parfait, with granola and berries",
+  "brand": null,
+  "aliases": [],
+  "category": "prepared",
+  "per100g": {
+   "kcal": 120,
+   "protein_g": 6,
+   "carbs_g": 18,
+   "fat_g": 2.5,
+   "fiber_g": 1.5,
+   "sugar_g": 12,
+   "satfat_g": 0.9,
+   "sodium_mg": 55
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 parfait (250 g)",
+    "grams": 250,
+    "isDefault": true
+   },
+   {
+    "label": "100 g",
+    "grams": 100
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": false,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "oatmeal-bowl-banana-pb",
+  "name": "Oatmeal bowl, banana and peanut butter",
+  "brand": null,
+  "aliases": [],
+  "category": "prepared",
+  "per100g": {
+   "kcal": 140,
+   "protein_g": 5.5,
+   "carbs_g": 18,
+   "fat_g": 5.5,
+   "fiber_g": 2.5,
+   "sugar_g": 6,
+   "satfat_g": 1.1,
+   "sodium_mg": 60
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 bowl (350 g)",
+    "grams": 350,
+    "isDefault": true
+   },
+   {
+    "label": "100 g",
+    "grams": 100
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": false,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "protein-oats-prepared",
+  "name": "Protein oats, oats with whey, prepared",
+  "brand": null,
+  "aliases": [],
+  "category": "prepared",
+  "per100g": {
+   "kcal": 125,
+   "protein_g": 9,
+   "carbs_g": 15,
+   "fat_g": 3,
+   "fiber_g": 2,
+   "sugar_g": 3,
+   "satfat_g": 0.8,
+   "sodium_mg": 75
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 bowl (300 g)",
+    "grams": 300,
+    "isDefault": true
+   },
+   {
+    "label": "100 g",
+    "grams": 100
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": false,
+  "source": "USDA FoodData Central (SR Legacy)"
+ }
+]

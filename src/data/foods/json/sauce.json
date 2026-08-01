@@ -1,0 +1,1579 @@
+[
+ {
+  "id": "sauce-marinara",
+  "name": "Marinara sauce, jarred",
+  "brand": null,
+  "aliases": [
+   "pasta sauce",
+   "tomato sauce"
+  ],
+  "category": "sauce",
+  "per100g": {
+   "kcal": 54,
+   "protein_g": 1.6,
+   "carbs_g": 9.3,
+   "fat_g": 1.3,
+   "fiber_g": 1.9,
+   "sugar_g": 5.3,
+   "satfat_g": 0.2,
+   "sodium_mg": 420
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1/2 cup (125 g)",
+    "grams": 125,
+    "isDefault": true
+   },
+   {
+    "label": "1/4 cup (63 g)",
+    "grams": 63
+   },
+   {
+    "label": "1 cup (250 g)",
+    "grams": 250
+   }
+  ],
+  "density_g_per_ml": 1.05,
+  "verified": true,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "sauce-tomato-plain",
+  "name": "Tomato sauce, canned, plain",
+  "brand": null,
+  "aliases": [],
+  "category": "sauce",
+  "per100g": {
+   "kcal": 24,
+   "protein_g": 1.2,
+   "carbs_g": 5.3,
+   "fat_g": 0.2,
+   "fiber_g": 1.5,
+   "sugar_g": 3.7,
+   "satfat_g": 0.03,
+   "sodium_mg": 460
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1/4 cup (62 g)",
+    "grams": 62,
+    "isDefault": true
+   },
+   {
+    "label": "1 cup (245 g)",
+    "grams": 245
+   }
+  ],
+  "density_g_per_ml": 1.05,
+  "verified": true,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "sauce-vodka",
+  "name": "Vodka sauce",
+  "brand": null,
+  "aliases": [],
+  "category": "sauce",
+  "per100g": {
+   "kcal": 110,
+   "protein_g": 2.5,
+   "carbs_g": 9,
+   "fat_g": 7,
+   "fiber_g": 1.5,
+   "sugar_g": 5,
+   "satfat_g": 3,
+   "sodium_mg": 450
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1/2 cup (125 g)",
+    "grams": 125,
+    "isDefault": true
+   },
+   {
+    "label": "1/4 cup (63 g)",
+    "grams": 63
+   }
+  ],
+  "density_g_per_ml": 1.05,
+  "verified": false,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "sauce-alfredo",
+  "name": "Alfredo sauce, jarred",
+  "brand": null,
+  "aliases": [],
+  "category": "sauce",
+  "per100g": {
+   "kcal": 180,
+   "protein_g": 3,
+   "carbs_g": 5,
+   "fat_g": 17,
+   "fiber_g": 0.5,
+   "sugar_g": 2,
+   "satfat_g": 8,
+   "sodium_mg": 700
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1/4 cup (61 g)",
+    "grams": 61,
+    "isDefault": true
+   },
+   {
+    "label": "1/2 cup (122 g)",
+    "grams": 122
+   }
+  ],
+  "density_g_per_ml": 1.05,
+  "verified": false,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "sauce-bolognese",
+  "name": "Bolognese meat sauce",
+  "brand": null,
+  "aliases": [],
+  "category": "sauce",
+  "per100g": {
+   "kcal": 95,
+   "protein_g": 6,
+   "carbs_g": 7,
+   "fat_g": 4.5,
+   "fiber_g": 1.5,
+   "sugar_g": 4,
+   "satfat_g": 1.6,
+   "sodium_mg": 400
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1/2 cup (125 g)",
+    "grams": 125,
+    "isDefault": true
+   },
+   {
+    "label": "1 cup (250 g)",
+    "grams": 250
+   }
+  ],
+  "density_g_per_ml": 1.05,
+  "verified": false,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "sauce-arrabbiata",
+  "name": "Arrabbiata sauce",
+  "brand": null,
+  "aliases": [],
+  "category": "sauce",
+  "per100g": {
+   "kcal": 60,
+   "protein_g": 1.8,
+   "carbs_g": 8.5,
+   "fat_g": 2,
+   "fiber_g": 2,
+   "sugar_g": 5,
+   "satfat_g": 0.3,
+   "sodium_mg": 480
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1/2 cup (125 g)",
+    "grams": 125,
+    "isDefault": true
+   },
+   {
+    "label": "100 g",
+    "grams": 100
+   }
+  ],
+  "density_g_per_ml": 1.05,
+  "verified": false,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "pesto-basil",
+  "name": "Pesto, basil",
+  "brand": null,
+  "aliases": [],
+  "category": "sauce",
+  "per100g": {
+   "kcal": 455,
+   "protein_g": 5,
+   "carbs_g": 6,
+   "fat_g": 46,
+   "fiber_g": 1.5,
+   "sugar_g": 1.5,
+   "satfat_g": 7,
+   "sodium_mg": 750
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "2 tbsp (32 g)",
+    "grams": 32,
+    "isDefault": true
+   },
+   {
+    "label": "1 tbsp (16 g)",
+    "grams": 16
+   },
+   {
+    "label": "1/4 cup (64 g)",
+    "grams": 64
+   }
+  ],
+  "density_g_per_ml": 1.05,
+  "verified": false,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "pesto-sundried-tomato",
+  "name": "Pesto, sun-dried tomato",
+  "brand": null,
+  "aliases": [],
+  "category": "sauce",
+  "per100g": {
+   "kcal": 400,
+   "protein_g": 4,
+   "carbs_g": 10,
+   "fat_g": 38,
+   "fiber_g": 2.5,
+   "sugar_g": 4,
+   "satfat_g": 5.5,
+   "sodium_mg": 800
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "2 tbsp (32 g)",
+    "grams": 32,
+    "isDefault": true
+   },
+   {
+    "label": "100 g",
+    "grams": 100
+   }
+  ],
+  "density_g_per_ml": 1.05,
+  "verified": false,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "sauce-bbq",
+  "name": "Barbecue sauce",
+  "brand": null,
+  "aliases": [],
+  "category": "sauce",
+  "per100g": {
+   "kcal": 172,
+   "protein_g": 0.82,
+   "carbs_g": 40.8,
+   "fat_g": 0.63,
+   "fiber_g": 0.9,
+   "sugar_g": 33.2,
+   "satfat_g": 0.09,
+   "sodium_mg": 1027
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "2 tbsp (36 g)",
+    "grams": 36,
+    "isDefault": true
+   },
+   {
+    "label": "1 tbsp (18 g)",
+    "grams": 18
+   },
+   {
+    "label": "1/4 cup (72 g)",
+    "grams": 72
+   }
+  ],
+  "density_g_per_ml": 1.2,
+  "verified": true,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "sauce-bbq-sugar-free",
+  "name": "Barbecue sauce, sugar free",
+  "brand": null,
+  "aliases": [],
+  "category": "sauce",
+  "per100g": {
+   "kcal": 40,
+   "protein_g": 1,
+   "carbs_g": 9,
+   "fat_g": 0.3,
+   "fiber_g": 3,
+   "sugar_g": 1,
+   "satfat_g": 0,
+   "sodium_mg": 900
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "2 tbsp (36 g)",
+    "grams": 36,
+    "isDefault": true
+   },
+   {
+    "label": "100 g",
+    "grams": 100
+   }
+  ],
+  "density_g_per_ml": 1.2,
+  "verified": false,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "sauce-teriyaki",
+  "name": "Teriyaki sauce",
+  "brand": null,
+  "aliases": [],
+  "category": "sauce",
+  "per100g": {
+   "kcal": 89,
+   "protein_g": 5.93,
+   "carbs_g": 15.6,
+   "fat_g": 0.02,
+   "fiber_g": 0.1,
+   "sugar_g": 14.1,
+   "satfat_g": 0,
+   "sodium_mg": 3833
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 tbsp (18 ml)",
+    "grams": 21.6,
+    "isDefault": true
+   },
+   {
+    "label": "2 tbsp (36 g)",
+    "grams": 36
+   }
+  ],
+  "density_g_per_ml": 1.2,
+  "verified": true,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "sauce-buffalo",
+  "name": "Buffalo wing sauce",
+  "brand": null,
+  "aliases": [],
+  "category": "sauce",
+  "per100g": {
+   "kcal": 60,
+   "protein_g": 0.5,
+   "carbs_g": 4,
+   "fat_g": 4.5,
+   "fiber_g": 0.5,
+   "sugar_g": 1,
+   "satfat_g": 0.7,
+   "sodium_mg": 3200
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 tbsp (15 g)",
+    "grams": 15,
+    "isDefault": true
+   },
+   {
+    "label": "2 tbsp (30 g)",
+    "grams": 30
+   }
+  ],
+  "density_g_per_ml": 1.05,
+  "verified": false,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "sauce-enchilada-red",
+  "name": "Enchilada sauce, red",
+  "brand": null,
+  "aliases": [],
+  "category": "sauce",
+  "per100g": {
+   "kcal": 45,
+   "protein_g": 1.2,
+   "carbs_g": 6.5,
+   "fat_g": 1.7,
+   "fiber_g": 1.5,
+   "sugar_g": 2.5,
+   "satfat_g": 0.3,
+   "sodium_mg": 700
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1/4 cup (60 g)",
+    "grams": 60,
+    "isDefault": true
+   },
+   {
+    "label": "1/2 cup (120 g)",
+    "grams": 120
+   }
+  ],
+  "density_g_per_ml": 1.05,
+  "verified": false,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "sauce-queso",
+  "name": "Queso dip, cheese sauce",
+  "brand": null,
+  "aliases": [],
+  "category": "sauce",
+  "per100g": {
+   "kcal": 250,
+   "protein_g": 9,
+   "carbs_g": 8,
+   "fat_g": 20,
+   "fiber_g": 0.5,
+   "sugar_g": 4.5,
+   "satfat_g": 9,
+   "sodium_mg": 1150
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1/4 cup (60 g)",
+    "grams": 60,
+    "isDefault": true
+   },
+   {
+    "label": "2 tbsp (30 g)",
+    "grams": 30
+   }
+  ],
+  "density_g_per_ml": 1.05,
+  "verified": false,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "sauce-cheese-nacho",
+  "name": "Nacho cheese sauce",
+  "brand": null,
+  "aliases": [],
+  "category": "sauce",
+  "per100g": {
+   "kcal": 248,
+   "protein_g": 9.5,
+   "carbs_g": 8.5,
+   "fat_g": 19.4,
+   "fiber_g": 0,
+   "sugar_g": 4.5,
+   "satfat_g": 8.5,
+   "sodium_mg": 1300
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1/4 cup (63 g)",
+    "grams": 63,
+    "isDefault": true
+   },
+   {
+    "label": "100 g",
+    "grams": 100
+   }
+  ],
+  "density_g_per_ml": 1.05,
+  "verified": false,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "sauce-hollandaise",
+  "name": "Hollandaise sauce",
+  "brand": null,
+  "aliases": [],
+  "category": "sauce",
+  "per100g": {
+   "kcal": 525,
+   "protein_g": 3,
+   "carbs_g": 2,
+   "fat_g": 56,
+   "fiber_g": 0,
+   "sugar_g": 1,
+   "satfat_g": 33,
+   "sodium_mg": 500
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "2 tbsp (30 g)",
+    "grams": 30,
+    "isDefault": true
+   },
+   {
+    "label": "1/4 cup (60 g)",
+    "grams": 60
+   }
+  ],
+  "density_g_per_ml": 1.05,
+  "verified": false,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "sauce-bechamel",
+  "name": "Béchamel, white sauce",
+  "brand": null,
+  "aliases": [],
+  "category": "sauce",
+  "per100g": {
+   "kcal": 120,
+   "protein_g": 3.5,
+   "carbs_g": 8,
+   "fat_g": 8,
+   "fiber_g": 0.2,
+   "sugar_g": 3.5,
+   "satfat_g": 4.5,
+   "sodium_mg": 400
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1/4 cup (63 g)",
+    "grams": 63,
+    "isDefault": true
+   },
+   {
+    "label": "100 g",
+    "grams": 100
+   }
+  ],
+  "density_g_per_ml": 1.05,
+  "verified": false,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "gravy-brown",
+  "name": "Brown gravy, prepared",
+  "brand": null,
+  "aliases": [],
+  "category": "sauce",
+  "per100g": {
+   "kcal": 55,
+   "protein_g": 1.5,
+   "carbs_g": 6,
+   "fat_g": 2.5,
+   "fiber_g": 0.3,
+   "sugar_g": 1,
+   "satfat_g": 1,
+   "sodium_mg": 600
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1/4 cup (60 ml)",
+    "grams": 63,
+    "isDefault": true
+   },
+   {
+    "label": "1/2 cup (120 ml)",
+    "grams": 126
+   }
+  ],
+  "density_g_per_ml": 1.05,
+  "verified": false,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "gravy-turkey",
+  "name": "Turkey gravy, canned",
+  "brand": null,
+  "aliases": [],
+  "category": "sauce",
+  "per100g": {
+   "kcal": 36,
+   "protein_g": 1.85,
+   "carbs_g": 4.72,
+   "fat_g": 1.3,
+   "fiber_g": 0.4,
+   "sugar_g": 0.5,
+   "satfat_g": 0.38,
+   "sodium_mg": 560
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1/4 cup (60 ml)",
+    "grams": 63,
+    "isDefault": true
+   },
+   {
+    "label": "1/2 cup (120 ml)",
+    "grams": 126
+   }
+  ],
+  "density_g_per_ml": 1.05,
+  "verified": true,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "gravy-sausage",
+  "name": "Sausage gravy, country",
+  "brand": null,
+  "aliases": [],
+  "category": "sauce",
+  "per100g": {
+   "kcal": 160,
+   "protein_g": 4.5,
+   "carbs_g": 9,
+   "fat_g": 11.5,
+   "fiber_g": 0.3,
+   "sugar_g": 2,
+   "satfat_g": 4,
+   "sodium_mg": 600
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1/2 cup (120 g)",
+    "grams": 120,
+    "isDefault": true
+   },
+   {
+    "label": "100 g",
+    "grams": 100
+   }
+  ],
+  "density_g_per_ml": 1.05,
+  "verified": false,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "sauce-curry-tikka-masala",
+  "name": "Tikka masala simmer sauce",
+  "brand": null,
+  "aliases": [],
+  "category": "sauce",
+  "per100g": {
+   "kcal": 110,
+   "protein_g": 2,
+   "carbs_g": 10,
+   "fat_g": 7,
+   "fiber_g": 1.5,
+   "sugar_g": 6,
+   "satfat_g": 3.5,
+   "sodium_mg": 500
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1/2 cup (125 g)",
+    "grams": 125,
+    "isDefault": true
+   },
+   {
+    "label": "1/4 cup (63 g)",
+    "grams": 63
+   }
+  ],
+  "density_g_per_ml": 1.05,
+  "verified": false,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "sauce-curry-thai-green",
+  "name": "Thai green curry sauce",
+  "brand": null,
+  "aliases": [],
+  "category": "sauce",
+  "per100g": {
+   "kcal": 120,
+   "protein_g": 1.5,
+   "carbs_g": 7,
+   "fat_g": 10,
+   "fiber_g": 1,
+   "sugar_g": 4,
+   "satfat_g": 7.5,
+   "sodium_mg": 650
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1/2 cup (125 g)",
+    "grams": 125,
+    "isDefault": true
+   },
+   {
+    "label": "100 g",
+    "grams": 100
+   }
+  ],
+  "density_g_per_ml": 1.05,
+  "verified": false,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "sauce-peanut-satay",
+  "name": "Peanut satay sauce",
+  "brand": null,
+  "aliases": [],
+  "category": "sauce",
+  "per100g": {
+   "kcal": 280,
+   "protein_g": 8,
+   "carbs_g": 18,
+   "fat_g": 20,
+   "fiber_g": 2.5,
+   "sugar_g": 12,
+   "satfat_g": 4,
+   "sodium_mg": 750
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "2 tbsp (32 g)",
+    "grams": 32,
+    "isDefault": true
+   },
+   {
+    "label": "1/4 cup (64 g)",
+    "grams": 64
+   }
+  ],
+  "density_g_per_ml": 1.05,
+  "verified": false,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "sauce-sweet-sour",
+  "name": "Sweet and sour sauce",
+  "brand": null,
+  "aliases": [],
+  "category": "sauce",
+  "per100g": {
+   "kcal": 166,
+   "protein_g": 0.2,
+   "carbs_g": 41,
+   "fat_g": 0.1,
+   "fiber_g": 0.3,
+   "sugar_g": 33,
+   "satfat_g": 0,
+   "sodium_mg": 380
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "2 tbsp (36 g)",
+    "grams": 36,
+    "isDefault": true
+   },
+   {
+    "label": "1 packet (28 g)",
+    "grams": 28
+   }
+  ],
+  "density_g_per_ml": 1.2,
+  "verified": true,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "sauce-mole",
+  "name": "Mole sauce",
+  "brand": null,
+  "aliases": [],
+  "category": "sauce",
+  "per100g": {
+   "kcal": 200,
+   "protein_g": 4.5,
+   "carbs_g": 20,
+   "fat_g": 12,
+   "fiber_g": 3.5,
+   "sugar_g": 10,
+   "satfat_g": 2.5,
+   "sodium_mg": 600
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1/4 cup (60 g)",
+    "grams": 60,
+    "isDefault": true
+   },
+   {
+    "label": "100 g",
+    "grams": 100
+   }
+  ],
+  "density_g_per_ml": 1.05,
+  "verified": false,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "sauce-romesco",
+  "name": "Romesco sauce",
+  "brand": null,
+  "aliases": [],
+  "category": "sauce",
+  "per100g": {
+   "kcal": 290,
+   "protein_g": 4,
+   "carbs_g": 10,
+   "fat_g": 26,
+   "fiber_g": 3,
+   "sugar_g": 4,
+   "satfat_g": 3.5,
+   "sodium_mg": 450
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "2 tbsp (30 g)",
+    "grams": 30,
+    "isDefault": true
+   },
+   {
+    "label": "100 g",
+    "grams": 100
+   }
+  ],
+  "density_g_per_ml": 1.05,
+  "verified": false,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "dressing-ranch",
+  "name": "Ranch dressing, regular",
+  "brand": null,
+  "aliases": [],
+  "category": "sauce",
+  "per100g": {
+   "kcal": 484,
+   "protein_g": 1.1,
+   "carbs_g": 6.1,
+   "fat_g": 50.7,
+   "fiber_g": 0.3,
+   "sugar_g": 4.3,
+   "satfat_g": 7.7,
+   "sodium_mg": 1024
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "2 tbsp (30 g)",
+    "grams": 30,
+    "isDefault": true
+   },
+   {
+    "label": "1 tbsp (15 g)",
+    "grams": 15
+   },
+   {
+    "label": "1/4 cup (60 g)",
+    "grams": 60
+   }
+  ],
+  "density_g_per_ml": 0.94,
+  "verified": true,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "dressing-ranch-light",
+  "name": "Ranch dressing, light",
+  "brand": null,
+  "aliases": [],
+  "category": "sauce",
+  "per100g": {
+   "kcal": 220,
+   "protein_g": 1,
+   "carbs_g": 13,
+   "fat_g": 18,
+   "fiber_g": 0.5,
+   "sugar_g": 5,
+   "satfat_g": 2.8,
+   "sodium_mg": 1050
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "2 tbsp (31 g)",
+    "grams": 31,
+    "isDefault": true
+   },
+   {
+    "label": "100 g",
+    "grams": 100
+   }
+  ],
+  "density_g_per_ml": 0.98,
+  "verified": false,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "dressing-blue-cheese",
+  "name": "Blue cheese dressing",
+  "brand": null,
+  "aliases": [],
+  "category": "sauce",
+  "per100g": {
+   "kcal": 484,
+   "protein_g": 2.2,
+   "carbs_g": 4.8,
+   "fat_g": 50.9,
+   "fiber_g": 0.3,
+   "sugar_g": 3.2,
+   "satfat_g": 9.7,
+   "sodium_mg": 880
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "2 tbsp (30 g)",
+    "grams": 30,
+    "isDefault": true
+   },
+   {
+    "label": "1/4 cup (60 g)",
+    "grams": 60
+   }
+  ],
+  "density_g_per_ml": 0.94,
+  "verified": true,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "dressing-caesar",
+  "name": "Caesar dressing",
+  "brand": null,
+  "aliases": [],
+  "category": "sauce",
+  "per100g": {
+   "kcal": 542,
+   "protein_g": 1.6,
+   "carbs_g": 3.3,
+   "fat_g": 57.8,
+   "fiber_g": 0.3,
+   "sugar_g": 2.1,
+   "satfat_g": 8.8,
+   "sodium_mg": 1120
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "2 tbsp (30 g)",
+    "grams": 30,
+    "isDefault": true
+   },
+   {
+    "label": "1 tbsp (15 g)",
+    "grams": 15
+   }
+  ],
+  "density_g_per_ml": 0.94,
+  "verified": true,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "dressing-italian",
+  "name": "Italian dressing",
+  "brand": null,
+  "aliases": [],
+  "category": "sauce",
+  "per100g": {
+   "kcal": 292,
+   "protein_g": 0.5,
+   "carbs_g": 11.4,
+   "fat_g": 27.6,
+   "fiber_g": 0,
+   "sugar_g": 9.2,
+   "satfat_g": 4.2,
+   "sodium_mg": 1200
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "2 tbsp (29 g)",
+    "grams": 29,
+    "isDefault": true
+   },
+   {
+    "label": "1/4 cup (58 g)",
+    "grams": 58
+   }
+  ],
+  "density_g_per_ml": 0.96,
+  "verified": true,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "dressing-balsamic-vinaigrette",
+  "name": "Balsamic vinaigrette",
+  "brand": null,
+  "aliases": [],
+  "category": "sauce",
+  "per100g": {
+   "kcal": 300,
+   "protein_g": 0.3,
+   "carbs_g": 10,
+   "fat_g": 29,
+   "fiber_g": 0.2,
+   "sugar_g": 8,
+   "satfat_g": 4.2,
+   "sodium_mg": 780
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "2 tbsp (31 g)",
+    "grams": 31,
+    "isDefault": true
+   },
+   {
+    "label": "1 tbsp (16 g)",
+    "grams": 16
+   }
+  ],
+  "density_g_per_ml": 0.96,
+  "verified": false,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "dressing-thousand-island",
+  "name": "Thousand Island dressing",
+  "brand": null,
+  "aliases": [],
+  "category": "sauce",
+  "per100g": {
+   "kcal": 378,
+   "protein_g": 0.9,
+   "carbs_g": 15.4,
+   "fat_g": 35.4,
+   "fiber_g": 0.7,
+   "sugar_g": 13.4,
+   "satfat_g": 5.1,
+   "sodium_mg": 920
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "2 tbsp (32 g)",
+    "grams": 32,
+    "isDefault": true
+   },
+   {
+    "label": "100 g",
+    "grams": 100
+   }
+  ],
+  "density_g_per_ml": 1,
+  "verified": true,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "dressing-honey-mustard",
+  "name": "Honey mustard dressing",
+  "brand": null,
+  "aliases": [],
+  "category": "sauce",
+  "per100g": {
+   "kcal": 420,
+   "protein_g": 1,
+   "carbs_g": 18,
+   "fat_g": 38,
+   "fiber_g": 0.3,
+   "sugar_g": 16,
+   "satfat_g": 5.5,
+   "sodium_mg": 600
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "2 tbsp (31 g)",
+    "grams": 31,
+    "isDefault": true
+   },
+   {
+    "label": "100 g",
+    "grams": 100
+   }
+  ],
+  "density_g_per_ml": 1,
+  "verified": false,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "dressing-greek",
+  "name": "Greek vinaigrette",
+  "brand": null,
+  "aliases": [],
+  "category": "sauce",
+  "per100g": {
+   "kcal": 400,
+   "protein_g": 0.5,
+   "carbs_g": 6,
+   "fat_g": 42,
+   "fiber_g": 0.2,
+   "sugar_g": 4,
+   "satfat_g": 6,
+   "sodium_mg": 900
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "2 tbsp (30 g)",
+    "grams": 30,
+    "isDefault": true
+   },
+   {
+    "label": "100 g",
+    "grams": 100
+   }
+  ],
+  "density_g_per_ml": 0.96,
+  "verified": false,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "dressing-sesame-ginger",
+  "name": "Sesame ginger dressing",
+  "brand": null,
+  "aliases": [],
+  "category": "sauce",
+  "per100g": {
+   "kcal": 270,
+   "protein_g": 1,
+   "carbs_g": 22,
+   "fat_g": 20,
+   "fiber_g": 0.5,
+   "sugar_g": 18,
+   "satfat_g": 2.8,
+   "sodium_mg": 1100
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "2 tbsp (32 g)",
+    "grams": 32,
+    "isDefault": true
+   },
+   {
+    "label": "100 g",
+    "grams": 100
+   }
+  ],
+  "density_g_per_ml": 1,
+  "verified": false,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "dressing-tahini-lemon",
+  "name": "Tahini lemon dressing",
+  "brand": null,
+  "aliases": [],
+  "category": "sauce",
+  "per100g": {
+   "kcal": 380,
+   "protein_g": 8,
+   "carbs_g": 12,
+   "fat_g": 34,
+   "fiber_g": 4,
+   "sugar_g": 2,
+   "satfat_g": 4.8,
+   "sodium_mg": 500
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "2 tbsp (32 g)",
+    "grams": 32,
+    "isDefault": true
+   },
+   {
+    "label": "100 g",
+    "grams": 100
+   }
+  ],
+  "density_g_per_ml": 1,
+  "verified": false,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "dressing-poppy-seed",
+  "name": "Poppy seed dressing",
+  "brand": null,
+  "aliases": [],
+  "category": "sauce",
+  "per100g": {
+   "kcal": 400,
+   "protein_g": 0.5,
+   "carbs_g": 24,
+   "fat_g": 34,
+   "fiber_g": 0.5,
+   "sugar_g": 22,
+   "satfat_g": 5,
+   "sodium_mg": 550
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "2 tbsp (32 g)",
+    "grams": 32,
+    "isDefault": true
+   },
+   {
+    "label": "100 g",
+    "grams": 100
+   }
+  ],
+  "density_g_per_ml": 1,
+  "verified": false,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "dressing-vinaigrette-oil-vinegar",
+  "name": "Oil and vinegar dressing",
+  "brand": null,
+  "aliases": [],
+  "category": "sauce",
+  "per100g": {
+   "kcal": 449,
+   "protein_g": 0,
+   "carbs_g": 2.5,
+   "fat_g": 50.1,
+   "fiber_g": 0,
+   "sugar_g": 2.5,
+   "satfat_g": 9.1,
+   "sodium_mg": 2
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "2 tbsp (31 g)",
+    "grams": 31,
+    "isDefault": true
+   },
+   {
+    "label": "1 tbsp (16 g)",
+    "grams": 16
+   }
+  ],
+  "density_g_per_ml": 0.93,
+  "verified": true,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "dressing-yogurt-light",
+  "name": "Yogurt-based light dressing",
+  "brand": null,
+  "aliases": [],
+  "category": "sauce",
+  "per100g": {
+   "kcal": 90,
+   "protein_g": 2.5,
+   "carbs_g": 8,
+   "fat_g": 5,
+   "fiber_g": 0.3,
+   "sugar_g": 5,
+   "satfat_g": 1,
+   "sodium_mg": 450
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "2 tbsp (31 g)",
+    "grams": 31,
+    "isDefault": true
+   },
+   {
+    "label": "100 g",
+    "grams": 100
+   }
+  ],
+  "density_g_per_ml": 1,
+  "verified": false,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "dressing-zero-cal",
+  "name": "Zero calorie salad dressing",
+  "brand": null,
+  "aliases": [],
+  "category": "sauce",
+  "per100g": {
+   "kcal": 10,
+   "protein_g": 0,
+   "carbs_g": 2.5,
+   "fat_g": 0,
+   "fiber_g": 0.5,
+   "sugar_g": 0.5,
+   "satfat_g": 0,
+   "sodium_mg": 400
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "2 tbsp (31 g)",
+    "grams": 31,
+    "isDefault": true
+   },
+   {
+    "label": "100 g",
+    "grams": 100
+   }
+  ],
+  "density_g_per_ml": 1,
+  "verified": false,
+  "source": "USDA FoodData Central (SR Legacy)"
+ }
+]

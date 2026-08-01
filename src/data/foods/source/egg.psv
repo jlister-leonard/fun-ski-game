@@ -1,0 +1,25 @@
+#category: egg
+#source: USDA FoodData Central (SR Legacy)
+#servings: 1 large (50 g)@50*;2 large (100 g)@100;100 g@100
+# US egg sizes by shelled weight: medium 44 g, large 50 g, XL 56 g, jumbo 63 g.
+# id|name|aliases|kcal|protein|carbs|fat|fiber|sugar|satfat|sodium|servings|extra
+egg-whole-raw|Egg, whole, raw|eggs;chicken egg|143|12.6|0.7|9.5|0|0.4|3.1|142|1 large (50 g)@50*;1 medium (44 g)@44;1 extra large (56 g)@56;1 jumbo (63 g)@63;2 large (100 g)@100|ret=160;car=0;ffol=47;fac=0;dfe=47;src=USDA FoodData Central SR Legacy FDC 171287, release 2018-04, reviewed 2026-08-01
+egg-white-raw|Egg white, raw||52|10.9|0.7|0.2|0|0.7|0|166|1 large white (33 g)@33*;3 whites (99 g)@99;100 g@100|ret=0;car=0;ffol=4;fac=0;dfe=4
+egg-yolk-raw|Egg yolk, raw||322|15.9|3.6|26.5|0|0.6|9.6|48|1 large yolk (17 g)@17*;100 g@100|ret=371;car=10;ffol=146;fac=0;dfe=146
+egg-hard-boiled|Egg, hard-boiled|boiled egg;hard cooked egg|155|12.6|1.1|10.6|0|1.1|3.3|124|1 large (50 g)@50*;2 large (100 g)@100;1 cup chopped (136 g)@136|ret=149;car=0;ffol=44;fac=0;dfe=44
+egg-poached|Egg, poached||143|12.5|0.7|9.5|0|0.4|3.1|297|1 large (50 g)@50*;2 large (100 g)@100
+egg-fried|Egg, fried in butter or oil||196|13.6|0.8|14.8|0|0.4|4.0|207|1 large (46 g)@46*;2 large (92 g)@92
+egg-scrambled|Egg, scrambled with milk and fat||149|10.0|1.6|11.0|0|1.5|3.5|145|1 large egg (61 g)@61*;2 eggs (122 g)@122;1 cup (220 g)@220
+egg-omelet|Omelet, plain||154|10.6|0.6|11.7|0|0.5|3.4|155|1 two-egg omelet (122 g)@122*;100 g@100
+egg-whites-liquid|Egg whites, liquid, carton|liquid egg whites;egg white carton|48|10.1|0.7|0.2|0|0.7|0|160|1/4 cup (60 ml)@61*;1 cup (240 ml)@243;3 tbsp (46 g)@46|d=1.015
+egg-substitute-liquid|Egg substitute, liquid|egg beaters|48|10.0|0.4|0|0|0.4|0|191|1/4 cup (60 ml)@61*;1 cup (240 ml)@243|d=1.015;brand=Egg Beaters
+egg-deviled|Deviled egg||208|9.6|1.0|18.0|0|0.8|4.0|280|1 half (28 g)@28*;2 halves (56 g)@56|v=0
+egg-salad|Egg salad||240|10.0|2.0|21.0|0|1.5|4.4|380|1/2 cup (110 g)@110*;100 g@100|v=0
+egg-duck-raw|Duck egg, raw||185|12.8|1.5|13.8|0|0.9|3.7|146|1 egg (70 g)@70*;100 g@100
+egg-quail-raw|Quail egg, raw||158|13.0|0.4|11.1|0|0.4|3.6|141|1 egg (9 g)@9*;5 eggs (45 g)@45
+egg-goose-raw|Goose egg, raw||185|13.9|1.4|13.3|0|0.9|3.6|138|1 egg (144 g)@144*;100 g@100|v=0
+egg-frittata|Frittata, vegetable||150|10.0|3.5|10.5|0.6|1.8|3.5|300|1 slice (120 g)@120*;100 g@100|v=0
+egg-quiche-lorraine|Quiche Lorraine||291|10.4|15.0|21.5|0.6|2.5|9.8|420|1 slice (155 g)@155*;100 g@100|v=0
+egg-benedict|Eggs Benedict, one||245|12.0|13.0|16.0|0.8|1.5|6.5|620|1 serving (150 g)@150*;100 g@100|v=0
+egg-whites-powder|Egg white protein powder||382|81.0|7.8|0.1|0|5.5|0|1280|1 scoop (30 g)@30*;100 g@100|v=0
+egg-century|Century egg|preserved egg;pidan|171|13.6|4.2|11.0|0|0|2.7|540|1 egg (60 g)@60*;100 g@100|v=0

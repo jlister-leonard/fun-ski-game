@@ -1,0 +1,1857 @@
+[
+ {
+  "id": "almonds-raw",
+  "name": "Almonds, raw",
+  "brand": null,
+  "aliases": [],
+  "category": "nut-seed",
+  "per100g": {
+   "kcal": 579,
+   "protein_g": 21.2,
+   "carbs_g": 21.6,
+   "fat_g": 49.9,
+   "fiber_g": 12.5,
+   "sugar_g": 4.35,
+   "satfat_g": 3.8,
+   "sodium_mg": 1
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": 0,
+   "vitamin_a_carotenoid_mcg_rae": 0,
+   "folate_food_mcg": 44,
+   "folic_acid_mcg": 0,
+   "folate_dfe_mcg": 44
+  },
+  "servings": [
+   {
+    "label": "1 oz (28 g)",
+    "grams": 28,
+    "isDefault": true
+   },
+   {
+    "label": "23 almonds (28 g)",
+    "grams": 28
+   },
+   {
+    "label": "1/4 cup (36 g)",
+    "grams": 36
+   },
+   {
+    "label": "1 cup (143 g)",
+    "grams": 143
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": true,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "almonds-roasted-salted",
+  "name": "Almonds, dry roasted, salted",
+  "brand": null,
+  "aliases": [],
+  "category": "nut-seed",
+  "per100g": {
+   "kcal": 598,
+   "protein_g": 21,
+   "carbs_g": 21,
+   "fat_g": 52.5,
+   "fiber_g": 10.9,
+   "sugar_g": 4.9,
+   "satfat_g": 4,
+   "sodium_mg": 350
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 oz (28 g)",
+    "grams": 28,
+    "isDefault": true
+   },
+   {
+    "label": "1/4 cup (35 g)",
+    "grams": 35
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": true,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "almonds-roasted-unsalted",
+  "name": "Almonds, dry roasted, unsalted",
+  "brand": null,
+  "aliases": [],
+  "category": "nut-seed",
+  "per100g": {
+   "kcal": 598,
+   "protein_g": 21,
+   "carbs_g": 21,
+   "fat_g": 52.5,
+   "fiber_g": 10.9,
+   "sugar_g": 4.9,
+   "satfat_g": 4,
+   "sodium_mg": 1
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 oz (28 g)",
+    "grams": 28,
+    "isDefault": true
+   },
+   {
+    "label": "1/4 cup (35 g)",
+    "grams": 35
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": true,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "almonds-marcona",
+  "name": "Marcona almonds, fried and salted",
+  "brand": null,
+  "aliases": [],
+  "category": "nut-seed",
+  "per100g": {
+   "kcal": 620,
+   "protein_g": 19,
+   "carbs_g": 18,
+   "fat_g": 56,
+   "fiber_g": 9,
+   "sugar_g": 4,
+   "satfat_g": 4.5,
+   "sodium_mg": 360
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 oz (28 g)",
+    "grams": 28,
+    "isDefault": true
+   },
+   {
+    "label": "100 g",
+    "grams": 100
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": false,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "almond-butter",
+  "name": "Almond butter, smooth",
+  "brand": null,
+  "aliases": [],
+  "category": "nut-seed",
+  "per100g": {
+   "kcal": 614,
+   "protein_g": 21,
+   "carbs_g": 18.8,
+   "fat_g": 55.5,
+   "fiber_g": 10.3,
+   "sugar_g": 4.4,
+   "satfat_g": 4.2,
+   "sodium_mg": 7
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "2 tbsp (32 g)",
+    "grams": 32,
+    "isDefault": true
+   },
+   {
+    "label": "1 tbsp (16 g)",
+    "grams": 16
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": true,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "walnuts",
+  "name": "Walnuts, English, halves",
+  "brand": null,
+  "aliases": [],
+  "category": "nut-seed",
+  "per100g": {
+   "kcal": 654,
+   "protein_g": 15.2,
+   "carbs_g": 13.7,
+   "fat_g": 65.2,
+   "fiber_g": 6.7,
+   "sugar_g": 2.61,
+   "satfat_g": 6.13,
+   "sodium_mg": 2
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 oz (28 g)",
+    "grams": 28,
+    "isDefault": true
+   },
+   {
+    "label": "1/4 cup (30 g)",
+    "grams": 30
+   },
+   {
+    "label": "7 halves (14 g)",
+    "grams": 14
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": true,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "pecans",
+  "name": "Pecans, halves",
+  "brand": null,
+  "aliases": [],
+  "category": "nut-seed",
+  "per100g": {
+   "kcal": 691,
+   "protein_g": 9.17,
+   "carbs_g": 13.9,
+   "fat_g": 72,
+   "fiber_g": 9.6,
+   "sugar_g": 3.97,
+   "satfat_g": 6.18,
+   "sodium_mg": 0
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 oz (28 g)",
+    "grams": 28,
+    "isDefault": true
+   },
+   {
+    "label": "1/4 cup (27 g)",
+    "grams": 27
+   },
+   {
+    "label": "19 halves (28 g)",
+    "grams": 28
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": true,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "cashews-raw",
+  "name": "Cashews, raw",
+  "brand": null,
+  "aliases": [],
+  "category": "nut-seed",
+  "per100g": {
+   "kcal": 553,
+   "protein_g": 18.2,
+   "carbs_g": 30.2,
+   "fat_g": 43.9,
+   "fiber_g": 3.3,
+   "sugar_g": 5.91,
+   "satfat_g": 7.78,
+   "sodium_mg": 12
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 oz (28 g)",
+    "grams": 28,
+    "isDefault": true
+   },
+   {
+    "label": "1/4 cup (34 g)",
+    "grams": 34
+   },
+   {
+    "label": "18 cashews (28 g)",
+    "grams": 28
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": true,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "cashews-roasted-salted",
+  "name": "Cashews, dry roasted, salted",
+  "brand": null,
+  "aliases": [],
+  "category": "nut-seed",
+  "per100g": {
+   "kcal": 574,
+   "protein_g": 15.3,
+   "carbs_g": 32.7,
+   "fat_g": 46.4,
+   "fiber_g": 3,
+   "sugar_g": 5,
+   "satfat_g": 9.2,
+   "sodium_mg": 640
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 oz (28 g)",
+    "grams": 28,
+    "isDefault": true
+   },
+   {
+    "label": "1/4 cup (34 g)",
+    "grams": 34
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": true,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "cashew-butter",
+  "name": "Cashew butter",
+  "brand": null,
+  "aliases": [],
+  "category": "nut-seed",
+  "per100g": {
+   "kcal": 587,
+   "protein_g": 17.6,
+   "carbs_g": 27.6,
+   "fat_g": 49.4,
+   "fiber_g": 2,
+   "sugar_g": 5,
+   "satfat_g": 9.8,
+   "sodium_mg": 15
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "2 tbsp (32 g)",
+    "grams": 32,
+    "isDefault": true
+   },
+   {
+    "label": "1 tbsp (16 g)",
+    "grams": 16
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": true,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "pistachios-roasted",
+  "name": "Pistachios, dry roasted, shelled",
+  "brand": null,
+  "aliases": [],
+  "category": "nut-seed",
+  "per100g": {
+   "kcal": 567,
+   "protein_g": 21.1,
+   "carbs_g": 28.3,
+   "fat_g": 45.4,
+   "fiber_g": 10.3,
+   "sugar_g": 7.6,
+   "satfat_g": 5.5,
+   "sodium_mg": 428
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 oz (28 g)",
+    "grams": 28,
+    "isDefault": true
+   },
+   {
+    "label": "49 kernels (28 g)",
+    "grams": 28
+   },
+   {
+    "label": "1/4 cup (31 g)",
+    "grams": 31
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": true,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "pistachios-raw",
+  "name": "Pistachios, raw, shelled",
+  "brand": null,
+  "aliases": [],
+  "category": "nut-seed",
+  "per100g": {
+   "kcal": 560,
+   "protein_g": 20.2,
+   "carbs_g": 27.2,
+   "fat_g": 45.3,
+   "fiber_g": 10.6,
+   "sugar_g": 7.66,
+   "satfat_g": 5.56,
+   "sodium_mg": 1
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 oz (28 g)",
+    "grams": 28,
+    "isDefault": true
+   },
+   {
+    "label": "1/4 cup (31 g)",
+    "grams": 31
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": true,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "macadamia-nuts",
+  "name": "Macadamia nuts, raw",
+  "brand": null,
+  "aliases": [],
+  "category": "nut-seed",
+  "per100g": {
+   "kcal": 718,
+   "protein_g": 7.91,
+   "carbs_g": 13.8,
+   "fat_g": 75.8,
+   "fiber_g": 8.6,
+   "sugar_g": 4.57,
+   "satfat_g": 12.1,
+   "sodium_mg": 5
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 oz (28 g)",
+    "grams": 28,
+    "isDefault": true
+   },
+   {
+    "label": "10 nuts (20 g)",
+    "grams": 20
+   },
+   {
+    "label": "1/4 cup (34 g)",
+    "grams": 34
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": true,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "brazil-nuts",
+  "name": "Brazil nuts",
+  "brand": null,
+  "aliases": [],
+  "category": "nut-seed",
+  "per100g": {
+   "kcal": 656,
+   "protein_g": 14.3,
+   "carbs_g": 12.3,
+   "fat_g": 66.4,
+   "fiber_g": 7.5,
+   "sugar_g": 2.33,
+   "satfat_g": 15.1,
+   "sodium_mg": 3
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 oz (28 g)",
+    "grams": 28,
+    "isDefault": true
+   },
+   {
+    "label": "3 nuts (15 g)",
+    "grams": 15
+   },
+   {
+    "label": "6 nuts (30 g)",
+    "grams": 30
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": true,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "hazelnuts",
+  "name": "Hazelnuts, raw",
+  "brand": null,
+  "aliases": [
+   "filberts"
+  ],
+  "category": "nut-seed",
+  "per100g": {
+   "kcal": 628,
+   "protein_g": 15,
+   "carbs_g": 16.7,
+   "fat_g": 60.8,
+   "fiber_g": 9.7,
+   "sugar_g": 4.34,
+   "satfat_g": 4.46,
+   "sodium_mg": 0
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 oz (28 g)",
+    "grams": 28,
+    "isDefault": true
+   },
+   {
+    "label": "21 nuts (28 g)",
+    "grams": 28
+   },
+   {
+    "label": "1/4 cup (34 g)",
+    "grams": 34
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": true,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "pine-nuts",
+  "name": "Pine nuts",
+  "brand": null,
+  "aliases": [
+   "pignoli"
+  ],
+  "category": "nut-seed",
+  "per100g": {
+   "kcal": 673,
+   "protein_g": 13.7,
+   "carbs_g": 13.1,
+   "fat_g": 68.4,
+   "fiber_g": 3.7,
+   "sugar_g": 3.59,
+   "satfat_g": 4.9,
+   "sodium_mg": 2
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 oz (28 g)",
+    "grams": 28,
+    "isDefault": true
+   },
+   {
+    "label": "1 tbsp (9 g)",
+    "grams": 9
+   },
+   {
+    "label": "1/4 cup (34 g)",
+    "grams": 34
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": true,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "chestnuts-roasted",
+  "name": "Chestnuts, roasted",
+  "brand": null,
+  "aliases": [],
+  "category": "nut-seed",
+  "per100g": {
+   "kcal": 245,
+   "protein_g": 3.17,
+   "carbs_g": 53,
+   "fat_g": 2.2,
+   "fiber_g": 5.1,
+   "sugar_g": 10.6,
+   "satfat_g": 0.42,
+   "sodium_mg": 2
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 oz (28 g)",
+    "grams": 28,
+    "isDefault": true
+   },
+   {
+    "label": "3 nuts (25 g)",
+    "grams": 25
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": true,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "mixed-nuts-roasted-salted",
+  "name": "Mixed nuts, dry roasted, salted",
+  "brand": null,
+  "aliases": [],
+  "category": "nut-seed",
+  "per100g": {
+   "kcal": 607,
+   "protein_g": 17.3,
+   "carbs_g": 25.3,
+   "fat_g": 54,
+   "fiber_g": 9,
+   "sugar_g": 4.9,
+   "satfat_g": 7.2,
+   "sodium_mg": 696
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 oz (28 g)",
+    "grams": 28,
+    "isDefault": true
+   },
+   {
+    "label": "1/4 cup (34 g)",
+    "grams": 34
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": true,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "nuts-honey-roasted",
+  "name": "Honey roasted mixed nuts",
+  "brand": null,
+  "aliases": [],
+  "category": "nut-seed",
+  "per100g": {
+   "kcal": 580,
+   "protein_g": 16,
+   "carbs_g": 31,
+   "fat_g": 46,
+   "fiber_g": 7,
+   "sugar_g": 17,
+   "satfat_g": 6.5,
+   "sodium_mg": 400
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 oz (28 g)",
+    "grams": 28,
+    "isDefault": true
+   },
+   {
+    "label": "100 g",
+    "grams": 100
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": false,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "peanuts-raw",
+  "name": "Peanuts, raw",
+  "brand": null,
+  "aliases": [],
+  "category": "nut-seed",
+  "per100g": {
+   "kcal": 567,
+   "protein_g": 25.8,
+   "carbs_g": 16.1,
+   "fat_g": 49.2,
+   "fiber_g": 8.5,
+   "sugar_g": 4.72,
+   "satfat_g": 6.28,
+   "sodium_mg": 18
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": 0,
+   "vitamin_a_carotenoid_mcg_rae": 0,
+   "folate_food_mcg": 240,
+   "folic_acid_mcg": 0,
+   "folate_dfe_mcg": 240
+  },
+  "servings": [
+   {
+    "label": "1 oz (28 g)",
+    "grams": 28,
+    "isDefault": true
+   },
+   {
+    "label": "1/4 cup (37 g)",
+    "grams": 37
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": true,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "peanuts-dry-roasted-salted",
+  "name": "Peanuts, dry roasted, salted",
+  "brand": null,
+  "aliases": [],
+  "category": "nut-seed",
+  "per100g": {
+   "kcal": 587,
+   "protein_g": 24.4,
+   "carbs_g": 21.5,
+   "fat_g": 49.7,
+   "fiber_g": 8,
+   "sugar_g": 4.2,
+   "satfat_g": 6.9,
+   "sodium_mg": 813
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 oz (28 g)",
+    "grams": 28,
+    "isDefault": true
+   },
+   {
+    "label": "1/4 cup (37 g)",
+    "grams": 37
+   },
+   {
+    "label": "39 peanuts (28 g)",
+    "grams": 28
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": true,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "peanuts-dry-roasted-unsalted",
+  "name": "Peanuts, dry roasted, unsalted",
+  "brand": null,
+  "aliases": [],
+  "category": "nut-seed",
+  "per100g": {
+   "kcal": 587,
+   "protein_g": 24.4,
+   "carbs_g": 21.5,
+   "fat_g": 49.7,
+   "fiber_g": 8,
+   "sugar_g": 4.2,
+   "satfat_g": 6.9,
+   "sodium_mg": 6
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 oz (28 g)",
+    "grams": 28,
+    "isDefault": true
+   },
+   {
+    "label": "1/4 cup (37 g)",
+    "grams": 37
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": true,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "peanut-butter-smooth",
+  "name": "Peanut butter, smooth, regular",
+  "brand": null,
+  "aliases": [
+   "pb",
+   "peanutbutter"
+  ],
+  "category": "nut-seed",
+  "per100g": {
+   "kcal": 588,
+   "protein_g": 22.5,
+   "carbs_g": 22.3,
+   "fat_g": 50.4,
+   "fiber_g": 5,
+   "sugar_g": 9.2,
+   "satfat_g": 10.3,
+   "sodium_mg": 429
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": 0,
+   "vitamin_a_carotenoid_mcg_rae": 0,
+   "folate_food_mcg": 87,
+   "folic_acid_mcg": 0,
+   "folate_dfe_mcg": 87
+  },
+  "servings": [
+   {
+    "label": "2 tbsp (32 g)",
+    "grams": 32,
+    "isDefault": true
+   },
+   {
+    "label": "1 tbsp (16 g)",
+    "grams": 16
+   },
+   {
+    "label": "1/4 cup (64 g)",
+    "grams": 64
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": true,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "peanut-butter-crunchy",
+  "name": "Peanut butter, crunchy, regular",
+  "brand": null,
+  "aliases": [],
+  "category": "nut-seed",
+  "per100g": {
+   "kcal": 589,
+   "protein_g": 24.1,
+   "carbs_g": 21.6,
+   "fat_g": 50,
+   "fiber_g": 6.6,
+   "sugar_g": 8.4,
+   "satfat_g": 9.6,
+   "sodium_mg": 426
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "2 tbsp (32 g)",
+    "grams": 32,
+    "isDefault": true
+   },
+   {
+    "label": "1 tbsp (16 g)",
+    "grams": 16
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": true,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "peanut-butter-natural",
+  "name": "Peanut butter, natural, no added sugar",
+  "brand": null,
+  "aliases": [],
+  "category": "nut-seed",
+  "per100g": {
+   "kcal": 598,
+   "protein_g": 25,
+   "carbs_g": 20,
+   "fat_g": 51,
+   "fiber_g": 6,
+   "sugar_g": 4,
+   "satfat_g": 8,
+   "sodium_mg": 10
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "2 tbsp (32 g)",
+    "grams": 32,
+    "isDefault": true
+   },
+   {
+    "label": "1 tbsp (16 g)",
+    "grams": 16
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": false,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "peanut-butter-powdered",
+  "name": "Powdered peanut butter",
+  "brand": null,
+  "aliases": [
+   "pb2",
+   "peanut butter powder"
+  ],
+  "category": "nut-seed",
+  "per100g": {
+   "kcal": 400,
+   "protein_g": 50,
+   "carbs_g": 30,
+   "fat_g": 10,
+   "fiber_g": 15,
+   "sugar_g": 13,
+   "satfat_g": 1.5,
+   "sodium_mg": 700
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "2 tbsp (12 g)",
+    "grams": 12,
+    "isDefault": true
+   },
+   {
+    "label": "1/4 cup (24 g)",
+    "grams": 24
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": true,
+  "source": "manufacturer label"
+ },
+ {
+  "id": "hazelnut-spread-chocolate",
+  "name": "Chocolate hazelnut spread",
+  "brand": "Nutella",
+  "aliases": [
+   "nutella"
+  ],
+  "category": "nut-seed",
+  "per100g": {
+   "kcal": 539,
+   "protein_g": 6,
+   "carbs_g": 57.5,
+   "fat_g": 30.9,
+   "fiber_g": 5.4,
+   "sugar_g": 56.3,
+   "satfat_g": 10.6,
+   "sodium_mg": 41
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "2 tbsp (37 g)",
+    "grams": 37,
+    "isDefault": true
+   },
+   {
+    "label": "1 tbsp (19 g)",
+    "grams": 19
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": true,
+  "source": "manufacturer label"
+ },
+ {
+  "id": "chia-seeds",
+  "name": "Chia seeds",
+  "brand": null,
+  "aliases": [],
+  "category": "nut-seed",
+  "per100g": {
+   "kcal": 486,
+   "protein_g": 16.5,
+   "carbs_g": 42.1,
+   "fat_g": 30.7,
+   "fiber_g": 34.4,
+   "sugar_g": 0,
+   "satfat_g": 3.33,
+   "sodium_mg": 16
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "2 tbsp (24 g)",
+    "grams": 24,
+    "isDefault": true
+   },
+   {
+    "label": "1 tbsp (12 g)",
+    "grams": 12
+   },
+   {
+    "label": "1 oz (28 g)",
+    "grams": 28
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": true,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "flaxseed-ground",
+  "name": "Flaxseed, ground",
+  "brand": null,
+  "aliases": [
+   "linseed",
+   "flax meal"
+  ],
+  "category": "nut-seed",
+  "per100g": {
+   "kcal": 534,
+   "protein_g": 18.3,
+   "carbs_g": 28.9,
+   "fat_g": 42.2,
+   "fiber_g": 27.3,
+   "sugar_g": 1.55,
+   "satfat_g": 3.66,
+   "sodium_mg": 30
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "2 tbsp (14 g)",
+    "grams": 14,
+    "isDefault": true
+   },
+   {
+    "label": "1 tbsp (7 g)",
+    "grams": 7
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": true,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "flaxseed-whole",
+  "name": "Flaxseed, whole",
+  "brand": null,
+  "aliases": [],
+  "category": "nut-seed",
+  "per100g": {
+   "kcal": 534,
+   "protein_g": 18.3,
+   "carbs_g": 28.9,
+   "fat_g": 42.2,
+   "fiber_g": 27.3,
+   "sugar_g": 1.55,
+   "satfat_g": 3.66,
+   "sodium_mg": 30
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 tbsp (10 g)",
+    "grams": 10,
+    "isDefault": true
+   },
+   {
+    "label": "1 oz (28 g)",
+    "grams": 28
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": true,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "hemp-hearts",
+  "name": "Hemp hearts, hulled hemp seeds",
+  "brand": null,
+  "aliases": [],
+  "category": "nut-seed",
+  "per100g": {
+   "kcal": 553,
+   "protein_g": 31.6,
+   "carbs_g": 8.67,
+   "fat_g": 48.8,
+   "fiber_g": 4,
+   "sugar_g": 1.5,
+   "satfat_g": 4.6,
+   "sodium_mg": 5
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "3 tbsp (30 g)",
+    "grams": 30,
+    "isDefault": true
+   },
+   {
+    "label": "1 tbsp (10 g)",
+    "grams": 10
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": true,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "pumpkin-seeds",
+  "name": "Pumpkin seeds, roasted, hulled",
+  "brand": null,
+  "aliases": [
+   "pepitas"
+  ],
+  "category": "nut-seed",
+  "per100g": {
+   "kcal": 559,
+   "protein_g": 30.2,
+   "carbs_g": 10.7,
+   "fat_g": 49.1,
+   "fiber_g": 6,
+   "sugar_g": 1.29,
+   "satfat_g": 8.67,
+   "sodium_mg": 18
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 oz (28 g)",
+    "grams": 28,
+    "isDefault": true
+   },
+   {
+    "label": "1/4 cup (32 g)",
+    "grams": 32
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": true,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "sunflower-seeds-roasted",
+  "name": "Sunflower seeds, roasted, hulled",
+  "brand": null,
+  "aliases": [],
+  "category": "nut-seed",
+  "per100g": {
+   "kcal": 584,
+   "protein_g": 20.8,
+   "carbs_g": 20,
+   "fat_g": 51.5,
+   "fiber_g": 8.6,
+   "sugar_g": 2.62,
+   "satfat_g": 4.46,
+   "sodium_mg": 9
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": 0,
+   "vitamin_a_carotenoid_mcg_rae": 0,
+   "folate_food_mcg": 237,
+   "folic_acid_mcg": 0,
+   "folate_dfe_mcg": 237
+  },
+  "servings": [
+   {
+    "label": "1 oz (28 g)",
+    "grams": 28,
+    "isDefault": true
+   },
+   {
+    "label": "1/4 cup (32 g)",
+    "grams": 32
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": true,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "sunflower-seed-butter",
+  "name": "Sunflower seed butter",
+  "brand": null,
+  "aliases": [],
+  "category": "nut-seed",
+  "per100g": {
+   "kcal": 617,
+   "protein_g": 17.3,
+   "carbs_g": 23.4,
+   "fat_g": 55.2,
+   "fiber_g": 9,
+   "sugar_g": 8.6,
+   "satfat_g": 4.8,
+   "sodium_mg": 3
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "2 tbsp (32 g)",
+    "grams": 32,
+    "isDefault": true
+   },
+   {
+    "label": "1 tbsp (16 g)",
+    "grams": 16
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": true,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "sesame-seeds",
+  "name": "Sesame seeds, whole",
+  "brand": null,
+  "aliases": [],
+  "category": "nut-seed",
+  "per100g": {
+   "kcal": 573,
+   "protein_g": 17.7,
+   "carbs_g": 23.4,
+   "fat_g": 49.7,
+   "fiber_g": 11.8,
+   "sugar_g": 0.3,
+   "satfat_g": 6.96,
+   "sodium_mg": 11
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 tbsp (9 g)",
+    "grams": 9,
+    "isDefault": true
+   },
+   {
+    "label": "1 oz (28 g)",
+    "grams": 28
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": true,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "tahini",
+  "name": "Tahini, sesame paste",
+  "brand": null,
+  "aliases": [],
+  "category": "nut-seed",
+  "per100g": {
+   "kcal": 595,
+   "protein_g": 17,
+   "carbs_g": 21.2,
+   "fat_g": 53.8,
+   "fiber_g": 9.3,
+   "sugar_g": 0.49,
+   "satfat_g": 7.43,
+   "sodium_mg": 115
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "2 tbsp (30 g)",
+    "grams": 30,
+    "isDefault": true
+   },
+   {
+    "label": "1 tbsp (15 g)",
+    "grams": 15
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": true,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "poppy-seeds",
+  "name": "Poppy seeds",
+  "brand": null,
+  "aliases": [],
+  "category": "nut-seed",
+  "per100g": {
+   "kcal": 525,
+   "protein_g": 17.99,
+   "carbs_g": 28.1,
+   "fat_g": 41.6,
+   "fiber_g": 19.5,
+   "sugar_g": 2.99,
+   "satfat_g": 4.52,
+   "sodium_mg": 26
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 tbsp (9 g)",
+    "grams": 9,
+    "isDefault": true
+   },
+   {
+    "label": "1 oz (28 g)",
+    "grams": 28
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": true,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "watermelon-seeds-roasted",
+  "name": "Watermelon seeds, roasted",
+  "brand": null,
+  "aliases": [],
+  "category": "nut-seed",
+  "per100g": {
+   "kcal": 557,
+   "protein_g": 28.3,
+   "carbs_g": 15.3,
+   "fat_g": 47.4,
+   "fiber_g": 0,
+   "sugar_g": 0,
+   "satfat_g": 9.78,
+   "sodium_mg": 99
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 oz (28 g)",
+    "grams": 28,
+    "isDefault": true
+   },
+   {
+    "label": "100 g",
+    "grams": 100
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": false,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "coconut-dried-unsweetened",
+  "name": "Coconut, dried, unsweetened, shredded",
+  "brand": null,
+  "aliases": [],
+  "category": "nut-seed",
+  "per100g": {
+   "kcal": 660,
+   "protein_g": 6.88,
+   "carbs_g": 23.7,
+   "fat_g": 64.5,
+   "fiber_g": 16.3,
+   "sugar_g": 7.35,
+   "satfat_g": 57.2,
+   "sodium_mg": 37
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1/4 cup (23 g)",
+    "grams": 23,
+    "isDefault": true
+   },
+   {
+    "label": "1 oz (28 g)",
+    "grams": 28
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": true,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "coconut-flaked-sweetened",
+  "name": "Coconut, flaked, sweetened",
+  "brand": null,
+  "aliases": [],
+  "category": "nut-seed",
+  "per100g": {
+   "kcal": 456,
+   "protein_g": 2.75,
+   "carbs_g": 44.4,
+   "fat_g": 32.3,
+   "fiber_g": 4.5,
+   "sugar_g": 39.6,
+   "satfat_g": 28.6,
+   "sodium_mg": 262
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1/4 cup (23 g)",
+    "grams": 23,
+    "isDefault": true
+   },
+   {
+    "label": "100 g",
+    "grams": 100
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": true,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "coconut-fresh-meat",
+  "name": "Coconut meat, fresh",
+  "brand": null,
+  "aliases": [],
+  "category": "nut-seed",
+  "per100g": {
+   "kcal": 354,
+   "protein_g": 3.33,
+   "carbs_g": 15.2,
+   "fat_g": 33.5,
+   "fiber_g": 9,
+   "sugar_g": 6.23,
+   "satfat_g": 29.7,
+   "sodium_mg": 20
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 cup shredded (80 g)",
+    "grams": 80,
+    "isDefault": true
+   },
+   {
+    "label": "1 piece (45 g)",
+    "grams": 45
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": true,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "coconut-chips-toasted",
+  "name": "Coconut chips, toasted, unsweetened",
+  "brand": null,
+  "aliases": [],
+  "category": "nut-seed",
+  "per100g": {
+   "kcal": 650,
+   "protein_g": 7,
+   "carbs_g": 24,
+   "fat_g": 63,
+   "fiber_g": 17,
+   "sugar_g": 7,
+   "satfat_g": 56,
+   "sodium_mg": 30
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 oz (28 g)",
+    "grams": 28,
+    "isDefault": true
+   },
+   {
+    "label": "100 g",
+    "grams": 100
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": false,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "trail-mix-regular",
+  "name": "Trail mix, regular",
+  "brand": null,
+  "aliases": [],
+  "category": "nut-seed",
+  "per100g": {
+   "kcal": 462,
+   "protein_g": 13.8,
+   "carbs_g": 44.9,
+   "fat_g": 29.4,
+   "fiber_g": 5,
+   "sugar_g": 31,
+   "satfat_g": 5.6,
+   "sodium_mg": 229
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1/4 cup (37 g)",
+    "grams": 37,
+    "isDefault": true
+   },
+   {
+    "label": "1 oz (28 g)",
+    "grams": 28
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": true,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "trail-mix-chocolate",
+  "name": "Trail mix, with chocolate chips",
+  "brand": null,
+  "aliases": [],
+  "category": "nut-seed",
+  "per100g": {
+   "kcal": 484,
+   "protein_g": 14.2,
+   "carbs_g": 45.1,
+   "fat_g": 31.6,
+   "fiber_g": 5,
+   "sugar_g": 32,
+   "satfat_g": 6.1,
+   "sodium_mg": 122
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1/4 cup (36 g)",
+    "grams": 36,
+    "isDefault": true
+   },
+   {
+    "label": "1 oz (28 g)",
+    "grams": 28
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": true,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "granola-cluster-nut",
+  "name": "Nut and seed clusters",
+  "brand": null,
+  "aliases": [],
+  "category": "nut-seed",
+  "per100g": {
+   "kcal": 480,
+   "protein_g": 13,
+   "carbs_g": 45,
+   "fat_g": 28,
+   "fiber_g": 8,
+   "sugar_g": 18,
+   "satfat_g": 4,
+   "sodium_mg": 150
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1/4 cup (30 g)",
+    "grams": 30,
+    "isDefault": true
+   },
+   {
+    "label": "100 g",
+    "grams": 100
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": false,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "nuts-candied-pecans",
+  "name": "Candied pecans",
+  "brand": null,
+  "aliases": [],
+  "category": "nut-seed",
+  "per100g": {
+   "kcal": 560,
+   "protein_g": 6,
+   "carbs_g": 38,
+   "fat_g": 44,
+   "fiber_g": 6,
+   "sugar_g": 30,
+   "satfat_g": 4,
+   "sodium_mg": 110
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 oz (28 g)",
+    "grams": 28,
+    "isDefault": true
+   },
+   {
+    "label": "100 g",
+    "grams": 100
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": false,
+  "source": "USDA FoodData Central (SR Legacy)"
+ },
+ {
+  "id": "nuts-wasabi-peas",
+  "name": "Wasabi peas",
+  "brand": null,
+  "aliases": [],
+  "category": "nut-seed",
+  "per100g": {
+   "kcal": 420,
+   "protein_g": 14,
+   "carbs_g": 66,
+   "fat_g": 10,
+   "fiber_g": 8,
+   "sugar_g": 10,
+   "satfat_g": 1.5,
+   "sodium_mg": 750
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 oz (28 g)",
+    "grams": 28,
+    "isDefault": true
+   },
+   {
+    "label": "100 g",
+    "grams": 100
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": false,
+  "source": "USDA FoodData Central (SR Legacy)"
+ }
+]

@@ -1,0 +1,67 @@
+#category: legume
+#source: USDA FoodData Central (SR Legacy)
+#servings: 1/2 cup (90 g)@90*;1 cup (180 g)@180;100 g@100
+# id|name|aliases|kcal|protein|carbs|fat|fiber|sugar|satfat|sodium|servings|extra
+
+# --- beans ---------------------------------------------------------------
+beans-black-cooked|Black beans, cooked from dry|frijoles negros|132|8.86|23.7|0.54|8.7|0.32|0.14|1|1 cup (172 g)@172*;1/2 cup (86 g)@86|ret=0;car=0;ffol=149;fac=0;dfe=149
+beans-black-canned|Black beans, canned, drained||91|6.03|16.6|0.36|6.4|0.28|0.09|265|1/2 cup (120 g)@120*;1 cup (240 g)@240;1 can (240 g)@240|
+beans-kidney-cooked|Kidney beans, red, cooked||127|8.67|22.8|0.50|6.4|0.32|0.07|1|1 cup (177 g)@177*;1/2 cup (89 g)@89|ret=0;car=0;ffol=130;fac=0;dfe=130
+beans-kidney-canned|Kidney beans, canned, drained||100|6.71|18.1|0.36|6.3|0.26|0.05|300|1/2 cup (128 g)@128*;1 cup (256 g)@256|
+beans-pinto-cooked|Pinto beans, cooked||143|9.01|26.2|0.65|9.0|0.34|0.14|1|1 cup (171 g)@171*;1/2 cup (86 g)@86|ret=0;car=0;ffol=172;fac=0;dfe=172
+beans-pinto-canned|Pinto beans, canned, drained||114|6.99|20.5|0.94|5.5|0.4|0.2|287|1/2 cup (120 g)@120*;1 cup (240 g)@240|
+beans-navy-cooked|Navy beans, cooked||140|8.23|26.1|0.62|10.5|0.35|0.16|0|1 cup (182 g)@182*;1/2 cup (91 g)@91|ret=0;car=0;ffol=140;fac=0;dfe=140
+beans-great-northern-cooked|Great northern beans, cooked||118|8.33|21.1|0.45|7.0|0.6|0.14|2|1 cup (177 g)@177*;1/2 cup (89 g)@89|
+beans-cannellini-canned|Cannellini beans, canned, drained|white kidney beans|114|8.0|20.0|0.5|5.5|0.4|0.1|280|1/2 cup (120 g)@120*;1 cup (240 g)@240|v=0
+beans-lima-cooked|Lima beans, cooked|butter beans|115|7.80|20.9|0.38|7.0|1.4|0.09|2|1 cup (188 g)@188*;1/2 cup (94 g)@94|
+beans-butter-canned|Butter beans, canned, drained||79|4.9|14.2|0.25|4.3|0.9|0.06|290|1/2 cup (120 g)@120*;100 g@100|v=0
+beans-fava-cooked|Fava beans, cooked|broad beans|110|7.60|19.6|0.40|5.4|1.8|0.07|5|1 cup (170 g)@170*;100 g@100
+beans-mung-cooked|Mung beans, cooked||105|7.02|19.2|0.38|7.6|2.0|0.11|2|1 cup (202 g)@202*;100 g@100|
+beans-adzuki-cooked|Adzuki beans, cooked||128|7.52|25.0|0.10|7.3|0.2|0.03|8|1 cup (230 g)@230*;100 g@100|
+beans-black-eyed-peas-cooked|Black-eyed peas, cooked||116|7.73|20.8|0.53|6.5|3.3|0.14|4|1 cup (171 g)@171*;1/2 cup (86 g)@86|
+beans-cranberry-cooked|Cranberry beans, cooked|borlotti|136|9.34|24.5|0.46|9.0|0.3|0.12|1|1 cup (177 g)@177*;100 g@100|
+beans-refried|Refried beans, canned||90|5.50|15.0|1.40|5.0|0.6|0.5|400|1/2 cup (120 g)@120*;1 cup (240 g)@240
+beans-refried-fat-free|Refried beans, fat free, canned||75|5.0|14.0|0.3|5.0|0.5|0.1|380|1/2 cup (120 g)@120*;100 g@100|v=0
+beans-baked-canned|Baked beans, canned, in sauce||155|5.50|29.0|0.60|5.5|11.0|0.2|460|1/2 cup (127 g)@127*;1 cup (254 g)@254|v=0
+beans-lupini|Lupini beans, cooked||119|15.6|9.88|2.92|2.8|0|0.34|4|1/2 cup (83 g)@83*;100 g@100
+beans-sprouts-mung|Mung bean sprouts, raw|bean sprouts|30|3.04|5.94|0.18|1.8|4.1|0.05|6|1 cup (104 g)@104*;100 g@100
+
+# --- chickpeas & lentils -------------------------------------------------
+chickpeas-cooked|Chickpeas, cooked from dry|garbanzo beans|164|8.86|27.4|2.59|7.6|4.8|0.27|7|1 cup (164 g)@164*;1/2 cup (82 g)@82|ret=0;car=1;ffol=172;fac=0;dfe=172
+chickpeas-canned|Chickpeas, canned, drained|garbanzo beans|139|7.05|22.6|2.60|6.4|0.4|0.27|240|1/2 cup (120 g)@120*;1 cup (240 g)@240;1 can (240 g)@240|ret=0;car=1;ffol=42;fac=0;dfe=42
+chickpeas-roasted|Chickpeas, roasted, crunchy||382|19.0|58.0|8.0|12.0|5.0|1.0|380|1/4 cup (35 g)@35*;1 oz (28 g)@28|v=0
+lentils-cooked|Lentils, brown or green, cooked||116|9.02|20.1|0.38|7.9|1.8|0.05|2|1 cup (198 g)@198*;1/2 cup (99 g)@99|ret=0;car=0;ffol=181;fac=0;dfe=181
+lentils-red-cooked|Red lentils, cooked||110|8.5|19.5|0.4|5.0|1.5|0.06|2|1 cup (198 g)@198*;1/2 cup (99 g)@99|v=0
+lentils-black-cooked|Black lentils, cooked|beluga lentils|120|9.5|20.5|0.5|8.0|1.5|0.07|2|1 cup (198 g)@198*;100 g@100|v=0
+lentils-canned|Lentils, canned, drained||83|6.4|14.3|0.3|5.0|1.2|0.05|250|1/2 cup (99 g)@99*;100 g@100|v=0
+split-peas-cooked|Split peas, cooked||118|8.34|21.1|0.39|8.3|2.9|0.05|4|1 cup (196 g)@196*;100 g@100|ret=0;car=1;ffol=65;fac=0;dfe=65
+
+# --- soy -----------------------------------------------------------------
+edamame-cooked|Edamame, shelled, cooked||121|11.9|8.91|5.20|5.2|2.2|0.62|6|1 cup (155 g)@155*;1/2 cup (78 g)@78|ret=0;car=8;ffol=311;fac=0;dfe=311
+edamame-in-pod|Edamame, in pod, cooked||121|11.9|8.91|5.20|5.2|2.2|0.62|6|1 cup shelled (155 g)@155*;1 cup pods (128 g)@60|v=0
+soybeans-cooked|Soybeans, cooked||173|16.6|9.93|8.97|6.0|3.0|1.30|1|1 cup (172 g)@172*;100 g@100
+tofu-firm|Tofu, firm||144|15.8|4.27|8.72|2.3|0.6|1.26|14|1/2 block (126 g)@126*;3 oz (85 g)@85;1 cup cubed (252 g)@252|ret=0;car=0;ffol=19;fac=0;dfe=19
+tofu-extra-firm|Tofu, extra firm||101|10.1|2.53|5.70|1.3|0.5|0.83|11|1 serving (79 g)@79*;1/2 block (140 g)@140|src=manufacturer label
+tofu-silken|Tofu, silken, soft||55|4.80|2.00|2.70|0.2|1.0|0.4|4|1/2 cup (124 g)@124*;100 g@100
+tofu-baked-seasoned|Tofu, baked, seasoned||180|18.0|8.0|9.0|1.5|3.0|1.3|420|1 serving (85 g)@85*;100 g@100|v=0
+tempeh|Tempeh||192|20.3|7.64|10.8|0|0|2.22|9|3 oz (85 g)@85*;1/2 cup (83 g)@83
+natto|Natto||211|19.4|12.7|11.0|5.4|4.9|1.59|7|1/2 cup (88 g)@88*;100 g@100
+tvp-dry|Textured vegetable protein, dry|tvp;soy crumbles|327|51.5|33.9|1.22|17.5|13.9|0.18|3|1/4 cup (24 g)@24*;100 g@100|
+soy-curls-dry|Soy curls, dry||390|35.0|30.0|17.0|12.0|4.0|2.5|10|1 cup (40 g)@40*;100 g@100|v=0
+seitan|Seitan, wheat gluten|wheat meat|141|25.0|5.0|2.0|1.0|0|0.3|400|3 oz (85 g)@85*;100 g@100|v=0
+
+# --- plant-based meat ----------------------------------------------------
+beyond-burger-patty|Beyond Burger patty, cooked||221|17.7|4.4|15.9|1.8|0|4.4|345|1 patty (113 g)@113*;100 g@100|brand=Beyond Meat;src=manufacturer label
+impossible-burger-patty|Impossible Burger patty, cooked||195|16.8|8.0|11.5|4.4|0.9|5.3|327|1 patty (113 g)@113*;100 g@100|brand=Impossible Foods;src=manufacturer label
+beyond-sausage|Beyond Sausage link, cooked||219|15.5|5.3|15.0|1.8|0|5.3|500|1 link (76 g)@76*;100 g@100|brand=Beyond Meat;src=manufacturer label;v=0
+plant-chicken-nuggets|Plant-based chicken nuggets||250|14.0|18.0|13.0|3.0|1.0|1.5|550|4 nuggets (85 g)@85*;100 g@100|v=0
+veggie-burger-generic|Veggie burger patty, grain and vegetable||177|13.0|17.0|6.0|5.0|2.0|1.0|400|1 patty (70 g)@70*;100 g@100|v=0
+
+# --- legume-based dishes & spreads ---------------------------------------
+hummus-plain|Hummus, plain||166|7.90|14.3|9.60|6.0|0.3|1.44|379|2 tbsp (30 g)@30*;1/4 cup (60 g)@60;1 cup (246 g)@246
+hummus-roasted-red-pepper|Hummus, roasted red pepper||160|6.5|14.0|9.0|5.0|1.5|1.3|390|2 tbsp (30 g)@30*;1/4 cup (60 g)@60|v=0
+falafel|Falafel, fried||333|13.3|31.8|17.8|4.9|0|2.38|294|3 pieces (51 g)@51*;1 piece (17 g)@17
+bean-dip-black|Black bean dip||120|5.0|18.0|2.5|5.0|1.0|0.4|450|2 tbsp (32 g)@32*;100 g@100|v=0
+peanut-legume-boiled|Boiled peanuts, in shell||318|13.5|21.3|22.0|8.8|0|3.1|750|1/2 cup shelled (63 g)@63*;100 g@100|v=0
+dal-cooked|Dal, lentil curry, cooked||120|6.0|15.0|4.0|4.0|1.5|1.5|350|1 cup (200 g)@200*;100 g@100|v=0
+chili-vegetarian|Chili, vegetarian, with beans||110|5.5|17.0|2.0|5.0|4.0|0.4|450|1 cup (245 g)@245*;100 g@100|v=0

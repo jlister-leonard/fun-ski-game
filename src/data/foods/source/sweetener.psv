@@ -1,0 +1,40 @@
+#category: sweetener
+#source: USDA FoodData Central (SR Legacy)
+#servings: 1 tsp (4 g)@4*;1 tbsp (12 g)@12;100 g@100
+# Sugar alcohols (erythritol, xylitol, maltitol) and allulose yield far less
+# than 4 kcal/g, so a naive 4/4/9 cross-check fails on them by design —
+# those entries carry a documented `polyol` exception.
+# id|name|aliases|kcal|protein|carbs|fat|fiber|sugar|satfat|sodium|servings|extra
+sugar-white-granulated|Sugar, white granulated|table sugar;granulated sugar|387|0|100|0|0|100|0|1|1 tsp (4 g)@4*;1 tbsp (12.5 g)@12.5;1 cup (200 g)@200;1 packet (2.8 g)@2.8
+sugar-brown|Brown sugar, packed||380|0.12|98.1|0|0|97.0|0|28|1 tsp (4.6 g)@4.6*;1 tbsp (13.8 g)@13.8;1 cup packed (220 g)@220
+sugar-powdered|Powdered sugar|confectioners sugar;icing sugar|389|0|99.8|0|0|97.8|0|2|1 tbsp (8 g)@8*;1 cup (120 g)@120
+sugar-coconut|Coconut sugar||375|1.1|92.0|0.5|1.8|75.0|0.3|30|1 tsp (4 g)@4*;1 tbsp (12 g)@12|v=0
+sugar-turbinado|Turbinado sugar|raw sugar;demerara|399|0|99.8|0|0|99.0|0|3|1 tsp (4 g)@4*;1 tbsp (12 g)@12|v=0
+honey|Honey||304|0.30|82.4|0|0.2|82.1|0|4|1 tbsp (21 g)@21*;1 tsp (7 g)@7;1/4 cup (85 g)@85|d=1.42
+maple-syrup|Maple syrup, pure||260|0.04|67.0|0.06|0|60.5|0.01|12|1 tbsp (20 ml)@26.4*;1/4 cup (80 ml)@105.6;2 tbsp (40 g)@40|d=1.32
+syrup-pancake|Pancake syrup, table syrup||275|0|73.0|0|0|55.0|0|65|1/4 cup (80 ml)@105.6*;1 tbsp (20 ml)@26.4|d=1.32;v=0
+syrup-pancake-sugar-free|Pancake syrup, sugar free||60|0|24.0|0|0|0|0|180|1/4 cup (60 ml)@63*;1 tbsp (15 ml)@15.8|d=1.05;v=0;fl=polyol
+agave-nectar|Agave nectar||310|0.09|76.4|0.45|0.2|68.0|0.05|4|1 tbsp (21 g)@21*;1 tsp (7 g)@7|d=1.39
+molasses|Molasses||290|0|74.7|0.10|0|55.5|0.03|37|1 tbsp (20 g)@20*;1 tsp (7 g)@7|d=1.4
+molasses-blackstrap|Blackstrap molasses||235|0|60.0|0|0|45.0|0|125|1 tbsp (20 g)@20*;1 tsp (7 g)@7|d=1.4;v=0
+corn-syrup-light|Corn syrup, light||283|0|76.8|0.20|0|29.7|0.03|155|1 tbsp (20 g)@20*;1/4 cup (80 g)@80|d=1.38
+date-syrup|Date syrup||290|1.0|72.0|0|1.5|65.0|0|10|1 tbsp (21 g)@21*;1 tsp (7 g)@7|d=1.4;v=0
+brown-rice-syrup|Brown rice syrup||310|0.5|78.0|0|0|30.0|0|30|1 tbsp (21 g)@21*;100 g@100|d=1.4;v=0
+stevia-packet|Stevia, powdered packet||360|0|100|0|0|0|0|0|1 packet (1 g)@1*;1 tsp (0.5 g)@0.5|v=0;fl=polyol
+stevia-liquid|Stevia, liquid drops||0|0|0|0|0|0|0|0|5 drops (0.2 g)@0.2*;1 tsp (5 ml)@5|d=1.0;v=0
+monk-fruit-sweetener|Monk fruit sweetener, granulated blend||0|0|100|0|0|0|0|0|1 tsp (4 g)@4*;1 tbsp (12 g)@12;1 cup (200 g)@200|v=0;fl=polyol
+erythritol|Erythritol||20|0|100|0|0|0|0|0|1 tsp (4 g)@4*;1 tbsp (12 g)@12|fl=polyol
+xylitol|Xylitol||240|0|100|0|0|0|0|0|1 tsp (4 g)@4*;1 tbsp (12 g)@12|fl=polyol
+allulose|Allulose||40|0|100|0|0|0|0|0|1 tsp (4 g)@4*;1 tbsp (12 g)@12|v=0;fl=polyol
+sucralose-packet|Sucralose sweetener packet|splenda|336|0|91.2|0|0|91.2|0|0|1 packet (1 g)@1*;1 tsp (0.5 g)@0.5|brand=Splenda
+aspartame-packet|Aspartame sweetener packet|equal;nutrasweet|365|2.0|89.0|0|0|89.0|0|0|1 packet (1 g)@1*;100 g@100|brand=Equal;v=0
+saccharin-packet|Saccharin sweetener packet|sweet n low|360|0|89.0|0|0|89.0|0|0|1 packet (1 g)@1*;100 g@100|v=0
+jam-strawberry|Strawberry jam or preserves||278|0.37|68.9|0.07|1.1|48.5|0.01|32|1 tbsp (20 g)@20*;1 tsp (7 g)@7|d=1.33
+jelly-grape|Grape jelly||266|0.15|69.5|0.02|1.0|51.6|0|31|1 tbsp (19 g)@19*;1 tsp (6 g)@6|d=1.33
+jam-sugar-free|Fruit spread, no sugar added||110|0.3|28.0|0|2.0|12.0|0|20|1 tbsp (18 g)@18*;100 g@100|d=1.25;v=0
+marmalade-orange|Orange marmalade||246|0.30|65.8|0|0.7|60.0|0|56|1 tbsp (20 g)@20*;100 g@100|d=1.33
+apple-butter|Apple butter||173|0.36|43.2|0.12|1.8|36.4|0.02|18|1 tbsp (17 g)@17*;100 g@100|d=1.2
+syrup-chocolate|Chocolate syrup||279|2.10|65.1|1.13|2.6|49.4|0.53|92|2 tbsp (39 g)@39*;1 tbsp (19 g)@19|d=1.3
+sauce-caramel|Caramel sauce, topping||389|1.60|85.0|4.00|0.7|68.0|1.10|300|2 tbsp (41 g)@41*;1 tbsp (20 g)@20|d=1.35
+marshmallow-fluff|Marshmallow creme||322|0.30|79.2|0.20|0|60.0|0.04|80|2 tbsp (24 g)@24*;100 g@100|d=0.6;v=0
+simple-syrup|Simple syrup, 1:1||260|0|65.0|0|0|65.0|0|2|1 tbsp (15 ml)@19*;1 oz (30 ml)@38|d=1.26;v=0

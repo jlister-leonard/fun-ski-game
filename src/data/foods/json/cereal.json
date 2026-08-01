@@ -1,0 +1,1522 @@
+[
+ {
+  "id": "cereal-cheerios",
+  "name": "Cheerios, original",
+  "brand": "General Mills",
+  "aliases": [],
+  "category": "cereal",
+  "per100g": {
+   "kcal": 367,
+   "protein_g": 12.3,
+   "carbs_g": 73.2,
+   "fat_g": 6.6,
+   "fiber_g": 10,
+   "sugar_g": 4.4,
+   "satfat_g": 1.2,
+   "sodium_mg": 505
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": 0,
+   "vitamin_a_carotenoid_mcg_rae": 0,
+   "folate_food_mcg": 30,
+   "folic_acid_mcg": 402,
+   "folate_dfe_mcg": 713.4
+  },
+  "servings": [
+   {
+    "label": "1 cup (28 g)",
+    "grams": 28,
+    "isDefault": true
+   },
+   {
+    "label": "1.5 cups (42 g)",
+    "grams": 42
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": true,
+  "source": "manufacturer label (US formulation)"
+ },
+ {
+  "id": "cereal-honey-nut-cheerios",
+  "name": "Honey Nut Cheerios",
+  "brand": "General Mills",
+  "aliases": [],
+  "category": "cereal",
+  "per100g": {
+   "kcal": 379,
+   "protein_g": 8.1,
+   "carbs_g": 78.4,
+   "fat_g": 4.5,
+   "fiber_g": 7,
+   "sugar_g": 32.4,
+   "satfat_g": 0.7,
+   "sodium_mg": 486
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": 0,
+   "vitamin_a_carotenoid_mcg_rae": 0,
+   "folate_food_mcg": 25,
+   "folic_acid_mcg": 405,
+   "folate_dfe_mcg": 713.5
+  },
+  "servings": [
+   {
+    "label": "1 cup (37 g)",
+    "grams": 37,
+    "isDefault": true
+   },
+   {
+    "label": "100 g",
+    "grams": 100
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": true,
+  "source": "manufacturer label (US formulation)"
+ },
+ {
+  "id": "cereal-corn-flakes",
+  "name": "Corn Flakes",
+  "brand": "Kellogg's",
+  "aliases": [],
+  "category": "cereal",
+  "per100g": {
+   "kcal": 357,
+   "protein_g": 7.5,
+   "carbs_g": 84,
+   "fat_g": 0.4,
+   "fiber_g": 3,
+   "sugar_g": 8.9,
+   "satfat_g": 0.1,
+   "sodium_mg": 729
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": 750,
+   "vitamin_a_carotenoid_mcg_rae": 0,
+   "folate_food_mcg": 17,
+   "folic_acid_mcg": 200,
+   "folate_dfe_mcg": 357
+  },
+  "servings": [
+   {
+    "label": "1 cup (28 g)",
+    "grams": 28,
+    "isDefault": true
+   },
+   {
+    "label": "100 g",
+    "grams": 100
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": true,
+  "source": "manufacturer label (US formulation)"
+ },
+ {
+  "id": "cereal-frosted-flakes",
+  "name": "Frosted Flakes",
+  "brand": "Kellogg's",
+  "aliases": [],
+  "category": "cereal",
+  "per100g": {
+   "kcal": 375,
+   "protein_g": 4.5,
+   "carbs_g": 90,
+   "fat_g": 0,
+   "fiber_g": 2.5,
+   "sugar_g": 36.6,
+   "satfat_g": 0,
+   "sodium_mg": 500
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": 610,
+   "vitamin_a_carotenoid_mcg_rae": 0,
+   "folate_food_mcg": 12,
+   "folic_acid_mcg": 244,
+   "folate_dfe_mcg": 426.8
+  },
+  "servings": [
+   {
+    "label": "1 cup (41 g)",
+    "grams": 41,
+    "isDefault": true
+   },
+   {
+    "label": "3/4 cup (31 g)",
+    "grams": 31
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": true,
+  "source": "manufacturer label (US formulation)"
+ },
+ {
+  "id": "cereal-rice-krispies",
+  "name": "Rice Krispies",
+  "brand": "Kellogg's",
+  "aliases": [],
+  "category": "cereal",
+  "per100g": {
+   "kcal": 382,
+   "protein_g": 6.5,
+   "carbs_g": 87,
+   "fat_g": 1,
+   "fiber_g": 1,
+   "sugar_g": 10,
+   "satfat_g": 0.3,
+   "sodium_mg": 690
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": 760,
+   "vitamin_a_carotenoid_mcg_rae": 0,
+   "folate_food_mcg": 15,
+   "folic_acid_mcg": 303,
+   "folate_dfe_mcg": 530.1
+  },
+  "servings": [
+   {
+    "label": "1.25 cups (33 g)",
+    "grams": 33,
+    "isDefault": true
+   },
+   {
+    "label": "100 g",
+    "grams": 100
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": true,
+  "source": "manufacturer label (US formulation)"
+ },
+ {
+  "id": "cereal-special-k-original",
+  "name": "Special K, original",
+  "brand": "Kellogg's",
+  "aliases": [],
+  "category": "cereal",
+  "per100g": {
+   "kcal": 379,
+   "protein_g": 20,
+   "carbs_g": 76,
+   "fat_g": 1.5,
+   "fiber_g": 4,
+   "sugar_g": 13,
+   "satfat_g": 0.4,
+   "sodium_mg": 560
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": 1290,
+   "vitamin_a_carotenoid_mcg_rae": 0,
+   "folate_food_mcg": 20,
+   "folic_acid_mcg": 1290,
+   "folate_dfe_mcg": 2213
+  },
+  "servings": [
+   {
+    "label": "1 cup (31 g)",
+    "grams": 31,
+    "isDefault": true
+   },
+   {
+    "label": "100 g",
+    "grams": 100
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": true,
+  "source": "manufacturer label (US formulation)"
+ },
+ {
+  "id": "cereal-raisin-bran",
+  "name": "Raisin Bran",
+  "brand": "Kellogg's",
+  "aliases": [],
+  "category": "cereal",
+  "per100g": {
+   "kcal": 322,
+   "protein_g": 8.1,
+   "carbs_g": 76,
+   "fat_g": 2.2,
+   "fiber_g": 11,
+   "sugar_g": 27,
+   "satfat_g": 0.4,
+   "sodium_mg": 570
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": 630,
+   "vitamin_a_carotenoid_mcg_rae": 0,
+   "folate_food_mcg": 30,
+   "folic_acid_mcg": 225,
+   "folate_dfe_mcg": 412.5
+  },
+  "servings": [
+   {
+    "label": "1 cup (59 g)",
+    "grams": 59,
+    "isDefault": true
+   },
+   {
+    "label": "100 g",
+    "grams": 100
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": true,
+  "source": "manufacturer label (US formulation)"
+ },
+ {
+  "id": "cereal-bran-flakes",
+  "name": "Bran Flakes",
+  "brand": null,
+  "aliases": [],
+  "category": "cereal",
+  "per100g": {
+   "kcal": 330,
+   "protein_g": 10,
+   "carbs_g": 78,
+   "fat_g": 2,
+   "fiber_g": 15,
+   "sugar_g": 17,
+   "satfat_g": 0.4,
+   "sodium_mg": 550
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "3/4 cup (30 g)",
+    "grams": 30,
+    "isDefault": true
+   },
+   {
+    "label": "100 g",
+    "grams": 100
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": true,
+  "source": "manufacturer label (US formulation)"
+ },
+ {
+  "id": "cereal-fiber-one-original",
+  "name": "Fiber One Original",
+  "brand": "General Mills",
+  "aliases": [],
+  "category": "cereal",
+  "per100g": {
+   "kcal": 200,
+   "protein_g": 8,
+   "carbs_g": 80,
+   "fat_g": 2,
+   "fiber_g": 57,
+   "sugar_g": 0,
+   "satfat_g": 0.4,
+   "sodium_mg": 210
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1/2 cup (30 g)",
+    "grams": 30,
+    "isDefault": true
+   },
+   {
+    "label": "100 g",
+    "grams": 100
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": true,
+  "source": "manufacturer label (US formulation)"
+ },
+ {
+  "id": "cereal-all-bran",
+  "name": "All-Bran Original",
+  "brand": "Kellogg's",
+  "aliases": [],
+  "category": "cereal",
+  "per100g": {
+   "kcal": 259,
+   "protein_g": 13,
+   "carbs_g": 80,
+   "fat_g": 3.5,
+   "fiber_g": 29,
+   "sugar_g": 18,
+   "satfat_g": 0.7,
+   "sodium_mg": 505
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": 800,
+   "vitamin_a_carotenoid_mcg_rae": 0,
+   "folate_food_mcg": 60,
+   "folic_acid_mcg": 323,
+   "folate_dfe_mcg": 609.1
+  },
+  "servings": [
+   {
+    "label": "1/2 cup (31 g)",
+    "grams": 31,
+    "isDefault": true
+   },
+   {
+    "label": "100 g",
+    "grams": 100
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": true,
+  "source": "manufacturer label (US formulation)"
+ },
+ {
+  "id": "cereal-grape-nuts",
+  "name": "Grape-Nuts",
+  "brand": "Post",
+  "aliases": [],
+  "category": "cereal",
+  "per100g": {
+   "kcal": 358,
+   "protein_g": 11,
+   "carbs_g": 79,
+   "fat_g": 2,
+   "fiber_g": 9,
+   "sugar_g": 8,
+   "satfat_g": 0.3,
+   "sodium_mg": 470
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": 0,
+   "vitamin_a_carotenoid_mcg_rae": 0,
+   "folate_food_mcg": 25,
+   "folic_acid_mcg": 345,
+   "folate_dfe_mcg": 611.5
+  },
+  "servings": [
+   {
+    "label": "1/2 cup (58 g)",
+    "grams": 58,
+    "isDefault": true
+   },
+   {
+    "label": "100 g",
+    "grams": 100
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": true,
+  "source": "manufacturer label (US formulation)"
+ },
+ {
+  "id": "cereal-shredded-wheat",
+  "name": "Shredded Wheat, spoon size",
+  "brand": "Post",
+  "aliases": [],
+  "category": "cereal",
+  "per100g": {
+   "kcal": 340,
+   "protein_g": 11,
+   "carbs_g": 79,
+   "fat_g": 2,
+   "fiber_g": 12,
+   "sugar_g": 0.4,
+   "satfat_g": 0.3,
+   "sodium_mg": 8
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 cup (49 g)",
+    "grams": 49,
+    "isDefault": true
+   },
+   {
+    "label": "100 g",
+    "grams": 100
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": true,
+  "source": "manufacturer label (US formulation)"
+ },
+ {
+  "id": "cereal-frosted-mini-wheats",
+  "name": "Frosted Mini-Wheats",
+  "brand": "Kellogg's",
+  "aliases": [],
+  "category": "cereal",
+  "per100g": {
+   "kcal": 350,
+   "protein_g": 9.5,
+   "carbs_g": 82,
+   "fat_g": 1.5,
+   "fiber_g": 9.5,
+   "sugar_g": 20,
+   "satfat_g": 0.3,
+   "sodium_mg": 20
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 cup (59 g)",
+    "grams": 59,
+    "isDefault": true
+   },
+   {
+    "label": "100 g",
+    "grams": 100
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": true,
+  "source": "manufacturer label (US formulation)"
+ },
+ {
+  "id": "cereal-cinnamon-toast-crunch",
+  "name": "Cinnamon Toast Crunch",
+  "brand": "General Mills",
+  "aliases": [],
+  "category": "cereal",
+  "per100g": {
+   "kcal": 420,
+   "protein_g": 5,
+   "carbs_g": 77,
+   "fat_g": 11,
+   "fiber_g": 4,
+   "sugar_g": 30,
+   "satfat_g": 1.5,
+   "sodium_mg": 500
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 cup (40 g)",
+    "grams": 40,
+    "isDefault": true
+   },
+   {
+    "label": "100 g",
+    "grams": 100
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": true,
+  "source": "manufacturer label (US formulation)"
+ },
+ {
+  "id": "cereal-lucky-charms",
+  "name": "Lucky Charms",
+  "brand": "General Mills",
+  "aliases": [],
+  "category": "cereal",
+  "per100g": {
+   "kcal": 385,
+   "protein_g": 6.4,
+   "carbs_g": 79.5,
+   "fat_g": 3.8,
+   "fiber_g": 6.4,
+   "sugar_g": 33,
+   "satfat_g": 0.6,
+   "sodium_mg": 590
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 cup (36 g)",
+    "grams": 36,
+    "isDefault": true
+   },
+   {
+    "label": "100 g",
+    "grams": 100
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": true,
+  "source": "manufacturer label (US formulation)"
+ },
+ {
+  "id": "cereal-froot-loops",
+  "name": "Froot Loops",
+  "brand": "Kellogg's",
+  "aliases": [],
+  "category": "cereal",
+  "per100g": {
+   "kcal": 385,
+   "protein_g": 4.5,
+   "carbs_g": 87,
+   "fat_g": 3.5,
+   "fiber_g": 9,
+   "sugar_g": 38,
+   "satfat_g": 1.5,
+   "sodium_mg": 500
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": 770,
+   "vitamin_a_carotenoid_mcg_rae": 0,
+   "folate_food_mcg": 15,
+   "folic_acid_mcg": 385,
+   "folate_dfe_mcg": 669.5
+  },
+  "servings": [
+   {
+    "label": "1.5 cups (39 g)",
+    "grams": 39,
+    "isDefault": true
+   },
+   {
+    "label": "100 g",
+    "grams": 100
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": true,
+  "source": "manufacturer label (US formulation)"
+ },
+ {
+  "id": "cereal-cocoa-puffs",
+  "name": "Cocoa Puffs",
+  "brand": "General Mills",
+  "aliases": [],
+  "category": "cereal",
+  "per100g": {
+   "kcal": 400,
+   "protein_g": 4,
+   "carbs_g": 84,
+   "fat_g": 5.5,
+   "fiber_g": 6,
+   "sugar_g": 33,
+   "satfat_g": 1,
+   "sodium_mg": 420
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 cup (36 g)",
+    "grams": 36,
+    "isDefault": true
+   },
+   {
+    "label": "100 g",
+    "grams": 100
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": true,
+  "source": "manufacturer label (US formulation)"
+ },
+ {
+  "id": "cereal-reeses-puffs",
+  "name": "Reese's Puffs",
+  "brand": "General Mills",
+  "aliases": [],
+  "category": "cereal",
+  "per100g": {
+   "kcal": 420,
+   "protein_g": 6,
+   "carbs_g": 75,
+   "fat_g": 11,
+   "fiber_g": 4.5,
+   "sugar_g": 30,
+   "satfat_g": 1.5,
+   "sodium_mg": 400
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 cup (39 g)",
+    "grams": 39,
+    "isDefault": true
+   },
+   {
+    "label": "100 g",
+    "grams": 100
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": true,
+  "source": "manufacturer label (US formulation)"
+ },
+ {
+  "id": "cereal-captain-crunch",
+  "name": "Cap'n Crunch",
+  "brand": "Quaker",
+  "aliases": [],
+  "category": "cereal",
+  "per100g": {
+   "kcal": 400,
+   "protein_g": 4,
+   "carbs_g": 86,
+   "fat_g": 5,
+   "fiber_g": 3,
+   "sugar_g": 38,
+   "satfat_g": 2.5,
+   "sodium_mg": 560
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 cup (37 g)",
+    "grams": 37,
+    "isDefault": true
+   },
+   {
+    "label": "100 g",
+    "grams": 100
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": true,
+  "source": "manufacturer label (US formulation)"
+ },
+ {
+  "id": "cereal-honey-bunches-oats",
+  "name": "Honey Bunches of Oats, honey roasted",
+  "brand": "Post",
+  "aliases": [],
+  "category": "cereal",
+  "per100g": {
+   "kcal": 400,
+   "protein_g": 6.7,
+   "carbs_g": 80,
+   "fat_g": 6.7,
+   "fiber_g": 5,
+   "sugar_g": 23,
+   "satfat_g": 1,
+   "sodium_mg": 400
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 cup (30 g)",
+    "grams": 30,
+    "isDefault": true
+   },
+   {
+    "label": "100 g",
+    "grams": 100
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": true,
+  "source": "manufacturer label (US formulation)"
+ },
+ {
+  "id": "cereal-life",
+  "name": "Life cereal, original",
+  "brand": "Quaker",
+  "aliases": [],
+  "category": "cereal",
+  "per100g": {
+   "kcal": 380,
+   "protein_g": 8,
+   "carbs_g": 80,
+   "fat_g": 4,
+   "fiber_g": 8,
+   "sugar_g": 22,
+   "satfat_g": 0.7,
+   "sodium_mg": 500
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 cup (32 g)",
+    "grams": 32,
+    "isDefault": true
+   },
+   {
+    "label": "100 g",
+    "grams": 100
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": true,
+  "source": "manufacturer label (US formulation)"
+ },
+ {
+  "id": "cereal-chex-rice",
+  "name": "Rice Chex",
+  "brand": "General Mills",
+  "aliases": [],
+  "category": "cereal",
+  "per100g": {
+   "kcal": 379,
+   "protein_g": 5.5,
+   "carbs_g": 86,
+   "fat_g": 2,
+   "fiber_g": 3.5,
+   "sugar_g": 8,
+   "satfat_g": 0.3,
+   "sodium_mg": 590
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 cup (32 g)",
+    "grams": 32,
+    "isDefault": true
+   },
+   {
+    "label": "100 g",
+    "grams": 100
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": true,
+  "source": "manufacturer label (US formulation)"
+ },
+ {
+  "id": "cereal-chex-corn",
+  "name": "Corn Chex",
+  "brand": "General Mills",
+  "aliases": [],
+  "category": "cereal",
+  "per100g": {
+   "kcal": 379,
+   "protein_g": 6,
+   "carbs_g": 85,
+   "fat_g": 2,
+   "fiber_g": 3.5,
+   "sugar_g": 10,
+   "satfat_g": 0.3,
+   "sodium_mg": 590
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 cup (31 g)",
+    "grams": 31,
+    "isDefault": true
+   },
+   {
+    "label": "100 g",
+    "grams": 100
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": true,
+  "source": "manufacturer label (US formulation)"
+ },
+ {
+  "id": "cereal-wheaties",
+  "name": "Wheaties",
+  "brand": "General Mills",
+  "aliases": [],
+  "category": "cereal",
+  "per100g": {
+   "kcal": 357,
+   "protein_g": 10,
+   "carbs_g": 82,
+   "fat_g": 3.5,
+   "fiber_g": 10,
+   "sugar_g": 14,
+   "satfat_g": 0.5,
+   "sodium_mg": 500
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 cup (30 g)",
+    "grams": 30,
+    "isDefault": true
+   },
+   {
+    "label": "100 g",
+    "grams": 100
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": true,
+  "source": "manufacturer label (US formulation)"
+ },
+ {
+  "id": "cereal-total",
+  "name": "Total whole grain",
+  "brand": "General Mills",
+  "aliases": [],
+  "category": "cereal",
+  "per100g": {
+   "kcal": 357,
+   "protein_g": 10,
+   "carbs_g": 82,
+   "fat_g": 3.5,
+   "fiber_g": 10,
+   "sugar_g": 17,
+   "satfat_g": 0.5,
+   "sodium_mg": 590
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": 1500,
+   "vitamin_a_carotenoid_mcg_rae": 0,
+   "folate_food_mcg": 20,
+   "folic_acid_mcg": 1333,
+   "folate_dfe_mcg": 2286.1
+  },
+  "servings": [
+   {
+    "label": "1 cup (30 g)",
+    "grams": 30,
+    "isDefault": true
+   },
+   {
+    "label": "100 g",
+    "grams": 100
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": true,
+  "source": "manufacturer label (US formulation)"
+ },
+ {
+  "id": "cereal-kashi-golean",
+  "name": "Kashi GoLean, original",
+  "brand": "Kashi",
+  "aliases": [],
+  "category": "cereal",
+  "per100g": {
+   "kcal": 340,
+   "protein_g": 26,
+   "carbs_g": 60,
+   "fat_g": 3,
+   "fiber_g": 20,
+   "sugar_g": 12,
+   "satfat_g": 0.5,
+   "sodium_mg": 170
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 cup (52 g)",
+    "grams": 52,
+    "isDefault": true
+   },
+   {
+    "label": "100 g",
+    "grams": 100
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": true,
+  "source": "manufacturer label (US formulation)"
+ },
+ {
+  "id": "cereal-kashi-cinnamon-harvest",
+  "name": "Kashi Cinnamon Harvest",
+  "brand": "Kashi",
+  "aliases": [],
+  "category": "cereal",
+  "per100g": {
+   "kcal": 350,
+   "protein_g": 9,
+   "carbs_g": 82,
+   "fat_g": 1.5,
+   "fiber_g": 11,
+   "sugar_g": 17,
+   "satfat_g": 0.3,
+   "sodium_mg": 10
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 cup (55 g)",
+    "grams": 55,
+    "isDefault": true
+   },
+   {
+    "label": "100 g",
+    "grams": 100
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": true,
+  "source": "manufacturer label (US formulation)"
+ },
+ {
+  "id": "cereal-magic-spoon",
+  "name": "Magic Spoon, frosted",
+  "brand": "Magic Spoon",
+  "aliases": [],
+  "category": "cereal",
+  "per100g": {
+   "kcal": 385,
+   "protein_g": 36,
+   "carbs_g": 38,
+   "fat_g": 13,
+   "fiber_g": 2.6,
+   "sugar_g": 0,
+   "satfat_g": 3.8,
+   "sodium_mg": 360
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 cup (39 g)",
+    "grams": 39,
+    "isDefault": true
+   },
+   {
+    "label": "100 g",
+    "grams": 100
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": true,
+  "source": "manufacturer label (US formulation)"
+ },
+ {
+  "id": "cereal-catalina-crunch",
+  "name": "Catalina Crunch, cinnamon toast",
+  "brand": "Catalina Crunch",
+  "aliases": [],
+  "category": "cereal",
+  "per100g": {
+   "kcal": 357,
+   "protein_g": 32,
+   "carbs_g": 46,
+   "fat_g": 11,
+   "fiber_g": 32,
+   "sugar_g": 0,
+   "satfat_g": 1.8,
+   "sodium_mg": 536
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1/2 cup (28 g)",
+    "grams": 28,
+    "isDefault": true
+   },
+   {
+    "label": "100 g",
+    "grams": 100
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": true,
+  "source": "manufacturer label (US formulation)"
+ },
+ {
+  "id": "cereal-granola-plain",
+  "name": "Granola, plain, homestyle",
+  "brand": null,
+  "aliases": [],
+  "category": "cereal",
+  "per100g": {
+   "kcal": 471,
+   "protein_g": 10,
+   "carbs_g": 64,
+   "fat_g": 20,
+   "fiber_g": 7,
+   "sugar_g": 20,
+   "satfat_g": 3,
+   "sodium_mg": 30
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1/2 cup (61 g)",
+    "grams": 61,
+    "isDefault": true
+   },
+   {
+    "label": "1/4 cup (30 g)",
+    "grams": 30
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": true,
+  "source": "manufacturer label (US formulation)"
+ },
+ {
+  "id": "cereal-granola-lowfat",
+  "name": "Granola, low fat",
+  "brand": null,
+  "aliases": [],
+  "category": "cereal",
+  "per100g": {
+   "kcal": 400,
+   "protein_g": 9,
+   "carbs_g": 76,
+   "fat_g": 6,
+   "fiber_g": 6,
+   "sugar_g": 24,
+   "satfat_g": 1.5,
+   "sodium_mg": 180
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1/2 cup (55 g)",
+    "grams": 55,
+    "isDefault": true
+   },
+   {
+    "label": "100 g",
+    "grams": 100
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": false,
+  "source": "manufacturer label (US formulation)"
+ },
+ {
+  "id": "cereal-granola-nature-valley",
+  "name": "Nature Valley Oats 'n Honey granola",
+  "brand": "Nature Valley",
+  "aliases": [],
+  "category": "cereal",
+  "per100g": {
+   "kcal": 440,
+   "protein_g": 9,
+   "carbs_g": 71,
+   "fat_g": 14,
+   "fiber_g": 6,
+   "sugar_g": 22,
+   "satfat_g": 1.5,
+   "sodium_mg": 180
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1/2 cup (55 g)",
+    "grams": 55,
+    "isDefault": true
+   },
+   {
+    "label": "100 g",
+    "grams": 100
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": true,
+  "source": "manufacturer label (US formulation)"
+ },
+ {
+  "id": "cereal-muesli",
+  "name": "Muesli, dry, unsweetened",
+  "brand": null,
+  "aliases": [],
+  "category": "cereal",
+  "per100g": {
+   "kcal": 340,
+   "protein_g": 10,
+   "carbs_g": 66,
+   "fat_g": 6,
+   "fiber_g": 8,
+   "sugar_g": 16,
+   "satfat_g": 1,
+   "sodium_mg": 20
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1/2 cup (43 g)",
+    "grams": 43,
+    "isDefault": true
+   },
+   {
+    "label": "100 g",
+    "grams": 100
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": false,
+  "source": "manufacturer label (US formulation)"
+ },
+ {
+  "id": "cereal-puffed-rice",
+  "name": "Puffed rice, plain",
+  "brand": null,
+  "aliases": [],
+  "category": "cereal",
+  "per100g": {
+   "kcal": 402,
+   "protein_g": 6.3,
+   "carbs_g": 89.8,
+   "fat_g": 0.5,
+   "fiber_g": 1.4,
+   "sugar_g": 0,
+   "satfat_g": 0.1,
+   "sodium_mg": 4
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 cup (14 g)",
+    "grams": 14,
+    "isDefault": true
+   },
+   {
+    "label": "100 g",
+    "grams": 100
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": true,
+  "source": "manufacturer label (US formulation)"
+ },
+ {
+  "id": "cereal-puffed-wheat",
+  "name": "Puffed wheat, plain",
+  "brand": null,
+  "aliases": [],
+  "category": "cereal",
+  "per100g": {
+   "kcal": 367,
+   "protein_g": 14.9,
+   "carbs_g": 78.5,
+   "fat_g": 1.4,
+   "fiber_g": 10,
+   "sugar_g": 0.5,
+   "satfat_g": 0.2,
+   "sodium_mg": 4
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 cup (12 g)",
+    "grams": 12,
+    "isDefault": true
+   },
+   {
+    "label": "100 g",
+    "grams": 100
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": true,
+  "source": "manufacturer label (US formulation)"
+ },
+ {
+  "id": "cereal-grits-instant-packet",
+  "name": "Instant grits, plain, dry packet",
+  "brand": null,
+  "aliases": [],
+  "category": "cereal",
+  "per100g": {
+   "kcal": 368,
+   "protein_g": 8.5,
+   "carbs_g": 80,
+   "fat_g": 1.2,
+   "fiber_g": 2,
+   "sugar_g": 0.5,
+   "satfat_g": 0.2,
+   "sodium_mg": 400
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 packet (28 g)",
+    "grams": 28,
+    "isDefault": true
+   },
+   {
+    "label": "100 g",
+    "grams": 100
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": false,
+  "source": "manufacturer label (US formulation)"
+ },
+ {
+  "id": "cereal-cream-of-rice-dry",
+  "name": "Cream of Rice, dry",
+  "brand": null,
+  "aliases": [],
+  "category": "cereal",
+  "per100g": {
+   "kcal": 366,
+   "protein_g": 6,
+   "carbs_g": 82,
+   "fat_g": 0.5,
+   "fiber_g": 1,
+   "sugar_g": 0,
+   "satfat_g": 0.1,
+   "sodium_mg": 0
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1/4 cup (35 g)",
+    "grams": 35,
+    "isDefault": true
+   },
+   {
+    "label": "100 g",
+    "grams": 100
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": false,
+  "source": "manufacturer label (US formulation)"
+ },
+ {
+  "id": "cereal-corn-pops",
+  "name": "Corn Pops",
+  "brand": "Kellogg's",
+  "aliases": [],
+  "category": "cereal",
+  "per100g": {
+   "kcal": 382,
+   "protein_g": 3.6,
+   "carbs_g": 89,
+   "fat_g": 1.8,
+   "fiber_g": 1.8,
+   "sugar_g": 32,
+   "satfat_g": 0.4,
+   "sodium_mg": 400
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1 cup (31 g)",
+    "grams": 31,
+    "isDefault": true
+   },
+   {
+    "label": "100 g",
+    "grams": 100
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": false,
+  "source": "manufacturer label (US formulation)"
+ },
+ {
+  "id": "cereal-apple-jacks",
+  "name": "Apple Jacks",
+  "brand": "Kellogg's",
+  "aliases": [],
+  "category": "cereal",
+  "per100g": {
+   "kcal": 390,
+   "protein_g": 4,
+   "carbs_g": 88,
+   "fat_g": 3.5,
+   "fiber_g": 9,
+   "sugar_g": 38,
+   "satfat_g": 1.5,
+   "sodium_mg": 400
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "1.25 cups (39 g)",
+    "grams": 39,
+    "isDefault": true
+   },
+   {
+    "label": "100 g",
+    "grams": 100
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": false,
+  "source": "manufacturer label (US formulation)"
+ },
+ {
+  "id": "cereal-cracklin-oat-bran",
+  "name": "Cracklin' Oat Bran",
+  "brand": "Kellogg's",
+  "aliases": [],
+  "category": "cereal",
+  "per100g": {
+   "kcal": 440,
+   "protein_g": 7,
+   "carbs_g": 74,
+   "fat_g": 14,
+   "fiber_g": 12,
+   "sugar_g": 30,
+   "satfat_g": 5,
+   "sodium_mg": 300
+  },
+  "micronutrients": {
+   "vitamin_a_retinol_mcg": null,
+   "vitamin_a_carotenoid_mcg_rae": null,
+   "folate_food_mcg": null,
+   "folic_acid_mcg": null,
+   "folate_dfe_mcg": null
+  },
+  "servings": [
+   {
+    "label": "3/4 cup (49 g)",
+    "grams": 49,
+    "isDefault": true
+   },
+   {
+    "label": "100 g",
+    "grams": 100
+   }
+  ],
+  "density_g_per_ml": null,
+  "verified": false,
+  "source": "manufacturer label (US formulation)"
+ }
+]
